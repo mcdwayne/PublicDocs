@@ -1,0 +1,69 @@
+WP-SFO 
+Yoast meetup
+
+Google's mission
+To organize the world's information and make it universally Accessible and useful
+
+Sustainable SEO vs Scorched Earth SEO
+Focus on all aspect of website optimization
+BE the best results
+
+Holistic SEO
+
+- Technical excellence - health fo the site should work - WP makes this easy
+- flawless security - only as good as your last hack 
+- Good UX and UI = easy to say, hard to do.  90% UI and UX improvements the hardest part - not going to tlak on it tonight
+- Awesome PR and Social - if nobody knows you have good stuff it means nothing -involve yourself in the community
+
+Continually need to be working to improve
+
+- Quality content is core to everything!!!
+
+Keyword stuffing does not work anymore, keywords still matter still, old ways don't work
+
+If you are not using the word you want to be found for in your copy you are never going to eb found for it.  
+
+Hummingbird was Googles sentence based and voice searches
+if can do that with your queries, it can totaly do that with content
+
+Quality content important for you SEO Because- 
+But it was important way before the web arrived
+1) People understand your message.  
+2) Lower bounce rate
+3) More trust - great content with no typos and good grammer will be better to read
+4) More attention on social media - better quality is easier to share
+
+So how do I write quality content?
+
+Research at Yoast - they hired a linguist
+
+Writing clear paragraphs
+One idea
+One core sentence
+not too long - 5 or 6 sentances
+never randomly add whitespace within paragraphs
+
+Use clear headings
+People will scan for headings first
+
+Short sentences, simple words
+- no linger than 20 words per sentance
+use simple words
+
+Nice to read text (this is hard)
+
+Avoid passive voice
+Subject of sentance is not in the sentance
+This product can be bought in webshop
+vs 
+customers buy this prduct in our shop
+
+Mix it up
+
+Yoast 3.3 = readability analysis to the plugin
+
+If you say SEO bad no one really cares, not personal 
+If you say 'Content is bad' and people get mad, is too personal 
+now says 'content needs improvement'
+
+plugin does it all in browser - not a server approach

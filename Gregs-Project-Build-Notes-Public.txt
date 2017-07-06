@@ -1,0 +1,22 @@
+Terminus Installed
+Terminus build tools page on Pantheon
+https://github.com/pantheon-systems/terminus-build-tools-plugin
+RUN:
+mkdir -p ~/.terminus/plugins
+composer create-project -d ~/.terminus/plugins pantheon-systems/terminus-build-tools-plugin:~1
+
+Build new site:
+terminus build-env:create-project --team="Awesome Agency" d8 demo4-11-2017
+
+Create token:
+https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/
+Check the 'Repo' and 'Delete on creation' options
+
+
+Authenticate with CircleCI
+(ONCE SET UP AND FOLLOWING A PROJECT)
+https://circleci.com/account/api
+Copy/Paste token
+
+MAKE SURE YOU HAVE PHP5.6 or PHP7 installed locally!!
+

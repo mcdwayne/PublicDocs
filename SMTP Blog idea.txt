@@ -1,0 +1,12 @@
+If you are working at an agency the chances are pretty good at some point the emails from your forms ends up breaking.  There is a whole pile of reasons this might have happened, but most times it comes from the hosting provider making some kind of change or a misconfiguration with those tricky MX settings.  
+Aside from the errors of 
+Here ar Pantheon
+
+
+"How do I figure out which website got compromised and which script has been sending the spam?" https://www.spamhaus.org/news/article/718/stop-spammers-from-exploiting-your-webserver
+
+
+Some reference materials:
+http://www.wpbeginner.com/wp-tutorials/how-to-fix-wordpress-not-sending-email-issue/
+https://ninjaforms.com/ninja-forms-email-not-working/
+

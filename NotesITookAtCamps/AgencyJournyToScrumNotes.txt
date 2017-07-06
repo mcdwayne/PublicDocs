@@ -1,0 +1,126 @@
+@stephelhajj
+From Specification to Collaboration; one Agency's Move to Scrum
+https://2016.badcamp.net/session/specification-collaboration-one-agencys-move-scrum
+
+This isn't a how-to talk
+
+What they do
+WHat they learned
+How it's worked for our team
+
+Problems with knoledge living nly in the brain
+task bottlenecks - single POF vacaitions - n real Tribal knowledge - boardning time sucks
+
+Etimated tickets was partial scrum, used hours due to comfort level
+Hard to be accurate and high pressure for estimators
+not able to learn from this process, can't iterate 
+
+Sprint start and end cycle
+Agencies have multiple clients, therefore multiple sprints
+Hard to meet all promised deliveries
+no clear priority structure
+Not best practice, stressed everyone out
+this version of scrum was constantly firefighting and it sucked
+Had to change
+
+brought in a professional to office
+hired an expert
+central office had a new Dedicated Scrum team - dedicated
+internal champion was CEO, 
+4 dedicated scrum teams meant a re-org but for the best
+
+Unlearn what you Know! 
+this was largest initial challenge
+
+What changed?
+
+Restructure meetings
+Team involvement
+Scrum Master
+Story points
+team testing
+- these are all internal things
+then go to cleints
+Get client buy-in
+trained them too!
+-explained process and that it would be easy to learn, 2nd meeting in started to get it, after that almost all involved well
+
+sprint week - all clients were cool with meetings moving, same day and demos on same day
+4 scrum teams all in synch
+know thye can finish ticket in timely way
+no discrepency on antoher team start or stop
+
+backlog grooming - not all cleints, weekly meetings only for larger complex projects
+otherwise just 2 weeks normal planning
+
+Everyone attends meetings*
+transpations suck, playing telephone
+cleared up communications
+* sometimes can't get all in and some meetings are not in all, 
+
+Bye-bye "telephone" - direct access - client rapoire 
+Estimating in 'Annas'
+Story points 
+Took a couple months to get to communicate clearly, 
+knew overall right direction, but fine tuning to agreement is hard to due, process but can get there
+Scrum master - leader - champion - QB it. 
+ticket build discussions are NOT for estimations, needs own separate meetings 
+
+Story point delivery: pulling reports and interpreting 
+helps set expectations realistic around vacations/availability
+clearer to clients on what to expect
+
+Backlog grooming
+Everybody makes tickets
+acceptance
+cirteria
+defintion of done
+split tickets
+make new tickets
+priority-priority-priority
+
+Don't write User Stories
+What biz value does it provide? What are you really trying to provide?
+
+JIRA
+Master board for all clients
+each individual client gets own board with suggestion rights, not full edit rights
+
+How critical is it
+
+Retrospective NOT EQUAL stitch + Bitch
+time to say things upsetting you otherwise if you no talk there is no problem you see
+urgent tickets treated like hot potatoes
+Testing TESTING Testing
+
+Sprint Board (not the jira ticket list)
+to do
+in progress (you can only be on one. can not be working on 2 tickets at once)
+internal testing/review
+Demo/client testing
+Deploy
+DONE
+
+MOVED OFF EMAIL
+Slack based communications now
+filling in comments
+documents as comments (hitosries are not clear enough)
+
+Meeting that don't suck
+
+remote collaboration!
+getting better, MUST USE VIDEO
+if need to talk, CALL THEM DIRECT
+things get resolved earlier
+How proposals changes
+Put in writing
+Estimates are esimations
+no guarantee
+COST not guarantees
+Lat's talk about scrum (offer intensive version crash coarse)
+
+Who pays for scrum?  Everyone, spread all throughout customers 
+line item as strategy and planning
+Scrum is about as expensive as central prject management
+
+

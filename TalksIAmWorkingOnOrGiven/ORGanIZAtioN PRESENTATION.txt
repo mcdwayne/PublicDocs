@@ -1,0 +1,33 @@
+Thinking about how Pantheon is organized.
+
+1 - Pantheon is a platform
+2 - Architecture (just a single nod to architecture)
+3 - Organizational Concepts Overview (triangle)
+4 - Sites
+	- 3 Environments 
+	- Can have multiple team members that help build and maintain the site
+	- Can have multiple Organizations connected
+	- Will always have an Owner and will use an Upstream
+5 - Users
+	- Can be associated with multiple sites as individual team members
+	- Can be associated with multiple Organizations
+	- Can Own Sites And Orgs
+6 - Organizations
+	- DEFINITION
+	- Can Contain Multiple Users
+	- Can Contain Multiple Sites
+	- Can Own Upstreams
+7 - Ownership 
+	- DEFINITION
+	- Only one User can own a site at a time for Self Serve sites
+ 	- Ownership is automatically transferred to whoever paid last 
+ 	- Organizations can own sites in case of contract plans
+ 8 - Examples 
+ 	- Pat works for EXAMPLECORP and wants to launch a new site
+ 	- Pat makes a User Account
+ 	- Pat does not make an ORG since he is not an Agency 
+ 	- Pat does make a site EXAMPLECORPSITE	
+ 	- When Pat is getting ready to launch he invites his CEO Daryl to pay
+ 	- Daryl becomes the Owner once site is paid, in this case on a Business Plan
+ 	- EXAMPLECORPSITE gets wildly popular (good job Pat!) and they need managed scale for growing and spiking traffic as well as more mission critical support (24/7 with an SLA)
+ 	- EXAMPLECORP signs an Elite contract with Pantheon and then the EXAMPLECORP Organization is created on Pantheon, which can then own the site. 

@@ -1,0 +1,129 @@
+Preston So
+Headless Drupal and the Decoupled Front End
+
+Headless - Decoupled
+not using HEadless
+Why Decoupled
+How to do it with D6/7 and then 8
+integrating clients
+Future of front end
+
+Web 1.0 
+server stores flat assets -> Client Browser Displays
+
+Web 2.0
+Data - 
+Template Engine-> Renderd Index.html - 
+Client
+
+Then comes Ajax and lets DOM access directly
+Request/response
+
+Web 2.x
+Drop the render engine, just pagelets
+
+Web 3.0
+Data - Server/CMS
+API (Representational State Transfer (REST)) - 
+Client (JS, app) client data
+Asynch fetching data
+ All request/response mediated by RESTful api
+ 
+Various clients can access these services
+JSON vs HTML
+
+CMS has traditonally been MONOTLITHIC
+
+Serer side Decoupling involved in speration of structure and prsentation layer
+
+CMS moving to decoupled idea
+
+D6 is the monolith
+The boundry between the theme layer and functional layer is 'highly permeable' (Josh Koenig, Amanai)
+
+Decopled management
+- move everytihng to microservices
+do one thing and do it well
+
+Createed API first methodology this is Laravel and Node.js
+
+Multiple clients is most complelling
+What is had Druapl site that sent data to multiple apps?
+Can feed info to other clients
+
+Headless vs Decoupled
+
+Headless software is software capable of worknig on a device without a GUI ...
+Drush.
+
+Why Decoupled?
+Seperation of concerns
+MVC model
+Write once, publish everywhere
+
+Main issues:
+Lose robustness
+Cross Origin
+Authentication
+User roles
+SEO
+Content workflow
+Layout management
+multilingual
+A11y
+UX (have to starrt from scratch with decoupled)
+and performance, multiple hits = heavier server load...
+
+Teams and project complexity...
+Teams decouple as well
+working at 2 different velocities
+
+no Generalists in future, specialists are needed
+
+Multidiciplinary teams will drop drupal knowledge
+
+Easier Front end design
+offline first applications (PouchDBm Hood.ie)
+further granularization of page elements
+
+When to decouple
+a site powering oneor more other sites
+a site powering multiple aplpications
+a site powering multiple things
+
+NOT for stand alone apps
+NOT for standalone websites
+
+Decoupled != under budget or shorter timeline
+
+How to get into Decoupled D?
+D7 has no REST layer
+need to get Srvices module
+you choose end services points
+
+https://github.com/INsReady/DrupalCloud
+
+Morten's Angry Themes
+clean markup = html, sure
+But can be better off coupled in the 
+
+psudo decoupling is the real threat here for the comunity
+Exposing frni end logic from D such as layout config to client app
+Duplication of Functionality
+Circular dependencies
+
+Quote from Josh KOenig
+We can make D a weapon of choice for emerging front end Dev community
+take us to new markets and use cases
+
+Food for thought
+D is a very robust backend
+'What backend are you using?"
+no backend Content and site REST APR for Drupal
+a better way of provisioning APIs in Drupal
+
+need better content API in Drupal
+
+DRUSH is super powerful, what is you make Drush a client app
+???     future wide open....
+

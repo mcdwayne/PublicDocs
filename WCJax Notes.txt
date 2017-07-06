@@ -1,0 +1,224 @@
+WCJax Notes:
+
+WCJax: Driving around Jacksonville in circles
+
+I returned to Florida for the second time in two weeks for WordCamp Jacksonville 2017.  The first time I was there 
+
+General:
+https://twitter.com/wcpdx/status/865582669844815872
+http://www.keiseruniversity.edu/wp-content/uploads/2013/05/KU-SAR.jpg
+https://twitter.com/cljwebdev/status/866255569589547009
+https://twitter.com/WordCampJax/status/866295603881537539
+https://twitter.com/wmjackson/status/866369095784177665
+
+FOOD AND FUN:
+Speaker Dinner:
+https://twitter.com/mpmike/status/865729373579640832
+https://twitter.com/McDwayne/status/865720733116379136
+
+Lunch: https://twitter.com/McDwayne/status/865979385609900034
+Sonny's BBQ
+https://allfare.files.wordpress.com/2012/03/sonny-4.jpg
+https://s-media-cache-ak0.pinimg.com/236x/18/30/6d/18306d5d0964203a1fcac04e86ce8549.jpg
+Lunch Day 2
+
+AfterParty:
+ 
+
+Opening Remarks:
+https://twitter.com/ChrisEdwardsCE/status/865912857891942400
+https://twitter.com/SiteLock/status/865912909825794048
+https://twitter.com/nathaningram/status/865912597312397312
+https://twitter.com/fpcorso/status/865921648737886209
+
+
+Mental Health for Everyone, Esp. WordPress Professionals
+Laura Lane
+Mental Health America of Florida:
+Started with mindfullness head roll breathing exercise:
+Cortosol are the highest in the morning, not really need for coffee, anxious in the morning, gas pedal hormones
+Recenter
+use apps to help
+5 minutes a day for 30 days is the key to trying this out
+
+https://twitter.com/McDwayne/status/865921595369541632
+
+--
+My Session
+About 50 people in room:
+Wow time goes fast when people ask questions
+ran completely out of time, only answered 4 questions at end. 
+https://twitter.com/SiteLock/status/865952806125129730
+
+---
+Secure Yourself and Your Business
+David Laietta
+https://twitter.com/McDwayne/status/865947242808696832
+Your profiles!
+Last pass ID and 2factor
+public wifi, worry- no personal data sites
+maybe tor
+only foolproof is o be offline, no machine
+best practices, good discussions
+https://twitter.com/McDwayne/status/865947242808696832
+
+
+--
+Team Publishing in WordPress
+Steve Burge
+Google Docs is advanced, even Ma.tt said so.  
+https://docs.google.com/document/d/1KIqdKB49aR_c6G8Tqv770rjFCvru63KBz4lvWkCVKAg/edit#
+plugins to import
+see multiple companies do that
+PublishPress solves some of this, like calendaring, but quite honestly Google Docs is better as some things still
+What about:
+Multiple by-lines
+bylines.io
+: or permissions
+Fine grained permissions with Google Docs, want that for WP? 
+share publicly with world. Maybe, somewhat
+permissions add ons are not great
+This brings up Guettenberg and ultimately Calypso and the future there
+
+https://twitter.com/McDwayne/status/865981765952966657
+
+The Biggest WordPress Myths Debunked
+Lauren Jeffcoat
+Myth 1) It is just for blogs
+It is not just for blogs, it got popular since it was easy to publish, but yu don't have to just publish blogs
+2) Plugins are bad or cause trouble. 
+False: bad plugins are bad and too many bad plugins are bad, but only use what you need.  
+If you don't use it, just lose it!  Delete those inactive plugins, or keep them up to date
+3) WP is too complex
+wrong, this is not true, lot of easy ways to get started nd many tools and training resources to help
+best practice to have a standard way to do things solves a lot of these issues.  
+4) it is not secure
+WP is a big target, but it is up to good practices, hosting and code.
+a good hosting company can help boost your site's security
+6) You get what you pay for...free = no quality.  no support!
+wrong! 
+https://twitter.com/McDwayne/status/865995848215298052
+https://twitter.com/JamesTryon/status/865999349498740736
+https://twitter.com/SiteLock/status/865999445791559680
+
+-
+Taming the Whirlwind
+Nathan Ingram
+No one has all of it under control
+You are not alone
+the common struggle
+We Undestand the Need for strategy, but Doing it gets messy
+Putting a name to your problems help to understanding and defeating problems
+he calls it the Whirlwind!
+The energy and attention needed to run your business
+the Whirlwind is the URGENT!
+Then urgency and importance clash, urgency wins every time
+The whirlwind never goes away!
+delaying strategy doesn't work
+The whirlwind isn't bad, it just is!
+you need a plan to accomplish your goals in the middle of the whirlwind
+Without a plan, the whirlwind always wins
+The PLAN!
+initial planning 
+weekly planning
+weekly execution
+
+initial planning - 2 hours unplugged
+schedule it as a priority
+2 hours - 2 tasks
+1) Identify the issues
+	that changes do I need to make?
+	Which brings most immediate requests
+	ID your top 3
+Your best friend in this is momentum
+
+2) plan action items
+break each into goals that take 2-4 hours each, if take longer break it down into parts
+nathaningram.com/wcjax 
+LINK FROM SLIDES  goal generator
+
+
+https://twitter.com/sunsanddesign/status/866022945906470913
+https://twitter.com/sunsanddesign/status/866021526822375426
+https://twitter.com/sunsanddesign/status/866024153312366592
+https://twitter.com/WierApril/status/866023840887058434
+https://twitter.com/sunsanddesign/status/866028799900758017
+
+
+------
+You Don’t Need a Plugin for That
+John Tucker
+Saw the need for a google map
+not a lot of good options, all complained each other
+ACF for page layout
+If could use custom fields for that, why not tie into Google Maps
+WP Custom Post Types -> ACF -> WP Page Template -> Google Maps JS API
+Used a child theme
+https://twitter.com/McDwayne/status/866279204412936193
+
+----------
+Connecting in a Digital World
+Jodie Riccelli
+Not a designer or dev
+an agency 
+WebDev Studios, client strategist
+work with clients from conception of idea oer to design and developers
+interprets what the client wants into docs
+some of them very long
+Sales became a bit f a dirty word and she wants to clean it up
+We don't know how to engage, we want to be at a distance.  Apps do this
+"My Students don't know how to have a conversation" - from the atlantic ,Paul Barnwell
+Sales = providing solitons the challenges the client might be having while being conscious of their budget
+Everyone has something to teach you
+Let's use words that entice engagement
+Use CRM to set up template emails
+Keep Informed!!! 
+
+https://twitter.com/binarygary/status/866291456859922437
+https://twitter.com/McDwayne/status/866293370326577152
+https://twitter.com/wmjackson/status/866293971231924225
+
+You Created A Plugin. Now What?
+Adam Warner
+It all starts with wp.org
+largest collected pool of users
+upgrades and extensions are the way to monitize
+increasing sales is next goal
+repo meta matters
+5 star reviews are great but replying to the 1 star reviews is super important
+Copy  that drives installs, good content and good docs
+algorithm phase 1, 
+SEO summary since the redesign
+Content marketing is important!
+Kimba.com built in templates
+exit discounts
+Cross promotions
+What will you chgre, what will the market bare?
+
+https://twitter.com/McDwayne/status/866339609097187330
+https://twitter.com/JamesTryon/status/866344187947601920
+
+WordPress Dependency Management with Composer
+Ryan Plas
+
+https://twitter.com/McDwayne/status/866354576953401344
+
+
+	A/B Testing, Which Way Does Your Duck Face?
+Mike Demo Demopoulos
+A/B Testing is:
+	Controlled - you can explain how things relate to one another
+	Statistically Relevant - educated guessing
+	Micro Testing - changing one thing at a time
+Don't try to assign reason to user actions, you can't. it will drive you batty.  Let the data drive all decisions.
+	That to test?  
+		buttons
+			drop shadows, color, size, font, etc
+		text
+		images
+		everything
+	play and have fun!  - get to mess wiht other per's 
+	
+	dotcomsecretsform.com
+
+https://twitter.com/McDwayne/status/866369750993178625

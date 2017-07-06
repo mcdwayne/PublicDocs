@@ -1,0 +1,594 @@
+DEV ISSUES ARTICLE:
+https://www.netguru.co/blog/9-soft-skills-every-web-developer-should-master
+
+
+Creativity is not the clever rearranging of the known. 
+Creativity is a state that allows us to touch the unknown and to bring it into the phenomenal world: To make the invisible visible.
+The unknown is a territory that holds all possibilities, until it is revealed. The act of revealing – that is creativity.
+– Viola Spolin
+
+TOPIC IDEAS:
+indecisiveness kills  #failure
+
+Rushing without understanding what is really going on #fail fast but safe
+
+Doing it right is revision, revision, revision
+
+Telling a compelling story, making them the hero! (See Art and Science of story telling notes)
+
+
++++++++++++++++++++++++
+Jessie and Anne's Drupalcon talk:
+https://events.drupal.org/neworleans2016/sessions/becoming-a-tpn
+Becoming a TPM: Dos and Don'ts of Technical Project Management
+See doc: Becoming a TPM: Dos and Don'ts of Technical Project Management
+https://github.com/1dwaynemcdaniel/PublicDocs/blob/master/Becoming%20a%20TPM-%20Dos%20and%20Don'ts%20of%20Technical%20Project%20Management.txt
+
+Jessie notes:
+EOM world, tracking waterfall project management
+salesforce in and out.  
+
++++++++++++++++++++++++
+11*******************************************
+*********************************************
+*********************************************
+*********************************************
+
+Trusting your gut:
+Instinct is critical for decision making
+
+
+11*******************************************
+*********************************************
+*********************************************
+*********************************************
+
+Accessability  #empathy #perspective
+Empathy = Empathy comes from different expereinces than you are familiar with
+expose yourself to different ways of looking at things
+
+
+
+
+
+
+10*******************************************
+*********************************************
+*********************************************
+*********************************************
+
+Reading faces: Affects and 
+
+
+
+
+9********************************************
+*********************************************
+*********************************************
+*********************************************
+
+Status:
+Understanding the paradigm and using it for better communication
+
+Theater:
+
+Status is so socially ingrained that we immediately have all sorts of pre-conceived notions when we recognise it.  We can use this to more quickly establish relationships and play with the preconceived dynamics as a goal of the work.    
+
+Development:
+
+The most powerful dynamic we learn is Parent - Child.  Second in line is teacher-student.  Learning to recognize then you are trying to teach vs when you are trying to learn.  
+
+How to practice this with your peers?
+
+I like to do warmups where I have people walk around and interact with each other all the while imagining different status levels. After I ask them what behaviors they noticed in themselves and each other when they were playing a high or low status. This is where I usually stress that status is about behavior and perception, not about actual social rank.
+I like to have people choose a status at the beginning of a scene and then use that as a clue to figure out the roles and relationship of the characters, i.e. I'm a high status character and so I must be the boss.
+
+
+8*********************************************
+*********************************************
+*********************************************
+*********************************************
+
+Happy, Healthy and Well
+
+Attitude Start positive. Look for the positives rather than the argument 
+ 
+Theater:
+
+Development:
+
+How to practice this with your peers?
+I love
+Get 
+
+
+**
+7 is after 2
+**
+
+
+6*********************************************
+*********************************************
+*********************************************
+
+
+Embracing Failure
+
+Embrace Failure and Mistakes
+
+Fear of Failure is far more damaging that failure can be
+
+((Backup and feature branch first though))
+
+Jump in before you you know
+
+Fall down and figure out what to do on the way. – – Del Close
+Theater:
+Development:
+How to practice this with your peers?
+
+5*********************************************
+*********************************************
+*********************************************
+
+NOTE:  COLLAPSING THIS CENTRAL IDEA INTO SERVE THE PIECE - can't separate the ideas in my head on the dev side, same basic point,  maybe rewrite as it's own post down the road. 
+
+Be changed by others and the situation
+
+Be changed by others and the situation
+(Strong Opinions, Loosely Held)
+
+ 
+Theater:
+Development:
+How to practice this with your peers?
+
+
+
+4*********************************************
+*********************************************
+*********************************************
+
+
+Make other players look good
+(Transcend the feature and think holistically)
+
+Documentation and Support
+Theater:
+Development:
+How to practice this with your peers?
+Author dwayneindividualPosted on October 16, 2016Leave a comment	
+
+3*********************************************
+*********************************************
+*********************************************
+
+Outline:
+
+Serve the piece not the form
+
+(Goal is happy customer with an awesome experience NOT just impressive code)
+Be changed by others and the situation
+(Strong Opinions, Loosely Held)
+
+
+Best practices are NOT the Wright way, it is a really good idea way – Tim Erickson
+Theater:
+Development:
+How to practice this with your peers?
+
+###############################################
+Draft 1
+
+It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change. - Leon C. Megginson (paraphrasing Charles Darwin)
+
+Theater:
+
+Improv theater is for sure without a script, but most all improv you will witness follows a form.  In short form improv, like TV's popular 'Whose Line Is It Anyway?" we are explicitly exposed to the forms by way of introductions and direction from the host. The players simply follow the rules set forth and we get hilarious results like this (https://www.youtube.com/watch?v=QNvCm1FvCTY) Longform theatrical improv normally does not offer these bite sized explanations, instead an audience is asked for a suggestion and then the performance begins.
+
+There are many, many different types of longform formats.  You can find a short, very incomplete list here (http://improvencyclopedia.org/categories/Long_Form.html)  New formats are being continually being invented as well.  Each of these have their own rule set and traditions. Improv has only existed in its modern form since the 1960's, many of the creators of these forms are still teaching. Many schools have been created around these with some formats taking years to really master.
+
+One of the main issues a newer improvisor faces when learning formats is they tend to focus on following the form rather than delivering an overall good show.  This puts them 'in their head' about the structure, struggling to make sure you hit all the elements, dotting 'i's and crossing 't's.  As they focus on the minutia of the scene order or any other rule set, they visibly start to get more rigid and just look like they are having less fun.  The audience really wants to see them relaxed and instead of just enjoying all the fun they start to get concerned and nervous for the performer.  Not the best of times.
+
+This 'format above all' approach changes the focus from serving the needs of the show.  The best shows I have ever seen had either serendipitously aligned with the format with the audience's needs or had completely abandoned their format by the end.  Some of the worst shows forced a stilted format and 'game' moves into otherwise enjoyable scenes and caused edits to happen too soon or way to slowly.  There is also a phenomenon where a piece has hit all the form notes faster than expected and you still have a lot of time left on the clock, leaving the actors a bit lost at what to do with the 'extra' time, or worse they just end the show early. The end result is the audience has a bad time.
+
+"The shortest feedback loop I can think of is doing improvisation in front of an audience." said comedian Demetri Martin.   Over time, professionals learn to adapt in the moment to the audience feedback to steer the piece in real time.  This ability is what makes the art form seem so magical to so many people.
+
+Development:
+
+Just like with performance art, the goal of web development is to have a happy customer who has an awesome experience.  While it is awesome to write elegant code and follow patterns that have proven successful, I think sometimes we get so caught up with following 'best' practices or meeting internal preconceived expectations above all other goals that we can end up in fights with clients and stakeholders.
+
+And just like the student improvisor, newer developers
+
+Best Practices
+
+My developer friend Tim Erikson explained his viewpoint  recently that "Best practices are not the only or right way to do things, only what is a really good idea based on current information."  If we agree it might be the 'best for the moment' or 'in general' instead of "BEST FOR ALL TIME AND EVERY SITUATION', then we can free ourselves from the burden to be absolutly right and give ourselves the flexibility we need to approach any situation we face.  This is not an argument against learning from the past and agreeing on approaches.  After all, as we stand on the shoulders of giants to make the internet it is great not to repeat too many mistakes.
+
+(Goal is happy customer with an awesome experience NOT just impressive code)
+
+How to practice this with your peers?
+
+3 headed expert (line at a time expert):
+
+Aside from teaching moment to moment adaptability concepts this game can be really fun.
+
+You will need at least 3 players, 4 is preferred
+
+http://tastycupcakes.org/2012/11/three-headed-expert/
+
+TL:DR
+
+Any craft needs to have the goal of serving the needs of the audience over adhering to any strict principles.  Becoming adaptable based on the situation is what will help you go from good to great.
+
+I started with a quote paraphrasing Darwin because I think adaptability is one of the greatest strengths of any craftsman.  Really working with what is at hand to create something new and meaningful.
+
+
+7*********************************************
+*********************************************
+*********************************************
+
+Say Yes and you'll figure it out afterwards - Tina Fey
+Theater:
+
+If you have ever heard anything about the art of improv, then I am guessing you heard about "Yes! And.."  This is a core building block of the art form.  Since so much has been written on this specific topic I thought I would build this post by just taking excerpts from other articles I like (Yes!) and adding a little commentary (And...).  
+
+The basic concept of "Yes! And..." is explained wonderfully well by Heather Wydeven (https://uxmag.com/articles/yes-and-the-improv-of-ux):  "The fundamental tenet of improv is a concept known as “Yes, and”—meaning an actor accepts whatever is given to her by her fellow actor, at face value, without changing it, negating it, or disagreeing with it. She then turns around and adds something of value to what she was given. In an improv scene, this is how an actor creates stimulating action. If an actor were to enter a scene using her hands to emulate holding a gun saying “Stick ‘em up!" and her scene partner said, “You’re not holding a gun, those are just your hands,” then the action of the scene has come to a halt. The first actor doesn’t know where to go from that point. But when actors employ this technique successfully, it means anything goes. The possibilities of the scene are endless. The actors have complete freedom to create, explore, and allow themselves to be surprised by the moment."  
+
+ Yes is Awesome but not enough
+
+As student improvisors we learn that only saying 'yes' and not adding to an idea is almost as bad as saying 'no'.  It puts your fellow improvisors on the hook for  having to do all the work of creating in the scene.  If we look at the example from earlier we can see that if the second player had just "stuck 'em up" the first player would then need to invent a next line or idea.  The scene is potentially stuck and the audience's anxiety level will rise since they sense there is now a pressure our first performer.  Just saying yes is good, but not what all that is needed to build a world.    
+
+"Yes! And..." is infinite and unbounded
+
+As Mike Bonifer (http://www.gamechangers.com/yes-is-not-enough/) puts it: "Anyone can say ‘yes’. It might get me a reputation as a being a positive person, but it will not necessarily make me a productive player. Let’s put it this way: ‘Yes’ is agreeing to a marriage proposal. ‘Yes and’ is agreeing to a life together."
+
+Again, let's look at the "stick 'em up" scene.  Let's imagine the second player, in response, says "Harry, you are always overreacting to my cooking" we now have a whole world where this is a routine thing and there is some kind of established relationship.  We can now spend the next several minutes exploring the relationship and just what went wrong with the cooking.  This is the crux of good improv theater.   
+
+Development:
+
+Bill Connolly (http://www.forbes.com/sites/carolinecenizalevine/2014/10/31/have-a-laugh-and-build-your-career-improv-for-professional-development/#1b86c907d50a) wrote: "In improv, you have to say “yes” to move the scene forward. In business, we hear “no” far too often. Start from a disposition of “yes” and you’ll find a much more positive working environment. How to practice this with your peers?"
+
+Again Heather Wydeven (https://uxmag.com/articles/yes-and-the-improv-of-ux) : "Saying “No” is so often a knee-jerk reaction for us. We say “no” because we don’t have time, we don’t like others’ ideas, or we have our own agendas. We often have to make a conscious decision to say “yes.” But if you try saying “yes” in a situation where you might ordinarily have said “no,” you allow yourself to be receptive to possibility. Any possibility. You allow yourself to be surprised by that moment. And, you will find that people are more likely to say “yes” back to you. Look for situations in your personal and work lives where you can turn your quick “no” into a moment of possibility."
+
+Working with stakeholders:
+
+Aside from being an obvious way to be more positive, invite larger conversations I have personally used this to deflect very difficult, or just flat out bad, requests.  If you meet a new idea with a 'no' what is heard most often by the person who presented the idea is "You are wrong and you now need to be defensive about this idea since it is tied directly to your sense of self worth."  That is a lot of pressure on a person and results in escalating conflicts.  
+
+Let's imagine a client calls and says something like "I want a giant picture of my dog on the front of every page on my business website, and the background should be neon green."  I can't imagine a scenario where this would be a good idea.  If I say 'no' we are immediately at conflict and the client needing to defend their (in this case terrible) idea.   If we just say "yes" by itself, they are going to hang up and assume this will be done immediately and for free.  If we instead say something like "yes, and that will take 2 weeks and I need to charge a bit extra in advance for this one" the client knows they were heard and knows that there are going to be issues that need dealt with so instead of immediately debating the merits of their idea, they can start to understand that this is not going to be treated like a button move or other small request.  You can say just about anything there, but keep that conversation going to really dig in and find out why they wanted the dog pic and specifically neon green.  There might (and probably will) be a better solution to meet the need and by avoiding the conflict you can better guide them to it  
+
+Working with c0-workers
+
+I like Scott McDowell (http://99u.com/articles/7183/the-yes-and-approach-less-ego-more-openness-more-possibility) insight on this: "Letting go means less ego.   In meetings and team scenarios, we naturally want to hoard control. We care about being right. We think that saying “No” to others gives our own opinions weight. The practice of saying “Yes, and…” inserted a bit of distance between my brain and my ego, and helped me hear other perspectives with openness."
+
+Next time you are in a scrum and a colleague puts forth an idea that you know in your heart is a failed anti-pattern that was attempted in the past.  If you flat say that there will be a tense moment and then a defensive situation with egos at risks.  If you take the couple minutes to lead them to see that this is a destructive approach overall they will more then likely kill the idea themselves and feel good about it.   For example (and this is completely contrived I admit) "Yes, and implementing means affecting other things, like DB access patterns.  How could we go about evaluating that impact and changing tables?"
+
+Taking the time to acknowledge that the idea was put out there, not automatically negating it, and instead putting out more information and leading the idea in a meaningful direction will help you get a lot more done on the team a lot more effectively.  Or, as Sara Duke (http://web.arlingtonchamber.org/Blog/post/2014/07/24/How-the-e2809cYes-ande2809d-Rule-of-Theatrical-Improv-Applies-to-the-Workplace.aspx )puts it: "With an attitude of agreement, we can now add to the conversation in a positive, constructive, and forward thinking manner.  Can’t we do this in our offices each and every day? Build an environment where creativity is appreciated and co-workers/managers support and magnify new ideas."   
+
+How to practice this with your peers?
+
+Exercise: Shared Memory:
+
+As with the rest of this post, I am copying this from the version listed here: http://animalearning.com/2014/09/01/more-spontaneity-school-another-10-improv-games-to-enliven-the-classroom-or-workplace/ 
+
+Divide your group into pairs.  Each pair will “reminisce” about an (imaginary) shared memory. “Remember our vacation to Mexico” makes for a decent start, as would “Remember when we got lost in San Francisco.” Keep the topic light and somewhat breezy.
+
+One person starts by saying “You remember when we…” and continues on, making up some completely imaginary experience. At some point, the second person takes over, interrupting with an enthusiastic “Yes!” or some such agreement, and then adding in another aspect to the ‘memory.’ Once each person has shared some part of the memory, send the lead back and forth so the memory keeps building.
+
+In the ideal, the game gets going quickly with one player eager to jump in and add on what the other has offered. For variety’s sake, suggest that players experiment with pausing every now and then to leave some pregnant space between memories (as would often be the case with friends remembering a shared experience). Then, after soaking in the silence for a few seconds, they can listen for the next inspiration that comes and get the game moving again.
+
+Example:
+
+Player 1: Remember that time we went to Spain and ate all those clams
+
+Player 2: (interrupting) Yes, and we saw that parade march by and decided to jump in
+
+Player 1: (interrupting) Yes, and how the tuba player kept yelling at us but we couldn't understand him
+
+Player 2: (interrupting) Yes, and then the mayor spotted us and waved us over to his car
+
+Player 1: (interrupting) Yes, and remember when he gave us those giant metals
+
+Player 2: (interrupting) Yes, and then they turned out to be made of chocolate, we got so sick...
+
+(and so forth...)
+
+TL;DR
+
+A knee jerk No is a defense mechanism that kills creativity and team spirit.  Saying "Yes, and..." first and then exploring what that would actually entail is a much better way to engage an
+
+I'll leave you with some solid advice from Kevin Stevens (https://blog.engineyard.com/2013/how-improvisational-theater-can-improve-team-collaboration) from his Engine Yard post: "You cannot win improv. And life is an improvisation. You have no idea what's going to happen next and you are mostly just making things up as you go along. And like improv, you cannot win your life. The software corollary to this is: “You cannot win engineering”. "
+
+
+
+/** Author's note: I feel compelled to state a) this is the most commonly written about aspect of improv and 2) I am not 100% sure I have added anything new to the conversation.  Having said that I wrote this one anyhow because how do you write about improv and NOT cover this topic?!  
+
+For reference, here are a few other articles that go down similar paths and are very good reads as well.  
+
+https://www.sandstormdesign.com/blog/our-yes-and-philosophy-with-responsive-web-design-concepts
+
+http://99u.com/articles/7183/the-yes-and-approach-less-ego-more-openness-more-possibility
+
+https://uxmag.com/articles/yes-and-the-improv-of-ux
+
+http://www.slate.com/articles/business/crosspollination/2014/03/improv_comedy_and_business_getting_to_yes_and.html
+
+http://web.arlingtonchamber.org/Blog/post/2014/07/24/How-the-e2809cYes-ande2809d-Rule-of-Theatrical-Improv-Applies-to-the-Workplace.aspx
+
+https://blog.engineyard.com/2013/how-improvisational-theater-can-improve-team-collaboration
+
+*/
+
+
+
+2*********************************************
+*********************************************
+*********************************************
+
+
+Draft 1:
+There is nothing more deceptive than an obvious fact. -Arthur Conan Doyle
+
+Theater:
+
+All too often beginner improvisors spend the first seconds of a scene milling around the stage and awaiting something interesting to be said or done by another player so they can react.  They literally wait until 5+ seconds into the set to begin their first scene once they feel they have 'discovered' what is it about.  We typically will see one of the characters 'drop' their initial posture, character and everything else to better serve what they think their scene partner wants from them.  We lose the audience when their expectations are not met with honoring what is already there.  The best scenes and the better audience experience starts at 'lights up', not after a few lines are delivered. 
+
+Let's imagine a scene that starts with lights up on one person looking out in the distance seeming to focus on something out in the dark of the theater and looking very concerned and a second player looking like they are pushing a large heavy object.  Upon noticing the second player, our first actor completely drops what they were doing and rushes over to help push this object as well.   The audience is left to wonder 'what the heck was she looking at?' and 'why isn't the other player concerned?'  Completely valid questions we can hope our players will answer in the course of the scene and this anticipation, when not met causes a certain distress in the audience.  All too often players just drop these first fragments of information since from the inside the players feel the scene didn't really start until they were pushing the rock.  If instead we had both characters really hang onto their first choices we can explore the entire world that is created where they need to push the thing BECAUSE of the goings on in the distance.  
+
+One of the hard truths you have to accept as a performer is that the audience has a lot more knowledge about what is actually happening on stage from their seat than you do as the actor upon the stage.  They see all and expect to have their expectations from those first few moments recognized and appreciated.  The best results are from recognizing, with an extreme alertness, everything that is going on in their field of vision: foot positions, breathing patterns and even where everyone's eyes are focused.  If it happens on the stage, the audience will have seen it.  
+
+If we honor the initial choices that were made from the moment of lights up,the audience will be delighted and be ready to go on any journey with the characters.  The trust that we will respect their point of view is established and we are all on the same page moving ahead.  
+
+Development:
+
+Much like the improvisor, newer developers will often try to code their way to success from where they think the project is starting, rather than reacting to the information that is already there.  It is very necessary to understand what happened before the project started and before the developer was engaged.  Developers, without the proper context, tend to make assumptions around, what Extreme Programming and Agile Methods - XP/Agile Universe (2004 - Zannier, Carmen, Erdogmus, Hakan, Lindstrom, Lowell) called 'fuzzy' requirements.  Their research suggested this is the root cause of around 49% of requirement problems, resulting in unsatisfied customers.    
+
+Just as the improvisor must trust that the audience actually is hyper aware of what has happened since 'lights up' the developer must come to trust that the client is a trustworthy system of record about the past of their organization and projects that have come before.  Fortunately human nature makes it so that most people really like to talk about themselves.  Getting insight into the current state of the world and what brought them to that is as simple as asking clients questions that start with "What do you think about..?" and "Why do you think...?" 
+
+Once you understand that they tried a path before and that internal reactions to the success or failure of that path, you can better address the needs and align expectations.  For example, if you have no background information about previous projects you might going boldly into a stakeholder meeting and excitedly pitch a new design or functionality that technically is the best overall answer only to be met with harsh resistance if the  audience that has a sour taste in their mouth from the last experience with a slightly similar idea.  However, starting with an overview of how you understand that there was a similar approach tried in the past and you want to work together to show how it can and will work this time around, will garner a more accepting reception.   
+
+How to practice this with your peers?
+
+Exercise: Stating observations, then making assumptions based on those basic observations.
+
+This game is called Obvious Observation, Agreeable Assumption.
+This can be played with any size group (2+), but 4 or more is ideal. 
+
+Round 1:
+
+Form a circle.  One at a time, have a player walk around the center of the circle. Players on the outside will, one at a time but in no specific order, make basic, overly simplistic observations about the parson.  Great observations would be "his head is at an angle to the right" "his feet are shuffling close together" "His arms swing very loosely".  anything that involves a specific body part and how they are in relation to the rest of the body are great.  If you agree with this observation, you simply say 'yes'.  If you disagree, you will state what you see.  Good observations will get near unanimous agreement.  
+
+For this to round refrain from any type of invention or assumption beyond this at this stage.  For example "He looks like a real estate broker" or "He seems like a little old man with a cane" are giant inventions that are not going to get much agreement.  
+
+Round 2: 
+
+After everyone has made a couple or three observations, you can now freely make assumptions tied to those observations.  Again, we need to get buy in from the group that these are valid and you will say 'yes' or make a clearer statement to modify what had been said.  For example, if in round one we observe "she has her hands pressed flat on her lower back' then in round 2 we can assume "she is supporting her back and has back issues".  That would be hard to argue against.  
+
+Again we do not want to invent anything.  For example "she has been in a car wreck and broke her spine" would be said about the previous example, there is nothing that supports that invention so the assumption is invalid.  If we are actually doing a scene and it does come up that she is was in a car accident that is fine, the audience will have been readied for that info based on the observation and assumptions that have been made.  
+
+This is a great exercise to retain your brain to not overlook the obvious first.  Audiences are doing these 2 steps at lightning speed, so slowing down and separating the process is critical to understanding it.  It is also fun to walk around with an assumed posture for a bit and see what character can develop out f just simple modifications to stance and gait.
+
+As always, go faster than you think you can. That is called 'playing at the speed of fun.'
+
+TL:DR 
+
+If you don't understand the start state, it is impossible to know what success would mean to the audience.  Taking the time to understand what has happened before and the current situation on the ground will help you set up proper expectations with a client. You can practice this skill by just making overly simple observations, from which you can make solid assumptions that are easy to communicate and get agreement with.  
+
+I started this post with the Sir Arthur Conan Doyle quote because it is remarkably true.  As developers, really as computer scientists, we must learn to question everything, especially our perception and preconceived notions.  Starting from a state of assuming nothing feels unnatural at first, but the results will speak for themselves.    
+
+
+
+Start with the obvious
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Outline
+
+Theater:
+
+We lose the audience when their expectations are not met with honoring what is already there.  The scene starts at ‘lights up’ not after you say a few lines.
+
+
+Development:
+
+getting caught up to much in what you can do to the top of your intelligence that you don’t really dig into what success means to the current wholistic situation.
+How to practice this with your peers?
+
+Exercise: Stating observations, then making assumptions based on those base observations.
+
+
+
+
+1*********************************************
+*********************************************
+*********************************************
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+Krish's thoughts:
+I went through the Active Listening section, and one thought that came to mind is to make all the scene work examples you give before the development section between a customer and the person serving them. It reduces the bridge to the points you're making about how Active Listening ties into development, e.g. make the "Here is some tea" "Thanks for the tea" and the same points, and then you revisit the same scene in the Development section and note that depending on how they said it, they could be a happy customer or not. In other words, tailoring the improv part to be in service of the Development section
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+Draft 2:
+“People don’t listen, they just wait for their turn to talk.” ― Chuck Palahniuk
+Theater:
+
+There is an old saying in theater is "All acting is reacting." In order to react, one must know what they are reacting to. This applies to both verbal and non-verbal communications.
+
+Beginner improvisors sometimes end up boring audiences by putting out way too much information, way too fast in scenes and ignoring all context along the way.  Nervousness will often create run on sentences and a rush to fill in the silence with any words that pop up, never waiting for the lines to be absorbed and reacted to by the other players. This very often ends up with scenes without focus and confused audiences. .
+
+Let’s imagine a first line of a scene delivered completely neutrally: “Here, have some tea Mr. Smith, I just bought a car and got a new job, and did you hear about Tom at the office, my feet hurt.” That is a LOT of information, (though I have seen many student shows and jams over the years where scenes start with far longer opening monologues) and zero emotional clues to how this is supposed to be received. What is the scene even about? What, out of that entire jumble of ideas, do you focus on? We are asking our audience to do a ton of work to figure all this out.  The results is quite often silence and a bad time all around.
+
+Experienced performers learn that active listening goes far, far beyond words.  Words give us a lot, but how that information was said and how that information is reacted to is at the center of drama or comedy. The best players watch their scene partners to absorb every movement, every tick, every breath to squeeze as much context from it as they can.  Even a simple “Here, have some tea.” can spawn whole rich worlds. For example if I say “Here, have some tea.” through angry gritted teeth, we now have a whole world to explore to learn why this person is angry.  If I say the same line with a flirty-lusty tone, then we immediately are interested in this relationship and how the other person feels.  Slowing down to pay attention to these details actually results in much more engaged and more entertained audiences
+
+Development:
+
+The best projects are the ones that not only fulfill the minimum requirements but also make the customer so happy they come back repeatedly for other work and tell all their friends.  The worst projects are too often 'death of a 1000 iterations' and it seems your client is never satisfied with the results. What makes the biggest difference? I believe it boils down to solving the underlying issue that is really behind the question.  We can use Active Listening to get to the core of what is really going on much faster than just relying on typed words.
+
+Only a fraction of communication is the actual words said. The majority of human communication is comprised of body language and tone of voice. Part of what makes us human is our extremely advanced microexpressions, sometimes referred to as affects. When we are meeting face to face it is simple and intuitive to tell with a very high degree of accuracy if people are sincere or sarcastic, delighted or angry, engaged or checked out.  There is nothing like being in the same room to really understand what someone means and really is saying. Being present to your clients, both internal and external to your org, makes a huge difference in the quality of communication. Hangout and GoToMeeting are great, but if you can do actual in room meetings for these discovery sessions you will get the best results.
+
+
+Using active listening for 'Discovery'
+
+
+Especially in the over-scheduled world we live in, most projects come with rapid turnaround times. In the rush to do awesome work, it is easy to just charge ahead tackling the technical issues without taking time to see the larger picture. Really understanding fully what is behind the at hand request might seem like an extra time consuming step, but it can mean the difference between never ending scope creep and insanely happy clients early on.
+Agencies and developers get the best results from digging in and really trying to understand 1) why they really want these particular features?, 2) what they think it means to the whole of the project? and 3) (maybe most importantly) what do they as stakeholders really value?    
+
+Digging in to understand what the real personal stakes are for the client, a.k.a. the 'real' reason behind a project, might seem intrusive and and uncomfortable conversation. However, getting people to talk about what really motivates them and what it means to them personally is a pretty straightforward  and normally positive discussion. Understanding what is really at stake will help you get to the heart of any request and give you an anchor point to remind them why they are doing this in the first place as doubts and objections arise.If you are actually helping them achieve their deeper goals with the deliverables, everyone is going to be more satisfied.  
+
+Really paying attention to what parts of the discussion make them excited vs timid or what sounds like they are reading from someone else's email vs actually speaking from the heart, will give you all sorts of information to act on, going much deeper then the actual words themselves.  When you hear them very eagerly excited about a particular feature, you know you can really dig in on why they are so excited about it.  If they are nervous you will know you will have to reassure them that this might be the best path but inflect a concern of your own to empathize with them.
+
+
+
+
+How to practice Active Listening?
+
+This game is called Line At A Time Story.
+It requires at least 2 players but can be played with any size group.
+
+You are going to tell a story and each player is going to deliver only one sentence. 
+
+Every sentence should make sense and build on what was just said and match the tone of the first person who delivers a line. This forces you to listen closely, not just the words said, but the context.  
+
+These don’t have to be good or exciting stories, but they should mostly make logical and grammatical sense.
+
+Attempt to go faster than you think you can. That is called 'playing at the speed of fun.'
+
+The story should generally follow a story spine to help guide structure. Here is a great story spine as defined by Kenn Adams (http://improvencyclopedia.org/games/Story_Spine.html). Feel free to have this handy and start every new line with these progressive sentence starts:
+
+“Once upon a time…”
+
+“And everyday…”
+
+“Until one day…”
+
+“And because of that…”
+
+“And because of that…”
+
+“And because of that…”
+
+“Until finally…”
+
+“And ever since that day…”
+Here is an arbitrary example I am making up now:
+
+Player 1: (happily) “Once upon a time there was a mechanical tree forest.”
+
+Player 2: (happily) “And everyday Tim would go looking for gold.”
+
+Player 1: (concerned) “Until one day there was a great earthquake and he got trapped in the forest.”
+
+Player 2: (concerned) “And because of that he had to climb a mountain.”
+
+Player 1: (excited) “And because of that he met the great eagle king.”
+
+Player 2: (excited) “And because of that Tim saved the mayor from the fire in town that was caused by the earthquake.”
+
+Player 1: (Happily again) “Until finally Tim was given a bag of gold.”
+
+Player 2: (Happily) “And ever since that day Tim has never gone into the forest again.”
+Remember the quality of the story does not matter, only that you are building on the previous sentence and building on what your co-players are actually saying.
+
+TL;DR:
+
+People communicate with far more than just words. Learning how to really 'listen' to what is going on will get you better results. Learning to cooperatively tell intelligible stories is a low stress way to practice this skill.
+
+Have fun and remember to actively listen to your team.
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Draft 1:
+Active Listening
+
+“People don’t listen, they just wait for their turn to talk.” ― Chuck Palahniuk
+
+Theater:
+
+There is an old saying in theater is "All acting is reacting."  In order to react, one must know what they are reacting to.  This applies to both verbal and non-verbal communications.  
+
+Beginner improvisors sometimes end up boring audiences by putting out way too much information, way too fast in scenes.  This very often ends up with scenes without focus and are therefore confusing for the audience.  Nervousness will often create run on sentences and a rush to fill in the silence with any words that pop up.
+
+Let’s imagine a scene and the first line is “Here, have some tea Mr. Smith, I just bought a car and got a new job, and did you hear about Tom at the office, my feet hurt”. That is a lot of information, though I have seen many student shows and jams over the years where scenes start with far longer opening monologues.  What is the scene about?  What, out of that entire jumble of ideas’ do you focus on?  We are asking our audience to do a ton of work to sort these things out and the results is silence and a bad time all around.
+
+Advanced improvisors take a much more deliberate approach and play ‘slower’, like TJ and Dave talk about in their book (although if you ever get to see TJ and Dave you might actully argue they play very, very fast).  Even a simple “Can you pass the tea” can spawn whole rich worlds.  The main difference is that as you get more experience you learn that active listening goes far, far beyond words. Words give us a lot but how it was said and how it is received is the center of drama or comedy.  The best players watch their scene partners to absorb every movement, every tick, every breath to squeeze as much context from it as they can.  For example if I say “Can you pass the tea” through angry gritted teeth” we now have a whole world of why this person is angry.  If I say the same line with a flirty-lusty tone, then we immediately are interested in this base love story and who the other character is to me.
+
+ 
+Development:
+
+The best projects are the ones that not only fulfill the minimum requirements but also make the customer so happy they come back and tell all their friends.  Bad projects often kill developers with the 'death of a 1000 iterations' and it seems your client is never satisfied with the results.  What makes the biggest difference? I believe it boils down to solving the underlying issue that is really behind the question.    
+
+
+Discovery?  
+Especially in the over-scheduled world we live in, most projects come with rapid turn around times connected.  In the rush to do awesome work, it is easy to just charge ahead trying to tackle the technical issues and implementing the latest patterns we think are best without taking time to see what the whole larger picture.  Really taking the time to fully understand what is being requested might seem like an extra time consuming step, which it is, but it can mean the difference between never ending scope creep and insanely happy clients.  
+Some questions you should be asking when assigned to a new project:   
+
+“Why do they really want these particular features?”  
+I am not saying be a contrarian and second guess every request. Taking an extra few minutes of conversation to really peel back the surface and understand what they are trying to do with this request will not only yield overall better results but in some cases might reveal a deeper issue at play.  
+For example, a client request for a new type of lead form might be trivial to create but what the heck do they need with a new lead form?  What was wrong with the old one?  What are they even trying to do?  What would success look like for this new lead form according to the metrics they are measuring the old one by?  Having the chance to discover what their specific iteration goals are will help you scope and define success in a meaningful way.    
+
+“What are they trying to actually do overall?” 
+This is critical for any new project.  Really understanding the goals of larger project will make the path to success pretty clear, no matter if the client speaks the same technical language or not.  
+For example, let's imagine that the client requests something like "we need a way post various options for clients to meet with staff".  What does that even mean?   
+If you are ultimately trying to build something like a  calendaring and polling system but the clients have never thought about it in those terms, then you are likely never going to be able to deliver something right in the first few iterations.  Taking the time to discover what they are really trying to accomplish here will let you lead them into a conversation where suggesting a polling option connected to a calendar is a fit and what to expect from your work.  When the final project deliverable lines up with the projected expectation everyone is going to be more satisfied.  
+
+“Why do they really care about this project?”
+Understanding what keeps this client up at night and the 'real' reasons behind a project might seem intrusive and and uncomfortable conversation. However, getting people to talk about what really motivates them and what this project means to them personally is a very easy and normally positive discussion.  Understanding what is really at stake will help you get to the heart of any request and give you an anchor point to remind them why they are doing this in the first place as doubts and objections arise.  
+
+
+The power of face to face.  
+
+Only a fraction of communication is the actual words said. The majority of human communication is comprised of body language and tone of voice.  Part of what makes us human is our extremely advanced micro-expressions, sometimes referred to as affects (or reactionary states).  We can tell with a very high degree of accuracy if people are sincere or sarcastic, delighted or angry, engaged or checked out when we are meeting face to face.  
+
+Slack is amazing for rapid technical conversations. SMS is ideal for pinging someone with small bits of info. Email is an awesome system of record. But for really understanding what someone wants you to do, there is nothing like being in the same room.  Being local, available and present to your clients, both internal and external to your org makes a huge difference.  Hangout and GoToMeeting are great, but if you can do actual in room meetings for these discovery sessions you will get the best results.
+
+ 
+How to practice Active Listening?
+This game is called Line At A Time Story.
+It requires at least 2 players but can be played with any size group.  
+
+You are going to tell a story and each player is going to deliver only one sentence.  This works absolutely best in person and not over sms or Slack. 
+
+Every sentence should make sense and build on what was just said.  This forces you to listen closely, not just the words said, but the context of the whole piece.  These don’t have to be good or exciting stories, but they should mostly make sense.  Attempt to go faster than you think you can.  That is called 'playing at the speed of fun.'
+
+The story should generally follow a story spine to help guide structure.  Here is a great story spine as defined by Kenn Adams (http://improvencyclopedia.org/games/Story_Spine.html).  Feel free to have this handy and start every new line with these progressive sentence starts:
+
+“Once upon a time…”
+
+“And everyday…”
+
+“Until one day…”
+
+“And because of that…”
+
+“And because of that…”
+
+“And because of that…”
+
+“Until finally…”
+
+“And ever since that day…”
+
+
+Here is an arbitrary example I am making up now:
+
+Player 1: “Once upon a time there was a mechanical tree forest.”
+
+Player 2: “And everyday Tim would go looking for gold.”
+
+Player 1: “Until one day there was a great earthquake and he got trapped in the forest.”
+
+Player 2: “And because of that he had to climb a mountain.”
+
+Player 1: “And because of that he met the great eagle king.”
+
+Player 2: “And because of that Tim saved the mayor from the fire in town that was caused by the earthquake.”
+
+Player 1: “Until finally Tim was given a bag of gold.”
+
+Player 2: “And ever since that day Tim has never gone into the forest again.”
+
+
+Remember the quality of the story does not matter, only that you are building on the previous sentence and building on what your co-players are actually saying.  
+
+TL;DR:
+People communicate with far more than just words.  Learning how to really 'listen' to what is going on will get you better results.  Learning to cooperatively tell intelligible stories is a low stress way to practice this skill.
+
+Have fun and remember to actively listen to your team.  
+

@@ -1,0 +1,77 @@
+Say Yes and you'll figure it out afterwards - Tina Fey
+-> Theater:
+
+If you have ever heard anything about the art of improv, then I am guessing you heard about "Yes! And.."  This is a core building block of the art form.  Since so much has been written on this specific topic I thought I would build this post by just taking excerpts from other articles I like (Yes!) and adding a little commentary (And...).
+
+The basic concept of "Yes! And..." is explained wonderfully well by Heather Wydeven (https://uxmag.com/articles/yes-and-the-improv-of-ux):  "The fundamental tenet of improv is a concept known as “Yes, and”—meaning an actor accepts whatever is given to her by her fellow actor, at face value, without changing it, negating it, or disagreeing with it. She then turns around and adds something of value to what she was given. In an improv scene, this is how an actor creates stimulating action. If an actor were to enter a scene using her hands to emulate holding a gun saying “Stick ‘em up!" and her scene partner said, “You’re not holding a gun, those are just your hands,” then the action of the scene has come to a halt. The first actor doesn’t know where to go from that point. But when actors employ this technique successfully, it means anything goes. The possibilities of the scene are endless. The actors have complete freedom to create, explore, and allow themselves to be surprised by the moment."
+
+"Yes" by itself is awesome, but not enough.  As student improvisors we learn that only saying 'yes' and not adding to an idea is almost as bad as saying 'no'.  It puts your fellow improvisors on the hook for having to do all the work of creating the scene.  If we look at the example from earlier we can see that if the second player had just stuck their hands up without any other response, the first player would then need to invent a next line or idea.  The scene can potentially get stuck if that player has no other ideas and the audience's anxiety level will rise.  Just saying yes is good, but more is required to build a world.
+
+"Yes! And..." is infinite and unbounded. As Mike Bonifer (http://www.gamechangers.com/yes-is-not-enough/) puts it: "Anyone can say ‘yes’. It might get me a reputation as a being a positive person, but it will not necessarily make me a productive player. Let’s put it this way: ‘Yes’ is agreeing to a marriage proposal. ‘Yes and’ is agreeing to a life together." Again, let's look at the "stick 'em up" scene.  Let's imagine the second player, in response, says "Harry, you are always overreacting to my cooking" we now have a whole world where this is a routine thing and there is some kind of established relationship.  We can now spend the next several minutes exploring the relationship and just what went wrong with the cooking.  This is the crux of good improv theater.
+
+-> Development:
+
+Bill Connolly (http://www.forbes.com/sites/carolinecenizalevine/2014/10/31/have-a-laugh-and-build-your-career-improv-for-professional-development/#1b86c907d50a) wrote: "In improv, you have to say “yes” to move the scene forward. In business, we hear “no” far too often. Start from a disposition of “yes” and you’ll find a much more positive working environment."
+
+Again I will reference Heather Wydeven (https://uxmag.com/articles/yes-and-the-improv-of-ux) who says "Saying “No” is so often a knee-jerk reaction for us. We say “no” because we don’t have time, we don’t like others’ ideas, or we have our own agendas. We often have to make a conscious decision to say “yes.” But if you try saying “yes” in a situation where you might ordinarily have said “no,” you allow yourself to be receptive to possibility. Any possibility. You allow yourself to be surprised by that moment. And, you will find that people are more likely to say “yes” back to you. Look for situations in your personal and work lives where you can turn your quick “no” into a moment of possibility."
+
+I think we can apply this in specific ways to both our clients and our peers.  
+When working with clients or other stakeholders, aside from being an obvious way to be more positive, this can be used this to prevent conflicts when unreasonable requests are made.  If you meet a their sometimes crazy sounding ideas with a 'no' this gets interpreted as "You are wrong and you now need to be defensive about this idea since it is tied directly to your sense of self worth."  That is a lot of pressure on a person and results in escalating conflicts.
+
+Let's imagine a client calls and says something like "I want giant pictures of my dog on the front of every page of my business's website (which has nothing to do with dogs) and the background should be changes to neon green."  I can't imagine a scenario where this would be a good idea, but if I say 'no' we are immediately at conflict and the client needing to defend their (in this case terrible) idea.   If we just say "yes" by itself, they are going to hang up and assume this will be done immediately and likely for free.  If we instead say something like "yes, and that will take time to scope and we will likely need to drop several upcoming features.  When can we mee to go over buget impacts?" the client knows they were heard. They also know that there are going to be needed next steps and real time and budget concerns.  Instead of immediately debating the merits of their idea, they can start to understand that this is not going to be trivial and gives you space to understand why they want these things and if they really want them.  There might (and probably will) be a better solution to meet their underlying needs. By avoiding the conflict you can better guide them to it
+
+This also works when dealing with our peers.  I like Scott McDowell's (http://99u.com/articles/7183/the-yes-and-approach-less-ego-more-openness-more-possibility) insight on this: "Letting go means less ego.   In meetings and team scenarios, we naturally want to hoard control. We care about being right. We think that saying “No” to others gives our own opinions weight. The practice of saying “Yes, and…” inserted a bit of distance between my brain and my ego, and helped me hear other perspectives with openness."
+
+Next time you are in scrum and a colleague puts forth an idea that you know in your heart is a failed anti-pattern give this "Yes! And.." tactic a try.  If you flat say 'no, bad idea' there will likely develop a defensive situation with egos at risks. Taking the time to acknowledge that the idea was put out there, not automatically negating it, and instead putting out more information and leading the conversation in a meaningful direction will help you get a lot more done on the team a lot more effectively.  Or, as Sara Duke (http://web.arlingtonchamber.org/Blog/post/2014/07/24/How-the-e2809cYes-ande2809d-Rule-of-Theatrical-Improv-Applies-to-the-Workplace.aspx )puts it: "With an attitude of agreement, we can now add to the conversation in a positive, constructive, and forward thinking manner.  Can’t we do this in our offices each and every day? Build an environment where creativity is appreciated and co-workers/managers support and magnify new ideas."
+
+-> How to practice this with your peers?
+
+Exercise: Shared Memory:
+
+As with the rest of this post, I am copying this from the version listed here: http://animalearning.com/2014/09/01/more-spontaneity-school-another-10-improv-games-to-enliven-the-classroom-or-workplace/
+
+Divide your group into pairs.  Each pair will “reminisce” about an (imaginary) shared memory. “Remember our vacation to Mexico” makes for a decent start, as would “Remember when we got lost in San Francisco.” Keep the topic light and somewhat breezy.
+
+
+
+One person starts by saying “You remember when we…” and continues on, making up some completely imaginary experience. At some point, the second person takes over, interrupting with an enthusiastic “Yes!” or some such agreement, and then adding in another aspect to the ‘memory.’ Once each person has shared some part of the memory, send the lead back and forth so the memory keeps building.
+
+In the ideal, the game gets going quickly with one player eager to jump in and add on what the other has offered. For variety’s sake, suggest that players experiment with pausing every now and then to leave some pregnant space between memories (as would often be the case with friends remembering a shared experience). Then, after soaking in the silence for a few seconds, they can listen for the next inspiration that comes and get the game moving again.
+
+Example:
+
+Player 1: Remember that time we went to Spain and ate all those clams
+
+Player 2: (interrupting) Yes, and we saw that parade march by and decided to jump in
+
+Player 1: (interrupting) Yes, and how the tuba player kept yelling at us but we couldn't understand him
+
+Player 2: (interrupting) Yes, and then the mayor spotted us and waved us over to his car
+
+Player 1: (interrupting) Yes, and remember when he gave us those giant metals
+
+Player 2: (interrupting) Yes, and then they turned out to be made of chocolate, we got so sick...
+
+(and so forth...)
+
+TL;DR
+
+In theater "Yes! And..." is the basic framework of agreement that lets us build worlds, it is not just not saying no.  It is also contributing your own voice as well.  
+In Development we hear "no" far too often and we get defensive of ideas as a result.  When dealing with clients and stakeholders "Yes, And..." allows them to be heard and lowers their defenses.  When dealing with peers not having a knee jerk "no" will help you flesh out ideas and make new connections.
+"With an attitude of agreement, we can now add to the conversation in a positive, constructive, and forward thinking manner." 
+
+For reference, here are a few other articles that go down similar paths and are very good reads as well.
+
+https://www.sandstormdesign.com/blog/our-yes-and-philosophy-with-responsive-web-design-concepts
+
+http://99u.com/articles/7183/the-yes-and-approach-less-ego-more-openness-more-possibility
+
+https://uxmag.com/articles/yes-and-the-improv-of-ux
+
+http://www.slate.com/articles/business/crosspollination/2014/03/improv_comedy_and_business_getting_to_yes_and.html
+
+http://web.arlingtonchamber.org/Blog/post/2014/07/24/How-the-e2809cYes-ande2809d-Rule-of-Theatrical-Improv-Applies-to-the-Workplace.aspx
+
+https://blog.engineyard.com/2013/how-improvisational-theater-can-improve-team-collaboration
+
+I'll leave you with some solid advice from Kevin Stevens (https://blog.engineyard.com/2013/how-improvisational-theater-can-improve-team-collaboration) from his Engine Yard post: "You cannot win improv. And life is an improvisation. You have no idea what's going to happen next and you are mostly just making things up as you go along. And like improv, you cannot win your life. The software corollary to this is: “You cannot win engineering”. "

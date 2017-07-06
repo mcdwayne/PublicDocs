@@ -1,0 +1,183 @@
+Thursday night dinner:
+https://twitter.com/mikeherchel/status/878063203468627968
+
+General:
+https://twitter.com/McDwayne/status/878243569214963712
+https://twitter.com/jantcutech/status/878984765541634048
+
+
+Opening Remarks:
+https://twitter.com/comprock/status/878249254854291456
+https://twitter.com/comprock/status/878250648705171456
+https://twitter.com/McDwayne/status/878249620991655939
+
+Using Data to Build the New Mass.gov
+Speaker(s):CONNOR MCKAYKYLE MAGIDA
+Using D8 and machine learning to better serve the people
+Management of metadata from the User Journey
+Yep, that FORTRAN
+Metadata powers search, 
+Drupal API integration
+Data pinata (unsustainable) thousands of pages
+42 major agencies, 150 other agencies, plus all the other commissions and offices
+100s of authors 
+15 content types
+4 design team members
+Avoiding procurement in GOvernment allows them to move faster anf freer
+Consumable API for metadata and relationships
+
+https://twitter.com/comprock/status/878252566987108352
+https://twitter.com/comprock/status/878254997581864962
+https://twitter.com/McDwayne/status/878254339365588998
+https://twitter.com/technology_nti/status/878256008220426240
+https://twitter.com/bryanhirsch/status/878258010153504770
+https://twitter.com/scottgalo2002/status/878259698948091906
+
+Making mass.gov data-driven and constituent centric
+Speaker(s):BRYAN HIRSCH
+Too many pages to refresh, needs a strategy
+Start at the top, top 20% of content (80/20 rule)
+10% of content serves 89% of page requests
+paths aligns with 20 different clusters for gov services
+Lot of work to be compliant for disabilities
+Validately
+Unstrutured data vs structured data
+page metaphore is evaporating, title and body is useless and outmoded
+need to think in terms of chunks of data
+
+https://twitter.com/comprock/status/878274991913140224
+https://twitter.com/McDwayne/status/878269289488371713
+
+
+Keynote - Agile Design
+Speaker(s):KELLY ALBRECHT
+Adaptibility to a change in the situation is agility (think Spiderman)
+Agility is more than adapting to change
+Deliberation vs Hair Trigger Action
+"Your agility is measured by the speed and effectiveness of your response"
+Ceremonies, built into process where you respond to changes - stand ups, etc
+Values: Commitment, Focus, Openness, Respect, Courage
+Issues arise when there is a violation of one of these values
+Very few of us are not doing the best we can
+Very few of us are intentionally doing poorly
+Iteration: Iterations provide an optimized awareness into a larger effort
+getting into a shippable implement- make the best version of this you can
+breaking larger things into workable pieces
+Planning reduces stress
+Wherever complex design exists, there must have been a designer - Thomas Aquinas
+Agility is bringing good thinking to action quickly
+Agile does not tell us not to have a plan, but to always be planning
+The idea is Red is good in retrospectives
+good to know what to fix and where issues lay
+Make it easy to change later
+
+
+https://twitter.com/McDwayne/status/878298511707590656
+https://twitter.com/smidtten_eva/status/878298244165632000
+https://twitter.com/smidtten_eva/status/878298788514758656
+https://twitter.com/schiavo/status/878299067842875392
+https://twitter.com/108degreesMktg/status/878300346405314564
+https://twitter.com/smidtten_eva/status/878301447674359809
+https://twitter.com/comprock/status/878302006128984064
+https://twitter.com/CJxDesign/status/878302248148717568
+https://twitter.com/smidtten_eva/status/878311523873062912
+
+My session:
+https://twitter.com/_J_Cortes_/status/878329817812279297
+https://twitter.com/108degreesMktg/status/878330634086653952
+https://twitter.com/108degreesMktg/status/878328653355954176
+https://twitter.com/nedretrsahin/status/878324924384911360
+https://twitter.com/RunBritRun/status/878321472321708034
+
+How to Make Friends & Influence Strategy
+Speaker(s):BREANN KOPCZA
+Know your audience
+Share a purpose
+Get involved
+Own a communication role
+Keep your POV simple
+
+Keep your point of view simple!
+find opportunities to reiterate points, not make more points
+https://twitter.com/McDwayne/status/878342353991475200
+
+
+KARAOKE: 
+https://twitter.com/mikeherchel/status/878448753002373121
+https://twitter.com/McDwayne/status/878434478632435713
+
+DAY 2
+
+Debugging, Profiling, & Rocking Out with Browser-Based Developer Tools!
+Speaker(s):MICHAEL HERCHEL
+Cmd Sfift C = devtools
+H button is visability hidden (select from console)
+in console: document.designMode = 'on';
+chrome://chrome-urls/ (works in airplane mode), flags-> experimental canvas dev tools
+requires restart and then turn on under settings in dev tools
+
+https://twitter.com/McDwayne/status/878616292307197953
+https://twitter.com/marstoyship/status/878620050625900545
+https://twitter.com/djphenaproxima/status/878620069596733441
+
+
+Design Systems, Not Pages
+Speaker(s):TODD ZEIGLER
+Old system was page focused, terrible
+More and more page comps
+looping back and back into a page based process
+does not work
+so real solution?
+for them, Drupal centric systems design process
+
+https://twitter.com/ReesePeltier/status/878633237563703298
+https://twitter.com/McDwayne/status/878630996601688064
+
+
+Keynote - Responsive Design: Beyond Our Devices
+Speaker(s):ETHAN MARCOTTE
+where is this going past Desktop design?
+moving from page to patterns
+I thought I would redesign patters, instead they redesigned me
+What is someone doesn't browse the web like I do? - most import question in his process
+Design the priority not the layout
+Features Queries: The @support Rule
+fles-direction row reverse vs column reverse
+A well crafted responsive design is device agnostic -  a good guiding design principal
+fractal.build/guide
+golden age of automation toolnig for style guide generation
+http://github.ushahidi.org/platform-pattern-library/
+The luangeuage of modular design 0 article
+Alla Kholmatova alistapart
+
+
+https://twitter.com/jantcutech/status/878664073398898693
+https://twitter.com/McDwayne/status/878664159357009921
+https://twitter.com/BrightBold/status/878646352175091712
+https://twitter.com/smidtten_eva/status/878664624278732802
+https://twitter.com/jpamental/status/878665811673718784
+https://twitter.com/smidtten_eva/status/878666150057521153
+https://twitter.com/jpamental/status/878667060917805056
+https://twitter.com/jpamental/status/878669660358680577
+https://twitter.com/nedretrsahin/status/878669494100656128
+https://twitter.com/jpamental/status/878671333873332225
+https://twitter.com/jpamental/status/878675833052942336
+https://twitter.com/CJxDesign/status/878675712609275910
+https://twitter.com/smidtten_eva/status/878676035595796481
+https://twitter.com/iamrentman/status/878693446164385793
+
+The fewer TWIG files I see, the better I like your theme
+Speaker(s):JORGE DIAZ
+https://twitter.com/McDwayne/status/878686504507277313
+
+
+
+Tear down that wall! Harnessing the power of taxonomies to create unique site experiences with cohesive structure.
+Speaker(s):MARCUS FREEMANDREW TRAFTON
+
+https://twitter.com/snefbysnef/status/878700568444895234
+
+
+
+After Party: 
+https://twitter.com/thoughtlightco/status/878733083142443009

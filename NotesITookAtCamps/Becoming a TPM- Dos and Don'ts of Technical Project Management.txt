@@ -1,0 +1,33 @@
+Jessie and Anne's Drupalcon talk:
+https://events.drupal.org/neworleans2016/sessions/becoming-a-tpn
+Becoming a TPM: Dos and Don'ts of Technical Project Management
+
+Client Lion -  Need meeting and well defined expectations and education. Empathy seriously needed here. need to be able to tell them 'no' kindly
+
+Devs need to be heads down and need you to speak their language - communicate issues to clients - feed them with properly defined task, bite sized tasks
+
+Documentation is going to be your best friend.
+Lot of communications needed and Docs are best base
+Identify problems UNDERNEATH other problems.
+
+stop people form going down Rabbit holes = unreleated issues to the larger problem.
+
+Need to learn how to search and interpret for audience
+
+Technical -> Project manager
+stop thinking about the code that will solve issues, know person who knows the code who will solve the problems
+Always delegate
+If you get too far out of code, then 
+
+Empathy comes from different expereinces than you are familiar with
+read fiction
+expose yourself to different ways of looking at things
+
+
+Trust your gut - 
+
+Disembodied voices are disconcerting -
+Watching face and body language
+really cultivate reading body language
+
+Understanding balace - clients need with Dev skill set

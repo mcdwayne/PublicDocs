@@ -1,0 +1,93 @@
+Why Git? 
+
+Knowledge worker: many roles have same atributes, most commonly coder/devloper
+
+Create things
+Save things
+Edit things
+Save the thing again
+
+Saving again and again with meaningful comments
+tracking history
+
+For single person, this is straightforward and not hard to manage
+But the trick is collaboration
+
+Collaborative history tracking
+
+Who, when and why they changed it
+
+Adding in concept of Merge
+
+Why Git?
+Fast and lightweight
+Provides history of content changes accross the project
+Git facillitates collaborative changes
+Git is easy to use for any kind of knowledge worker (anyone who needs to track changes through work)
+_____________________
+
+Git Enabled Projects
+Distributed so connectivity doesn't block work
+Can learn progressively
+
+Single user, super strightforward:
+git init myproject
+creates a project file called myproject
+includes control files
+git add . = notices files and gets them into a holding zone
+git commit = permanently records changes snapshots at given points in time
+
+Distributed gets complex fast conceptually, but comands don't get more complex too much
+Collaboration is goal fo tool
+Assumes people will not be working sequencially, but overlapping
+taking project, making changes and then putting their changes back into the main (unify) or Merge those changes into the source code
+
+A: git checkout master
+A: git commit -a -m "My New Logo"
+A: git push
+B: git checkout -b danasfeature
+B: git commit -a -m "New Feature"
+B: git push origin danasfeature
+A: git pull
+A: git merge danafeature
+
+Advanced Git
+Easy to learn but very capable to get advanced quick
+Flexible
+Powerful
+
+A: git add -p MyReport.markdown
+A: git commit -m"Added latest stats"
+A: git log --graph --decorate --abbrev-commit --all --pretty=oneline
+
+_______________
+Git Basics: Setup and getting going
+Installers and downloaders
+git-scm.com/downloads
+
+First, after install
+from command line
+configure your username and email (important to give you credit) 
+git config --global user.name "Dana Devops"
+git config --global user.email "dana@danadev.com"
+
+Then 
+git init projectname
+cd projectname
+create file1.txt
+git add file1.txt (This 'opts in' the file for possible committing)
+(not permanent step yet)
+git commit -m"My first commit"
+
+______________
+quick wins with Git
+why do people stick around with Git
+1) git is focused on content, not just files
+2) Opt in, not out 
+3) Open, not locked (let more people offer contributions, then moderate pulling in)
+4) Distributed, not centralized (fast to push changes even over slow connections)
+5) Conversations, not cutoffs
+6) People, not tools (smallest, lightest background piece there is.  Minimal interactions)
+7) Journal, not backup
+8) Anywhere, not just online (all works offline)
+

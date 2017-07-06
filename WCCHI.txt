@@ -1,0 +1,139 @@
+
+
+The last leg of my 3 city tour was to the old windy city.  Held in the IIT Business School in the shadow of the Sears (Willis) tower, people from all over gathered for WordCamp Chicago #WCCHI to learn from one another and rejoice in all things WordPress.  The coffee flowed and the rain poured down.  Still, it was a marvelous time and so much learning!  
+
+I was just in Chicago last month for Midcamp (LINK) and was glad to be back in this metropolis.  This time I didn't get to see any improv unfortunately, but I got to go sing some #WCKaraoke!  It was a pretty amazing camp and I was glad this was how I ended this particular journey.  
+
+General:
+https://twitter.com/McDwayne/status/858323546594062340
+https://twitter.com/MorningsideWeb/status/858170759222628352
+https://twitter.com/McDwayne/status/858148596159574016
+https://twitter.com/mhanes/status/858122987320598528
+https://twitter.com/lujeffcoat/status/858114935670308864
+
+Food:
+My camp experience officially kciked off at the speaker dinner over at the Jefferson Grill. I was reunited with some old friends from all over the world. I also had the chance to meet many other folks who I had not met before, since this was my first time at Chicago's WordCamp.  There was a very nice burger bar, with a reasonable veggie burger, with seasoned fries and pretty amazing pickles.  I ate way too many pickles.  I set out from there with a new friend to go scout some locations for the possible WCKaraoke afterparty the following night.  
+https://twitter.com/McDwayne/status/858148596159574016
+We only went to 2 locations but the second felt right and was giant inside.  In fact we would return here one more time that weekend to sing again, but more on that later.  
+
+Lunch: 
+On the first day of the camp we were lucky enough to have some pretty awesome catering by Chipotle.  I am normally not a fan of the brand for various reasons, but this was a welcome lunch option since they have a lot of meatless options and pretty alright corn salsa.  Plus their corn chips are pretty darn awesome.  I ate far too many but those salsas were just too irresistible.  I was particularly glad at this provided lunch since it was pouring rain outside and we all ate together. 
+https://twitter.com/visuals4u/status/858370866614341632
+https://twitter.com/jennybeaumont/status/858365332997668865
+
+
+Saturday after party:
+Saturday we all were given 2 drink tickets to partake in the official after party over at the spacious and well staffed Jaks Tap.  We had the option of trays of BBQ chicken, pre-assembled cheeseburgers, a salad with a lot of crumbly cheese and carrots. I ate a lot of the carrots. Actually, not too bad of an option when you get down to it.  Way sweeter and overall better flavor than a french fry and I didn't feel bad piling them up.  It was a great gathering with a lot of awesome conversations while the weather outside was pouring rain and miserable. 
+https://twitter.com/YepItsSal/status/858476552908152832
+https://twitter.com/lujeffcoat/status/858473525753131008
+
+
+Saturday #WCKaraoke
+After the party, comes the Karaoke!  I have been to more than a few WCKaraoke parties that have had 5 or 8 people show up, which is still fun but makes you wish more people would make it out to sing together.  This time, about 1/7th of the camp showed up to Blue Frog's Local 22 to sing together.  We arrived a tad before the Karaoke DJ was ready to go, which gave us ample time to select our songs of choice.  By the time he opened up the sign up process the line stretched 30 deep, mostly from WordPress folks!  He said it was the longest starting list he had ever had in his time at the bar.  
+We had a blast and everyone agreed this was one of the best parts of a camp.  Being together doing something so joyful and celebrating each other's talents.  And what talent there was!  I have never heard better versions of 'Fever' which was mastered by Bridget Willard TWITTER or of "Minnie the Moocher" by the always entertaining Adam Warner TWITTER.  I really didn't want the evening to end but I was feeling the road weariness and faded off before my second song was called.  I was told later that they called my name not 10 minutes after I split, so lesson learned, or rather reinforced, go all the way, just should have pushed through to sing 'Bohemian Rhapsody' with the group. Next time. 
+
+https://twitter.com/mikehale/status/858532332197879808
+https://twitter.com/WCKaraoke/status/858527418176466944
+https://twitter.com/WCKaraoke/status/858523789608538112
+https://twitter.com/mikehale/status/858520857605439488
+
+
+Sessions:
+There was no keynote at this camp.  Instead we had some light opening remarks from the organizing team and a very warm welcome to Chicago!  Since I had my partner in WP Andrew Taylor (Twitter) with me, I had the chance to pop in on a few sessions.  
+
+Saturday:
+
+Fun with Chome’s Developer Tools
+Steve Stern
+https://twitter.com/davecscott/status/858324051231637505
+https://twitter.com/McDwayne/status/858323546594062340
+I had met Steve the previous night at the speaker dinner and was very intrigued by this session.  I have been using Chrome and Firefox built in dev tools for a while, but was doing so rather piecemeal, just picking things up as I went along and always being delighted by discovering some new functionality.  This session was a pretty great overview of the tooling within chrome and I picked up more than a few tidbits making this a great session for anyone else on a self education path.  The main thing I had overlooked was the mobile view options built into chrome.  I had never played with it before and was always relying on Customizer mobile view.  That method isn't bad, but the Chrome route seems much better by comparison.  There was a lot of tips from crowd during the Q and A.  This turned the last 20 minutes or so into a really great discussion lead by Steve.  
+
+
+------
+
+Categories, tags and custom taxonomies – oh my!
+Becky Davis
+https://twitter.com/davecscott/status/858342070477611008
+https://twitter.com/McDwayne/status/858339574338244609
+
+I have a lot of theoretical knowledge of taxonomy left over from my previous life in sales when I worked for a machine learning algorithm company based in Northern Ireland. They were focused on a "Semiotic Classifier" that could automatically generate tags based on the interrelation of the symbols in a document compaired to large volumes of other similar text blobs.  This is an exceptionally great method of working across scientific abstracts and book descriptions.  Anyway, this particular view of taxonomy is not super helpful to me when dealing with WordPress, so I went to this talk to get some more functional understanding.  And git it I did.  
+SOme of the basic tips I picked up included that if it is in the title, it does not need to go into the tags or taxonomy.  Taxonomy should be seen as the parent term of any tags, the same way Mammal is the parent of Rodent or Marsupial. And the biggest take away I am going to start using moving ahead is Common Sense SEO means "human readable".  The title has to have something to do with the article.  If you write SEO for machines to find then google will ignore it.  
+
+
+The Time I Broke WordPress.org
+John James Jacoby
+
+There is not a lot I can add to what JJJ told us about his experiences.  I highly recommend going to WordPress.tv and watching similar talks he has given.  http://wordpress.tv/?s=John+James+Jacoby  This guy is the epitomy of what a solid WordPress dev should be striving for. 
+https://twitter.com/jeffr0/status/858350763621437440
+https://twitter.com/McDwayne/status/858357102011658245
+https://twitter.com/Jordan_Kolbaba/status/858354675028029441
+
+
+
+Sneaking in Good UX Without a UX Budget
+Anthony D. Paul
+I walked into the talk thinking this was going to be about adding discovery time and limiting scope of a project for the UX minimal standards.  What I got out of it was a lot more than that. Anthony patiently walked us through the "5 Cs" 
+Rather than try to explain this fully here, I found a blog that actually talks about this pretty well: http://turnarounddesign.com/the-5-cs-of-website-design/ I think Anthony's version is way better but you will have to watch it yourself when it hits WordPress.tv
+https://twitter.com/McDwayne/status/858406088907075585
+https://twitter.com/ThemetryHQ/status/858405659263598592
+https://twitter.com/CalderaWP/status/858404233774759936
+https://twitter.com/andymci/status/858404140371906560
+
+
+My Session:
+I was delighted to give my current favorite talk, which is (not so) secretly a workshop: Every project is a story: Applying storytelling to your client interactions
+The crown was twice the size of the last audience I delivered this to back at SANDCamp (LINK TO POST) and it was pretty great o have that many people in the room.  As with any talk where I ask for participation I gave full permission up front to leave or just sit there during the interactive portions.  This resulted in about 10 defectors from the initial group of about 65.  Those that stayed though were very engaged and I had a lot of follow up conversations with people and heard some pretty great feedback.  I also got a few points of structural feedback on my delivery and will be modifying a few things to make the next time I deliver this (which is currently scheduled for WPCampus (LINK)) even better.  
+Dwayne McDaniel
+https://twitter.com/JDDoesDev/status/858421708151287808
+https://twitter.com/JDDoesDev/status/858420658577059841
+https://twitter.com/JDDoesDev/status/858420299330719744
+https://twitter.com/TraceeLoftus/status/858419783762620417
+
+
+
+Forecasting the Future: Business Practices and financial forecasting for a growing WordPress business
+Jason Knill
+This was a pretty in depth talk that I initially feared would become a spreadsheet read-along, as other forecasting talks I have attended over the years have turned into.  I was relieved though when this talk was really about building a solid team and thinking in terms of growth vs survival.  It was a great discussion with the audience on how the Give team had grown by being open and trust based culture.  I walked away with a whole new respect for the many faceted face of the small business owner.  Anyone who is thinking of building a team this is a must watch.  
+https://twitter.com/GiveWP/status/858445733791502337
+https://twitter.com/CalderaWP/status/858440548067287041
+https://twitter.com/mikehale/status/858440443775864832
+https://twitter.com/kuznacic/status/858440121955356672
+
+
+
+DAY 2:
+
+From freelancer to “feelancer”: Three keys to less stress and more success
+Antti Koskenrouta
+Few talks start out with as clear and concise "why you should listen to me" than Antti's talk.  As he started he invited us to celebrate with him his 6th anniversary of going freelance.  He has managed to build the life he wants by setting goals and working with his defined parameters.  Luckily for all of us he was more than willing to share his experiences and learnings from the last half decade.  There were a lot of juicy tidbits and the talk really felt like a 'best of' from all the other 'how to be a freelancer' sessions I have attended.  There was the minimum viable hourly rate, paying yourself first, doing your taxes, hiring professionals to do things like your taxes and making sure you have done your taxes.  There was a ton of valuable learnings and I am including a few more twitter pics than normal on this one to show some of the key points.
+https://twitter.com/visuals4u/status/858702008261410817
+https://twitter.com/McDwayne/status/858699652132212736
+https://twitter.com/JDDoesDev/status/858706472791932933
+https://twitter.com/anthonydpaul/status/858708696175710208
+https://twitter.com/KnowMgr_Hunter/status/858709066826346496
+https://twitter.com/KnowMgr_Hunter/status/858704163961806848
+
+
+How to Develop a WordPress Theme from Scratch
+Tania Rascia
+It is rare that I get to see a talk that comes from the author of a #1 search result.  In this case it was "build a wordpress theme". Go google that and look at the first result.  For me it is before the official WP codex.  
+Tania, who is a pretty awesome singer by the way who helped with the karaoke venue finding mission after the speaker dinner with a few others, gave us a quick and fast version of her blog in person and lead a pretty detailed discussion on the topic.  Turns out theming in WordPress, from scratch, is much more straight forward than I had imagined it to be.  One of the biggest questions I think it answered for me is 'why would I ever try that?"  Especially in a world with thousands upon thousands of free and paid themes for site building.  The answer, for me at least, is it unveils the sophistication of any theme by knowing 'how the sausage get made' from doing it yourself.  I now have a lot more respect for theme shops and know how to start troubleshooting a lot better the next time I have a theming issue.  The tak is great, but I would highly encourage you to go read this blog from her and build one yourself!
+https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/
+
+https://twitter.com/visuals4u/status/858756397818945537
+https://twitter.com/McDwayne/status/858752114914471939
+https://twitter.com/teon_greyjoy/status/858750362219622401
+
+
+Support Starts Here: How to go the extra mile to make and KEEP your customers happy
+Lauren Jeffcoat
+The very end of the day brought with it one of the more important talks I have attended recently.  No matter who you are or what you are doing, in some way you are going to have to deal with support.  Either as a client or as a support person or as a business owner.  You will touch support at some point in your life.  Understanding what makes for successful interactions will make or break the consumer/vendor relationship.  
+She tells some pretty horrible horror stories from her real life and places where she felt the vendors have failed her.  She also told of a very positive story where an American Airlines staff member went well above and beyond the minimum response and took good care of her in a pinch.  She ended up getting thanked by American and the staff member was rewarded for his good deed.  The result is a loyal customer and a personal connection to a brand that could not have been established in any other way.  68% of the time a client abandons a brand it is due to poor customer service experience. Let's keep customers happy by managing expectations and connecting to them as real people, not just wallets with problems.    
+https://twitter.com/bartekkregiel/status/858770836731383812
+https://twitter.com/jeffpaul/status/858770661266923520
+
+Right after Lauren's talk I headed to the airport where I started working on these last few posts.  I learned a heck of a lot and I felt physically exhausted.  Just the way I love to feel.  Wheels up took a few extra hours and it felt so good to come home to my beloved SF, but I can already feel the itch growing again.  I am already starting to become eager to get back out on the road and be with the WordPress and Drupal communities.  Those are my people.  That is where I feel at home.  
+
+Last bit: 
+To those who might be reading this and are NOT currently part of your local open source communities, what are you waiting for?  This is your invitation.  Go look on Meetup or feel free to ping me on slack or email and I will be glad to send you in the right direction.   

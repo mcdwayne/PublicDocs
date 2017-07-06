@@ -1,0 +1,58 @@
+Why
+knowledge workers
+what the tool is
+download install
+configure
+
+Overwriting FTPed files horror story
+renaming horror
+
+
+git init
+add
+commit
+repeat
+
+collaboration
+github
+setup github accounts
+
+maybe push the local
+
+Pull request
+
+Using GitPages (basic HTML)
+
+Command line basics
+- create directory
+- change directory
+- remove a file
+
+
+.git-ignore - chose from github's ignore file
+
+
+
+-----------------
+
+
+Actual things to do
+stopping point
+if they want to use for WordPress, git ignore file import for that.
+End goal! successful just learn git?  More successful move your WordPress sie on github
+
+--------------------
+create a WP site? 
+local by flywheel??? local is hard 
+depending on server
+create a repository
+kind of a big hole as well
+probably create a new repo on Github
+create a repository
+drag in the 
+suggested of what you should do.  
+Child theme?
+
+just turn this into a page???
+
+tips can go wrong

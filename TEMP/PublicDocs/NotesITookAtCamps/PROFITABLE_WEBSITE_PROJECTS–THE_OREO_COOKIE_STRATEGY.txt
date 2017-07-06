@@ -1,0 +1,83 @@
+https://2016.seattle.wordcamp.org/session/profitable-website-projects-the-oreo-cookie-strategy/
+PROFITABLE WEBSITE PROJECTS – THE OREO COOKIE STRATEGY
+
+
+Change your thinking
+Not advertising, complex software dev
+
+Planning is not optional or 'nice to have'
+
+It's not an oreo without the crunchy outside
+Put as much thought into dev as design
+
+Planning - 
+Projects don't fail at the end, they fail at the beginning
+
+Discovery to Document everything before you start
+
+WHat is objectie? 
+Functional req, technical req, Determine the architecture
+
+Plugins are awesome but they do things a certain way.  Nee to plan before implementing
+Otherwise you start customizing code to fix 
+
+Present everything in wireframes
+
+Design...(the gooey center of the oreo)
+this is where budget goes off rails
+no contraints - gets very inefficent
+review wire frames with Devs
+Early and often
+
+Provide design for all pages and functionalities
+
+Mobile first - responsive vs adaptive
+
+Development (more crunchy bits)
+Let the developers drive the build
+
+Follow review process
+
+Manage changes - and expect changes
+
+Clients, don't bring a knife to a gun fight
+
+conversation does not equal scope
+
+Agencies - Charge for your work.  
+Charge for discovery!  It's worth a lot
+A solid foundation saves everyone time and money
+
+Discovery also makes 
+
+Ask for the budget - money up front ideally bank
+
+charge for project management
+and set boundries - some need a lot of help
+
+Charge for training and docs
+it takes time and draws on your IP
+
+Change orders are your friend
+"Anything can be done with enough time and budget"
+the HGTV strategy
+
+Document the scope in Discovery
+
+changes either change order or included in phase 2 planning
+
+Track time, even if a fixed bid
+- do you really know how long it takes
+
+Define a post launch grace period in the SOW an then charge for support
+
+charge for content entry
+you can do it faster then the client can and that is worth something
+
+
+What you need for a profitable webste dev
+
+Clear and documented understanding of requirement
+a site map and wire frame to communicate the site structure and functional requiorements
+
+a solid thought through design

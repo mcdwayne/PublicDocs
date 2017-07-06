@@ -1,0 +1,38 @@
+Engaging Support Systems
+@laernu
+https://2016.badcamp.net/session/engaging-support-systems
+
+ID the issue
+Collect into
+replay the info
+fix issue
+follow up
+
+finding the source of problem can be a crazy chaotic rabbit hole
+
+Anything would be better than this feeling
+
+We need to find out as much as we can to avaoid rabbit hole
+Drupal gives us lots of tools
+
+Logging!
+tools like New Relic
+
+First find the SOURCE of issue, before fining the solution
+If we can't reproduce, we can't fix it
+
+fun of 'missing images'
+
+Using the resources out there
+online
+in perosn - camps - meetups
+stackexchange
+
+if filing, fill in as much info as possible
+answer all WHo, What where, why, how and give screenshiots and links you are referrencing from third party notes
+
+Who: "Alice"
+What: "is only seeing the chesite cat"
+
+Who: A;; logged users
+What: Are seeing a block tht was removed

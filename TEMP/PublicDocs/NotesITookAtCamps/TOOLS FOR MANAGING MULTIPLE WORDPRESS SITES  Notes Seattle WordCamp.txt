@@ -1,0 +1,84 @@
+https://2016.seattle.wordcamp.org/session/tools-for-managing-multiple-wordpress-sites/
+TOOLS FOR MANAGING MULTIPLE WORDPRESS SITES
+Christina Varro
+
+Regular maintenance is importnt
+Security and Backups
+Maintina and optimize Db
+comment spam
+
+Problems
+Regular tasks take too much time
+individual log in system 
+different backups
+no easy way to restore (Yoast disaster of early 2016)
+Clients notivce before you do
+Launch or clone a site
+
+Management Services 
+Several most popular
+
+Dashboard view of all sites
+faster way to repeat tasks
+Uptime onitoring
+automated regular tasks
+third party backups
+
+Most are third party hosted, 
+one log in
+
+1 clieck update WPcore
+1 click plugin updates
+backup restroe
+manage posts and pages
+manage comments
+manage user accounts
+reporting and analytics
+
+
+Manage WP:
+most popular service for maaging multiple WP sites
+Variety of free or premium features
+many automated features- like backups uptime monitoring
+used own backup system
+offers email support
+
+CMS Commander:
+one of the best interfaces
+free for up to 5 sites
+manage multiple WP sits, focus on content creation
+Unique features bulk editing, automated content from a number of different providers
+
+WP Remote:
+Free but slimmed down
+1 clieck updater
+download a backup of your site
+cost effective, but lacks features
+
+
+MAIN WP:
+Free application that you install on your own server
+Great features and premium add ons are reasonably priced
+installing and configuring Main WP and extentoins takes time
+potential server issues on shared hosting
+
+Infinite WP:
+Free app on your server
+Basic version is free, pay for add ons website cloning
+Premiuum can be purchased for a fee, can get expensive
+
+ITHEMES Synch:
+Product from iThemes
+basic for 10 sites free
+no option for backup but integrates with backup buddy
+Pro version is invisible to end users, uptime monitoring, track site stats and analytics
+
+IControlss WP
+no free, up to 10 sites for $15 a month
+nice features but lacks managed post and pager and user options
+No third party backup only WorpDrive
+Focus on security
+
+Manage WP Orion: was the winner for Christina
+
+

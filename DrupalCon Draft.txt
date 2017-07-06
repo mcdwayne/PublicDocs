@@ -1,0 +1,183 @@
+DrupalCon Notes	
+
+After #WCRaleigh I headed to Balimore MD to DrupalCon 2017.  
+This is THE BIG SHOW for Pantheon!  The biggest event for Drupal every year. This was the 4th one I have attended in the US, 5th overall.  My first DrupalCon was in Austin, TX in 2014.  It literally changed my life.  Before that event Pantheon was just a really awesome job in the valley, for sure my favorite so far.  But from day one of that event a few years back I realized that Drupal was way more than a pile of code.  It was a real community.  
+It was also where it first hit me what the heck Free Open Source Software was really all about. Free as in speech, not as in beer.  Walking away from this year, I had been reminded of that point and feel an urgent renewed purpose for making this whole free and open internet thing work.  More on that later.
+
+
+My week at DrupalCon started with the Community Summit.  This is meant for the folks who have organized community events like DrupalCamps, Meetups or anything else community focused.  I arrived fairly late in the day, due to a few travel hiccups.  The day was already in full swing and I raced to catch up, which was not too hard since everyone was eager to help me get on the same page.  I was very grateful to be included in the conversation and feel I saw some real progress in the team I joined.  It was awesome to work with my fellow MidCamp organizer Avi (TWITTER HERE) and longtime partner Aiden Foster (TWITTER) to further the cause of making Drupal Community happen.  I highly encourage you to go participate locally and do what you can to keep things growing.  
+
+Directly after the community summit ended, the conference floor opened up to attendees to meet and greet the sponsors.  This is when we got to roll out this year's version of Booth Demo Magic.  This is one of my favorite things about working at Pantheon.  It is part magic show, part TED talk and part "Mother of all Demos" https://youtu.be/yJDv-zdhzMY.  This is where we unveil the amazing work we have done and get people fired up about the future of the state of the art. 
+This year was the best year in in my attending.  Watching the demo is the only way to get a Pantheon shirt, which is screen printed in front of you on demand and in previous years, this was the main reason a lot of people who already knew us watched the presentation. This year, dropping the names of tech we were going to show how we integrate with caused such a huge stir that I think we might have had the same turnout even if we didn't have the best shirt of the convention.  As people passed and I said "Do you want to see CircleCI with automated testing setup from a single CLI command" heads snapped our direction, eyebrows raised up and people turned around to go find a place to sit in front of our screens.  It was amazing.  Really set the tone for the rest of the con.  
+https://twitter.com/getpantheon/status/856637130860318720
+https://twitter.com/AArford/status/856625107103608832
+https://twitter.com/McDwayne/status/856622461064024066
+
+Food and the Fun:
+
+Monday night dinner:
+Every year Pantheon sends a large number of us Pantheors to DrupalCon and many of these folks work remotely.  DrupalCon gives us a rare chance to sit down as a group and have a good meal. We were not disappointed by the friendly staff and quality of food from Roy's Hawaiian Fusion.  Very tasty and I found out there is a 'secret vegetarian' menu they do not advertise but which has some pretty creative offerings.  If you go, ask for it.  
+https://www.roysrestaurant.com/
+
+
+#Drupalcrawl
+https://twitter.com/jmickela/status/856670942076035072
+No Drupal event of this size would be complete without a good old fashioned bar crawl and I left the Pantheon team dinner to join the unofficial official #Drupalcrawl as it pulled into the last scheduled stop, Tír na nÓg Irish Bar & Grill.   It was so great to see so many of my friends from all over the world in one spot to raise a glass to Drupal.  Special shout out to the crawl organizer Jason Mickela (TWITTER LINK).  He is one of the nicest people ever and the smoothness, inclusiveness and togetherness of this event re-enforced that notion.  If you are looking for a low stress thing to do with your local Drupal (or any other) community, suggest a pub crawl and let the bars do the heavy lifting.  
+
+
+Tuesday
+At the show:
+Coffee before a keynote was mandatory and I dug into my 'snack bag' for breakfast, which is mostly almonds and a few other goodies to keep me going on the road.  Coffee was abundant and OK for a trade show. 
+Lunch on the other hand was absolutely amazing.  I went with the special meals option and was rewarded with fresh and delicious food that looked way better than what was on the buffet lines.  I had a delecately crafted mushroom ravioli and pretty great veggies on the side.  The care and attention to folks with dietary restrictions was pretty epic and I applaud the Baltimore Convention Center catering team. Well done! 
+
+Tuesday Partner Dinner:
+Working primarily with agencies here at Pantheon over the last 3 years I have had the extreme pleasure of getting to be part of the Partner Dinner at DrupalCon, an annual tradition to say thanks to the fine folks at our partner agencies that leverage our product for their livelihoods.  It is such an honor to get to sit and talk with these folks and hear the stories of how their lives have been impacted by the tech we work on.  
+The food was pretty OK.  For the second time that day I went with a mushroom ravioli and a very lovely bowl of berries for dessert.  Not to knock this place but the lunch was, by comparison, on par with the quality of this upper scale private dining venue.  I ate my fill and I think they nailed portion sizes, which was great because I didn't need to be in a food coma to make it to the next stop:
+
+DrupalCon Karaoke!
+If you have been reading this, you already know how much I love karaoke.  The music, the drinks, the togetherness and most importantly the act of publicly displaying the love for a song.  We were in real luck in Baltimore as the Tin Roof (LINK) had live band karaoke!  A four piece band backed up singers, giving them the choice of hundreds of songs.  They even claimed to know many more than were in the songbook but they listed out the most popular for us all.  There were about 100 Drupal folks gathered together and we didn't all get the chance to take the stage, but we all had a chance to cheer and sing along.  The band was even so gracious as to extend their time.  Being a particularly dark and rainy night in Baltimore, we got the vibe that without the love of the con-goers they would have wrapped it up early and called it a loss.  Thanks to the good Drupal community believing enough we made it one of their best nights ever we were repeatedly told.  Karaoke is an amazing way to bring folks together.  Make sure you are singing with your community!  
+https://twitter.com/CommerceJohn/status/857088719924449281
+https://twitter.com/StPaulTim/status/857087783189577729
+https://twitter.com/jmickela/status/857084363036647426
+https://twitter.com/davidneedham/status/857083819324833792
+https://twitter.com/jmickela/status/857079191090679808
+https://twitter.com/davidneedham/status/857074003013505024
+
+
+Wednesday
+Again, the lunch options for special diets were pretty good, though I had the bar set extremely high the previous day, so I wasn't as bowled over.  I had a poblano stuffed pepper with daiya and I think cashew based filling. That part was awesome.  The rest of the meal was chips and run of the mill guac.  Living in California I will admit I am completely spoiled on fresh super high quality avocados, so most pre-packaged guacamole is belh at best.  Desert was a cookie, which I did not try.  Coffee was pretty OK too.     
+
+Wednesday night brought the largest of the out of venue events: 
+The Lullabot/Pantheon party!   Every year this party gets a little bigger and wilder.  This year was the biggest yet and was a real hands on experience.  The party took place at the Maryland Science Center!  We were surrounded by dinosaurs, interactive exhibits and all sorts of fun and drinks.  Really an amazing time and so many good memories made.  The photo booth was hopping from open until they kicked us out at the end.  
+
+https://twitter.com/search?f=tweets&q=lullabot%20party&src=typd
+https://twitter.com/mikerichardson/status/859452086748098562
+https://twitter.com/Savas_Labs/status/859183566508445696
+https://twitter.com/Savas_Labs/status/857672577594134528
+https://twitter.com/rootstack/status/857636748679143424
+https://twitter.com/diamondseacom/status/857616233574871040
+ 
+The un-official after party:
+https://twitter.com/chrisod/status/857442528559235072
+All I will say about this is vegan liquid nitrogen ice cream, Chaz Chumly (Twitter) on DJ duty, Kalamuna (twitter) to the rescue on supplies and community making a crazy night awesome! Thats about all I can say. Other than that, you really just had to be there.  After all...what we do is secret. https://youtu.be/h3h4-mUmO48 
+ 
+
+Thursday 
+The morning started with much, much coffee and the best keynote of DrupalCon! Lunch was a pretty solid veggie wrap, chips and fruit. Of the 3 days, this was the most standard convention fare of the week on the special diets menu.  Nothing to complain about but nothing so outstanding as that ravioli on day one.  
+For dinner there was a large contingent of folks I like going to get some crab, which Maryland is pretty famous for.  I accompanied them to get a drink but looked elsewhere for food.  I was certainly glad I did for a couple reasons.  
+First, it was the best greens I hav ever eaten at this pretty awesome vegan soul food joint called The Land of Kush http://landofkush.com/menu/ Even if you are not down with the only plant based food path, seriously go check this place out.  Pretty epic food at ridiculously low prices given the portions.  (INSERT PIC)
+The other reason I was glad to have split off was the walk back.  Yes I walked across Baltimore and I think I hit every best neighborhood in the whole city on that walk.  Baltimore is only known by many folks because of The Wire.  This show focuses exclusively on crime in "America's Finest City" What they leave off is there are parts where it feels like the nicest parts of Manhattan or DC.  From the Washington Monument (LINK) to Power Plant Live (LINK), I followed a path filled with quiet parts, statuary, interesting and very old architecture.  I felt very safe the whole time and recommend this walk if you ever get the chance to be in this east coast gem of a town.  
+
+Trivia Night!  
+My official end of DrupalCon was once again this fun filled evening of trivia and fun with us answering some interesting and at times frustrating questions at VENUE!!!  It was great to work with my old friend Jeremy RaNAME TWITTER and some new friends to have a good time and a few laughs.  It was an ideal way to cap off the event and I left exhausted but very happy.  
+
+https://twitter.com/tomgrandy/status/857814774138253312
+https://twitter.com/edwdeapri/status/857810108105072640
+https://twitter.com/hussainweb/status/857758270123122688
+
+
+The Sessions:
+
+Since I was there to hustle at the Booth Demo Magic I didn't get a chance to see many sessions.  I did see a few though and really wish I had been able to see more.  
+
+
+The Prenote! 
+Every year JAM (TWITTER) is the Master of Ceremonies for this lighthearted spectacle, designed to get us awake and ready for the Driesnote and the rest of the day.  This year there was a bit of a somber, slow start.  As you might know there was some controversy in the Drupal community over the last few months and JAM addressed this at the start.  It was a plea for healing and provided a few links with resources he thinks will help guide us to be a better community overall.  
+With the tone now set to a bit darker than expected, we saw a colorful cast of costumed characters emerge on stage and the real prenote fun turned on.  We met a green haired DrupalCon newbie named "B. Ginner" who was shown the ropes by a whacky bunch of community folks through song and dance.  The biggest lesson is that at DrupalCon, "you can't go two steps without a hug".  In fact this is offically part of the PHP coding standard, PSRB8: 	PSR8 https://github.com/php-fig/fig-standards/blob/master/proposed/psr-8-hug/psr-8-hug.md
+If I had not already sensed it, this was the signal that DrupalCon was going to be good this year.  Really good.   
+https://twitter.com/Crell/status/856842226017722368
+https://twitter.com/YesCT/status/856841283494715396
+https://twitter.com/AccidentalCoder/status/856841212271222786
+https://twitter.com/McDwayne/status/856840999850696704
+
+
+Dreisnote:
+(Opening remarks: https://twitter.com/shyam_raj/status/856863822774243328 )
+https://twitter.com/AccidentalCoder/status/856862286065147905
+https://twitter.com/comprock/status/856861839334019072
+https://twitter.com/hussainweb/status/856861647373299713
+
+Here are my unfiltered notes:
+"Sorry I hurt you, It hurts to see you hurting.  Q&A best time to talk about that"
+Focus on software
+Drupal 8.3 
+15,000 sites per month launch with D8
+Ambitious 
+YMCA not just a website, interconnectivity between systems is powerful
+Drupal has evolved, from project for hobby to something as a powerful to power things
+"enterprise" is misleading, non-profits and libraries are not really enterprises
+Ambitous digital experience
+ecosystem is ambitious as well.
+"I was right" city of SF story
+Lot of modules to port, please do that
+1 million D7 sites need to be migrated
+6 month release cycles are important
+Depricated APIs will still be supported
+D9 will Be d8 without the deprecated pieces
+Going to make upgrade path simple and lot of time to update code as D8 evolves
+8->9 should be as easy as 8.2->8.3
+7-8 might be the last hard upgrade
+Core team has added 4 people, with hundreds of hours of contrib
+Previews of what is coming
+impressive editorial process changes
+autorespond-bot is on git hub (based on obama admin whitehouse work)
+
+-------
+
+Project management the musical!
+The first non-note talk I got to see was "Project Management The Musical!" by the amazing due of Allison Mannly TWITTER and Joe Allen Black TWITTER.  This was to be the final performance as they were retiring the session.  I had been there over a year before in Midcamp when they had premiered it and was eagerly looking forward to see the last show in the run.  It knocked my socks off and for only the second time in any session I have attended, I was part of a standing ovation.  The other time was the opening show they did.  
+Rather than explain a musical to you, it is best to just go check it out here: LINK TO A COPY!!!!
+ 
+https://twitter.com/McDwayne/status/856936578714873856
+https://twitter.com/palantir/status/856939007317610497
+
+
+_________________
+
+Jam and Mattias from Typo3
+https://twitter.com/lizardata/status/856967049343578113
+https://twitter.com/sherrierohde/status/856966859471691776
+This one caught my eye as it was on the community stage and featured one of Drupal's more colorful characters, the awesome mustachioed JAM, from the prenote.  He was presenting with an unexpected guest, Mattias LINK from Typo3 community. If you are not familiar with their PHP CMS project, you should take a look.  They use some of the same PHP libraries and there is a lot ot learn from it, much like we can learn from WordPress or Joomla.  
+What they spoke about shook me to my core and was a personal wake up call.  I make my living off of the open source world and that world is under attack.  They explained that although free and open source software seeminly has won the battle for acceptance in the enterprise world, that fight is far from over.  While we have enjoyed a golden era of FOSS acceptance as the seemingly default 'right' approach, the large proprietary software makers have not gone away or even shrank.  They are using their size and vaults to lobby for position harder than ever.  They duo shared a few stories that have left me concerned in ways I had not thought about before. 
+First: 
+There is a set of laws on the books, but not yet enacted in placed like France that say a CMS must have a creator maintained SLA. Yes, that means all CMS must have a creator to deliver SLA for their software to be considered for government contract.  Who would be eligible in Drupal or WordPress? They also discussed the Canadian government's recent RFP that was written to exclude open source on similar grounds.  This is a troubling trend. 
+meaning no SLA.  
+They shared Joomla's story of temporarily losing tax status for their event governing organization.  This would have been disasterous had the other open source communities not banded together to help define German tax law.  How close did we come to a slippery slope there?  Too close to comfort for me. 
+The good news here is that it is not too late.  We still have an upper hand as we have a whole community to act, which is more valuable than any pile of cash.  We just need to work together to continually make the slice of the (web technology) pie bigger for all of us.  Let's compete against the non-CMS market and the proprietary stacks. There is enough room for all open source to win online!  
+
+_____________________________
+
+Anne Stefanyf
+Culture of engagement
+https://twitter.com/nikofthehill/status/856978327621578752
+https://twitter.com/McDwayne/status/856978706761478145
+She started off with a dance party!  I felt way more energized after that for sure! 
+I went to this talk because I am very interested in project and team management subjects.  The more I learn it seems the technology, though sophisticated, is not the hardest part of a project to manage.  It comes down to how you work with the other people involved.  Disengaged employees are not good employees.  Satisfied employees are OK, but not going to go above and beyond and ever do more than told.  Solid though and not too hard to engage though.  Engaged employees are thrilled to be there and feel personal stake in the effort.  You want as many of these folks on a team. 
+Openness is the key to achieving this. Share everything.  Trust your team.  
+It is important to remember that communication is different for different people. For example introverts find group exercises and discussions distressing, and extroverts might not do well with just online exchanges.  Read books to help understand other's perspective and definitely listen when given advice. Engage your teams.  
+The Q & A was very good with some real advice and tricky situations discussed.  I was very glad to be there and this is a talk you do not want to miss.  LINK RECORDING!
+
+Wednesday
+
+One of my favorite named talks in the whole show was: "Wait, there are 35 Symfony Components? What Cool Stuff am I Missing?"  Done by weaverryan LINK NAME
+Drupal 8 is built on Symfony, which is a collection of 35 independent libraries. 
+Drupal uses less than half of them! That means that there's a ton of other
+good stuff that you can bring into your project to solve common problems... as
+long as you know how, and what those components do!
+That is the session description from the website.  I couldn't describe it better.  Go look at his slides SLIDES
+This was the best technical talk I saw during the whole con.   
+--------
+
+Another technical talk, and the last non-note session I caught was "Avoid DEEP HURTING! Deployment beyond git" from Socketwench LINK NAME
+I have no need for such tools in my current role, but I strive to understand the deploy process and affiliated tools better all the time, since it helps me relate to the developers I am helping use my platform. Our presenter delivered a lot of humor and fun cartoons along the way while discussing a very serious issue and delving into multiple github repos.  I felt very grateful at the end that I don't have to hand build such a system nor maintain it.  Very informative talk.  
+
+
+
+Thursday
+
+The last session I had the opportunity to see was the day three Keynote: "Technology and Its Workforce at an Ethics Crossroad".  It was delivered by New York Times contributor and author Zeynep Tufekci.
+Here is the short version.  We are barreling towards Huxley's distopia, not Orwell's.  We are giving so much of our data away to folks that are maybe not currently going to abuse it.  but what about their successors?  What about 2 generations out?  These are tough questions.  There are a lot of good things happening, but the potential for abuse is astounding.  Make sure you check this out, if for nothing else than her story of a bus driver commendering a bus for an earthquake relief process.  LINK
+This talk really reiterated for me that the Free Open Source Software fight is more important now than ever before.  
+
+To wrap it up.
+I left Baltimore early in the morning for WordCamp Chicago LINK.  It was an exhausting week and I left feeling a little sore, but in amazing spirits about the future of Drupal and with a renewed sense of purpose toward FOSS. This was the best DrupalCon in the last few years.  Go visit this city, it is a real American gem.  

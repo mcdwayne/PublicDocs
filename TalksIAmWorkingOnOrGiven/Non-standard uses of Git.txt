@@ -1,0 +1,9 @@
+Non-standard uses of Git: Better than Evernote and Google Docs
+
+When learning Git I started keeping my text doc notes on Github to learn the process.  What I quickly noticed is there were a slew of advantages that this methodology gave me over other tools I had been using to keep track of my writings, such as Evernote and Google Docs.  This session is to share my experiences around a non-standard use of the tool and what I learned from the community as I explored the use case further.  There are a lot of correlations in similar tools and I hope this session would inspire conversation over other 'odd but productive' uses of our common tools.  
+
+Topics will cover: 
+Git basic workflow
+Basic blog/content creation best practices
+Community feedback for 'weird' usage of tools
+Thinking about all tools for larger advantage than 'described on the box'

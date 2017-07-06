@@ -1,0 +1,4 @@
+Configuration Management in WP: Stop overwriting your DB
+
+You have developed the next awesome version of your website locally or on a dev server and are ready to deploy those configuration changes to production.  But there is a lot of new customer data since you cloned that DB, how do you make these changes?  Put the site in maintenance mode and hand configure again on the live environment? Or worse yet, do you just overwrite the DB and hope for the best? What if I was to tell you there was a away to take all those changes, store them in code and safely update the live DB with that information.  Enter the WP-CFM plugin.
+In this session we will see this plugin in action and talk through use cases where it is and is not a good idea.  We will also look at automating this process via your workflow strategy by leveraging the WP-CLI.  

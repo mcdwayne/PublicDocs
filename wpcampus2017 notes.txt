@@ -1,0 +1,317 @@
+WPCampus 2017 - Good times in Buffalo and fireworks at the Falls
+
+
+General:
+https://twitter.com/SteveRudolfi/status/885844419504746496
+https://twitter.com/mpmike/status/885821397683109888
+https://twitter.com/mackensen/status/886257802842222592
+
+https://twitter.com/wpcampusorg/status/886286451327062016
+https://twitter.com/AndrewOrtolano/status/886310981722308609
+
+
+Pre-party:
+https://twitter.com/wpcampusorg/status/885655492957278208
+https://twitter.com/boldgrid/status/885645041347301377
+https://twitter.com/boldgrid/status/885847629254598658
+
+Friday -
+Dinner:
+https://twitter.com/McDwayne/status/886018396042784769
+
+Niagra Falls:
+https://twitter.com/ShantaDotCa/status/886211593289306112
+https://twitter.com/jpurpleman/status/886048786287661056
+https://twitter.com/jpurpleman/status/886042434148466689
+https://twitter.com/mpmike/status/886039705246208001
+https://twitter.com/boldgrid/status/886038892364910592
+https://twitter.com/mpmike/status/886030979806220289
+
+After, after:
+https://twitter.com/jesselavery/status/886049017616117760
+https://twitter.com/corycgarrett/status/886012590576553985
+
+Opening remarks
+https://twitter.com/BrianDeConinck/status/885847154123837441
+https://twitter.com/McDwayne/status/885847550510628864
+
+Closing Remarks:
+https://twitter.com/boldgrid/status/886345905024229377
+
+Saturday After Party
+https://twitter.com/thatmitchcanter/status/886396054131941376
+
+Karaoke:
+https://twitter.com/jpurpleman/status/886374928303435776
+https://twitter.com/wpcampusorg/status/886373863986266118
+https://twitter.com/wpcampusorg/status/886372985409601538
+https://twitter.com/smcl/status/886372196024819713
+https://twitter.com/donnatalarico/status/886372152240476160
+https://twitter.com/wpcampusorg/status/886371248774811648
+https://twitter.com/cgrymala/status/886422243147993088
+https://twitter.com/cgrymala/status/886420682661404672
+https://twitter.com/cgrymala/status/886416188938612736
+https://twitter.com/donnatalarico/status/886409359890288640
+https://twitter.com/wpcampusorg/status/886400670127063041
+https://twitter.com/McDwayne/status/886395677630181376
+https://twitter.com/donnatalarico/status/886379953268416512
+https://twitter.com/donnatalarico/status/886378399740112896
+https://twitter.com/wpcampusorg/status/886377989042298881
+
+
+My talk:
+https://twitter.com/michelleames/status/885854762956140544
+https://twitter.com/donnatalarico/status/885854378162257921
+https://twitter.com/BrianDeConinck/status/885857063007653889
+https://twitter.com/RichHill73/status/885854636812505088
+
+A survey of WordPress online learning plugins
+Chris Lema
+
+Never been a better time, never cheaper,
+Story of Argonne, layoffs, he remained, had to go ask for $2K and that was a lot for equipment for a website project.  
+Now is almost all free software.  
+People need encouragement
+People need certificates
+Gave info about a lot of plugins in a nice grid of features, highlighting what each could do
+Lunchbox does one thing well, video lessons.  thats it
+LearnPress 
+Sensei - part fo WooCommerce
+liftercms
+LearnDash
+A product with more features will take more time for configuring!  
+Ten mistakes not to make:
+1 Don't forget to capture course AND cohort metrics (mixPanel can help with this)
+2 Performance metrics - get them, is it working?
+3 capture project (cost) metrics
+4 Don't forget that you have multiple stakeholders
+5 integrate metrics with email notifications
+6 Don't forget everyone is using their phones all the time
+7 everyone is being interrupted all the time (James patterson effect)
+8 Short videos are cheaper to produce and easier to consume,  (shorter better)
+9 everyone needs encouragement and motivation
+10 don't forget to test everything, NOT just your content.
+May not even need a LMS plugin
+maybe just protect content
+or build basic content for everyone (page builders)
+and some forms
+https://twitter.com/SusannahCodes/status/885872576479756288
+https://twitter.com/dimensionmedia/status/885871471272370177
+https://twitter.com/SusannahCodes/status/885873116873936896
+https://twitter.com/SusannahCodes/status/885876727305707521
+
+
+I do(n’t) belong here
+Ashley Kolodziej
+@ashleykolodziej
+millenials and trophys agin
+false praise makes us mistrust all compliments
+things you go through at first year of life
+1- feeling like you can't get it right
+sometimes you get a grwat job in review, hard to accept
+2- I just got lucky - blaming on external factors for success
+Red pen 
+lot of pressure
+they must have made a mistake trusting me
+its only because i overprepared, cant keep it up
+feeling like dont belong here
+im not a developer - just not feeling like know enough
+negative reinforcement of identity "as a mother"
+identity is like pickup sticks - complex overlap between identities
+stereotype threat - the 
+solving this is really a group effort
+
+
+https://twitter.com/SteveRudolfi/status/885884761696350208
+https://twitter.com/donnatalarico/status/885885574598586370
+https://twitter.com/donnatalarico/status/885890519569764353
+https://twitter.com/SteveRudolfi/status/885890404972998656
+https://twitter.com/donnatalarico/status/885893576391094273
+https://twitter.com/WordImpress/status/885901898020044800
+https://twitter.com/SteveRudolfi/status/885896165975359490
+
+
+Lunch - 
+Vegan encheladas, awesome sauce
+vegan mac and cheese
+chips
+
+
+How to scale WordPress across a university
+Room 1053
+Malik Singleton
+Jenny Kijowski
+Kelsey Buttendorf
+Peter Arbaugh
+Analytics, Multisite, Performance, System Administration
+ @MalikFromLA
+ @digitalgallatin
+ @KButtendorf
+ @peter_arbaugh
+
+
+https://twitter.com/McDwayne/status/885924564387213314
+https://twitter.com/McDwayne/status/885929296354840578
+
+
+WordPress high performance hosting
+
+Guillaume Molter
+@guillaumemolter
+On AWS, this is complex.
+need a few tools
+
+https://twitter.com/EBarney/status/885939332707692545
+
+Jeremy Felt
+https://twitter.com/corycgarrett/status/885952246583885824
+
+
+
+
+Interview like a journalist, write like a marketer: Telling stories with heart…and accuracy
+Room 1004
+Donna Talarico
+Content, HighEdWeb Member
+ @donnatalarico
+
+Don't make your subjects sound like robots
+Go offline for sources, not all the best stories are (already) online
+Don;t be afraid to go the distance 
+Think about in person interview, but how to conduct it matters
+Build Trust
+Observe your subject,
+Observe your surroundings.  Pay attention to little details from the environment.  
+don't prepare too many questions, let the interview be a conversation
+Open ended questions, not yes/no questions
+lead them to tell you stories
+ask follow up questions
+Listen carefully!
+Think about your body language
+Be quiet, give them room to think and formulate their thoughts
+Be humble
+Be open
+Bring what you need, and bring what you don't need, better to be 
+Get your subject's phone unmber just in case
+record the conversation as well as your notes
+prepare for the weather, maybe plastic bags for your gear
+Coming with a team, hide all internal woes, just be professional
+Video considerations, lock the door.
+Email interviews are not good, impersonal and lazy
+surveys are OK with email but too many things 
+but people write different than they talk (NYC example)
+People don't talk in bulleted lists
+You want warmth in your stories, emails are the worst for this
+Part 2 - Using your content
+Write, then dig - you remember the important parts already
+But I don't have time  Or things.
+
+
+https://twitter.com/michelleames/status/885959363785093120
+https://twitter.com/Mark_Gallimore/status/885957602319978498
+https://twitter.com/michelleames/status/885957132851568640
+https://twitter.com/McDwayne/status/885956848641290240
+https://twitter.com/Mark_Gallimore/status/885965582331514881
+
+
+
+
+Code reviews: People use it, so it must be fine
+Ronnie Burt
+Joe Fusco
+ @ronnieburt
+ @heyfusco
+ 
+ 38% of themes were bad in their inspection
+ 
+ Myth:
+ 1) Paid is better than free
+ 2) new better than old
+ 3) # of downloads == quality
+You got to test this stuff out
+annoying menus? Any ads? Overlapping plugins?
+Performance with New Relic!!! P3 PLugin, StatsD WP Client, xdebug, AWS Cloudwatch Logs
+Campuspress code check plugin - freely available and new (being improved)
+Git/Bitbucket - code check plugin - test locally
+Many small suggestions.
+
+ 
+ https://twitter.com/RichHill73/status/886209574532939776
+ https://twitter.com/mackensen/status/886208300920049664
+ https://twitter.com/McDwayne/status/886211560078704641
+ https://twitter.com/BrianDeConinck/status/886214284870602754
+ https://twitter.com/ronnieburt/status/886227561814126592
+ 
+ 
+A look at the modern WordPress server stack
+Carl Alexander
+@twigpress
+Used to be simple LAMP and you had afast WP site
+Good old days
+Now everything wants to load a lot faster
+HTML always leads first responce
+Nginx FTW! Built for traffic.  Less config needed
+you want to hit PHP as little as possible
+PHP is a bottleneck
+Cache as much as possible HTTP responses
+Easy- plugin
+middle hard - on server caching (good to handle ddos)
+hard but best: Varnish
+Easy Engine
+
+
+
+(This is the best thread for summary: https://twitter.com/EBarney/status/886230674977456128)
+
+
+
+https://twitter.com/RichHill73/status/886224659649351681
+https://twitter.com/jpurpleman/status/886224345684750336
+https://twitter.com/jpurpleman/status/886223953303416833
+https://twitter.com/McDwayne/status/886225870242938880
+https://twitter.com/EBarney/status/886226339400994817
+https://twitter.com/EBarney/status/886226818189197315
+
+
+
+A technical plan for success: Preparing to optimize 4,000+ sites at NYU
+Room 1053
+Daniel Cunsolo
+Test, automake tests
+Revelations from their audits:
+WP-options table bloat - things being stored in there is crazy, autoloading entire giant files stored in there incorrectly.  
+
+https://twitter.com/EBarney/status/886239952035610624
+https://twitter.com/McDwayne/status/886241605379903488
+
+
+
+A four-step guide on how to succeed at practically anything
+Room 1004
+Lori Packer
+@LoriPA
+Mission statements get a lot of flack, if good, will really guide you
+Focus on what is important
+find emotional connection to tell story
+Self determination theory
+TSA instagram account is awesome, single guy runs it
+
+
+https://twitter.com/donnatalarico/status/886291659465650176
+https://twitter.com/digitalgallatin/status/886293800422965249
+https://twitter.com/donnatalarico/status/886296673898647552
+https://twitter.com/lfalck/status/886296856090816512
+https://twitter.com/donnatalarico/status/886296188634492935
+https://twitter.com/donnatalarico/status/886296999817084928
+https://twitter.com/donnatalarico/status/886299339823382529
+https://twitter.com/donnatalarico/status/886298097025986561
+https://twitter.com/EBarney/status/886298558512717825
+https://twitter.com/donnatalarico/status/886301562305490944
+
+
+On the move: Website migrations debunked
+Jonathan Perlman
+ @jpurpleman
+Gonna take a lot of tools.  Lot of em.  You _could_ do this with 
+
+https://twitter.com/McDwayne/status/886309329586049026

@@ -1,3 +1,28 @@
+150 minutes + 15 minute break
+
+5 minutes: Intros 
+10 minutes: Why Git?
+20 minutes: Basic Git Concepts
+	Folders and folders.  
+	Creating a git project
+	Distributed, not centralized, by design
+	HIdden folder .git folder contains the branches, change sets.  If deleted it is gone man
+	NOT A BACKUP - you still need to back it up. 
+	Highly transportable
+	Even through text file 
+30 minutes: Download, install, create first project. (65 min total)
+15 minute break (80m)
+15 minutes: Github explanation and set up (95m)
+10 minutes: SSH keys
+10 minutes: remote synch (https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/) (115m)
+10 minutes: doing changes locally and on github and synching (solo) (125m)
+30 minutes: team! checkout and feature branching (155m til end)
+
+
+
+
+
+
 Why
 knowledge workers
 what the tool is
@@ -56,3 +81,57 @@ Child theme?
 just turn this into a page???
 
 tips can go wrong
+
+
+
+
+
+------------------
+
+Folders and folders.  
+	Creating a git project
+	Distributed, not centralized, by design
+Init
+	HIdden folder .git folder contains the branches, change sets.  If deleted it is gone man
+	NOT A BACKUP - you still need to back it up. 
+	Highly transportable
+	Even through text file 
+	
+Status - change 1
+git add filename.ext
+status
+change 2
+Change 2 not in there - this is because only stages at the point in time version
+need to add again
+
+Git add .
+git add *.ext
+
+If you want to ignore something we are going to create a .gitignore file that stores specific files we do not want tracked
+Best idea is to use "touch .gitignore" to create this
+
+All this is based on the concept of branching
+Making a copy for you to work on.  Since this is all distributed, this does not stop anyone else from making changes to the master
+
+git branch _branchname_
+git checkout _branchname_
+modify
+git status
+git checkout master
+Make sure you are in the destination branch you want with git status
+git merge _branchname_
+
+merge conflicts
+a branch is out of line with the master now
+must fix,
+good tools you can use for this, YMMV
+
+git stash
+git stash apply
+
+
+Erik - helped him - pull requests are sexy from local
+understanding what a branch was 
+Git Flow: visual article 
+http://nvie.com/posts/a-successful-git-branching-model/
+

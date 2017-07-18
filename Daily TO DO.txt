@@ -1,4 +1,63 @@
-DAILY:
+DAILY: 
+http://existentialcomics.com/comic/28
+
+7/18/2017
+Video Project Catch up
+Git Workshop Outline and Slides
+WP-CLI slides
+Outline GovCon talk
+WP Markting catch up
+
+
+7/16
+WCBoston OSS panel prep (reply to emails and brainstorm questions)
+Publish WPCampus blog
+Git Workshop Outline and Slides
+WP-CLI slides
+Outline GovCon talk
+WP Markting catch up
+
+7/12
+Produce Video for Connecting Domains
+Record audio for Configure DNS and HTTPS
+Generate knowledge doc and training vid for new Custom Upstreams
+Git Workshop Outline and Slides
+WP Marketing project management catch up
+Elevator pitch custom upstreams
+
+7/11
+iThemes Webinar
+Rework slides for WPCampus talk
+Git workshop slides
+WP Campus Prep
+
+7/10
+WP-CLI prep for Tuesday
+Git workshop slides
+~Scoping call ride along~
+Rework slides for WPCampus talk
+book Denver
+
+
+7/10
+WP-CLI prep for Tuesday
+Git workshop slides
+Scoping call ride along
+Rework slides for WPCampus talk
+
+7/7
+Make sure all trip logistics are actually on my calendar
+~WP-CLI webinar prep (draft 1 of slides with screencapture GIFs) [Whew]~
+Run through Webinar prep on Tuesday
+Git workshop slides
+
+
+7/6
+Git workshop outline
+WP Marketing outreach for case studies and video testimonials
+WP-CLI webinar prep (draft 1 of slides outline)
+JumpStart training (QS and Hotfix)
+Run through Webinar prep on Tuesday
 
 7/5
 Git workshop prep

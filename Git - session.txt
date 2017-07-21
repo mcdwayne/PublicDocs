@@ -1,5 +1,0 @@
-Let's learn Git.  No more excuses.
-
-Whether it is for re-using the same code or deploying a bug fix or just for better document management, one of the most important leaps any site builder will ever take in their path towards becoming a developer is learning a version control system, or VCS.  Since Git is the standard VCS over 80% of developers, lets roll up our sleeves and dive in.  The benefits far outweigh the efforts needed to learn this tooling.  Once you start, you will wonder why it took you so long to unleash the power of this awesome tech.  
-
-This talk will briefly explore the need for git, the history and use cases. Then we will jump into how to get started and the basic organizational concepts. We will also examine Github, the web based Git hosting service.  Bring your laptops to play along at home and get started before you leave the room.  

@@ -1,12 +1,17 @@
-If you are working at an agency the chances are pretty good at some point the emails from your forms ends up breaking.  There is a whole pile of reasons this might have happened, but most times it comes from the hosting provider making some kind of change or a misconfiguration with those tricky MX settings.  
-Aside from the errors of 
-Here ar Pantheon
+If you are working at an agency the chances are pretty good at some point the emails from your forms ends up breaking.  There is a whole pile of reasons this might have happened, but most times it comes from the hosting provider making some kind of change or a misconfiguration around MX settings.  
+Traditionally devs have shoves a website onto a server along with the email server.  There are some pretty obvious technological risks for this, like what happens when you run out of disk space or get sent too many emails at once. There are also the security risks.  We all remember what happened with [Sony](https://www.wired.com/2014/12/sony-hack-what-we-know/), where everything was being run on the same infrastructure.  Once the hackers got in it was easy to map the network and get all the info they wanted. IN fact while researching this post I realized that one of the more common questions around email from forms is: "How do I figure out which website got compromised and which script has been sending the spam?" [https://www.spamhaus.org/news/article/718/stop-spammers-from-exploiting-your-webserver]
 
+Keeping your email infrastructure completely separate from your website is just an all around better idea. Here ar Pantheon we firmly believe that the best way to deal with outgoing email is a third party system designed to do exactly that. 
 
-"How do I figure out which website got compromised and which script has been sending the spam?" https://www.spamhaus.org/news/article/718/stop-spammers-from-exploiting-your-webserver
+There are a couple technological hurdles you should be aware of:
+
+1) Your server bindings will change - this is completely normal for a container based infrastructure and this is a good thing overall.  However, specifically in the case of SMTP setup, this means that it might (might) initially work but then suddenly stop and never work again.
+
+2) All internet email systems use a non-confirming delivery protocol, which means that there is a no guarantee that an email sent from you will be delivered to the intended recipient.  Given this underlying point, it is better to use a service that will "use commercially reasonable efforts" to get that mail to the target.  
+
 
 
 Some reference materials:
 http://www.wpbeginner.com/wp-tutorials/how-to-fix-wordpress-not-sending-email-issue/
 https://ninjaforms.com/ninja-forms-email-not-working/
-
+https://wordpress.org/support/topic/jetpack-contact-form-not-sending-email-2/

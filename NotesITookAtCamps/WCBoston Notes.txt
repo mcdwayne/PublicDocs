@@ -1,0 +1,147 @@
+Pre-party dinner:
+https://twitter.com/boldgrid/status/888556831941038083
+
+General:
+https://twitter.com/a2hosting/status/888725347918913538
+https://twitter.com/pixleight/status/888732933124706306
+https://twitter.com/jeckman/status/888748705733459968
+https://twitter.com/inderpreet99/status/888842672655532033
+
+Opening remarks/Keynote:
+KEYNOTE: DESIGN + INCLUSION
+John Maeda
+
+To talk about the future you must address the fears
+collected our fears
+PHP based, not the new kid on the block, but still solid and massivle use
+First exposure to the community?  Fears of not knwoing what up, inclusion
+If someone tells you Open SOurce like WP is not secure, remind them that all systems have vulnerabilities we just DON'T KNOW! Facebook does not disclose their flaws for example
+Many older people use all upper case since it is more legible, not all old people are yelling at you.
+Fear: Lose new users with changes like Gutenberg
+Resistance means somebody cares
+it means people care
+when you meet it, get excited
+things are moving fast, don't be afraid of that, be afraid it it moving too slow
+the way we age is not the way the world really works
+things speed up, not slow down
+Winter 
+
+https://twitter.com/nathaningram/status/888748808506667008
+https://twitter.com/heyadamsilver/status/888747993154940929
+https://twitter.com/MatthewTNelson/status/888749016292491264
+https://twitter.com/WordCampBoston/status/888749049733689344
+https://twitter.com/jpurpleman/status/888749492333412353
+https://twitter.com/desrosj/status/888752004515987458
+https://twitter.com/kadamwhite/status/888753669591764993
+https://twitter.com/jpurpleman/status/888754289811783680
+
+HAPPINESS BAR TIME:
+all sorts of interesting stuff
+some had us chasing error messages and some had us doling out some basic content strategy.  
+It was fun! 
+https://twitter.com/McDwayne/status/888761029726961664
+
+Plugins panel:
+Good questions
+Depends is a common message
+How to get the last % of way there for projects?
+how do I go from stage to live
+How to determine what is a 'good' plugin, how do you evaluate
+
+https://twitter.com/emagineusa/status/888822899192233984
+https://twitter.com/McDwayne/status/888823461732372480
+https://twitter.com/emagineKrystal/status/888822220360998912
+https://twitter.com/emagineDawn/status/888831080656228353
+
+
+Open source panel:
+Man what a good discussion
+SOAP BOX
+
+
+After Party:
+https://twitter.com/MeganUtterback/status/888903734117494784
+https://twitter.com/bassthumpa/status/888898712910614530
+https://twitter.com/TheAzLeslie/status/888887501888385026
+https://twitter.com/pixleight/status/888887263601577984
+https://twitter.com/boldgrid/status/888881986982621184
+https://twitter.com/desrosj/status/888881979453841408
+
+
+
+Karaoke:
+https://twitter.com/mgratch/status/888976288941301760
+https://twitter.com/cicichirinos/status/888966005728346114
+https://twitter.com/McDwayne/status/888961359106498560
+https://twitter.com/bamadesigner/status/888945624955179008
+
+
+Speaker Brunch:
+https://twitter.com/McDwayne/status/889147841251299329
+
+
+Keynote: Democratizing Software
+K.Adam White
+Though anyone can code, not everyone gets the opportunity to code 
+PHP learned through HTML and sort of a backwards way.  Can't learn JS like that
+neiche skills, backbone
+Wordpress is for learners
+How did WP become a learning community
+
+
+https://twitter.com/heyadamsilver/status/889147019876585474
+https://twitter.com/hirozed/status/889148297704812544
+https://twitter.com/erinmharris/status/889148835825688578
+https://twitter.com/erinmharris/status/889148459797893123
+https://twitter.com/McDwayne/status/889147638125404162
+https://twitter.com/stanographer/status/889149192488325120
+https://twitter.com/pixleight/status/889149467378712576
+https://twitter.com/pixleight/status/889150221791494144
+https://twitter.com/melchoyce/status/889150381837742080
+https://twitter.com/hirozed/status/889150549630779392
+https://twitter.com/erinmharris/status/889152325507403777
+
+
+Contributor Day
+
+How to get started
+
+
+
+Freelancer session
+
+https://twitter.com/heyadamsilver/status/889198928599691265
+
+https://twitter.com/erinmharris/status/889206071923011584
+https://twitter.com/TheEdPerry/status/889205624290127873
+https://twitter.com/McDwayne/status/889205072588132352
+https://twitter.com/erinmharris/status/889203471282581508
+https://twitter.com/erinmharris/status/889202616647004161
+https://twitter.com/erinmharris/status/889202139515555841
+https://twitter.com/erinmharris/status/889201736279359490
+https://twitter.com/erinmharris/status/889200347939557376
+https://twitter.com/erinmharris/status/889199902626115586
+https://twitter.com/erinmharris/status/889206854282301440
+
+
+CSS Grids are here
+
+History, we went flash, then siplify for all devices, we got too simple
+now we have grids
+firefox has better tools,
+have the browser do the math, we can use fr = fractions 
+template comments and template rows
+spans, explicit or implicit, works
+repeat! repeat(5, 1fr)
+can mix releat with implicit parts of Grid.  
+It is here in all browsers, even Edge as of yesterday thanks to the pushing of folks like Jenn Simmons
+
+https://twitter.com/pixleight/status/889217415384629249
+https://twitter.com/erinmharris/status/889212917916340224
+https://twitter.com/McDwayne/status/889212720658223104
+https://twitter.com/meaganaobrien/status/889219540802052096
+
+
+Automating WordPress Updates With Visual Regression
+Andrew Taylor
+https://twitter.com/McDwayne/status/889223632412696578

@@ -1,0 +1,145 @@
+Contributor Day
+How to get started
+
+(poll: a few have before, a few new)
+Why COntribute
+Learn new skills, gett better, meet people from all over the world
+those connections lead to great jobs fo travel opportunities
+know some of from their WP contrib
+make a difference for 20% of internet using WP
+
+First place to look is make.wordpres.org, list of all working groups
+this list is ggod refernce points
+go over the majore plaes to contrb today
+
+accessiility team makes sure it is useable by everyone, testing out and making improvements
+check out ghtier get invovled page
+screenreader hlp needed
+
+core build the wp software itself
+bug tracking and new fatures
+if you want to work on the software itself
+if you are a beginner, all welcome
+new dev is to test patches locally, patch files need to be applied and to have a local PW install and docuement the exeperience
+screenshots FTW
+if anytihng changes, helps without having to do more
+
+Polygott going to 140 languages
+just how up if you read/write other languages
+translate themes and plugins
+tet translatiosn as well, for undersrved languages especially
+
+Design team serves many other areas of wordpress
+helps comunity for with design contributing
+
+support, everyone knows something that other people don't
+help epople with their issues and learn along the way
+always someone newer than you
+
+docs help people write content
+suggest copy for WP itself, inline docs and handbooks
+if you comfortable with PHP files, need in-line help, helpful for new folks to WP, default theme editd and there is explanation there, is great
+Also dev hub
+
+Theme review
+Reviews all theme on directory, sharpen your theming skills
+
+Meta, wordpress.org team
+custom systems, social media ones, ticketing systems (NAMES!!!!)
+we built that
+
+Community, organize wordpress meetups and wordcamps
+allows people to learn ew skills and network
+join meetup groups and look for organizer meetups
+welcoming to help plan events
+
+speaking, share your wordpress knowledge,
+everyone has something to share, inposter syndrome stops us
+new skils we learn
+writing content and running a business
+
+mobile team, creates ios and android apps
+Java, C c++ here
+
+Training team, downloadable lesson plans
+teacher or eductor, write some lesson plans
+best way to know someting ti is tach it, also makes it sink in for you teaching
+
+WP.TV, moderates and loads the WO sessions, moderating team
+also CC, translators needed too,
+spread the knowledge from around world to people who can't go to WC locally
+
+Plugins, help peple get into the directory
+securable and 
+
+Ready to start??
+1) go to make.wp.org
+2) pick a team
+3) find the handbook
+4) get on slack - most day to day contributing comunications happen
+
+If want to learn how to get WP locally and working on patches
+if want to get together
+
+sit together and work
+if any general sessions 
+cool
+thanks
+
+Putting things in a post they are writing right now
+
+https://2017.boston.wordcamp.org/2017/07/23/contributing-to-wordpress/
+
+-----------------------
+
+My thoughts
+People auto gathered in groups, with the bulk condensing to the cor table.  
+
+working a long time, afraid to leave the house
+understand
+
+What do yo do with WP
+
+Themes custom plugin work
+not great with dealing directly with people
+that is OK, everyone can contribute
+SO SUpport the team is very boisterous
+
+Theme team is INTENSE< no off witch
+Plugin team is on lockdown
+Docs though, bredth of knwelde
+because he is a developer
+
+that lit a spark in him
+excited he can help 
+without leaving his little box
+
+"aught to have more WP friends"
+
+but not all everything is overcomable
+
+Does not negate that you are giving to and part of the community
+
+DO want to give back, WP has supported me for a long time
+selfishly, if do this, then not just in his head, sitting with his sadness reading blog posts, can only learn so much from that, have to expose yorself to people and learn
+no tother wayt og et it thant o get it
+reach ot as have questions
+
+A lot harder today than was 7 years ago or so
+
+Mike had a problem with mod security
+someone had an htaccess question
+she knew answer
+slowly started answering questions
+got invited to moderation team
+had to check email on phone to get recaps, could'nt be on IRC
+worked at a back
+blogging about the problems she was solving, likes to write
+has an interesting voice
+WC SF invited her, 
+she never spoke before, was terrified, went well, lead to DreamHost job
+Don't regret 
+(Mika's contributions)
+
+
+D and D style "alignment" personality test to 'sort ya"

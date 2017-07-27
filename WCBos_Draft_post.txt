@@ -1,0 +1,141 @@
+Last time [I was in Boston][1], I was really in Cambridge for the most part. I returned for the second time this year for WordCamp Boston 2017 and got to see the nightlife in bean town proper. Once again this camp took place at the [Boston University's George Sherman Union][2], which features an amazing [gigantic pipe organ][3]! It was amazing to see my #WPLife family out there and meet so many new folks. I didn't ge to go to as many sessions this time around, but I stayed super busy at the camp and have so many thoughts. Let's dig in.
+
+https://twitter.com/pixleight/status/888732933124706306
+
+### Food and Fun
+
+##### Friday night
+
+If there is one thing you get used to at any WordCamp or DrupalCamp it is the tradition of the Speaker (and sometimes Sponsor) dinner. Typically the organizers invite the speakers to meet and greet one another. I always love this part because speakers, in general, are super busy during the event itself and this is the best chance to catch up or get to know them in the entire weekend.  
+Well, WCBos is a little different insofar as they still believe in this idea as you will read a little further down, but there were no pre set plans on Friday. This fact did not go unnoticed by some of the road dogs and we quickly made plans to check out [Citizen Public House][4]. Very glad we did, as they had a huge selection of fine spirits, a terrific menu and outstanding service as they gracefully handled an uncertain party size with people trickling in throughout our time there. If you find yourself anywhere near BU, check them out! It was fantastic to get together and catch up with those I knew and had the pleasure of meeting several new friends as well. Well fed and refreshed, we were officially ready for day 1 to begin.
+
+https://twitter.com/boldgrid/status/888556831941038083
+
+##### Day one
+
+The morning was met with the normal pastry, fruit, coffee catering you know and love. Well love is a strong term. I was thrilled when the GoDaddyPro crew pulled up with growlers full of iced coffee, which was tremendous. I didn't get the name of the place they ordered from, but it was fine!  
+I was delightfully surprised by my vegan option at lunch. We had brown bags prepared for us and I, unsurprisingly, had a wrap of some kind. Surprisingly it was 'meaty' with thick eggplant and a generous amount of hummus and came with an oatmeal raisin cookie that satiated my sweet tooth, which had been trigged by all the donuts being offered that morning. Afternoon snack was ice cream and lemon sorbet.  
+<img src="https://www.mcdwayne.com/wp-content/uploads/2017/07/IMG_20170722_123725-300x181.jpg" alt="Picture of a vegan wrap, a red aple and a half eaten cookie" width="300" height="181" class="alignnone size-medium wp-image-322" />
+
+##### After Party
+
+Immediately after the final session, ending at 5:20, we migrated down the street a ways to the Brighton district and the [White Horse Tavern][5] for a very well attended after party. This local sports pub had a lovely patio and really friendly staff. There are some advantages and disadvantages to starting an after party immediately after a camp day. On the one hand it means your attendance is going to be much higher, as the stride of being together isn't broken and the rest of your life hasn't had the chance to seep in and distract you away. but I find it makes for a higher early attrition rate as folks need to go get a 'real meal' since hungry crowds tear through appetizers which only whet the appetites after burning so many calories swimming though so many bits of new information and conversations. It also means you don't have any recovery period from the day. I, for one, get exhausted interacting with people and need little pockets of quiet and reflection to recharge. It does not mean I don't enjoy people but it does mean that without a break I am noticeably more exhausted when my head hits the pillow and I find my mind less at peace as it churns through examination of the day. All in all this was a great, very well run party and I 100% applaud the organizers for making a very inclusive and well attended after party! I had a graet time.
+
+https://twitter.com/TheAzLeslie/status/888887501888385026
+
+##### WCKaraoke!
+
+"After the party, there's the after party" - Remix to Ignition. I got to hear a spectacular version of this sung by one of the local regulars to our spot of choice for WCBos WCKaraoke party, [Limelight Stage and Studios][6]. While only beer/wine, this place had a full [izakaya][7] menu. There are many private studios you can rent out but we were there to use their main stage that night. This place was happening on a weekend night, but fortunately for us most of the people there to sing were in the private rooms which let 20some of us campers sort of take over the main stage area. I was delighted to read on twitter at one point that WordCamp Ottowa was not only having their own WCKaraoke party but actually where challenging us in Boston to 'show them what we got". Which of course we did!
+
+https://twitter.com/mgratch/status/888976288941301760
+
+##### Sunday Brunch
+
+As I said above, the organizers believe in the speaker/sponsor get together fully, but they are unique in the WC world (as far as I know) with having a speaker brunch, with is logistically possible thanks to an 11:30 start time for the camp itself. We got together at [Tavern in the Square][8] for a delightful brunch buffet. I ate *way* too many waffle fries and not nearly enough fruit. There is no lunch on day 2 so I figured that was a good idea at the time. The iced coffee they served up was tremendous. Next time I am near there, I am going just for that. Full and caffeinated we headed to the venue to. . . .
+
+https://twitter.com/McDwayne/status/889147841251299329
+
+### Sessions
+
+##### Keynote:
+
+[Design and inclusion][9] [John Maeda][10]
+
+This talk immediately took an unexpected format, as it was not your typical "here are slides about a thing" setup. Instead he asked folks to find the red slips of paper that were distributed and write down their fears. Then he collected them and directly addressed them. His logic: "To talk about the future you must address the fears." While I don;t think he, or any one person, has the full answer to many of these concerns, he gave everyone in that room a jumping off point to articulate our fears and begin a communal dialoge about our future overcoming them. I was very glad to be a part of that room. I will put my raw notes below this paragraph, which you will see are a tad disjointed as the topics changed rather rapidly. Highly recommend watching this when it gets on WordPress.tv.
+
+PHP based, not the new kid on the block, but still solid and massivle use First exposure to the community? Fears of not knwoing what up, inclusion If someone tells you Open SOurce like WP is not secure, remind them that all systems have vulnerabilities we just DON'T KNOW! Facebook does not disclose their flaws for example Many older people use all upper case since it is more legible, not all old people are yelling at you. Lose new users with changes like Gutenberg Resistance means somebody cares it means people care when you meet it, get excited things are moving fast, don't be afraid of that, be afraid it it moving too slow the way we age is not the way the world really works things speed up, not slow down
+
+https://twitter.com/desrosj/status/888752004515987458
+
+##### [Plugins panel]():
+
+[Adam W. Warner][11], [Christian Nolen][12], [Lisa B Snyder][13], [Lauren Jeffcoat][14]
+
+Of of the things I really appreciate about this camp is the panel discussions. Rathe than have speakers with prepared statements and slides, we have thought leaders and a moderator answering questions around a specific topic. In this case we got to hear very good questions, both preprepared and sourced from the audience, about plugins. Some questions of note: What is the safest way to update plugins? How to get the last % of way there for projects? How do I go from stage to live? How to determine what is a 'good' plugin, how do you evaluate? What are your favorite plugins.  
+It turns out the answer to almost all of these begins with the phrase "it depends" since the topic of plugins covers such a wide swath. This is a great one to watch at home when it gets uploaded.
+
+https://twitter.com/emagineKrystal/status/888822220360998912
+
+##### My session
+
+[Open source panel][15] [Dwayne McDaniel][16], [Jared Novack][17], [Mel Choyce][18], [Steven Word][19]
+
+I was very fortunate to be invited to moderate the open source panel at the event. When I was told I would be moderating, something I had volunteered to do if needed, I was not given too specific instructions on how to structure the panel or what topics around Open Source would be suggested. Given this opportunity I steered the conversation to 3 main areas. 1) What is Free and Open Source Software and why does that matter 2) How each person has contributed and how anyone can contribute and 3) what does the future of Open Source mean for WordPress. I feel pretty strongly about FOSS and I was thrilled to hear this passion from my fellow panelist as well. The biggest thing I wanted people to understand is that the community is that makes open source technology possible and it is up to each and everyone who is in the community to keep that community growing and vibrant. Without that, open source is just a pile of text files you can go look at.  
+Unfortunately I can find no pictures of this panel at this time.
+
+##### Day 2
+
+##### Keynote:
+
+[Democratizing Software][20]
+
+[K.Adam White][21]
+
+I was excited to see this man's name as the day 2 keynote presenter. Even though I have gotten to hear a number of his talks over the years every time I learn something new or find a new perspective. This was no exception and I left feeling inspired.  
+He talked about the reality that while anyone theoretically can code, not everyone gets the opportunity to code. Starting from there, he took us down a road of how those that have the opportunity to go this route learn as they go. I found it really interesting to hear his explanation that PHP, which stands for Pretty HTML according to him, is mostly learned through HTML and sort of in a backwards way in WordPress. This stumbling into it does not work for any other language like JavaScript, which is why that seems as hard as it does to most people starting out.  
+He also touched on the importance of a highly skilled and specialized community acting as a backbone to allow every person to develop their own niche, furhter strengthening the whole body when collaborating.  
+The best line from the whole talk I think though is "Wordpress is for learners". WP become a learning community. That is what we are even doing going to camps, either learning new skills or sharing the knowledge that we have with others. I am very grateful to be part of such a vibrant, supporting culture.
+
+https://twitter.com/hirozed/status/889148297704812544
+
+##### Contributor Day
+
+I am working on a separate blog post about this. Will link here when it is posted.
+
+##### [Freelancing Panel][22]
+
+[Amanda Giles][23], [Jennifer Nickerson][24], [Kyle Maurer][25], [Adam Silver][26]
+
+I always enjoy these panels. Not a lot to say as the questions varied wildly as the answers. Go check it out when up on wordpress.tv. Here are some tweets about it though.
+
+https://twitter.com/heyadamsilver/status/889198928599691265
+
+https://twitter.com/hirozed/status/889150549630779392
+
+###### [CSS Grids are here][27]
+
+[Juan Pablo Gomez][28]
+
+I am always quick to admit that design is not my strong suit and something I know very little about. I still hold the first part of that to be true (as evidenced by this site's layout [twentysixteen FTW!], but the second half of that becomes less true every single time I go to a camp thanks to amazing presentations like this one. He started us off with a quick history of design tooling, starting with raw HTML, going through Flash and Responsive design and added a few critiques of the resulting world. He helds a premise that as we have simplified for accommodating '*all*' devices, we got too simple and all sites started to once again look too much alike. But now, here in the present and looking into the future, we have grids.  
+Firefox was the first to embrace this standard and all the others, even Microsoft's Edge, have since followed.  
+At it's core it sets to achieve the goals that Responsive introduced. Which I am going to oversimplify as 'have the browser do the math'. This is seen in things like the use of 'fr' or fractions to set column and rows dimensions, template elements, implicit and explicit mixed use of elements and repeat built in. He also took care to thank the thought leaders that pushed this standard and made his work possible, like [Jenn Simmons][29]. The Q&A was delightful. If you are even the slightest bit curious about CSS Grid, this is the intro talk for you.
+
+https://twitter.com/McDwayne/status/889212720658223104
+
+##### [Automating WordPress Updates With Visual Regression][30]
+
+[Andrew Taylor][31]
+
+You know what robots are really, really good at? Repetitive tasks. You know what repetitive task is really boring and tedious but the entire security of the internet depends on? Updates. Let's make the robots do the work.  
+The short version, which Andrew has spelled out in detail in his [blog and github example repo][32] is this:  
+wp-cli update plugin/theme --all is awesome but dangerous. Doing it in a staging environment really good path, but manually testing gets monotonous and frankly impossible at scale. Continuous Integration services can be set up with testing tools to test every page, every time when doing updates. Further, it can report and automate emails to you and clients who you are charging update maintenance fees. It is a win-win, since they get frequent updates, you get far less manual effort required and there is a ton of safety built into the process to never take down a live site with a update ever again!
+
+https://twitter.com/McDwayne/status/889223632412696578
+
+##### Happiness Bar
+
+I looked back through my notes (Thank you to github for making that so simple btw) for any mention of happiness bar and I realized that I have never written about what goes on at these things.  
+For those who have never been to a WordCamp, there is a designated table or space for volunteers to basically hold open office hours for any and all WordPress related questions. And when I say any and all, I mean it quite literally.  
+At one point two of us were diving into a javascript issue with a single asset load malfunctioning on the most recent Chrome update. For a good 20 minutes we dug and dug. Finally we made some suggestions of solving this but they left with the issue still affecting live traffic. I was overjoyed the next day to have the person find me to report that one of the solutions we suggested had been implemented and the issue was solved! There is nothing quite like that feeling of "we fixed this together"!  
+Other questions ranged from HTTPS issues, design suggestions and plugin related discussions. As quite often happens with any technical discussions I was introduced to several bits of software for the first time and got to spread my love of the WP-CLI and LastPass (well password managers in general but that is my go to). You meet folks from all walks of life and stages of their WordPress learning curve. While it is awesome to know the answers to certain questions from memory I absolutely love having to look up information and show people how I got to the solution. No one knows everything, but Google knows where to find any bit of technical knowledge if you learn how to ask.  
+If you are going to WordCamps and want to get in on this action, definitely reach out to the organizers and let them know. This is such a vital part of what makes WordCamps special.
+
+https://twitter.com/McDwayne/status/888761029726961664
+
+##### Contributor Day
+
+I am working on a separate blog post about this. Will link here when it is posted.
+
+### Wrapping Up
+
+While I am awaiting the [Gutenberg][33] to harden a bit more I decided to start using the markdown language editor, if you see something weird (other than my spelling and grammar) please let me know.
+
+This was my 16th conference in 2017. Not a significant number in and of itself. I have 10 more trips booked at the moment and likely will have 3 to 5 more added on to make me hit or get really close to my arbitrary goal fo 30 for the year. So this trip was the 53.3% mark on that path.  
+So much has changed since the last time I was in Boston for this event, not just in the world and state of the Word, but in me as well. I often think of the words of Sean Tierney from [back at Pressnomics][34] Paraphrasing - "People come and go like seasons and you don’t always know wYou can never be mad at summer for passing though."  
+I have gotten to bask in the glow of so many bright and warm individuals in the course of my adventures and I hold each memory dear. I do get a longing feeling sometimes when I think about the fact that I only see certain people so few times a year and some people I might never see again. I can't say thank you enough for being part of my journey. It has made every step of it worth it.
+
+I seriously am looking forward to my next chance to visit the old city and find myself in the silicon valley of the east again. Hopefully sooner than later. At worst, it will be for WordCamp Boston 2018!
+
+https://twitter.com/jeckman/status/888748705733459968
+
+https://twitter.com/inderpreet99/status/888842672655532033

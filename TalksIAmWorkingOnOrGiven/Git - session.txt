@@ -27,3 +27,35 @@ Yes you can undo!  This is one of the greatest strengths of Git
 https://www.atlassian.com/git/tutorials/undoing-changes
 
 	
+	
+-1 init - What is in a folder
+-2 status - always works, always valuable
+-3  add - have git pay attention to temp changes
+-4 commit - actually have git remember these changes for real
+-5 log - show you the world.  I prefer --online
+-6 diff
+-7 revert - go back in time and 'undo' the commit SAFE approach as you can revert reverts
+-8 reset 
+- 9 branch
+- 10 checkout
+- 11 merge
+- 12 remote (GitHub)
+- 13 push
+14 pull
+15 clone
+
+git init
+git status
+git add
+git commit
+git log
+git diff
+git revert
+git reset 
+git branch
+git checkout
+git merge
+git remote (GitHub)
+git push
+git pull
+git clone

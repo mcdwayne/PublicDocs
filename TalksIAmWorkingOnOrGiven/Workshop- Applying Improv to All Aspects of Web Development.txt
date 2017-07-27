@@ -1,0 +1,6 @@
+Workshop: Applying Improv to All Aspects of Web Development
+
+There are a lot of parallels between the open source development world and Improv communities.  The goal of this workshop is to expose the similarities and directly apply the core principles from the stagecraft of improv to get better code, smoother projects and ultimately happier customers.  At the end the audience will be able to take practical examples and very simple exercises back to their organizations to better communicate with customers and internal stakeholders alike as well as techniques to get ‘unstuck’ when hitting major blockages in creativity needed for elegant code.  
+
+This 2 hour session is structured as 25 minute of lecture and 85 minutes of exercises to instill the lessons of each of the major points of the talk. Budgeting for a 10 minute break.  
+

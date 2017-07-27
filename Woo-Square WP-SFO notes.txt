@@ -1,0 +1,84 @@
+Square
+Partnered with WooCommerce to build the Wp slugin
+
+Tristen
+Ecommerce
+External JS library over page
+transitions elements to iframes
+CC data does not actually hit the website
+just the frame and Square
+CC credentials sent, get back tocken of the CC to use with purchase details
+send to Square and money is transferred
+extra things
+do a hold wiht a CCC (Authorization and Delay capture
+Customer attribution
+Shipping
+Card on File (Recurring)
+250 a month in chargeback protection, al sorts of advantage
+PCI COmpliance 1
+streetware brand Little Giants
+since it integrates with POS
+
+Square checkout - dedicted online checkout form
+can just redirect users to Square hosted page, extra security and easier integration for site
+Prebuild UI, Single INtegration, Hosted Securely by square, comprehensive reporting
+
+Point of Sale:
+Can add any fields, so self checkout for bubble tea, not an issue
+Boba Guys
+SDK is available for iOS and Android
+Web as well, for any platform
+take advantage of square hardware, every payment method
+synched everywhere
+more on way
+
+Slack for feedback and support
+
+Also is a seller community
+get app exposure to resellers
+
+/help is gen support site
+
+
+
+Phil
+Woo and Square, released plugin last year,
+huge uptick in users using the extention 
+new users and a lot of legacy square usrs pairing with online stores
+wide range of users
+physical stores and some that don't
+Walk through the setup for Woo for Square
+
+checkout vs inventory side
+sample store, no products default
+in square got a number of products
+
+-->connect your account
+and square asks you to log in
+oAuth connection
+Sync what needs synced, but most people sync it all as defualt
+different categories are a good reason not to
+
+Need to have a unique SKU for every item in square
+square items already have one, sometimes Woo users don't which breaks this
+
+Updates in Woo sent to square in realtime
+auto sent to your account in real time, within a minute really CRON based
+
+Checkout tab
+Does not require PCI compliance on your site, nothing hits your website
+for website owners can qualify self questionairre with this.  
+no PCI audits needed
+Authorize transactions and delay captures
+Can trigger orders to capture manually
+
+Limitation of recurring payments/purchases on woo
+No plugin option for adjusting CRON, but yuo can manually
+if you do, do not overlap the inventory synch with square sync, 15 minutes as fast as safe, otherwise transients can get screwy
+no built in plugin 
+He uses wp-cron to manage this
+ease of use means making a product for simpler users, no complex settings
+
+->Bunch of customers who are not on square in Woo, can you do that
+-->typcially don't see a lot of users doing that, since multiple CC forms
+->this is for POP

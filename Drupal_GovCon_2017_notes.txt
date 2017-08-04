@@ -1,0 +1,334 @@
+Drupal GovCon 2017
+
+I found myself in Bethesda, Maryland for the first time since I was a wee lad, when I visited the capitol to see my aunt who lived in the area.  Bethesda is not properly Washington DC I was corrected on a couple occasions by Lyft drivers, but is instead a ['chichi'](http://www.dictionary.com/browse/chichi), 'foo foo', 'ritzy' or 'fancy' little city next to DC.  I will admit my hotel was recently rennovated and kinda nice for the cheapest 'in class' place I could find.  However you want to refer to it, I was glad to go and reunite with my Drupal family at Drupal GovCon 2017.
+
+Held at the [National Institute of Health's Nacker campus](Needed), we gathered on a Monday through Wednesday to partake in a discussion and celebration of Drupal 8 and the adoption of Drupal in government. This is an interesting intersection, as I saw in [Iceland](ICEPAND POST).  I learned a lot.  From Fibonacci sequence applied to project management to hilarious cat food content type issues, there was so much to take in.  3 days flew by, so let's get to it.
+
+General:
+https://twitter.com/McDwayne/status/891998267428536320
+https://twitter.com/uniongal/status/891993584572002305
+https://twitter.com/uniongal/status/891986304224948224
+https://twitter.com/GovDrupal/status/891297368666144768
+https://twitter.com/agencyCHIEF/status/890961849151369216
+https://twitter.com/hook42inc/status/887070911953858560
+
+
+
+###Food and Fun
+
+Sunday night I arrived and was fortunate enough to meet up with Kevin Thull.  Kevin is the man responsible for a lot of the DupalCamps sessions being recorded.  If you have any interest in helping with this project to make camp more accessible to all by puting high quality recordings online, please let him know. I had the extreme pleasure to be on the [MidCamp team with him](MIDCAMP POST) and was eager to catch up.  While we did so, we caught a really good jazz/fusion/funk act at [Villain and Saint](LINK NEEDED).  It was a low key and amazing way to kick off my first ever GovCon.  
+
+Villain and saint tweet
+
+#####Day 1
+
+I will say this, if you are going to go to the NIH on a Monday moring, expect that to take a bit of time.  Both in terms of traffic and in terms of security lines. I recommend that you get a good breakfast first.
+After getting ~ready to board~ set up at the booth I found coffee and got my busy day really going.  
+Lunch of day one was a bit of a letdown as I did not get one.  I did my normal 'wait till the line goes down' routine but this time it backfired hard.  Fortunately there is a pretty alright cafeteria there and belive it or not there was very little junk food.  Sure some chips and there was soda, but most options were pretty darn healthy and they had an OK vegan lentil stew.  Never thought I would say this, but good job NIH cafeteria staff.  Well served.  
+
+
+#####After Party
+
+The festivities for the whole camp community were at a pretty good place with an open bar right after the last session ended.  To my delight they had falafel.  I always love me some falafel.  I even got to make a little speech as a co-sponsor of the party.  I got to use the 45 seconds to thank the awesome community for giving us so much.  I mean that.  If it was not for the amazing open source communities I belong to I would not be doing this for a living.  I don't want to fathom that.   
+
+Afterward several of us ventured to get some [True Food](TRUEFOODLINK) and found our way to karaoke at the provoking of [@DrupalKaraoke](https://twitter.com/drupalk araoke).  So many good times. 
+
+
+Karaoke Tweets
+
+#####Tuesday
+
+Day 2 coffee was coffee and we had a really good time of it.  
+Lunch was better since I actually got served.  It was a lentil based veggie burger with chips.  A few too many pickles later I was happy to report back to the booth pretty full and rejuvenated. 
+
+Lunch day 2
+https://twitter.com/alisonjo2786/status/892417970307289088
+https://twitter.com/dev_meshev/status/892424793106075648
+https://twitter.com/dev_meshev/status/892423522190065664
+
+
+Tuesday evening was an adventure.  It involved meeting my team and some amazing people for a drink and pretty spectacular vegan food in DC proper.  My ride there took a path that surely avoided all traffic by cutting through [Mill Creek Park]() during the craziest cloudburst I can recall in years.  There were even flash flood warnings on the emergency phone alerts of everyone at dinner.  
+Afterward I was super fortunate to see the Washington Monument.  While I will always hear [Jello Biafra's](Stars and Stripes of Corruption LINK) description of it in my head, I gotta admit, it is a pretty spectacular thing to behold.  
+
+#####Wednesday
+
+Short day for me but coffee met me with the same potence as any other day and for the indifference I was grateful.  I had signed up for lunch duty volunteering and glad I did.  This gave me chance to eat a quick bite first and I again feasted on falafel, but this time had dolmas and what was either guacamole or babaghanushSPELLING! a combo of the two and a tiny pile of hummus.  There was kabob on the menu and salad and roasted veggies.  The attendance the third day exceeded expectations as day one had overwhelmed supplies.  I was glad to have seen this from the volunteer side and got to ponder it from an organizer perspective.  While I am a bit miffed that not all options were available for all people in line, there is a silver lining that meant a lot of walk up registrations had occurred at this very large Drupal event.  While no event is without its hitches, this supply/demand issue is one that we should all aspire to have though my hunger on day one would have me disagree.
+
+!!!!!!!Pictures of the lunch
+
+This was part 1 of a 3 part trip, so reality of airline schedules meant I had to depart before the last session adjourned and missed the (I am sure) awesome speaker/sponsor dinner.  Alas, the United Club lounge and the beginnings of writing this post paled in comparison.  
+
+
+
+###Sessions
+
+Quick note before I dig in: This is a very large event, approximately one fourth the size of [DrupalCon](DRUPALCON POST).  This cause my attention to primarily reside at the booth.  So many conversations, but this is not the place to reflect on those one on one interactions individually.  In the broadest strokes I can say this is where I really learn the most at a camp.  Every individual person I talk to has their very own set of particular circumstances which I have to absorb and consider before explaining if I think I can offer any assistance.  Sometimes the answer is no.  But more often than not I can at least point someone in the right direction for better answers.  I am grateful to everyone who stopped by to say hi, not just at this event but at all of them.  The only downside of this is that I did not get to attend too may sessions this time around, but happy to report on what I was lucky enough to see.  
+
+#####Keynote Day 1
+
+#####Keynote Day 2
+
+#####My Session
+
+###Wrapping Up
+
+Drupal Viking
+https://twitter.com/drupalviking/status/892417244680134657
+
+
+
+
+
+Easing into Drupal 8 Development
+mikemadison
+https://twitter.com/mikemadison/status/892006340356395008
+
+
+Keynote:
+Everything in DevOps
+Michelle craychee
+
+Storage silos and grain deliver
+GEAPS, her father was EVP
+Insert the DevOps in the middle is what you would think
+but the pipeline looks very different
+everthing what goes on requires DevOps
+in 2010 learned Drupal is scalable and safe
+WH.gov deploying on Drupal
+2011, features modles
+2014 - mortonDK had no idea what DevOps meant
+year to year perceptions of DevOps, 
+2012 about 1/3 was DevOps not worth it
+in 2014 1% against
+how to implement instead of if I should implement
+94% adoption of Git
+
+showing tools of what the industry ses, wants to highlight the problems that people were solving wiht those tools
+
+2015 - Continuous INtegreation and Continuous Delivery
+
+2016 - improved release cycles - tools took us to automation deploying an scale
+presentations are about putting it all togehter
+
+2017 - comtainers
+DevOps track on it's own
+if just getting into industrial drupal you can get caught up
+DevOps submissions account for almost half of submissions to many camps
+infiltration of DevOps
+Predicts the DevOps tracks will go away
+everything and one is DevOps now
+But the resistance!
+
+
+
+https://twitter.com/dsutch/status/892045434574778369
+https://twitter.com/mchelen/status/892044641863970816
+https://twitter.com/dorikelner/status/892044625032216576
+https://twitter.com/bartonlm/status/892046103415320576
+https://twitter.com/mchelen/status/892047139882381317
+https://twitter.com/mchelen/status/892053270331629569
+https://twitter.com/willjackson00/status/892051032041287681
+https://twitter.com/jonpugh/status/892050747805896710
+
+
+Cheney's talk:
+https://twitter.com/jmolivas/status/892080848530538497
+
+
+Kubernetes, containers and Drupal:
+https://twitter.com/mchelen/status/892086301389971456
+
+My talk:
+https://twitter.com/ekl1773/status/892392966379233281
+https://twitter.com/dev_meshev/status/892392090486927360
+https://twitter.com/dev_meshev/status/892391354650828800
+https://twitter.com/dev_meshev/status/892388581288882176
+https://twitter.com/dev_meshev/status/892387063269646336
+
+Day 2 Keynote:
+Jeff Eaton 
+Keynote: The Map is Not the Territory
+This session will also be live streaming at: https://videocast.nih.gov/summary.asp?live=24918&bhcp=1
+
+Jeff Eaton, Senior Digital Strategist, Lullabot will bring together different disciplines in an organization to make the content modeling process an opportunity for increased long-term collaboration.
+
+https://en.wikipedia.org/wiki/On_Exactitude_in_Science
+Content you can't predict how others will try and use it
+state of the art chnges a lot over time
+notes on whiteboards is old standard
+productive = whitebording
+content models
+
+
+https://twitter.com/McDwayne/status/892405930138243076
+https://twitter.com/kevinjthull/status/892408015076425730
+https://twitter.com/ThayerAvenue/status/892407942175219712
+https://twitter.com/uniongal/status/892406450340941826
+https://twitter.com/Amani_Mansour92/status/892416361347108864
+https://twitter.com/lizardata/status/892414826886176769
+
+
+[Advanced Configuration Management in Drupal 8](https://www.drupalgovcon.org/program/sessions/advanced-configuration-management-drupal-8)
+Mike Potter
+Used to be push everything to PHP, which is a little weird, now it is yml
+DOn't push bad config, review what is about to be added and push to dev branch
+In D8 can only import into the same SITE UUID
+Clean install created a new random UUID
+Config items have their own UUIDs creating new 
+config-import can create conflicts
+Export and import
+drush config-export <label>
+likely better to just just git commands
+drush config-import <label>
+--preview=diff to see changes
+Partial will not delete config in DB that is missing from config.sunc foldr
+be careful after doing a full config-export that any unwanted config doesn't get added to git repo
+DO NOT USE "git add -A"
+drush config-list <prefx>
+-list config names starting with prefix
+
+One time Clean Site Install
+install site with profile normally
+-drush site-install profile-name
+Confirm install_profile and config/sync in settings.php
+drush config-export BEFORE adding anything else
+then add that to the repo, now you have the clean site
+NOW, now to install site using theis config?
+Installing site from config
+using a custom profile
+put sync directory into the profile
+Usign drush si site-omstall -- config-dir
+sould have an innuse with entity schema
+confi_installer is NOT best practice
+not updated since february, not good
+Setting Site ID
+config/default/system.site.yml
+Running updates BEFORE import
+git pull
+composer install
+drush updb
+drush cim
+WILL be enforced in core (8.4)
+
+Multiple Environments
+different config local, stage, prod
+Config Split a new module
+split config into differnt directory
+config import wil merge them for you
+create a sync directory for each environment
+create plits in Config Split UI
+disable each split by default
+exort the full config
+Enable the Split Environment to use un setting.php (based on envvar
+config-import will merge the sync
+drush csex to split for you
+
+Override Config?
+return read only config
+
+https://twitter.com/jamesdavidsaul/status/892430973857665024
+https://twitter.com/McDwayne/status/892431135761944577
+
+
+[It's Not You, It's Your Ticket: Ticketing Lessons from your Apartment](https://www.drupalgovcon.org/program/sessions/its-not-you-its-your-ticket-ticketing-lessons-your-apartment)
+
+Presenter: ekubokirs
+
+Laundry analogy: step by step
+as if explaining to small child
+be detailed to elimiate all past assumptions in your brain
+gets better results
+
+Points!
+Points are easier to determine then you have a clear understanding of the scope of the task
+Time management hard, weighting things against each other easier, better for new kinds of tasks
+
+Keystones
+start with a common set of tasks that the team might encounter to be used as examples recommend using Fibonacci sequence as points (1,2, 3, 5, ...)
+Fruit example
+grape 1, apple. 2 cantaloupe 3, watermelon 8
+pitya ???
+facts you have them, but compared to apple in pic 
+make no assumptions
+detail in requirements
+might change points with scope creep
+
+let devs do their jobs
+
+Ticket example:
+Build a page that lists each congressperson's contact information
+-The page should only be HTML/CSS
+-each person should have a name, district, an image an email address
+Each email should open a template directly
+page should use a grid of 3 per row, one on mobile
+text should be below the image with the format of name and district on the first line and email on the second
+(crowd sourced even more things to add)
+heading off questions preemptively wil make a much better project results
+
+Imposter syndrome BOF:
+https://events.drupal.org/baltimore2017/sessions/imposter-monologues-part-ii
+
+
+
+Who dropped and made you the voice for all users!
+Junkant
+#hiremiran
+https://twitter.com/McDwayne/status/892735281966833666
+
+Planning & Managing Migrations
+aimeerae
+You need to figurue out if one pass or incremental
+likely both
+need to know platform considerations,can't just rewrite files on Pantheon or Acquia
+Team specialists, don;t forget the data specialist!  
+Why not a bug tracker?  A spreadsheet is easier, less to fight
+going to have a lot fo data
+Agile vs Waterfall, this is a case for waterfall
+test, prep, move, test
+
+1 Pre project education: It rakes as long as it takes
+undefined new features are a risk to schedule
+aggressive schedule causes own issues
+2 Audit for migration
+goals and features
+DNS settings plug - don;t forget your TTL for the set, find who has control and confirm the settings and process, research early!!!
+Architecting the new site: Got to set it up early, URL patterns planning
+Every new entity is a new migration path (pragraphs)
+you must archive everything before building
+DO NOT let site builders just build without documenting
+Migrate
+Dev phase
+go-live checklist
+Don't over engineer, Get Er Done!
+max joins on a MyQL DB is 61
+Pre-roduction migrations: keep running migrtions
+populate bulk of data
+estimate duration to Go live
+site testing and data audit
+it adds up quick, many thousands of $$ if vary from the plan
+
+GO LIVE!
+final code freeze nd go-live checklist finish, DNS  
+
+https://twitter.com/nlucciola/status/892748526576431104
+https://twitter.com/McDwayne/status/892751860960047104
+https://twitter.com/nlucciola/status/892763183794069504
+
+
+Anatomy of a Page Request
+charles.novick
+
+Your full URL path determines everything!
+What hapened when you click?
+the browser Call ISP, the ISP DNS looks up the caches first, broswer or ISP cache
+until you eventually get to the ip address xx.xxx.xxx.x
+without a number nothing happens
+D8 serveroperating system to apahe to php to db and back out
+PHP essentially executed scripts, Server do this right now!
+index.php is the first place the server looks once we get to PHP execution
+walk through the code, building and requesting kernal to do soething
+Symphny does the rest
+autoload adds packages to Drupal kernal
+created and has site directory, creates the site and loads into RAM
+drupal loads p content from DB (pages, users)
+the URL is compared for aliases, Path module allows you to specify acustom URL for any intenal system path

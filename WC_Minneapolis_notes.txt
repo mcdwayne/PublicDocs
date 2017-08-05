@@ -1,0 +1,205 @@
+WC Minneapolis
+
+Day one donughts:
+https://twitter.com/joedolson/status/893585278526517248
+
+Speaker Dinner:
+https://twitter.com/pfunder/status/893253164941619201
+https://twitter.com/CloudAccess/status/893306079437893633
+
+General:
+https://twitter.com/NetProductmgr/status/893496523228459008
+https://twitter.com/PropTartMN/status/893492467718402048
+https://twitter.com/Rocket55Agency/status/893820152021700614
+https://twitter.com/craigstull/status/893835196507848708
+
+Opening Remarks
+https://twitter.com/marktimemedia/status/893476435935023105
+
+
+Opening panel:
+https://twitter.com/kristiwhitman/status/893501129530781696
+https://twitter.com/karimmarucchi/status/893482220840726535
+https://twitter.com/hightechredneck/status/893481799699005440
+https://twitter.com/KevinMcClean5/status/893481220767703044
+https://twitter.com/katieelenberger/status/893479205467508736
+https://twitter.com/ksr583/status/893479106918141953
+https://twitter.com/nathaningram/status/893478059332038656
+https://twitter.com/pfunder/status/893477581927981061
+https://twitter.com/CaptainLesgate/status/893474613166034944
+
+
+Green Hosting
+[Jenna Totz](https://www.twitter.com/jenna_totz)
+@jenna_totz
+Super important to consider carbon footprint!
+tweets = .02 g of carbon, email = 4 grams, search = 8grams
+Green web foundations
+ecograder.com
+
+https://twitter.com/raqueLandefeld/status/893502174768115714
+https://twitter.com/pfunder/status/893502240656416769
+https://twitter.com/CaptainLesgate/status/893502579677769729
+
+
+Surviving a client crisis
+Nathan Ingram
+7 questions
+Escalator analogy
+We focus on the people ahead of us, forget there are poeple behind us
+"here is a secret, the people ahead of you have the SAME CRISIS of confidence that you have. "
+We compare reality to other's personas
+put your best foot forward at events, so don't think ayone has issues
+how ot escape it:
+nobody knows everything
+that others know and what you know might overlap
+1. be realistic
+2. be perceptive, everyone is good at something
+3. Be Helpful We are all in this together!  Reach out to those around you on the escalator. Become a prson who is good to know. helping others builds confidence.  be humble!  
+nathaningram.com/wcmsp! 
+https://twitter.com/aaroncampbell/status/893506159021260801
+https://twitter.com/McDwayne/status/893504036003090432
+https://twitter.com/pfunder/status/893503898878713857
+
+
+Stories from the Front: Real Talk about Managing Clients
+Wendy Bolm
+Bunch of best practices
+common sense stuff that need to hear
+document everything
+be transparent
+take the client's tempature
+BE empowered
+Biterex24
+https://twitter.com/McDwayne/status/893516976689119236
+
+
+Lighting Talks: 
+Raquel
+Talking about her journey
+From just Cody's husband, to internationally known
+cultivating people 
+https://twitter.com/pfunder/status/893520466715049988
+https://twitter.com/pfunder/status/893522372850044930
+
+
+Lunch:
+https://twitter.com/McDwayne/status/893528093956214784
+https://twitter.com/craigstull/status/893560909427351552
+
+
+WP-CLI – Save Time by Managing WordPress from the Command Line
+Shawn Hooper
+
+
+Param definition really good!
+mind was BLOWN in the front row
+wp core verify-checksums (Check if core is hacked)
+wp plugin search "any string" (searched the repo for keywords)
+wp cap list role
+wp cap role add/remove
+wp cache flush
+DB export backup.sql
+db site delete
+db import backup.sql
+search-replace "Hello world" :) :) :)
+Serialized arrays?  Skips them, does not look
+search-replace "hello" "goodbye" --export=changed.sql
+only changed in the exported DB
+wp server (runs the dang built in php server!)
+wp doctor
+wp any-ipsum generate-posts 
+
+https://twitter.com/joesmannequin/status/893547476527063042
+https://twitter.com/McDwayne/status/893540724440010752
+https://twitter.com/Socki/status/893553943699005440
+
+
+Extending the REST API
+Pete Nelson
+Powerful stuff.  
+
+https://twitter.com/GunGeekATX/status/893555137414823936
+https://twitter.com/McDwayne/status/893557159782490112
+
+
+[Cowboy Coding – Best Practices]()
+[Gary Kovar]()
+
+in bash ctl-u cuts 
+learn bash
+learn vim
+learn JS
+
+Basically a talk about 'if you have to do it, go slow and know what exactly you are doing.  Don't do it otherwise!
+
+https://twitter.com/_jmichaelward/status/893585762033303553
+https://twitter.com/McDwayne/status/893580756827635712
+
+
+Day 2
+
+Open Source Panel
+https://twitter.com/deliriousguy/status/893837840194449409
+https://twitter.com/tessak22/status/893838822420750336
+https://twitter.com/rebeccagill/status/893841919540908032
+https://twitter.com/pfunder/status/893840892561432576
+https://twitter.com/deliriousguy/status/893840721626759172
+
+
+Lighting talks:
+
+[So, You Want To Sell Online?]()
+Zach Stepek
+@zstepek
+
+What to sell is a hard decision
+Passion or profit?
+Not mutually exclusive, but mostly it is
+finding customers: traditional marketing used to work, but ow need more personal touch
+Email marketing has slight bit of personal touch, but not enough
+SEO - good overall but not a full marketing strategy, got to stand out
+PPC - used to be the gold mine, not now
+video is powerful
+branded experience is very good, brand voice in everything
+
+https://twitter.com/McDwayne/status/893857634914381824
+
+
+Embracing Page Builders
+Tyler Golberg
+page speed is a serious drawback
+BUT the convenience is the reason many poeple embrace them
+ego in the way
+breaks short code is all you would see
+some real risks
+slightly worse interface if it is faster, that is OK trade off for him
+https://twitter.com/nathaningram/status/893866251386269697
+https://twitter.com/McDwayne/status/893864370169622528
+
+
+Starting your first online business
+AJ Morris
+Tells the story of Liberty Jane Fashions
+Started personal and grew
+
+https://twitter.com/McDwayne/status/893867824363577344
+https://twitter.com/tessak22/status/893868144116330497
+
+
+What I learned raising 2 Million Dollars for Politicians–and How it Applies to the WordPress Community
+Lindsey Miller
+"Preachers, pubs and politicians pay up front!"
+Cultivate genuine interest
+Ask questions and listen
+Create connections
+Make your case
+
+
+https://twitter.com/McDwayne/status/893872757175439364
+https://twitter.com/CYBERsproutnet/status/893873521281171456
+
+
+Lunch Day 2:
+https://twitter.com/McDwayne/status/893884638191640577
+

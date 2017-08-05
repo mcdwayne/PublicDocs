@@ -4,3 +4,6 @@ There are a lot of parallels between the open source development world and Impro
 
 This 2 hour session is structured as 25 minute of lecture and 85 minutes of exercises to instill the lessons of each of the major points of the talk. Budgeting for a 10 minute break.  
 
+---------------------------------
+
+One of the hardest set of skills for any developer (or anyone for that matter) to learn are the soft skills. Basically, how to be human and better communicate with our clients and peers. Fortunately there is an entire art form that centers on exactly this skill set: IMPROV. I have been doing improv a lot longer than I have been involved with Drupal or WordPress and I see a very clear path to helping any team improve productivity and happiness by using those skills. This is an intro with many simple exercises people can take back to their teams. 

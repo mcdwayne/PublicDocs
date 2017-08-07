@@ -1,6 +1,6 @@
 ## Session Slides And Such
 
-[Let’s Learn Git.  No Excuses!](https://www.mcdwayne.com/lets-learn-git-no-excuses/)
+[Let’s Learn Git.  No Excuses!](https://www.mcdwayne.com/lets-learn-git-no-more-excuses/)
 [Slides](https://docs.google.com/presentation/d/1yy-TpoF2db-MFP-2HRG3e-t5msD89lhwT-Alol82cvA/edit?usp=sharing)
 
 [So you want to speak at a camp? Yes please!][1] 

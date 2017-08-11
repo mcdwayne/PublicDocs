@@ -1,0 +1,37 @@
+Exercise notes:
+
+Exercise 1)
+Loop through adding and modifying the doc in any way they dream up, at minimum 5 times
+Practice git diff and log and status each time to get familiar with it.
+
+
+
+Exercise 2)
+Revert one change at a time to go back to version 3
+Then 
+Reset to before any reverts.
+
+
+
+
+Exercise 3)
+Create 2 new branches
+Checkout one and make a change in the file and commit.  
+In the other create brand new files and commit.
+Merge one in master 
+Git log
+Merge second in master
+Git log
+Delete the branches
+
+
+
+
+
+Exercise 4)
+1 - Create a new repo on Github and make it a remote
+2 - set your index as a github page
+3 - pull request my repo to adjust your name/link/photo
+
+
+

@@ -22,7 +22,8 @@ WordCamp Raleigh 2017,
 WordCamp Chicago 2017,
 Design4Drupal (Boston DrupalCamp) 2017,
 WordCamp Europe 2017
-
+DrupalGovCon 2017
+WordCamp Minneapolis 2017
 
 Dwayne has been working in tech and open source sales since 2005.  
 He knew as soon as he started working with Java middleware developers he never wanted to work outside of open source ever again. Dwayne first started building in Drupal and WordPress for the San Francisco Improv teams and projects.  He fell in the love the community and then found a position at Pantheon at the end of 2013.  

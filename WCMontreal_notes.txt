@@ -1,0 +1,364 @@
+WordCamp Montreal: A better version of Paris without having to cross the ocean.  
+
+Montreal is a beautiful, awesome and much better version of what they are shooting for with Paris.  To be clear, I am not comparing [WordCamp Europe](https://www.mcdwayne.com/2017/06/20/wceu-paris/) here, just the actual cities.  I got to come directly from [Minneapolis](https://www.mcdwayne.com/2017/08/08/wordcamp-minneapolis-2017/) to 
+
+General
+https://twitter.com/solutionsvizip/status/896358968313995264
+
+https://twitter.com/andymci/status/896734125947793408
+
+
+###Food and Fun
+
+Speaker Dinner
+[Lunchoenette](http://www.lunchmtl.com/) has a very nice slogan, "Feeding the community one meal at a time". Very good food and extra friendly staff.  I have mentioned it before bu
+![luncheonette inside view, mismatched chairs and funky wooden tables in front of a counter with a chalkboard sign with the day's specials, illegible in pic ](http://wpmedia.montrealgazette.com/2016/01/montreal-qc-january-14-2016-a-view-of-the-new-diner-l.jpeg?quality=55&strip=all)
+
+#####Karaoke
+#WCKaraoke happened on Friday night instead of Saturday night at this camp.  We went to [L'Astral 2000](https://m.facebook.com/Astral-2000-494597793884464/)  This had a few direct effect.  
+
+https://twitter.com/mirigoldman/status/896210326039015424
+
+https://twitter.com/Michele_Butcher/status/896206670237511681
+
+https://twitter.com/jpurpleman/status/896206448350384128
+
+https://twitter.com/mirigoldman/status/896198980467650560
+
+#####Day 1
+Coffee and boxed juice and bagels, oh my!  I didn't realize that there was an ongoing dispute around the 'best' bagels.    
+
+
+#####After Party:
+
+https://twitter.com/boldgrid/status/896512140156313600
+
+#####Day 2 
+
+Lunch:
+
+https://twitter.com/DumontLeslie/status/896773316530380800
+
+https://twitter.com/boldgrid/status/896760098890055680
+
+https://twitter.com/DumontLeslie/status/896773514203680768
+
+###Sessions
+
+#####My Session
+
+I taught a Git workshop the Thursday night before camp.  This was hard for me mostly because I had never done this before. I have taught workshops before, but about improv, which has no reliance on  Getting a room full of strangers at all varying levels of skill and experience on the same page about the core concepts and 16 basic commands upon which everything else in the version control system is arguably built was a challenge.  One I am very, very glad I undertook.  I called the session "Let's Learn Git.  No More Excuses!" and not "You Learn Git" or even "Learn Git" because the reality is I am still learning it.  I am firm in my belief after talking to a lot of developers over the years that *everyone* is still learning Git and we are all somewhere on that journey together.  
+Thank you to all who came out.  I hope you walked away with a new perspective on some concepts.  I know I sure as heck did.  
+If you want to see what I taught, feel free to look at [my slides, located here](https://goo.gl/oS4ZbG).  I made everything animated Gifs to avoid live demos as much as I could, which I think might be a mistake for a workshop in retrospect.  But it does mean each student has a reference material to what the successful execution of the command actually looks like and for that reason alone I am super glad I made the gifs.
+
+
+https://twitter.com/wordcampmtl/status/895792813442510848
+
+https://twitter.com/WordImpress/status/895778219252699137
+
+Saturday 
+#####Opening Remarks
+
+https://twitter.com/andymci/status/896363213675266052
+
+[From zero to launch: A walk-through of the website process](https://2017.montreal.wordcamp.org/session/from-zero-to-launch-a-walk-through-of-the-website-process/)
+[Lisa Ghisolf](https://twitter.com/gizmodesign)
+
+When working with clients Important to nail down stakeholders and scope
+Redesign considerations
+- benchmark where the site is now.  (CrazzuEgg, OptimalWOrkshop, also analytics you can do it) 
+- Heat maps are a good idea
+- what links are live and broken (Google Search Console)
+- what links have changed
+Discovery you need a lot of things for
+Clients, stakeholder, purpose, competitoin, Audiences, Client Requirements, Scope, Analysis, Collect Data. Collect Brand Materials, Content Audit
+Knowing what you want is the most important thing.  
+content structure, functionalities.  
+New sitemaps (she is a huge fan of the sitemap)
+wireframes, Custom theme or template? prototypes, design acceptance.
+Maintenance is becoming more important
+Wire framing, she likes [Balsamiq](https://balsamiq.com/), slick plan also works. 
+"No one is really looking up your name except you and your mom" 
+
+https://twitter.com/McDwayne/status/896372314828406784
+
+
+[F******k Instant Articles: How do they work?](https://2017.montreal.wordcamp.org/session/fk-instant-articles-how-do-they-work/)
+[Jer Clarke](https://twitter.com/jerclarke)
+Facebook
+Going where the users are, even though they are bad and giant companies are ruining the world
+Global Voices international news websites
+Assumptions
+You ru  your own WP site
+FB is a source of traffic
+Mobile traffic
+You don't want to use wird awful ad networks
+your soul is for sale
+iA post load 'instantly' 
+stored copy in a FM format rathe than load yor site
+does not share or post to your FB page
+but it means when shared visitors see instant artcile version
+URL gets sorted for Desktop or mobile
+Effectively it replaced your theme to the end user
+you do not have ay real options, just take it as it is or don;t use it
+FB preloading the article
+Want to use AMP?  
+OK you can do that
+Accelerated Mobile Pages
+custom 'theme' uses your content to match the AMP standard
+google caches there and serves them, fast for mobile visitors
+google gives this content special treatment (carosel)
+
+"You are going to have a terrible time with page builders" 
+
+Why not?
+Hands control of your content to FB
+Violates open web principals
+content must be crammed into limited format
+no load on server traffic
+ads integration available
+FB probably giving iA an unfair advantage[citation needed]
+
+WHy iA anyway?
+Super Fast
+better on mobile
+only uses URL as the web address of posts (unlike Amp)
+analytics integration available
+no load on your server
+ads available
+FB probably giving iA an unfair advantage[citation needed]
+
+If you trust FBm they have marketing that says 20% more clicks, 70% less abandon (makes since beacuse you just start reading), 30% more shares.  
+at Global Voices 250K iA hits in one day
+each one blazing fast, no load at all on server
+
+Getting it set up?  
+A lot of things are sutomated and a lot are hidden, they assume you are a full CMS and writing the interface on your own, they don't talk plugin like you want
+1) Get a FB page
+2) Instant Articles for WP is the plugin you want
+adds admin menu, sidebar
+
+
+https://twitter.com/McDwayne/status/896377487910981633
+
+
+[Exploring the case for serverless WordPress](https://2017.montreal.wordcamp.org/session/exploring-the-case-for-serverless-wordpress/)
+[Max Kovalenkov](https://twitter.com/m0ntrealist)
+Service called Shifter, he foudn it and wants to talk on it
+JAMstack, a website building JavaScript, APIs and Markdown
+no server or DB when viewing page
+store everything in git, CDN to deliver static page generator
+JS is glue to pull content
+
+Why?
+Faster than server, no PHO
+doubles as a hosting solution
+Fast load times and scale
+ver-r-ry secure
+
+Drawbacks: 
+no search, comments, contact forms WP-API no work, lose it all
+yet another dashboard
+only "pretty" permalinks are supported
+
+Impressions:
+at first, very excited!  so much, he signed up for this talk!
+but drawbacks are real, support was spotty, feels not mature,
+But be sure to keep an eye on this space
+
+When authoring, docker container is spun up, temp admin access
+
+
+
+https://twitter.com/andymci/status/896390735406223360
+
+https://twitter.com/McDwayne/status/896391131122073600
+
+https://twitter.com/melissajclark_/status/896391104752492544
+
+https://twitter.com/andymci/status/896391628197416960
+
+
+[Plugins and You: Finding that perfect plugin](https://2017.montreal.wordcamp.org/session/plugins-and-you-finding-that-perfect-plugin/)
+[Miriam Goldman](https://twitter.com/mirigoldman)
+Warning, high level for beginners.
+How do you find a plugin?
+What is a plugin?  Functionality, not design, independent from themes
+Add new official wordpress repo, but google is good for investigating
+admin
+Free vs Paid:
+Free is good for basic functionality
+Freemium, has free but additional features cost
+Paid: fully paid, ontem most robust, good support from Developer
+Personal recommendations 
+
+
+https://twitter.com/McDwayne/status/896394338242002948
+
+
+[Plugin Development Demystified](https://2017.montreal.wordcamp.org/session/plugin-development-demystified/)
+[Yannick Lefebvre](https://twitter.com/ylefebvre)
+He wrote books on this, rare to talk outside of Montreal
+Search deep when looking for available plugins, sometimes you are re0inventing the wheel
+Plugings are best for packaging up code for a site, lot of advantages, reusable, independent form theme, supportable
+
+Basic PLugin File Structure
+Comes as a zip file
+code editor is better than notepad
+Must have a local website
+image editor optional
+coupled block of code with a header
+
+Action Hook:
+Do you want to do something when an event occcours?
+Event - WP is displaying a page header
+Respinse; Execute plugin code
+Add Action
+Most hooks can be found in the codex
+864 action hooks
+
+Filter Hook:
+1674 filter hooks available
+action spit out data immediatly
+filter receives data and modifies
+
+Shortcode:
+[] codes
+simple codes in a post or page to insert content
+or can be used to output special content
+Examples:
+You can develop your own admin menus
+admin pages of your own
+Extend the user editor
+custom post types
+add custom meta boxes to any editor
+new widgets
+
+Store and retreive plugin settings
+
+Considerations!
+Function names are different than any WP Core Functions and other plugins
+BEst practice is give unique to you prefix.  
+Local first is best!
+Entire conent is evaluated each time, can take down site as a whole
+
+Publishing your plugin
+Free plugins only
+Must follow GPL
+Discoverable from admin plugins page
+built in update mechanism
+Marketplaces (code anyon, MOJO Marketplace, WPEden, etc)
+Paid premium, be warned support burden must higher
+
+custom plugins can be made with just a few lines of code
+delivering custom code by plugins 
+consider distributing your plugins
+
+http://ylefebvre.ca/wcmtl2017
+
+https://twitter.com/cafenoirdesign/status/896425415228743680
+
+https://twitter.com/McDwayne/status/896424810506539009
+
+https://twitter.com/DumontLeslie/status/896427551584899072
+
+
+[Preparing a Plugin for Translation](https://2017.montreal.wordcamp.org/session/preparing-a-plugin-for-translation/)
+[Brian Hogg](https://twitter.com/brianhogg)
+This is important since we need language to work
+__ (double underscore is key)
+_e = __ + echo
+sprintf
+What is you want to output HTML?
+smae _e works with link inside of it.
+
+locotraslate is a plugin approach
+
+
+https://twitter.com/Michele_Butcher/status/896437311260569601
+
+https://twitter.com/andymci/status/896438785424150530
+
+
+[Rapid Mobile Prototyping in React Native with WordPress](https://2017.montreal.wordcamp.org/session/rapid-mobile-prototyping-in-react-native-with-wordpress/)
+[Ptah Dunbar](https://twitter.com/ptahdunbar)
+Organizer WC Miami
+Moved to asia, no desktop
+day to day job dev
+React native is easiest way to build mobile/access with WP
+This is an avanced talk, not too  any slides
+Atwood's law
+"any application that can be written in JavaScript, will eventually be written in JavaScript."
+Learn Javascript deeply
+BIg different
+We're going mobile
+This time with a native touch
+using WP as a backend
+Cool example from WCMiami feedback app
+Topics:
+usign JASON REST API
+React native
+Atchitecture Review
+Install/setup 
+...
+..
+.
+
+React native viable?  Yes, FB, Insta, AirBnB, many more apps already using it
+co-exists with native code itself
+fetch is the new thing just extending with custom end points to connect content with device
+Example:
+fetch token retuens username/password
+Must use HTTPS
+Can't connect ht http in app store
+
+React Learn one, write everywhere
+target ALL the mobled
+native device performence
+Actively growing community
+each compenent does one thing really well 
+
+INstalling it is few commands
+yarn global add react-native-cli
+react init MyTalkRocks
+cd MyTalkRocks
+yarn
+FB docs on react native is thorough! bookmark it
+
+once installed and set up, new directory
+
+Builds the visuals of the interface, these are the new parts that make native native, can now access these things
+always a render method, view is like a div, CSS flexbox used under the cover
+wrapping view
+Aview
+Image
+simple react properties, style and sizing
+Navigation can be tricky, but great app package called React Navigation, 
+leverage what the community built, lot of things created already for you
+can get far pretty fast
+Easily drive a view of:
+-splash
+-auth
+-main
+Demos all the way!
+
+
+https://twitter.com/McDwayne/status/896782222484787200
+
+https://twitter.com/ssstofff/status/896785324466208768
+
+
+[Our Hybrid Future: WordPress As Part Of The Stack](https://2017.montreal.wordcamp.org/session/our-hybrid-future-wordpress-as-part-of-the-stack/)
+[Josh Pollock](https://twitter.com/Josh412)
+
+
+
+
+#####Happiness Bar Shifts
+
+https://twitter.com/PhilComm/status/896514189493243904
+
+
+
+###Wrapping Up
+

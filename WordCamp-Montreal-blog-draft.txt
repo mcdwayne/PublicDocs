@@ -1,0 +1,416 @@
+WordCamp Montreal: A better version of Paris without having to cross the ocean.  
+
+Montreal is a beautiful, awesome and much better version of what they are shooting for with Paris.  To be clear, I am not comparing [WordCamp Europe](https://www.mcdwayne.com/2017/06/20/wceu-paris/) here, just the actual cities.  I got to come directly from [Minneapolis](https://www.mcdwayne.com/2017/08/08/wordcamp-minneapolis-2017/) to this wonderful European style city to across the northern border to take part in [WordCamp Montreal](https://2017.montreal.wordcamp.org/). 
+
+
+https://twitter.com/andymci/status/896734125947793408
+
+
+I have never been there before and I really didn't know what to expect.  Part of my was worried that, just as in France, my vegan choices would be met with the same hostility my lack of french language skils were.  The opposite was true.  More on that later.  The city turned out to be a gorgeous little gem of a place with a great ['old Montreal'](https://en.wikipedia.org/wiki/Old_Montreal), [Chinatown](), and [waterfront](https://en.wikipedia.org/wiki/Old_Port_of_Montreal) but with multiple ['plant based'](https://copperbranch.ca/) restaurant [chains](http://thegreenpanther.com/), some of the best [falafel](falafelavenue.com/our-food/our-menu/) I have ever had and very friendly folks who didn't seem to mind dropping into English to converse.  In true Canadian fashion, when anyone did assume I spoke French they would just say ['sorry'](http://www.cbc.ca/2017/sorry-can-we-talk-about-why-canadians-apologize-so-much-1.3939997) before moving on.  I could just keep writing a love letter to the ["city of a hundred steeples"](https://freeminimaps.com/montreal-hundred-steeples/) but I do want to get to talking 'aboot' the normal stuff, so let's go!  
+
+
+https://twitter.com/solutionsvizip/status/896358968313995264
+
+
+###Food and Fun
+
+Speaker Dinner
+[Lunchoenette](http://www.lunchmtl.com/) has a very nice slogan, "Feeding the community one meal at a time". Very good food and extra friendly staff.  I have mentioned it before but the speaker/sponsor dinner is really one of my favorite parts of any camp I attend.  As with any community, there is a bond forged between those who do similar things and those of us who contribute through speaking and teaching have this.  The awesome news is this is not an exclusive club! I would love to see this subset of the community grow and grow and grow.  If you are attending camps but not submitting to speak, have I got a [slide deck for you](https://www.mcdwayne.com/so-you-want-to-speak-at-a-camp-yes-please/). :) It was a lovely time catching up with some of my favorite speakers and meeting some new friends.  
+
+
+![luncheonette inside view, mismatched chairs and funky wooden tables in front of a counter with a chalkboard sign with the day's specials, illegible in pic ](http://wpmedia.montrealgazette.com/2016/01/montreal-qc-january-14-2016-a-view-of-the-new-diner-l.jpeg?quality=55&strip=all)
+
+
+#####Karaoke
+
+WCKaraoke happened on Friday night instead of Saturday night at this camp.  We went to [L'Astral 2000](https://m.facebook.com/Astral-2000-494597793884464/)  This had a few direct effects.  Unfortunately being a loosely organized thing and not just following the normal after party meant that we didn't have as large of a crowd of just general campers.  The good news here is there where still about 12 of us that showed up and sang our hearts out and danced to many songs.  It was a treat to hear the locals singing songs in French with such wonderful passion.  The fact that they loved each song, no matter what language, shone through very brightly.  
+
+https://twitter.com/jpurpleman/status/896206448350384128
+
+#####Day 1
+
+Coffee and boxed juice and bagels, oh my!  I didn't realize that there was an [ongoing dispute](http://www.cjnews.com/food/bagels-n-y-vs-montreal) around the 'best' bagel in North America, but apparently there is.  We had the Montreal kind and they were pretty great.   
+Lunch was really good.  Most trade shows I have been to recently have been very sensitive to restrictive diets and Montreal did a pretty fantastic job of meeting my needs.  I feasted on tofu steak and a really well balanced mango salad with a beet based slaw.  Top notch and very filling.  Thanks [Organizers](https://twitter.com/wordcampmtl)!
+
+https://twitter.com/McDwayne/status/896426419739389953
+
+Being in such an awesome place with so many vegan joints abounding I put out a general call for 'anyone who wants to go grab dinner before the after party' join me at the Green Panther, or as it is known in French, [Le Panthere Verte](http://thegreenpanther.com/).  I was super thrilled that a small mob turned up to partake.  One of our party guests even bought a plate full of cookies for sharing.  If you are in Montreal any time soon, go out of your way to get one of their peanut butter cookies.  Well worth it.  
+
+#####After Party:
+
+Full from a wonderful meal, our dinner party joined up with the rest of the after party which was already swinging at the [Irish Embassy](www.irish-embassy.com/).  Drink tickets were graciously and liberally distributed.  While there were no local vodkas on the shelf, the extra nice staff and awesome company of so many campers made up for it.  Being Montreal, most of the attendees are native francaphones and my normal 'easing my way into the group' plan to listen in for keywords, awaiting a chance to join the conversation failed big time.  I still had a lot of really awesome conversations and we got to dance to a live band before the night was through.    
+
+https://twitter.com/boldgrid/status/896512140156313600
+
+#####Day 2 
+
+Breakfast was a repeat of day one.  It was on the second day I realized that the Kraft peanut butter in Canada has a [logo of 2 bears on it](https://i.cbc.ca/1.2469937.1387456923!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/peanut-butter.jpg).  Just what the heck bears have to do with peanut butter is a mystery to me but it was as least as good as any grocery store brand.  
+Lunch day 2 was pizza and they ordered just enough vegan pies to serve all those on that train.  The salad had these weird but wonderful preserved strawberries that were halfway between fruit leather and gummy bears. I went back for seconds on the salad as a result.   
+
+
+https://twitter.com/DumontLeslie/status/896773316530380800
+
+https://twitter.com/boldgrid/status/896760098890055680
+
+
+###Sessions
+
+#####My Session
+
+[Let’s learn Git. No more excuses. (in English) ](https://2017.montreal.wordcamp.org/session/lets-learn-git-no-more-excuses/)
+
+
+I taught a Git workshop the Thursday night before normal camp days.  This was hard for me mostly because I had never done this before and imposter syndrome kicked in really hard. I have taught workshops before, but about improv, which has no reliance on  Getting a room full of strangers at all varying levels of skill and experience on the same page about the core concepts and 16 basic commands upon which everything else in the version control system is arguably built was a real challenge.  But a challenge I am very, very glad I undertook.  I called the session "Let's Learn Git.  No More Excuses!" and not "You Learn Git" or even "Learn Git" because the reality is I am still learning it.  I am firm in my belief after talking to a lot of developers over the years that *everyone* is still learning Git and we are all somewhere on that journey together.  
+Thank you to all who came out.  I hope you walked away with a new perspective on some concepts.  I know I sure as heck did.  If you want to see what I taught, feel free to look at [my slides, located here](https://goo.gl/oS4ZbG).  I made everything animated Gifs to avoid live demos as much as I could, which I think might be a mistake for a workshop in retrospect.  But it does mean each student has a reference material showing the successful execution of the command and for that reason alone I am super glad I made the gifs.
+
+
+https://twitter.com/WordImpress/status/895778219252699137
+
+   
+#####Opening Remarks  
+
+There was no keynote at this camp, but we were all together for the beginning at least.  
+
+https://twitter.com/andymci/status/896363213675266052
+
+A quick note.  The more I think on it and the more I write about sessions, the more I am drawn to publishing raw notes instead of trying to sum up nd condense down the sessions I am seeing.  There is just so much I end up leaving out by trying to summarize things into one or two paragraphs.  So I think moving ahead I am going to do both.  Write up a few thoughts and then push the raw notes to you here.  Good for SEO?  Maybe not.  Good for future me when reviewing what I learned?  Yep.    
+
+[From zero to launch: A walk-through of the website process](https://2017.montreal.wordcamp.org/session/from-zero-to-launch-a-walk-through-of-the-website-process/)
+[Lisa Ghisolf](https://twitter.com/gizmodesign)
+
+This was a classic beginner talk about best practices around how to think about a site redesign project.  One of my favorite moments was when she was asked about search rank and how a site's name factors in and she quipped "No one is really looking up your name except you and your mom."  All solid advice from someone who learned this stuff the hard way.  It was a great first session of the camp, especially one with around half of the attendees self identifying as newbies during opening remarks.   
+
+Raw notes:
+When working with clients Important to nail down stakeholders and scope
+Redesign considerations
+- benchmark where the site is now.  (CrazzyEgg, OptimalWorkshop, also analytics lets you do it, but limited) 
+- Heat maps are a good idea
+- what links are live and broken (Google Search Console)
+- what links have changed
+Discovery you need a lot of things for
+Clients, stakeholder, purpose, competitoin, Audiences, Client Requirements, Scope, Analysis, Collect Data. Collect Brand Materials, Content Audit
+Knowing what you want is the most important thing.  
+content structure, functionalities.  
+New sitemaps (she is a huge fan of the sitemap)
+wireframes, Custom theme or template? prototypes, design acceptance.
+Maintenance is becoming more important
+Wire framing, she likes [Balsamiq](https://balsamiq.com/), slick plan also works. 
+
+
+https://twitter.com/McDwayne/status/896372314828406784
+
+
+[F******k Instant Articles: How do they work?](https://2017.montreal.wordcamp.org/session/fk-instant-articles-how-do-they-work/)
+[Jer Clarke](https://twitter.com/jerclarke)
+
+Facebook.  The censored word is Facebook.  There are some plusses and minuses to this approach. On the one had, very fast page loads mean more traction and less bounce, but the other side is selling your soul by giving up your content into FB's control.  There are solid points on both sides of the argument, but in the end, solid page caching is always going to be crucial no matter if it is FB doing it in an optimized way or you doing it yourself.  
+
+Raw notes:
+Going where the users are, even though they are bad and giant companies are ruining the world
+Global Voices international news websites
+Assumptions
+You ru  your own WP site
+FB is a source of traffic
+Mobile traffic
+You don't want to use wird awful ad networks
+your soul is for sale
+iA post load 'instantly' 
+stored copy in a FM format rathe than load yor site
+does not share or post to your FB page
+but it means when shared visitors see instant artcile version
+URL gets sorted for Desktop or mobile
+Effectively it replaced your theme to the end user
+you do not have ay real options, just take it as it is or don;t use it
+FB preloading the article
+Want to use AMP?  
+OK you can do that
+Accelerated Mobile Pages
+custom 'theme' uses your content to match the AMP standard
+google caches there and serves them, fast for mobile visitors
+google gives this content special treatment (carosel)
+one of my favorite quotes: "You are going to have a terrible time with page builders" 
+Why not?
+Hands control of your content to FB
+Violates open web principals
+content must be crammed into limited format
+no load on server traffic
+ads integration available
+FB probably giving iA an unfair advantage[citation needed]
+Why pursue iA anyway?
+Super Fast
+better on mobile
+only uses URL as the web address of posts (unlike Amp)
+analytics integration available
+no load on your server
+ads available
+FB probably giving iA an unfair advantage[citation needed]
+If you trust FB they have marketing that says 20% more clicks, 70% less abandon (makes since because you just start reading), 30% more shares.  
+at Global Voices 250K iA hits in one day once, each one served blazing fast, no load at all on server
+Getting it set up?  
+A lot of things are automated and a lot are hidden, they assume you are a full CMS and writing the interface on your own, they don't talk plugin like you want
+I check Jer's slides for specifics after this point, hard to write down admin screencaps.  
+
+
+https://twitter.com/McDwayne/status/896377487910981633
+
+
+[Exploring the case for serverless WordPress](https://2017.montreal.wordcamp.org/session/exploring-the-case-for-serverless-wordpress/)
+[Max Kovalenkov](https://twitter.com/m0ntrealist)
+
+This was basically a review of the first to market 'serverless solution' for WP and makers of one of my favorite logos in the space, [Shifter](https://getshifter.io/).  The jury is still out on this particular implementation of the idea, but the idea of JAMstack is the future.  Services like [Amazon Lambda](https://aws.amazon.com/lambda/) are already changing the way folks think about [NodeJS and Java](http://www.infoworld.com/article/3199243/application-development/how-serverless-changes-application-development.html).  Again, at it's heart, caching is really the secret to performance and scale. 
+
+Raw notes:
+Service called Shifter, he foudn it and wants to talk on it
+JAMstack, a website building JavaScript, APIs and Markdown
+no server or DB when viewing page
+store everything in git, CDN to deliver static page generator
+JS is glue to pull content
+
+Why?
+Faster than server, no PHO
+doubles as a hosting solution
+Fast load times and scale
+ver-r-ry secure
+
+Drawbacks: 
+no search, comments, contact forms WP-API no work, lose it all
+yet another dashboard
+only "pretty" permalinks are supported
+
+Impressions:
+at first, very excited!  so much, he signed up for this talk!
+but drawbacks are real, support was spotty, feels not mature,
+But be sure to keep an eye on this space though.  
+
+When authoring or working in admin screens, docker container is spun up, temp admin access, then spun down once page is built.
+
+https://twitter.com/andymci/status/896391628197416960
+
+[Plugins and You: Finding that perfect plugin](https://2017.montreal.wordcamp.org/session/plugins-and-you-finding-that-perfect-plugin/)
+[Miriam Goldman](https://twitter.com/mirigoldman)
+
+Miriam did a fantastic job of making sure we were all on the same page throughout her talk.  Aimed at the camper who was just getting started it was really insightful to hear her take on best practices and advice around the plugin ecosystem.  This would make a pretty awesome topic for any WP Meetup as well.  
+
+Raw notes:
+Warning, high level for beginners.
+How do you find a plugin?
+What is a plugin?  Functionality, not design, independent from themes
+Add new official wordpress repo, but google is good for investigating
+admin
+Free vs Paid:
+Free is good for basic functionality
+Freemium, has free but additional features cost
+Paid: fully paid, ontem most robust, good support from Developer
+Personal recommendations 
+
+
+https://twitter.com/McDwayne/status/896394338242002948
+
+
+[Plugin Development Demystified](https://2017.montreal.wordcamp.org/session/plugin-development-demystified/)
+[Yannick Lefebvre](https://twitter.com/ylefebvre)
+
+I was absolutely thrilled to be able to attend this talk and see this presentation live.  I have seen other Yannik talks before, but only on [WordPress.tv](https://wordpress.tv/?s=yannick).  He makes a rather hard to grapple with, complex subject like how to develop plugins, way more approachable with his laid back yet straight to the point style.  I know I learned a few things in this talk and he helped me understand filter hooks much better.  Go look at his slides for a really good breakdown of Action Hook, Filter Hook and Short Codes.   [http://ylefebvre.ca/wcmtl2017](http://ylefebvre.ca/wcmtl2017) 
+
+Raw notes:
+He wrote the books on this, rare to talk outside of Montreal
+Search deep when looking for available plugins, sometimes you are re0inventing the wheel
+Plugings are best for packaging up code for a site, lot of advantages, reusable, independent form theme, supportable
+Basic Plugin File Structure
+Comes as a zip file
+code editor is better than notepad
+Must have a local website
+image editor optional
+coupled block of code with a header
+Action Hook:
+Do you want to do something when an event occcours?
+Event - WP is displaying a page header
+Respinse; Execute plugin code
+Add Action
+Most hooks can be found in the codex
+864 action hooks
+Filter Hook:
+1674 filter hooks available
+action spit out data immediately
+filter receives data and modifies
+Shortcode:
+[] codes
+simple codes in a post or page to insert content
+or can be used to output special content
+Examples:
+You can develop your own admin menus
+admin pages of your own
+Extend the user editor
+custom post types
+add custom meta boxes to any editor
+new widgets
+Store and retreive plugin settings
+Considerations!
+Function names are different than any WP Core Functions and other plugins
+BEst practice is give unique to you prefix.  
+Local first is best!
+Entire conent is evaluated each time, can take down site as a whole
+Publishing your plugin
+Free plugins only
+Must follow GPL
+Discoverable from admin plugins page
+built in update mechanism
+Marketplaces (code anyon, MOJO Marketplace, WPEden, etc)
+Paid premium, be warned support burden must higher
+custom plugins can be made with just a few lines of code
+delivering custom code by plugins 
+consider distributing your plugins
+
+
+https://twitter.com/DumontLeslie/status/896427551584899072
+
+
+[Preparing a Plugin for Translation](https://2017.montreal.wordcamp.org/session/preparing-a-plugin-for-translation/)
+[Brian Hogg](https://twitter.com/brianhogg)
+
+Not going to lie, I did not meet the prerequisite for this session and as a result I didn't take many notes.  Just sat there trying to absorb it all.  I got to talk to him after the session and admitted this.  It speaks volumes about our community that he was very encouraging and reminded me that we all have our own path to learning these things.  Now when I do eventually get to writing my own functions inside plugins, I will be making them much easier to translate from the start thanks to the [double underscore](https://developer.wordpress.org/reference/functions/__/).   
+
+
+This is important since we need language to work
+__ (double underscore is key)
+_e = __ + echo
+sprintf
+
+locotraslate is a plugin approach to this
+
+
+https://twitter.com/andymci/status/896438785424150530
+
+
+[Rapid Mobile Prototyping in React Native with WordPress](https://2017.montreal.wordcamp.org/session/rapid-mobile-prototyping-in-react-native-with-wordpress/)
+[Ptah Dunbar](https://twitter.com/ptahdunbar)
+
+React Native is one of those things I keep hearing about and know I should know more about as I keep hearing about how it is the best device independent solution for marrying to the REST API.  I was thrilled to see this talk because it was billed as a 'play along from your seat' kind of a talk and I love those.  Indeed I left the room having installed 'react-native', yarn for dependency management and the start of a 'hello world' app written for Android.  Ptah is a brilliant presenter and when the room monitor gave him the 5 minute warning, the entire room let out a startled inhale as the time literally flew by.  Lot to think about and a lot of docs to read, but very excited to learn more as I explore more and more JS.  Also, I learned Atwood's law: "Any application that can be written in JavaScript, will eventually be written in JavaScript."
+
+Organizer WC Miami
+Moved to asia, no desktop
+day to day job dev
+React native is easiest way to build mobile/access with WP
+This is an avanced talk, not too  any slides
+Learn Javascript deeply
+We're going mobile
+This time with a native touch
+using WP as a backend
+Cool example from WCMiami feedback app
+React native viable?  Yes, FB, Insta, AirBnB, many more apps already using it
+co-exists with native code itself
+fetch is the new thing just extending with custom end points to connect content with device
+Example:
+fetch token retuens username/password
+Must use HTTPS
+Can't connect ht http in app store
+React Learn once, write everywhere
+target ALL the mobile devices
+native device performance
+Actively growing community
+each compenent does one thing really well 
+Installing it is few commands
+yarn global add react-native-cli
+react init MyTalkRocks
+cd MyTalkRocks
+yarn
+FB docs on react native is thorough! bookmark it
+once installed and set up, new directory
+Builds the visuals of the interface, these are the new parts that make native native, can now access these things
+always a render method, view is like a div, CSS flexbox used under the cover
+wrapping view
+Aview
+Image
+simple react properties, style and sizing
+Navigation can be tricky, but great app package called React Navigation, 
+leverage what the community built, lot of things created already for you
+can get far pretty fast
+Easily drive a view of:
+-splash
+-auth
+-main
+Demos all the way!
+
+
+https://twitter.com/McDwayne/status/896782222484787200
+
+
+[Our Hybrid Future: WordPress As Part Of The Stack](https://2017.montreal.wordcamp.org/session/our-hybrid-future-wordpress-as-part-of-the-stack/)
+[Josh Pollock](https://twitter.com/Josh412)
+
+Back to back JS talks?  Not quite.  Josh did spend a good portion of his talk discussing the role of VueJS in use by Caldera, the larger take away from the case study he presented was that as WP evolves it is going to become more and more 'part of the solution' and not the end unto itself.
+
+REST API, new era of WP, 
+Blog -> CMS -> Platform -> ?
+Slots into a larger architecture
+WP all the things??
+is WP a magical unicorn?
+monolithic vs microservices architecture 
+Examples of microservices
+transactional Email Services
+Tak Runners for CRON
+Separate DB
+Media Libraries on s3
+CDNs
+Decoupled front-ends via REST API
+Containerized hosting architecture
+
+Microservices encapsulate functionality!
+
+Caldrea Forms Pro as a case study
+Hybrid web app really
+typical model: free plugin - client plugin - services
+their model: plugin works on own, works better with their app
+users control their own data
+Service based solution, techs not normally used in a WP site
+Laravel, Lumen, VueJS, Vuetify, MariaDB, Redis, AmazonS3, Ec2, Linode, SendGrid and many more
+lets them do one thing at a time without having to touch all the other parts
+makes improvemetns faster and easier
+Composer and package management are vital to this stuff, to save having to copy/pasting code and repeating themselves
+not WP specific
+can always Communicate via APIs
+Easy Digital Downloads already handles recurring billing and user account stuff, 
+
+
+https://twitter.com/SatelliteWp/status/896801974783545347
+
+https://twitter.com/molecularcode/status/896795884016594944
+
+
+[All About Images](https://2017.montreal.wordcamp.org/session/all-about-images/)
+[Mike Dickson](https://twitter.com/themiked)
+
+My brain was rather fried by the time I got to this final talk I attended and my note taking skills suffered a bit as a result.  I will admit it started out a tad slow and beginner', but it ramped up pretty fast as he turned it into a giant Q&A with him giving his self described 'very opinionated thoughts."  I walked out of there knowing a lot more about images in WP than when I came in the room.  The only thing I would have liked to have heard him say that he didn't cover was alt-text.  WordPress makes it really, really easy to add descriptive alt-text to any uploaded image.  I know this is more of an accessibility talk topic but this is something I think of a lot and I wish in retrospect I would have raised a question on it so he would have broached the subject.  This is no criticism of Mike at all, he covered a lot of stuff and there just wasn't time for everything.  Super glad I went to this one.  
+
+When you upload an image there is a lot of shit going on
+embed is not short tag it is full embed, will mess up as you move it.
+Opinionated defaults
+link to none, then you insert (other options, attachment page and media file)
+wordpres will not up-res
+raster vs vector
+color on grid vs math
+sharpening is an optical trick to change shading between pixels
+SVG are a massive security whole
+Two amazing tools for saving image size: img-optin. [jpegmini](http://www.jpegmini.com/) (I played with this while he talked, pretty darn cool)   
+SRGB every time - browsers ignoring your headers to show them
+
+https://twitter.com/McDwayne/status/896817835841921029
+
+
+#####Happiness Bar Shifts
+
+It has become one of my favorite things at any WordCamp to volunteer at the [Happiness Bar](https://2016.jacksonville.wordcamp.org/what-is-the-happiness-bar/
+).  Getting to meet and work with people to solve all sorts of issues and questions at literally every stage of their WP journey is exhilarating.  I got to help one person completely new to WP figure out if WP was even the right solution. I shared that for her specific needs she might best be served from a [WordPress.com](http://www.wordpress.com).  She loved the price point and the fact that she would retain all the ownership of her content.  She also dug the fact that if she ever did have need for functionality that she would need her own WP install to achieve, exporting and importing content was straightforward and very well documented. Personally, I even got some assistance and I walked away with a new local environment solution I am going to be testing out over the next few weeks.
+I you are going to camps, volunteer and hang out to spread the happiness yourself! 
+
+
+https://twitter.com/PhilComm/status/896514189493243904
+
+
+
+###Wrapping Up
+
+I like you Montreal and I was very glad to have visited you last on this trip.  Being on the road this much is stressful and exhausting but getting the chance to see so many amazing places and jam my head chock full of so much awesome knowledge is just kind of unbelievably great.  I was also really glad to have the chance to see the city.  I maybe should be taking more advantage of this crazy travel life and seeking out the treasures of each city I visit but then again I don't want to ever miss a second of a WordCamp or DrupalCamp or anything else where I can hand with the community.  Maybe #WCTourist next?   
+
+
+https://twitter.com/brianhogg/status/896898231170342912

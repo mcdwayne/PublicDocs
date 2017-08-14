@@ -45,7 +45,10 @@ https://twitter.com/DumontLeslie/status/896773514203680768
 
 ###Sessions
 
+
 #####My Session
+[Let’s learn Git. No more excuses. (in English) ](https://2017.montreal.wordcamp.org/session/lets-learn-git-no-more-excuses/)
+
 
 I taught a Git workshop the Thursday night before camp.  This was hard for me mostly because I had never done this before. I have taught workshops before, but about improv, which has no reliance on  Getting a room full of strangers at all varying levels of skill and experience on the same page about the core concepts and 16 basic commands upon which everything else in the version control system is arguably built was a challenge.  One I am very, very glad I undertook.  I called the session "Let's Learn Git.  No More Excuses!" and not "You Learn Git" or even "Learn Git" because the reality is I am still learning it.  I am firm in my belief after talking to a lot of developers over the years that *everyone* is still learning Git and we are all somewhere on that journey together.  
 Thank you to all who came out.  I hope you walked away with a new perspective on some concepts.  I know I sure as heck did.  
@@ -347,10 +350,80 @@ https://twitter.com/McDwayne/status/896782222484787200
 
 https://twitter.com/ssstofff/status/896785324466208768
 
+https://twitter.com/sashmograph/status/896790966970982402
+
 
 [Our Hybrid Future: WordPress As Part Of The Stack](https://2017.montreal.wordcamp.org/session/our-hybrid-future-wordpress-as-part-of-the-stack/)
 [Josh Pollock](https://twitter.com/Josh412)
 
+REST API, new era of WP, 
+Blog -> CMS -> Platform -> ?
+Slots into a larger architecture
+WP all the things??
+is WP a magical unicorn?
+monolithic vs microservices architecture 
+Examples of microservices
+transactional Email Services
+Tak Runners for CRON
+Separate DB
+Media Libraries on s3
+CDNs
+Decoupled front-ends via REST API
+Containerized hosting architecture
+
+Microservices encapsulate functionality!
+
+Caldrea Forms Pro as a case study
+Hybrid web app really
+
+Free plugin - client plugin - services
+plugin works on own, works better with their app
+users control their own data
+
+Service based solution, techs not normally used in a WP site
+Laravel, Lumen, VueJS, Vuetify, MariaDB, Redis, AmazonS3, Ec2, Linode, SendGrid and many more
+lets them do one thing at a time without having to touch all the other parts
+makes improvemetns faster and easier
+
+Composer and package management are vital to this stuff, to save having to copy/pasting code and repeating themselves
+not WP specific
+
+can always Communicate via APIs
+
+Easy Digital Downloads already handles recurring billing and user account stuff, they use
+
+
+
+https://twitter.com/SatelliteWp/status/896801974783545347
+
+https://twitter.com/CalderaWP/status/896795605317636097
+
+https://twitter.com/McDwayne/status/896794262158938112
+
+https://twitter.com/MaximeJobin/status/896796175348715520
+
+https://twitter.com/molecularcode/status/896795884016594944
+
+
+[All About Images](https://2017.montreal.wordcamp.org/session/all-about-images/)
+[Mike Dickson](https://twitter.com/themiked)
+
+When you upload an image there is a lot of shit going on
+embed is not short tag it is full embed, will mess up as you move it.
+Opinionated defaults
+link to none, then you insert (other options, attachment page and media file)
+wordpres will not up-res
+raster vs vector
+color on grid vs math
+sharpening is an optical trick to change shading between pixels
+SVG are a massive security whole
+img-optin
+jpegmini
+SRGB every time - browsers ignoring your headers to show them
+
+
+
+https://twitter.com/McDwayne/status/896817835841921029
 
 
 

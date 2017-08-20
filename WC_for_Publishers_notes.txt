@@ -1,0 +1,582 @@
+WC for Publishers
+
+https://twitter.com/SoSaysLucia/status/898566516441989121
+
+
+
+Speaker Dinner
+
+https://twitter.com/getshifter/status/898014842639925250
+
+
+Opening remarks
+
+https://twitter.com/eaXLR/status/898200714643623936
+
+https://twitter.com/mkopala/status/898202243748438016
+
+https://twitter.com/breanneWPEngine/status/898201346788261889
+
+https://twitter.com/wcpublishers/status/898199417852907520
+
+wp-cli workshop
+
+https://twitter.com/mkopala/status/898213581270900736
+
+https://twitter.com/jasonbahl/status/898228526553341952
+
+https://twitter.com/wcpublishers/status/898212797544144897
+
+https://twitter.com/crazyjaco/status/898206930815950848
+
+
+[Make a Statement: Using React to Create Content-rich Articles on WordPress](https://2017-denver.journalist.wordcamp.org/session/make-a-statement-using-react-to-create-content-rich-articles-on-wordpress/)
+[Andres Escobar](https://twitter.com/esco1102)
+
+
+Localizing data on frontend
+could get a lag if 
+
+Lunch Day 1
+
+https://twitter.com/mkopala/status/898255705664139265
+
+https://twitter.com/jeffpaul/status/898246539419815936
+
+https://twitter.com/eaXLR/status/898240585684852737
+
+
+###Sessions
+[How Digital First Media Uses WordPress](https://2017-denver.journalist.wordcamp.org/session/lightning-talks/)
+[Mateo Leyba (DFM)](https://twitter.com/mateomtb)
+like a lot of publishers
+legacy antiquated systems for many years
+how from a standardized perspective, got an admin, OSS, lot of dev talent
+how to get there quick. - hired Alley
+twincities.com
+rolling out more site, 7 sites live
+3 sites in a few days!
+scary but awesome
+sharing content but a million restrictions
+main content hub site
+views inside WP, grabs content from their site from either subscription
+or copy it from it
+REST API project
+RUSH
+WP runner
+DASH
+
+
+
+[Voice Apps for Publishers](https://2017-denver.journalist.wordcamp.org/session/lightning-talks/)
+[Tom Harrigan (Alley Interactive)](https://twitter.com/TomHarrigan)
+
+VoiceWP
+Create voice apps through dashboard
+use existing content
+
+https://twitter.com/dougiegyro/status/898324545093877763
+
+https://twitter.com/wcpublishers/status/898324230697172992
+
+
+
+[WordPress and Newsroom Workflow Management](https://2017-denver.journalist.wordcamp.org/session/lightning-talks/) 
+[Douglas Arellanes (Sourcefabric)](https://twitter.com/dougiegyro)
+
+https://twitter.com/wcpublishers/status/898326508598550528
+
+
+
+[Reducing “Time To Publish”](https://2017-denver.journalist.wordcamp.org/session/lightning-talks/)
+[Bradley Jacobs (Boston Globe Media)](https://twitter.com/crazyjaco)
+
+https://twitter.com/wcpublishers/status/898328222110162944
+
+https://twitter.com/crushgear/status/898327968874876929
+
+[Useful Publisher Plugins](https://2017-denver.journalist.wordcamp.org/session/lightning-talks/)
+[Ben Keith (Institute of Nonprofit News)]()
+
+https://twitter.com/wcpublishers/status/898329741081563137
+
+
+
+[Distribute All The Things: WordPress & The Era of Multiple Content Channels](https://2017-denver.journalist.wordcamp.org/session/distribute-all-the-things-wordpress-the-era-of-multiple-content-channels/)
+[Jake Goldman](https://twitter.com/jakemgold)
+
+10UP Modernful stack
+all engineering focused on digital publishing business success.  
+Heloing the landscape succeed
+Not going to dive deep on every channel
+All good educational narratives start out by scaring their audience.  
+Short termbusiness survival requires tou to balance reader growth with revenue per reader/engage,ent
+NOT a new concept
+associated press is a good example, not knowing where content goes, there is prescribed images, etc but no control on where it ends
+Radio shows are similar, distribion as a concept is not new
+digital is not now as well, lexisnexis, compuserve, AOL, NYT 
+Web specials from early days
+email subscription channels, RSS and desktop readers, WAP early mobile
+also tried to represent TV model online, channels
+failed
+2008 - 2009 
+rss, xmlRPC
+JSON REST
+brings us to now
+Jake's two different ways to think about distribution channels
+1 - Open web has turned to crap and we can do better but same thing (Evolution)
+2 - A responsive screen of text and pictures is so 2016 channels, (revolution)
+other axis 
+top - this is a different way of doing things, but have at it devs (open)
+bottom - It would be best if you let us control everything, just sned content (constrained)
+complexity increases up to the right
+so does opportunity
+not a static chart, solutions moving and changing constantly
+Most new things start upper right, but end up lower left, printing and app store the same
+youtube starts open and revolutionary, but now is rather evolutionary
+Alexa is interesting as is VR since these are the newest and have not been as tested yet
+Where the digital CMS fits in
+CMS as a content design systems, this is where Gutenberg is going
+now we are in multi channel content distribution
+CMS is not the center of the whole web experience
+instead a hub of the multichannel strategy 
+Website is just another channel now
+CMS is where you create content
+tomorrow is presentation layer is no longer in the CMS
+Editors will be writing and collaborating in other tools, CMS will just be for organizing and storing it
+
+
+
+
+https://twitter.com/SiteLock/status/898569954135429126
+
+https://twitter.com/wcpublishers/status/898571033757720576
+
+https://twitter.com/SoSaysLucia/status/898571917103333376
+
+https://twitter.com/eaXLR/status/898576323282522113
+
+https://twitter.com/crushgear/status/898576275043868674
+
+
+[Monetize All The Things: How Condé Nast Profits From Multiple Channels](https://2017-denver.journalist.wordcamp.org/session/monetize-all-the-things-how-conde-nast-profits-from-multiple-channels/)
+[Jake Spurlock](https://twitter.com/whyisjake)
+COnde Naste
+Wired tech team (Wired Magazine) vanity fair, etc
+jumped to Co-Pilot recently
+Wired launched in 1994
+
+Then it is was make them emagazines
+high impact features
+pushing into distribution channels
+in 1994 Hotwired.com launched was original, not just republishing the printed mag
+small images and text
+14 person to 180 person office in a few years
+Jeff Veen was early days
+Wired invented the banner ad, went to an ATT microsite
+hotwired had it first
+MCI, Volvo, 1800 collect and Zima
+dead ends in 1994
+header in 1995, pretable
+lycos bought hotwire, but wired still exists, Cande Nast buys them
+eventually wired.com
+wired 2005 launched
+what a jump it was to CSS
+2015 became responsive, 
+last month completely on co-pilot
+other brands they manage:
+Suck.com
+webmonkey
+wired invented apache, or at least standardized it
+DIstributeion platform - other topics
+HTTPS
+Amazon Affiliates  - too easy to make money from links, easy stuff
+Newsletters - they make money
+Adblockers
+
+Apple news launch, was there for it
+apple news takes a lot fo time developing for
+high touch custom features, good relationships, but not a lot of $
+advertisingSettings: {frequency:10 }
+new ads look like text call outs
+Ney Yorker is leading the way to next phase of things
+subscription widgets in AMP
+AMP coming out with STAMP, which is for stories from social media
+FB instant - delivers stories and revenue
+FBIA on revenu
+Vanity Fair -11% GW -51% Wired +14%
+
+
+https://twitter.com/SnarkyBirds/status/898581338243997696
+
+https://twitter.com/SnarkyBirds/status/898582878614732803
+
+https://twitter.com/wcpublishers/status/898583716196253696
+
+https://twitter.com/crushgear/status/898589740567584768
+
+
+
+[Gutenberg and Publishers (Unconference/Conversation Track)](https://2017-denver.journalist.wordcamp.org/session/unconferenceconversation-track-2/)
+[Aaron Jorbin](https://twitter.com/aaronjorbin)
+Roundtable discussion
+scarymommy.com
+
+What are the needs of the publishing community
+WP is the base we build on, not the product on the end
+
+challenges with current
+
+Longform layouts
+collaborative editing (many people agreed)
+moving info into WP
+allowing users to pre-publish in home/category views
+who has written a post and published on site with Guttenbrg, few hands, who did it without a bug report resulting?  no one
+it is early
+
+custom part of editor
+field manager using ad 10up
+what is the fate of metadata mangement? big concern
+5 meta boxes or more most of rume
+10 meta boxes about 1/4
+20 no one
+
+custom taxonomy - most people
+could there be new standards?  How you do it?
+custom validation of taxonomy, no way to built in validation mecanism
+couple Aaron used: taxonomy new can not be added only use from list
+no pre-populated but must add one
+have to select to save post
+
+really easy to write beautiful posts in Gut and in Tiny MCE, but easy to write terrible ones as well
+
+videos make no sense for print, so Gut will maybe make it easier to just pick up print ready content
+got to move away from post body - must support HTML for backwards compatibility
+storing nodes maybe as individual things
+maybe JSON format for these things
+which leads into what does ATOMIC news mean?
+is anyone trying to store content in different way than WP does?  No hands
+
+shortcodes reloaded
+
+worry: post body is invisible to a parser
+when querry a Doblock 
+set containers in 
+
+Gut does not look into Comments, not yet
+
+Dream pie in the sky
+select all views for possible devices
+UI tab just mobile, just amp, just desktop
+
+Vision is still being decided here,
+We are taking this transcript and turning into notes to share with the team making this stuff
+
+
+
+https://twitter.com/aschweig/status/898596275624460289
+
+
+
+
+[Alternative Hacks: WordPress Security From the Outside Looking In](https://2017-denver.journalist.wordcamp.org/session/alternative-hacks-wordpress-security-from-the-outside-looking-in/)
+[Daniel Olson](https://twitter.com/emaildano)
+This talk is not the 'run grab a plugin talk'
+remove WP from the equation, how do we protect our web applications
+why would we care?  Client responsibility
+have their back
+stuff happens - 
+see it as a design problem, not a tech problem
+sourcemaking.com
+Approaching tech problems as design solutions
+all around workflow
+everyday tasks
+lobby for the right fix not the quick fix
+but compromise, got to communicate
+touched on antpatterns
+a few idea
+Disaster plans - discuss them early and often
+'total data loss' 'client failure"
+"no plan" "No SLA"
+If you have no plan, get one
+backup efficiently, not aggressively 
+'If you data is in one place, it is in no place.' - Someone
+Apps sometimes store config as constants in the cosde.  This is a violation of 12 step.....
+Bot traffic, put your server to work and serve 404s with NGINX, Apache, or .htaccess
+no reason not to use HTTPS now
+Recovery, Scale and Automation?  
+Does host give you this, again config as code go JAMstack
+Shifter - JAMstack
+available everywhere but not just a CDN/Cache
+WP in a container that powers up and down to generate static JS pages
+WP plugins are not a cure-all
+def still need them
+learn what they actually do
+can that 
+Tinfoill file permissons - read docs, don;t lean on Stackoveflow
+MD5 is used by default becoming standard eerywhere
+hashing and MD5, try bcryotm, Scrypt
+
+
+https://twitter.com/wcpublishers/status/898641903389786112
+
+https://twitter.com/battle_elf/status/898641141985234944
+
+https://twitter.com/emaildano/status/898636115053207553
+
+https://twitter.com/McDwayne/status/898641236050952192
+
+
+[The Care and Feeding of Open-Source-Skeptical Colleagues](https://2017-denver.journalist.wordcamp.org/session/the-care-and-feeding-of-open-source-skeptical-colleagues/)
+[Kevin Koehler](https://twitter.com/kev097)
+
+We are referring to freedom not rights
+Patience is key when explaining this
+hard to trust things that are unusual
+Already everywhere
+so many projects run everything
+not just for blogs!!  28% of internet
+
+I read that it is not secure
+printed in media reductively sometimes
+secure as anything can be
+closed platforms are security through obscurity
+that is a falsehood
+news stories about WP hacks make it seem less secure, press likes stories about this
+bad passwords and non-updated sites are bad
+
+WP is like the New York Yankees 
+unlike the Memphis biscuits
+
+"there is no one you can call"
+not a bug it is a feature
+no one, but hundreds!ease for new staff and partners
+Huge ecosystem with 14 year head start
+harder than it looks
+
+newspaper analogy - investing in paper mill and forrestry, or just focus on making newspapers?
+
+GPL!  
+legal thing, can seem restrictive
+4 freedoms
+restricts distribution, not use
+You fully own your code
+WP cannot go away
+
+analogy - unfamiliar with the software world make it hard to understand
+not like printing press, build use for 15 years 
+more like the Associated Press
+
+Considerations
+Security, please use 2fa
+4.8.1 point release a must
+
+Scaling, small investment with big dividend
+compared to other technologies larger payoff with smaller up front
+before breaking news
+
+Use known plugins!
+Reputation not just a star
+code review is magic 
+
+Success is often quiet
+brag
+tech is not interesting 
+
+Contribute:
+You are not as unique as you think
+don't let it stop when you put it out there
+You must broadcast anything you are putting out there
+
+Everyone's code is ugly
+you are your own worse critic
+having code out there improves your reputation, a few issues does not damage your reputation
+working in the open is kind to your colleagues
+
+Dont sell as a tech investment
+closer to a continuing education sale
+WP is good
+
+
+
+
+https://twitter.com/wcpublishers/status/898669025021919234
+
+https://twitter.com/tayhansenxo/status/898668997801005056
+
+https://twitter.com/McDwayne/status/898666864548528128
+
+
+
+[Using WordPress to Grow our Network](https://2017-denver.journalist.wordcamp.org/session/lightning-talks-2/) 
+[Maura Teal (Fansided)](https://twitter.com/mlteal)
+
+WP kept them able to adapt and grow
+
+WP Community built a tech team
+owner knew a lot of WP community worked on WP phoenix
+Actively trying to learn
+
+https://twitter.com/wcpublishers/status/898682933770190848
+
+https://twitter.com/aaronjorbin/status/898682832595238912
+
+
+[Customizer-centric Workflows](https://2017-denver.journalist.wordcamp.org/session/lightning-talks-2/)
+[Jonathan Wold (XWP)](https://twitter.com/sirjonathan)
+
+fonts and sizes
+Content preview and editing
+showing simple changes but completely customizable. flip between site wide previews of changes
+
+Changeset scheduling  group any number of content changes to your sites
+Unique ID, see cahnges without logging in. ****
+
+Use customizer with changesets as a base and it makes awesome editing experience
+make.xwp.co
+
+https://twitter.com/WPBizReviews/status/898683904596377600
+
+
+
+[How a drumming magazine leapt into digital subscriptions with resounding success](https://2017-denver.journalist.wordcamp.org/session/lightning-talks-2/) 
+[Peter Ericson (Zeen 101)](https://twitter.com/PeterEricson)
+
+Everything was PDF and flipbooks, landlocked
+
+Solution 1
+Web issues -IssueM
+Working their way backwards
+
+SOlution 2
+metered paywall - leaky paywall
+3 free artiles
+restricts PDFs
+Current issue and archive subscription levels
+
+Solution 3
+integrates iOS and Androis UniPress
+AP issues
+
+Results 1st 2weeks after launch 900 new paid didta, 
+in apps subscripitosn10+%
+
+
+https://twitter.com/wcpublishers/status/898686097273765888
+
+
+
+
+How to design branded content](https://2017-denver.journalist.wordcamp.org/session/lightning-talks-2/)
+[Silvia Christmann (Setka.io)](https://twitter.com/wanderingplanet)
+
+Branded content expenses
+increases revenue by increasing engagement
+design guides for publishers 
+
+https://twitter.com/wcpublishers/status/898687292440629248
+
+
+
+[Tune Up Democracy](https://2017-denver.journalist.wordcamp.org/session/lightning-talks-2/)
+[Ernesto Aguilar (National Federation of Community [Broadcasters)](https://twitter.com/eaXLR)
+
+Democracy suffers from isolation of feedback bubbles
+tool to help
+
+community radio
+who still listens to radio?
+non-commercial radio has different rules and goals,
+local and staffed
+unlike bigger media, different conversation
+makes a difference
+99% penetration radio
+widespread 
+They need your talent!
+help them by providing a space and an opportunity
+We know a lot more than others, we could make a big difference
+
+nfcb.org/wcpub
+
+
+https://twitter.com/SoSaysLucia/status/898692327593717765
+
+https://twitter.com/dougiegyro/status/898690147872645120
+
+https://twitter.com/dougiegyro/status/898688417122328576
+
+
+A Biased Guide to Managing Bias](https://2017-denver.journalist.wordcamp.org/session/lightning-talks-2/) 
+[Jake Spurlock (Wired)](https://twitter.com/whyisjake)
+
+Explicit Bias vs implicit (unconsious)
+between 8 leels of company
+how would that impact if 1% change per lee, 34% at top
+76%  prefer people with disability
+My thought ->  We suck as people, 
+Performance bais gender blind interviewed 
+white name = 4 to 8 years of experience
+lot of impact not givent he same opportunities
+men are more likeley
+evaluations and peer reviews nee to explain
+share and share responsibly
+feel imposter syndrome more on performance attribution bias
+counterace
+Get groundrules, don't interupt, everyone gets a voice
+acknowlege ideas
+maternal bias 
+79% less to be hired by PTA membership
+1/2 likely be promoted
+oppered $11K less on average
+counteract can't make assumptions
+manage parental leave
+"culture fit" is actually comething to counteract
+more divisity leads to better things ins tudy after study
+
+
+https://twitter.com/SoSaysLucia/status/898691891721637888
+
+https://twitter.com/SoSaysLucia/status/898691392934887424
+
+https://twitter.com/wcpublishers/status/898691885560020993
+
+
+Ending Remarks
+
+https://twitter.com/ifyouwillit/status/898692767345385472
+
+
+#####After Party
+
+https://twitter.com/McDwayne/status/898724313074814978
+
+https://twitter.com/kevinmckernan/status/898707057888702466
+
+#####Karaoke
+
+https://twitter.com/Asignia/status/898778151026778112
+
+
+
+
+
+#####Contributor day
+
+https://twitter.com/jeffpaul/status/898985459186933760
+
+https://twitter.com/McDwayne/status/898979912840654848
+
+https://twitter.com/dougiegyro/status/898964170250604545
+
+https://twitter.com/getshifter/status/898957259144933376
+
+https://twitter.com/McDwayne/status/899009763240853504
+
+#####Baseball game
+
+https://twitter.com/CodeProKid/status/899102451789201409
+
+https://twitter.com/esco1102/status/899087390043766784
+
+https://twitter.com/wcpublishers/status/899082423421603841
+

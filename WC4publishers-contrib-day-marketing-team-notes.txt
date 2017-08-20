@@ -1,0 +1,30 @@
+Marketing Team contributor day notes from WordCamp for Publishers:
+
+Participants: mcdwayne, jgamboa (new), amym (new), pericson (new)
+
+Created card for Core team's request around marketing to clients and business owners for updating PHP versions.
+https://trello.com/c/kMHgTvqG/14-why-business-owner-would-care-about-php-updates-core-request
+
+jgamboa started a research doc for supporting materials for his marketing copy around PHP updates.
+Research Doc: https://docs.google.com/document/d/1k3f5937JWH4K52GcqA-uhpiVgBY-q5UH4wyfIzW3qgU/edit?usp=sharing
+
+mcdwayne and jgamboa started writing copy:
+https://docs.google.com/spreadsheets/d/163lSJHKToyf5hOUgtCFgJNQidP2f251-HNOwoesaz7Y/edit#gid=0
+
+amym worked on new marketing copy for Marketing to End Users: 
+https://trello.com/c/BWPZ0voF/10-amym-blog-post-for-end-users
+
+amym is also suggesting a new Wish List card in Marketing to Agencies, Enterprises and Clients
+https://trello.com/c/LBWDa637/15-amusing-video-on-why-to-update-to-php-5-amym44
+
+pericson is a shop manager and agreed to do an Agency case study and began that process through the survey links.  
+
+
+Discussions:
+Plugins - like the Admin WordPress Events and News plugin. 
+Or why can't we push out materials there like wptavern does?
+
+Speaking of news.  Can we get marketing initiatives listed here: https://wordpress.org/news/
+
+Newsletter.  
+We need one.  Let people opt in for updates in their email?  Can they subscribe outside of joining marketing channel.  That was all that was discussed.  

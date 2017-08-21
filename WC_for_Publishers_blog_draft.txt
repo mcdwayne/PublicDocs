@@ -1,31 +1,71 @@
-WC for Publishers
+WordCamp for Publishers: Taking in Denver's natural beauty and some baseball.
+
+While I had been to Denver before I had not had the pleasure of exploring the pretty amazing [trails](http://www.walkridecolorado.com/individual-trails/denver-metro/south-platte-river-trail-colorado) and [parks](http://www.10best.com/destinations/colorado/denver/lodo-lower-downtown/attractions/confluence-park/) in the ['Queen city of the plains'](http://soulsinaction.com/denver-queen-city-of-the-plains/) until this trip.  I had also not had the chance to see the pretty trendy and historic [Highland Park](https://www.denver.org/about-denver/neighborhood-guides/highlands/) neighborhood before.  I have to admit, getting to see this side of the city, combined with the wonderful [Denver Post](http://www.denverpost.com/) camp location made Denver an amazing backdrop for a pretty fantastic inaugural [WordCamp for Publishers](https://2017-denver.journalist.wordcamp.org/).
 
 https://twitter.com/SoSaysLucia/status/898566516441989121
 
+##Food and Fun
 
-
-Speaker Dinner
+#####Speaker Dinner
+Having only been to one other Denver time for a WordCamp and as a result I didn't know that many folks at the Speaker/Sponsor dinner when I first arrived.  Of course, that changed almost immediately as I was welcomed in by the organizers and as more of the #WPLife crowd showed up.  We met up at the [Henry's Tavern](http://www.henrystavern.com/location.php?c=denver) for a buffet style spread of sandwiches, hummus, chips, other dips and crudités. The staff was pretty friendly and quick with the drinks.  By the end of the evening I was well acquainted with a few new folks and felt a bit stuffed.  I walked back to my hotel for the first of multiple walkabout experiences that flavored this trip so positively.  
 
 https://twitter.com/getshifter/status/898014842639925250
 
+#####Day 1
+Coffee was there to meet us as we gathered and it was OK.  
+Lunch on the other hand was pretty epic.  Located right across the street from [Denver's Civic Center Park](https://www.denver.org/listing/civic-center-park/6823/) we were there for the  [Civic Center Eats](http://www.civiccenterconservancy.org/event-civic-center-eats_88.html) food truck experience.  We all got $15 vouchers to be spent at a truck of our choosing.  I caved in to my cravings and spent it on sweet potato fries and fried pickles.  Not the healthiest lunch but it sure did hit the spot at the time.  
 
-Opening remarks
+https://twitter.com/jeffpaul/status/898246539419815936
+
+https://twitter.com/eaXLR/status/898240585684852737
+
+
+#####Brewery Tour
+Thursday night we were invited to participate in a brewery tour at [Ratio Beerworks](http://ratiobeerworks.com/) one of the [87 breweries in Denver](http://denverbreweryguide.com/breweries.aspx).  The tour was pretty good, as we were taken in small batches to see the inner workings of this microbrewery that specializes in punk rock and barrel aging.  My favorite part though was finding really good thai food truck in the [Finn's Mannor complex](http://www.finnsmanor.co/) right across the street.  This part of Denver is old warehouses and industrial buildings but is revitalizing as microbreweries, distilleries and hip restaurants.  Very hipster, but very good stuff happening.  
+
+https://twitter.com/crushgear/status/898362795028295680
+
+
+
+#####Day 2
+Coffee same as day one with some left over cereal bars from the previous day's afternoon coffee break.  I was glad I got my oatmeal fill at my hotel and satiated for the morning.  Lunch was box lunch from Jimmy John's and the veg option was a spinach beet salad.  Pretty good and a nice balance from the previous day's carnival faire.  
+
+https://twitter.com/wcpublishers/status/898604377941954562
+
+
+#####After Party
+The official WC after party kicked off at [Wynkoop Brewery](wynkoop.com) a little while after the last session and closing remarks.  I have been to this brewery every time I have been to Denver so far and I take a certain comport in that.  There is a pretty cool bronze gorilla statue in the front and many quality beverages on tap.  I again found hummus, chips, french fries and crudités while meat and cheese based sandwiches were also offered up.  
+
+https://twitter.com/McDwayne/status/898724313074814978
+
+#####Karaoke
+It wouldn't be a WordCamp without some #WCKaraoke and we found a really nice but super popular spot to go sing.  [El Charrito](www.elcharritobar.net/
+) is a local watering hole that turns into a swinging karaoke bar on the weekends.  It's proximity to the ballpark and to a pop up silent rave and dance party got this place popping all evening.  Was very glad to be there with my WordCamp family.  
+
+https://twitter.com/Asignia/status/898778151026778112
+
+
+#####Baseball game
+One of the extra special treats of this camp was getting a ticket to go see the Colorado Rockies play at [Coors Field](https://en.wikipedia.org/wiki/Coors_Field). We had general rooftop access tickets which got us open seating and even included a few dollars towards concessions.  It had been a long few days and I will admit sitting in the sun and a few drinks found me faded a little before the seventh inning stretch.  I walked back, again getting to explore the natural beauty that Denver had to offer and called it an early night before my 5:30 am flight.  It was a real delight to have this opportunity and I can't thank the organizers enough for everything.  
+
+https://twitter.com/CodeProKid/status/899102451789201409
+
+https://twitter.com/wcpublishers/status/899082423421603841
+
+
+###Sessions
+
+#####Opening remarks
 
 https://twitter.com/eaXLR/status/898200714643623936
 
-https://twitter.com/mkopala/status/898202243748438016
+#####My session
+[The Complete Introduction to WP-CLI](https://2017-denver.journalist.wordcamp.org/session/wp-cli-workshop/)
+with [Daniel Bachhuber](https://twitter.com/danielbachhuber)
 
-https://twitter.com/breanneWPEngine/status/898201346788261889
-
-https://twitter.com/wcpublishers/status/898199417852907520
-
-wp-cli workshop
+I had the real privilege to present a WP-CLI workshop with the chief maintainer of the project, Daniel Bachhuber.  We had a very full room and eager students as we covered the basics and some more advanced usage of the command line interface.  It was a pleasure to guide people though the steps and know that each person left the room with a working installation of the PHP based WP management tooling.  When Daniel asked at the end who had learned something, every hand shot up.  I can not remember feeling more pride after anything I have ever done at any camp.  The conversations that flowed afterward for the rest of the event made me realize how much impact sharing your knowledge can have, even if you don't consider yourself a true 'expert'.  I learned a few things as well.  Mostly that MAMP will try and use the default machine PHP instead of whatever latest version you downloaded and are using with the WP-CLI.  There is a pretty good article about [that here](https://tommcfarlin.com/installing-wp-cli-with-mamp/).  Special thanks to Daniel for inviting me to do this workshop with him and for making answering the questions rather easy, since I could just defer to his thorough and deep knowledge of the subject.  
 
 https://twitter.com/mkopala/status/898213581270900736
-
-https://twitter.com/jasonbahl/status/898228526553341952
-
-https://twitter.com/wcpublishers/status/898212797544144897
 
 https://twitter.com/crazyjaco/status/898206930815950848
 
@@ -33,84 +73,24 @@ https://twitter.com/crazyjaco/status/898206930815950848
 [Make a Statement: Using React to Create Content-rich Articles on WordPress](https://2017-denver.journalist.wordcamp.org/session/make-a-statement-using-react-to-create-content-rich-articles-on-wordpress/)
 [Andres Escobar](https://twitter.com/esco1102)
 
-
-Localizing data on frontend
-could get a lag if 
-
-Lunch Day 1
-
-https://twitter.com/mkopala/status/898255705664139265
-
-https://twitter.com/jeffpaul/status/898246539419815936
-
-https://twitter.com/eaXLR/status/898240585684852737
+I always love a case study.  Rather than general good advice and technical how to knowledge, these talks showcase a real world example of these best practices and implementations in action.  Andres is a great presenter who lead us through how  IOneDigital used React to transform the [Cassius website](https://cassiuslife.com/) experience from 'just another culture and news site' to a truly engaging interactive experience.  I didn't take almost any notes on this as I had jumped over to the site to explore these pretty neat [React effects like this one](https://cassiuslife.com/feature/digital-dolls-hello-beautiful/).
 
 
-###Sessions
-[How Digital First Media Uses WordPress](https://2017-denver.journalist.wordcamp.org/session/lightning-talks/)
-[Mateo Leyba (DFM)](https://twitter.com/mateomtb)
-like a lot of publishers
-legacy antiquated systems for many years
-how from a standardized perspective, got an admin, OSS, lot of dev talent
-how to get there quick. - hired Alley
-twincities.com
-rolling out more site, 7 sites live
-3 sites in a few days!
-scary but awesome
-sharing content but a million restrictions
-main content hub site
-views inside WP, grabs content from their site from either subscription
-or copy it from it
-REST API project
-RUSH
-WP runner
-DASH
-
-
-
-[Voice Apps for Publishers](https://2017-denver.journalist.wordcamp.org/session/lightning-talks/)
-[Tom Harrigan (Alley Interactive)](https://twitter.com/TomHarrigan)
-
-VoiceWP
-Create voice apps through dashboard
-use existing content
-
-https://twitter.com/dougiegyro/status/898324545093877763
-
-https://twitter.com/wcpublishers/status/898324230697172992
-
-
-
-[WordPress and Newsroom Workflow Management](https://2017-denver.journalist.wordcamp.org/session/lightning-talks/) 
-[Douglas Arellanes (Sourcefabric)](https://twitter.com/dougiegyro)
-
-https://twitter.com/wcpublishers/status/898326508598550528
-
-
-
-[Reducing “Time To Publish”](https://2017-denver.journalist.wordcamp.org/session/lightning-talks/)
-[Bradley Jacobs (Boston Globe Media)](https://twitter.com/crazyjaco)
-
-https://twitter.com/wcpublishers/status/898328222110162944
-
-https://twitter.com/crushgear/status/898327968874876929
-
-[Useful Publisher Plugins](https://2017-denver.journalist.wordcamp.org/session/lightning-talks/)
-[Ben Keith (Institute of Nonprofit News)]()
-
-https://twitter.com/wcpublishers/status/898329741081563137
-
+https://twitter.com/wcpublishers/status/898239716947968000
 
 
 [Distribute All The Things: WordPress & The Era of Multiple Content Channels](https://2017-denver.journalist.wordcamp.org/session/distribute-all-the-things-wordpress-the-era-of-multiple-content-channels/)
 [Jake Goldman](https://twitter.com/jakemgold)
 
+Jake 1 (as he came to be referred to in various conversations about his and Jake Spurlock's related talk that immediately followed) began with some rather troubling thoughts around the idea that media is constantly changing and leaving old, well established paradigms in the dust.  His main example was the decline of Encyclopedia Brittanica as they tried to understand the changing digital landscape and embracing the CD-ROM in the early days of the browser based internet experience.  This hallmark of knowledge suffered from not being able to evolve quick enough.  This was a very good talk that laid out the history of the publishing space in a novel way and gave me some real insights into the future of the CMS as part of, not the complete publishing solution.  
+
+Raw notes:
 10UP Modernful stack
 all engineering focused on digital publishing business success.  
-Heloing the landscape succeed
+Helping the landscape succeed
 Not going to dive deep on every channel
-All good educational narratives start out by scaring their audience.  
-Short termbusiness survival requires tou to balance reader growth with revenue per reader/engage,ent
+"All good educational narratives start out by scaring their audience."  
+Short termbusiness survival requires you to balance reader growth with revenue per reader/engage,ent
 NOT a new concept
 associated press is a good example, not knowing where content goes, there is prescribed images, etc but no control on where it ends
 Radio shows are similar, distribion as a concept is not new
@@ -143,29 +123,21 @@ instead a hub of the multichannel strategy
 Website is just another channel now
 CMS is where you create content
 tomorrow is presentation layer is no longer in the CMS
-Editors will be writing and collaborating in other tools, CMS will just be for organizing and storing it
-
-
-
-
-https://twitter.com/SiteLock/status/898569954135429126
-
-https://twitter.com/wcpublishers/status/898571033757720576
-
-https://twitter.com/SoSaysLucia/status/898571917103333376
-
-https://twitter.com/eaXLR/status/898576323282522113
+Editors will be writing and collaborating in other tools, CMS will just be for organizing and storing it.
 
 https://twitter.com/crushgear/status/898576275043868674
 
 
 [Monetize All The Things: How Condé Nast Profits From Multiple Channels](https://2017-denver.journalist.wordcamp.org/session/monetize-all-the-things-how-conde-nast-profits-from-multiple-channels/)
 [Jake Spurlock](https://twitter.com/whyisjake)
-COnde Naste
+
+Jake 2 (as he was referred to by several folks I discussed these sister sessions with), gave a case study view of the exact trends Jake 1 had talked about.  That case study is Wired and its online presences of hotwired.com, wired.com, suck.com and other properties.  I learned that wired properties are why we have both banner ads and Apache servers as the standard.  So thanks, I guess.  I walked away with a completely new appreciation for how CSS evolved and how one leading proprtiy can have such a wide impact on entire industry.  This and Jake 1's talks are well worth checking out once they make it ot WordPress.tv
+
+Raw notes:
+Conde Naste
 Wired tech team (Wired Magazine) vanity fair, etc
 jumped to Co-Pilot recently
 Wired launched in 1994
-
 Then it is was make them emagazines
 high impact features
 pushing into distribution channels
@@ -193,7 +165,6 @@ HTTPS
 Amazon Affiliates  - too easy to make money from links, easy stuff
 Newsletters - they make money
 Adblockers
-
 Apple news launch, was there for it
 apple news takes a lot fo time developing for
 high touch custom features, good relationships, but not a lot of $
@@ -206,81 +177,15 @@ FB instant - delivers stories and revenue
 FBIA on revenu
 Vanity Fair -11% GW -51% Wired +14%
 
-
-https://twitter.com/SnarkyBirds/status/898581338243997696
-
-https://twitter.com/SnarkyBirds/status/898582878614732803
-
 https://twitter.com/wcpublishers/status/898583716196253696
-
-https://twitter.com/crushgear/status/898589740567584768
-
-
-
-[Gutenberg and Publishers (Unconference/Conversation Track)](https://2017-denver.journalist.wordcamp.org/session/unconferenceconversation-track-2/)
-[Aaron Jorbin](https://twitter.com/aaronjorbin)
-Roundtable discussion
-scarymommy.com
-
-What are the needs of the publishing community
-WP is the base we build on, not the product on the end
-
-challenges with current
-
-Longform layouts
-collaborative editing (many people agreed)
-moving info into WP
-allowing users to pre-publish in home/category views
-who has written a post and published on site with Guttenbrg, few hands, who did it without a bug report resulting?  no one
-it is early
-
-custom part of editor
-field manager using ad 10up
-what is the fate of metadata mangement? big concern
-5 meta boxes or more most of rume
-10 meta boxes about 1/4
-20 no one
-
-custom taxonomy - most people
-could there be new standards?  How you do it?
-custom validation of taxonomy, no way to built in validation mecanism
-couple Aaron used: taxonomy new can not be added only use from list
-no pre-populated but must add one
-have to select to save post
-
-really easy to write beautiful posts in Gut and in Tiny MCE, but easy to write terrible ones as well
-
-videos make no sense for print, so Gut will maybe make it easier to just pick up print ready content
-got to move away from post body - must support HTML for backwards compatibility
-storing nodes maybe as individual things
-maybe JSON format for these things
-which leads into what does ATOMIC news mean?
-is anyone trying to store content in different way than WP does?  No hands
-
-shortcodes reloaded
-
-worry: post body is invisible to a parser
-when querry a Doblock 
-set containers in 
-
-Gut does not look into Comments, not yet
-
-Dream pie in the sky
-select all views for possible devices
-UI tab just mobile, just amp, just desktop
-
-Vision is still being decided here,
-We are taking this transcript and turning into notes to share with the team making this stuff
-
-
-
-https://twitter.com/aschweig/status/898596275624460289
-
-
 
 
 [Alternative Hacks: WordPress Security From the Outside Looking In](https://2017-denver.journalist.wordcamp.org/session/alternative-hacks-wordpress-security-from-the-outside-looking-in/)
 [Daniel Olson](https://twitter.com/emaildano)
+
+Let's face it, the internet is a scary place from a security perspective.  Every day there are millions of bits trying to exploit every weakness there is and attack your site.  This talk took a very solid approach to looking at your site not as a WordPress site but as a general internat application.  If we don't have this perspective it is tempting to think very WP centric and see plugins as the right set of solutions instead of viewing our online presence as generic sets of security best practices to needing implementation.  We need to make a disaster plan early and we need to make sure everyone involved is well aware of these plans.  Also not evolving and discussing these plans is just as bad as not making them.      
+
+Raw notes:
 This talk is not the 'run grab a plugin talk'
 remove WP from the equation, how do we protect our web applications
 why would we care?  Client responsibility
@@ -313,30 +218,26 @@ WP plugins are not a cure-all
 def still need them
 learn what they actually do
 can that 
-Tinfoill file permissons - read docs, don;t lean on Stackoveflow
-MD5 is used by default becoming standard eerywhere
+Tinfoill file permissons - read docs, don't lean on Stackoveflow
+MD5 is used by default becoming standard everywhere
 hashing and MD5, try bcryotm, Scrypt
 
 
 https://twitter.com/wcpublishers/status/898641903389786112
 
-https://twitter.com/battle_elf/status/898641141985234944
-
-https://twitter.com/emaildano/status/898636115053207553
-
-https://twitter.com/McDwayne/status/898641236050952192
-
 
 [The Care and Feeding of Open-Source-Skeptical Colleagues](https://2017-denver.journalist.wordcamp.org/session/the-care-and-feeding-of-open-source-skeptical-colleagues/)
 [Kevin Koehler](https://twitter.com/kev097)
 
+I was very eager to see this site as I am constantly worried about the existential threat that free and open source software faces everyday.  I will admit that I live in a bubble in the valley.  I see FOSS as the default standard and easily forget that the majority of people in the world are still a bit leerily of this approach to code and tools.  My biggest take away is we need to get over this sense of modesty in open source.  We need to start bragging about how bad ass we really are, not for personal ego reasons, but to promote what is possible with this line of thinking.  Really a great session and should be seen if you are dealing with anyone that seems suspicious of open source.  
+
+Raw notes:
 We are referring to freedom not rights
 Patience is key when explaining this
 hard to trust things that are unusual
 Already everywhere
 so many projects run everything
 not just for blogs!!  28% of internet
-
 I read that it is not secure
 printed in media reductively sometimes
 secure as anything can be
@@ -344,129 +245,204 @@ closed platforms are security through obscurity
 that is a falsehood
 news stories about WP hacks make it seem less secure, press likes stories about this
 bad passwords and non-updated sites are bad
-
 WP is like the New York Yankees 
 unlike the Memphis biscuits
-
 "there is no one you can call"
 not a bug it is a feature
 no one, but hundreds!ease for new staff and partners
 Huge ecosystem with 14 year head start
 harder than it looks
-
 newspaper analogy - investing in paper mill and forrestry, or just focus on making newspapers?
-
 GPL!  
 legal thing, can seem restrictive
 4 freedoms
 restricts distribution, not use
 You fully own your code
 WP cannot go away
-
 analogy - unfamiliar with the software world make it hard to understand
 not like printing press, build use for 15 years 
 more like the Associated Press
-
 Considerations
 Security, please use 2fa
 4.8.1 point release a must
-
 Scaling, small investment with big dividend
 compared to other technologies larger payoff with smaller up front
 before breaking news
-
 Use known plugins!
 Reputation not just a star
 code review is magic 
-
 Success is often quiet
 brag
 tech is not interesting 
-
 Contribute:
 You are not as unique as you think
 don't let it stop when you put it out there
 You must broadcast anything you are putting out there
-
 Everyone's code is ugly
 you are your own worse critic
 having code out there improves your reputation, a few issues does not damage your reputation
 working in the open is kind to your colleagues
-
 Dont sell as a tech investment
 closer to a continuing education sale
 WP is good
 
 
-
-
 https://twitter.com/wcpublishers/status/898669025021919234
 
-https://twitter.com/tayhansenxo/status/898668997801005056
 
-https://twitter.com/McDwayne/status/898666864548528128
+#####Lightning talks! 
+Unless this is the first time you are reading any of my posts, you will likely already know that I love lightning talks.  Short bursts of knowledge sharing that sometimes go way too quick and sometimes are just the right length.  I was very glad the camp organizers also are fans of these talks and scheduled 2 days of them!  
 
+[How Digital First Media Uses WordPress](https://2017-denver.journalist.wordcamp.org/session/lightning-talks/)
+[Mateo Leyba (DFM)](https://twitter.com/mateomtb)
+
+Raw notes:
+like a lot of publishers
+legacy antiquated systems for many years
+how from a standardized perspective, got an admin, OSS, lot of dev talent
+how to get there quick. - hired Alley
+twincities.com
+rolling out more site, 7 sites live
+3 sites in a few days!
+scary but awesome
+sharing content but a million restrictions
+main content hub site
+views inside WP, grabs content from their site from either subscription
+or copy it from it
+REST API project
+RUSH
+WP runner
+DASH
+
+
+
+[Voice Apps for Publishers](https://2017-denver.journalist.wordcamp.org/session/lightning-talks/)
+[Tom Harrigan (Alley Interactive)](https://twitter.com/TomHarrigan)
+
+Raw notes:
+VoiceWP
+Create voice apps through dashboard
+use existing content
+Adds Alexa to your WP site without too much effort
+really need to think of next iteration of interfaces
+not just todays
+increase in accessibility as well. 
+
+https://twitter.com/dougiegyro/status/898324545093877763
+
+
+
+[WordPress and Newsroom Workflow Management](https://2017-denver.journalist.wordcamp.org/session/lightning-talks/) 
+[Douglas Arellanes (Sourcefabric)](https://twitter.com/dougiegyro)
+
+Raw note:
+ninJS is the standard all is built around
+integrating with many other tools makes this key
+a central newsdesk source that can tie into ptrry much anything that can do JS
+very experienced international team
+bringing modern newsroom tools to third world countries 
+helping spread info further faster.  
+
+https://twitter.com/wcpublishers/status/898326508598550528
+
+[Reducing “Time To Publish”](https://2017-denver.journalist.wordcamp.org/session/lightning-talks/)
+[Bradley Jacobs (Boston Globe Media)](https://twitter.com/crazyjaco)
+
+Raw notes:
+Boston.com
+Large WP site
+loyal following been around since 1995
+in 2014 relaunched on WP
+lot of content, really too much
+no one was paying attention
+3Million post meta table
+time to publosh suffered
+2-3 minite page loads in some cases
+he was tasked with improving performance Explictitly for editorial pages
+ignore the rest
+Debug bar was the most helpful
+unfortunatly could not sort natively the way they wanted
+so they rewrote it to show order of execution an duration
+easily spotted one seldom used table loading all the time
+1900 ms every time for one field ot populate
+made that optional load, immediate gains
+don't be afraid of making own tooling, 
+is still the most helpful tool he ever made, uses it all the time still
+
+https://twitter.com/crushgear/status/898327968874876929
+
+[Useful Publisher Plugins](https://2017-denver.journalist.wordcamp.org/session/lightning-talks/)
+[Ben Keith (Institute of Nonprofit News)](https://twitter.com/benlkeith)
+
+Raw notes:
+The Institute of Nonprofit News or INN for short makes a LOT of plugins
+and themes
+and tools
+for nonprofits news
+Pym Shortcodes
+using NPRs JS library
+making available to all WP sites
+Many other 
+Put it all together with Largo theme
+building plugins for this all the time and at contrib day
+Lot of resources for the nonprofit news world
+
+
+https://twitter.com/wcpublishers/status/898329741081563137
 
 
 [Using WordPress to Grow our Network](https://2017-denver.journalist.wordcamp.org/session/lightning-talks-2/) 
 [Maura Teal (Fansided)](https://twitter.com/mlteal)
 
-WP kept them able to adapt and grow
-
+Raw notes:
+Stared as 2 brothers who wanted to write about KC Chiefs
+WP kept them able to adapt and grow quickly
 WP Community built a tech team
 owner knew a lot of WP community worked on WP phoenix
-Actively trying to learn
+Actively trying to learn more constantly
+acquired by TimeInc.
+
 
 https://twitter.com/wcpublishers/status/898682933770190848
-
-https://twitter.com/aaronjorbin/status/898682832595238912
 
 
 [Customizer-centric Workflows](https://2017-denver.journalist.wordcamp.org/session/lightning-talks-2/)
 [Jonathan Wold (XWP)](https://twitter.com/sirjonathan)
 
+Raw notes:
 fonts and sizes
 Content preview and editing
 showing simple changes but completely customizable. flip between site wide previews of changes
-
 Changeset scheduling  group any number of content changes to your sites
 Unique ID, see cahnges without logging in. ****
-
 Use customizer with changesets as a base and it makes awesome editing experience
 make.xwp.co
 
 https://twitter.com/WPBizReviews/status/898683904596377600
 
-
-
 [How a drumming magazine leapt into digital subscriptions with resounding success](https://2017-denver.journalist.wordcamp.org/session/lightning-talks-2/) 
 [Peter Ericson (Zeen 101)](https://twitter.com/PeterEricson)
 
+Raw notes:
 Everything was PDF and flipbooks, landlocked
-
 Solution 1
 Web issues -IssueM
 Working their way backwards
-
-SOlution 2
+Solution 2
 metered paywall - leaky paywall
 3 free artiles
 restricts PDFs
 Current issue and archive subscription levels
-
 Solution 3
 integrates iOS and Androis UniPress
 AP issues
-
-Results 1st 2weeks after launch 900 new paid didta, 
-in apps subscripitosn10+%
+Results 1st 2weeks after launch 900 new paid, 
+in apps subscriptions 10+%
 
 
 https://twitter.com/wcpublishers/status/898686097273765888
 
-
-
-
+Raw notes:
 How to design branded content](https://2017-denver.journalist.wordcamp.org/session/lightning-talks-2/)
 [Silvia Christmann (Setka.io)](https://twitter.com/wanderingplanet)
 
@@ -481,9 +457,11 @@ https://twitter.com/wcpublishers/status/898687292440629248
 [Tune Up Democracy](https://2017-denver.journalist.wordcamp.org/session/lightning-talks-2/)
 [Ernesto Aguilar (National Federation of Community [Broadcasters)](https://twitter.com/eaXLR)
 
+This was downright inspirational and I think I might write a whole blog post on this talk. Short as it was it reminded us all that there are other communities that could be benefiting from our community.  This is one to fins on wordpress.tv
+
+Raw notes:
 Democracy suffers from isolation of feedback bubbles
 tool to help
-
 community radio
 who still listens to radio?
 non-commercial radio has different rules and goals,
@@ -495,7 +473,6 @@ widespread
 They need your talent!
 help them by providing a space and an opportunity
 We know a lot more than others, we could make a big difference
-
 nfcb.org/wcpub
 
 
@@ -503,12 +480,10 @@ https://twitter.com/SoSaysLucia/status/898692327593717765
 
 https://twitter.com/dougiegyro/status/898690147872645120
 
-https://twitter.com/dougiegyro/status/898688417122328576
-
-
 A Biased Guide to Managing Bias](https://2017-denver.journalist.wordcamp.org/session/lightning-talks-2/) 
 [Jake Spurlock (Wired)](https://twitter.com/whyisjake)
 
+Raw notes:
 Explicit Bias vs implicit (unconsious)
 between 8 leels of company
 how would that impact if 1% change per lee, 34% at top
@@ -536,47 +511,76 @@ more divisity leads to better things ins tudy after study
 
 https://twitter.com/SoSaysLucia/status/898691891721637888
 
-https://twitter.com/SoSaysLucia/status/898691392934887424
 
-https://twitter.com/wcpublishers/status/898691885560020993
+[Gutenberg and Publishers (Unconference/Conversation Track)](https://2017-denver.journalist.wordcamp.org/session/unconferenceconversation-track-2/)
+[Aaron Jorbin](https://twitter.com/aaronjorbin)
+
+This was the only un-conference track session I attended. I am excited about the future of the Gutenberg project and what it will bring to WordPress.  It was very insightful to hear how publishers are viewing and thinking about this project and the impact it might have to their livelihood.  My main take away from this was, as WP becomes more and more the content store and the editing experience moves toward other services as does the presentation layer, the native editing experience is going to be less and less critical to the editorial flow.  However the short term ramifications might be more impactful.   
 
 
-Ending Remarks
+Raw Notes:
+Roundtable discussion
+scarymommy.com
+What are the needs of the publishing community
+WP is the base we build on, not the product on the end
+challenges with current?
+Longform layouts
+collaborative editing (many people agreed)
+moving info into WP
+allowing users to pre-publish in home/category views
+who has written a post and published on site with Guttenbrg, few hands, who did it without a bug report resulting?  no one
+it is early
+custom part of editor
+field manager using ad 10up
+what is the fate of metadata mangement? big concern
+5 meta boxes or more most of rume
+10 meta boxes about 1/4
+20 no one
+custom taxonomy - most people
+could there be new standards?  How you do it?
+custom validation of taxonomy, no way to built in validation mecanism
+couple Aaron used: taxonomy new can not be added only use from list
+no pre-populated but must add one
+have to select to save post
+really easy to write beautiful posts in Gut and in Tiny MCE, but easy to write terrible ones as well
+videos make no sense for print, so Gut will maybe make it easier to just pick up print ready content
+got to move away from post body - must support HTML for backwards compatibility
+storing nodes maybe as individual things
+maybe JSON format for these things
+which leads into what does ATOMIC news mean?
+is anyone trying to store content in different way than WP does?  No hands
+Is this all just:  
+shortcodes reloaded
+worry: post body is invisible to a parser
+when querry a Dblock 
+set containers in 
+Gut does not look into Comments, not yet
+Dream pie in the sky
+select all views for possible devices
+UI tab just mobile, just amp, just desktop
+Vision is still being decided here,
+We are taking this transcript and turning into notes to share with the team making this stuff
+
+https://twitter.com/aschweig/status/898596275624460289
+
+
+#####Closing Remarks
 
 https://twitter.com/ifyouwillit/status/898692767345385472
-
-
-#####After Party
-
-https://twitter.com/McDwayne/status/898724313074814978
-
-https://twitter.com/kevinmckernan/status/898707057888702466
-
-#####Karaoke
-
-https://twitter.com/Asignia/status/898778151026778112
-
-
 
 
 
 #####Contributor day
 
-https://twitter.com/jeffpaul/status/898985459186933760
-
-https://twitter.com/McDwayne/status/898979912840654848
+I was thrilled to be able to represent the WP Marketing community team for contrib day.  We had a really good showing overall as over 30 people participated across all teams.  The marketing team had a successful day and you can read those notes [here](https://docs.google.com/document/d/1ySo1v3Kjw51JAUavrNxLHhi2DNRwiLPY6CX4metzc-A/edit?usp=sharing).  I was super happy to meet some new folks and move some of our initiatives ahead.  It was a great day! 
 
 https://twitter.com/dougiegyro/status/898964170250604545
 
-https://twitter.com/getshifter/status/898957259144933376
 
-https://twitter.com/McDwayne/status/899009763240853504
+###Wrapping Up
 
-#####Baseball game
+WordCamp for Publishers was not your average or typical WordCamp. It felt a lot more like [WPCampus](https://www.mcdwayne.com/2017/07/17/wpcampus-2017/) insofar as the general mood and feeling I got from the participants.  Getting to see folks from competing media companies openly discussing how to solve their common challenges.  I learned a whole lot and I am grateful to have had the chance to learn about the publishing space.  
 
-https://twitter.com/CodeProKid/status/899102451789201409
+Denver has a lot going for it and I am very glad they picked this city as the setting for the first ever vertical focused WordCamp.  I am already looking forward to next year's event and to the next vertical focused WordCamp!
 
-https://twitter.com/esco1102/status/899087390043766784
-
-https://twitter.com/wcpublishers/status/899082423421603841
-
+https://twitter.com/getshifter/status/898725289508782081

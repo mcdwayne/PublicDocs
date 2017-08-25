@@ -1,13 +1,15 @@
 ## Session Slides And Such
 
-[Let’s Learn Git.  No Excuses!](https://www.mcdwayne.com/lets-learn-git-no-more-excuses/)
-[Slides from the talk](https://docs.google.com/presentation/d/1yy-TpoF2db-MFP-2HRG3e-t5msD89lhwT-Alol82cvA/edit?usp=sharing)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [Slides from the Workshop](https://goo.gl/oS4ZbG)
-
-[So you want to speak at a camp? Yes please!][1] 
-[Slides][2]
+[WP-CLI Workshop WordCamp for Publishers Slides](https://docs.google.com/presentation/d/1wHG2PmkOxpoKtojhMOrDQo8KwuhAdp-PCFX-InSPnsI/edit?usp=sharing)
 
 [WP-CLI: Don’t Fear The Command Line:][3] 
 [Slides][4] - [Github][5] - [Demo Vid][6] - [Video (from #WCSD)][7]
+
+[Let’s Learn Git.  No Excuses!](https://www.mcdwayne.com/lets-learn-git-no-more-excuses/)
+[Slides from the talk](https://docs.google.com/presentation/d/1yy-TpoF2db-MFP-2HRG3e-t5msD89lhwT-Alol82cvA/edit?usp=sharing)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [Slides from the Workshop](https://goo.gl/oS4ZbG) 
+
+[So you want to speak at a camp? Yes please!][1] 
+[Slides][2]
 
 [Every project is a story: Applying storytelling to your client interactions:][8] 
 [Slides][9]
@@ -39,26 +41,26 @@ Email: 1dwayne . mcdaniel [at] gmail . com
 
  [1]: https://www.mcdwayne.com/so-you-want-to-speak-at-a-camp-yes-please/
  [2]: https://docs.google.com/presentation/d/1feg8QgI84Yp-rPtnbc3YcK28KWMGc7zF3X6IBvoNMBE/edit?usp=sharing
- [3]: http://www.mcdwayne.com/wp-cli-wp-yes-you-can-aka-dont-fear-the-command-line/
+ [3]: https://www.mcdwayne.com/wp-cli-wp-yes-you-can-aka-dont-fear-the-command-line/
  [4]: https://docs.google.com/presentation/d/1Cm2APSKkMW4r7-NauRqbF2I7n-YmVqKF5LD6kaE_wAA/edit#slide=id.g1d3c3fa4cf_0_0
  [5]: https://github.com/mcdwayne/mcdwayne-wp-cli-demos/blob/master/wp-cli-demo-script-for-iThemes.sh
  [6]: https://www.youtube.com/watch?v=VKASRQTuFjs
- [7]: http://wordpress.tv/2017/04/20/dwayne-mcdaniel-wp-cli-dont-fear-the-command-line/
+ [7]: https://wordpress.tv/2017/04/20/dwayne-mcdaniel-wp-cli-dont-fear-the-command-line/
  [8]: https://www.mcdwayne.com/every-project-is-a-story/
  [9]: https://docs.google.com/presentation/d/1hhYDgLX65CZqdWO9Lt3g6I-wLSugoGpD1rNIze1AJuE/edit?usp=sharing
  [10]: https://www.mcdwayne.com/everything-louder-than-everything-else/
  [11]: https://docs.google.com/presentation/d/1BN8-qwjJh8XbG1-Md5dVp8lNhQbZd4QCwPArGZlf8LE/edit?usp=sharing
- [12]: http://www.mcdwayne.com/improv-for-developers/
+ [12]: https:://www.mcdwayne.com/improv-for-developers/
  [13]: https://improvdev.wordpress.com/
  [14]: https://www.slideshare.net/DwayneMcDaniel/were-making-all-of-this-up-improv-lessons-for-the-developer
- [15]: http://wordpress.tv/2017/06/21/dwayne-mcdaniel-we-are-all-making-this-up-improve-lessons-for-developers/
+ [15]: https://wordpress.tv/2017/06/21/dwayne-mcdaniel-we-are-all-making-this-up-improve-lessons-for-developers/
  [16]: https://www.slideshare.net/DwayneMcDaniel/pricing-strategy-and-planning-dcco
- [17]: http://test-mcdwaynedotcom.pantheonsite.io/wp-content/uploads/2016/09/dwaynemic-300x300.jpeg
+ [17]: https://test-mcdwaynedotcom.pantheonsite.io/wp-content/uploads/2016/09/dwaynemic-300x300.jpeg
  [18]: https://twitter.com/McDwayne
  [19]: https://www.linkedin.com/in/dwaynemcdaniel
  [20]: https://docs.google.com/spreadsheets/d/183m3Ex2FIJPXtQAA7KTxlEGfPuxdhA-ARdVBmPjVAVk/edit?usp=sharing
  [21]: https://www.facebook.com/hamlin.mcdaniel
- [22]: http://mcdwayne.com
+ [22]: https://mcdwayne.com
  [23]: https://pantheon.io/team/dwayne-mcdaniel
  [24]: https://github.com/mcdwayne
  [25]: https://www.discogs.com/user/1dwayne.mcdaniel/collection

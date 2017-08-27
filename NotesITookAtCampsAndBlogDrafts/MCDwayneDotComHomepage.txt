@@ -1,12 +1,15 @@
 ## Session Slides And Such
 
+[Let’s Learn Git.  No Excuses!](https://www.mcdwayne.com/lets-learn-git-no-more-excuses/)
+[WCDenver Workshop Slides](https://docs.google.com/presentation/d/1wB13-6htJmlhI_ELjavE0ty5lKOhxlseAHCAH1Xvuak/edit#slide=id.g23c5a455c0_0_410)
+[Slides from the talk](https://docs.google.com/presentation/d/1yy-TpoF2db-MFP-2HRG3e-t5msD89lhwT-Alol82cvA/edit?usp=sharing)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [Slides from the Workshop](https://goo.gl/oS4ZbG) 
+
+
+
 [WP-CLI Workshop WordCamp for Publishers Slides](https://docs.google.com/presentation/d/1wHG2PmkOxpoKtojhMOrDQo8KwuhAdp-PCFX-InSPnsI/edit?usp=sharing)
 
 [WP-CLI: Don’t Fear The Command Line:][3] 
 [Slides][4] - [Github][5] - [Demo Vid][6] - [Video (from #WCSD)][7]
-
-[Let’s Learn Git.  No Excuses!](https://www.mcdwayne.com/lets-learn-git-no-more-excuses/)
-[Slides from the talk](https://docs.google.com/presentation/d/1yy-TpoF2db-MFP-2HRG3e-t5msD89lhwT-Alol82cvA/edit?usp=sharing)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [Slides from the Workshop](https://goo.gl/oS4ZbG) 
 
 [So you want to speak at a camp? Yes please!][1] 
 [Slides][2]

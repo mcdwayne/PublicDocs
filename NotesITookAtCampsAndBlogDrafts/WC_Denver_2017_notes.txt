@@ -1,0 +1,239 @@
+WC Denver
+
+
+General:
+
+https://twitter.com/d_nelle/status/901461962051260423
+
+https://twitter.com/k8monstrsCloset/status/901458904055402496
+
+https://twitter.com/WordCampDenver/status/901458683296612352
+
+
+
+
+Speaker Dinner:
+
+https://twitter.com/WordPressRebel/status/901255846381973506
+
+
+Opening remarks:
+Meet people - we actually stopped and introduced ourselves to folks aruond us
+
+https://twitter.com/EndoCreative/status/901460015332065281
+
+https://twitter.com/WordCampDenver/status/901458683296612352
+
+https://twitter.com/SiteLock/status/901461800595619840
+
+
+[Keynote: The Future of WordPress](https://2017.denver.wordcamp.org/speakers/#wcorg-speaker-zack-katz)
+[Zack Katz](https://twitter.com/zackkatz)
+Gravity View, Small team, 5 people all over the world
+WP makes it happen
+History of WP
+His WP story
+Future of WP and You
+A fun surprise
+
+In 2003 Ma.tt was a college student
+lot of photos
+B2 - was cool, allowe to be upated
+B2 maintainer dissapeared and it stop being updated
+Matt could either wait for the dev to come back or he could take b2 and make it his own
+Mike Little thought one or 2 people might be interested :)
+Zack started in 2007 making GravityViews
+worked at Fast Signs
+learned how to do web design, PHP and mySQL
+best tool was his phone
+he cold called and got clients
+was building static pages
+and clients wanted to change content themselves
+they wanted a way to manage their content, CMS
+Then clients wanted custom functionality
+the custom code he built became Gravityviews
+he has 38 plugins on wp.org
+Future of WP
+Matt is pushing us back to be the best in publishing
+Gutenberg: from text to blocks
+blocks are consistent interface for all the elements of your site
+everything is a block now
+Gutenberg demo
+feels normal and cool
+It is the future of content editing
+The Customizer is how to change view
+Not much at the moment, but future is how to interact with your site
+Edit existing content with customizer soon
+Really cool live preview demo
+Customizer Change set have multiple people and multiple changes scheduled at once
+this is 4.9 core!
+Implications: page building is in core now
+for Page builders need to either embrace customizer or do their own thing
+get involved now with Gutenberg, this is the future
+and there is a lot more
+The four freedoms of Open Source
+the contract of using WP
+1) the freedom to run the program in any way you want
+2) you can study code and change it
+3) share it 
+4) modify and fork with a diffrent name
+
+
+https://twitter.com/kiamruiz/status/901467566358630405
+
+https://twitter.com/JamesTryon/status/901464946650873859
+
+https://twitter.com/McDwayne/status/901466043603877889
+
+https://twitter.com/WordCampDenver/status/901465163626405888
+
+https://twitter.com/zackkatz/status/901469286044020736
+
+https://twitter.com/wapuus/status/901469890099466240
+
+https://twitter.com/zgordon/status/901470022727593984
+
+
+[What I Wish I’d Known About Freelancing](https://2017.denver.wordcamp.org/session/what-i-wish-id-known-about-freelancing/)
+[Nathan Ingram](https://twitter.com/nathaningram)
+
+You don't have to know everything, no one does!
+Become a person who is good to know!
+Stay out of debt
+Checklist manifesto
+Put everything in a list in order and that means you can streamline
+and when you onboard people, you have process you can pass on
+difference between owning job and building business
+Focus on process, not heroics
+There are seasons in freelance work, don't waste the slow times
+We stay in a cycle of stress, must make best use of time and dont freak out
+business will come back
+The 'someday list' when slow times come, you can do that list!
+being busy is not a badge of honor
+Don't forget what matters in life, 
+lost opportunities for family and friends don't come back
+midset shift that it is good to be too busy to have leisure, a status symbol
+People are more import than projects!
+
+https://twitter.com/WordCampDenver/status/901485340019630081
+
+https://twitter.com/McDwayne/status/901484601004220416
+
+https://twitter.com/TracyAMalone/status/901484331344035840
+
+https://twitter.com/mkopala/status/901483822713159680
+
+https://twitter.com/aburrell/status/901482919692251136
+
+
+[After the Post: SEO, Images, and Meta Descriptions](https://2017.denver.wordcamp.org/session/after-the-post-seo-images-and-meta-descriptions/)
+[Mendel Kurland](https://twitter.com/ifyouwillit)
+
+Technical SEO fo to Yoast
+instead we are going to be talking about 
+3 things
+1) being descriptive and interesting
+Writing for humans, conversational and eas to read, some 
+basics of story anatomy
+Tells a story and then explained the story arc
+also is an article part
+intro to a topic H1, H2, H3
+
+2) Enjoyable and illustrative
+
+shows progress form boring Lorum Ipsum -> Bacon Ipsum - pic -> animated gif
+more info
+more interesting to look at better for SEO
+generate this stuff 
+
+3) making things sharable
+click to sweet, share icons
+basic plugins
+write your own meta, just gives you control, not SEO tip
+
+https://twitter.com/McDwayne/status/901491668448399360
+
+https://twitter.com/BFTrick/status/901494990609813504
+
+https://twitter.com/askwpgirl/status/901494375615795201
+
+
+
+[Creating & Telling Your Brand Story](https://2017.denver.wordcamp.org/session/creating-telling-your-brand-story/)
+[Pamela Herrmann](https://twitter.com/PamHerrmann)
+
+Story
+brain science
+reptillian brain, conundrum
+want to talk to middle brain
+cast a net, just under the boat - leading with science for IVF vs how changes family
+instead think of fly fisherman
+highly targeted
+Garret White Wake Up Warrior
+knows who he is fishing for
+how to create a brand story
+Joseph Campbell Hero's Journey
+3 element to her Hollywood 
+#1 the character, the desire and the obstacle to the future
+Rose from Titanic example
+ordinary world- what makes them relatable (reliable?)
+fabricating your first customer profiles
+Rose is pressured into marriage, high society, free thinker, etc
+Translate into brand story
+Weight Watchers - because it works
+#2 the desire
+Chuck from Castaway
+goal is to escape the island alive get back home
+Design arounf 4 goals
+Win
+Escape 
+Stop 
+and Retrieve
+Dollar shave club example - 
+the desire of the customer is 
+quality, save money, delivered to door
+shave time and shave money
+Focus on the result // the plotline
+connect the dots, create the glue
+#3 the obstacle
+Ray from Field of Dreams
+Plowing under field - now his home and livelyhood is in danger
+AirBnB 
+overcoming objections from both sides of transaction
+No fail template
+story spine!  :)
+
+https://twitter.com/WordCampDenver/status/901502424833282048
+
+https://twitter.com/McDwayne/status/901499038629060610
+
+https://twitter.com/megdelagrange/status/901500548607856641
+
+https://twitter.com/megdelagrange/status/901502714496126977
+
+
+[Virtual Accessibility and the Americans with Disabilities Act](https://2017.denver.wordcamp.org/session/virtual-accessibility-and-the-americans-with-disabilities-act/)
+[Sherri Renner](https://twitter.com/rennerlaw)
+
+What is public 
+
+Microsoft eye control is going to be core to Windows 10
+only eyes needed
+
+https://twitter.com/WordCampDenver/status/901525406263726082
+
+https://twitter.com/askwpgirl/status/901506067196243968
+
+https://twitter.com/k8monstrsCloset/status/901504988207235072
+	
+	
+
+Lunch Day 1:
+https://twitter.com/theisaac/status/901503211055439873
+
+https://twitter.com/WordCampDenver/status/901503232958222336
+
+https://twitter.com/WordCampDenver/status/901525406263726082
+
+
+

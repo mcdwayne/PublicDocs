@@ -1,0 +1,330 @@
+General:
+https://twitter.com/WC_Sacramento/status/908785218504450048
+https://twitter.com/WC_Sacramento/status/909068849936441347
+
+
+
+###Food and Fun
+
+#####Speaker Dinner
+https://twitter.com/WC_Sacramento/status/908877346219843585
+
+
+
+###Sessions
+[The Future: Why Open Matters](https://2017.sacramento.wordcamp.org/session/the-future-why-open-matters/)
+[Aaron D. Campbell](https://twitter.com/aaroncampbell)
+
+QBasic Gorillas was his intro to open code
+breaking it and shift-f5 to compile 
+1991 - Tim Berners Lee and Commercial Wed Consorstioum
+12th Centry
+Bernard of Chartres - dwarves perched ont he shoulders of giants
+Start by building on what was already there
+Issaac Newton Paraphrased 1675
+If I have seen further it is by standing on the shoulders of giants
+Waitbutwhy website
+groth of knowledge before language
+how tribal knowledge works
+generational
+pre-language was very slow
+post-language amount of knowledge grew exponentially
+The internet is the single most effective information sharing tool in all of history.
+open systems have some dangers
+Closed systems are owned by companies and they control the data
+they will only do things that benefit them as a company, not really a bad thing
+If don't like it leave
+Net Neutrality
+closed systems sit on top of the web, Net Neutrality is really about the way the core of the internet works
+lot of separate networks joined together, is basically how it still works
+Let's talk about the ideal, not the legislation
+Treat all data the same
+Historically sometimes common knowledge gets it wrong and only a smal group gets it right early
+if we don't allow everyone the same voice online, can stop this from happening
+taking away people's right to make decisions by force is wrong, is it also just as bas to prevent them from learning a thing?
+_The internet is not the future_
+The internet sets us up for a better future
+What can we do?
+	Use Open Platforms
+	spread the word - many people don't know this is important, tell them
+	Vote - Be Informed
+	Vote with your $$$
+		https://aarondcampbell.com/2017/06/the-open-web-matters/
+
+
+[Using WordPress As A Decoupled CMS For A Single Page Application](https://2017.sacramento.wordcamp.org/session/off-with-its-head-using-wordpress-decoupled-cms-for-single-page-application/)
+[Treighton Mauldin](https://twitter.com/Treighton1988)
+
+THe orignal stack
+LAMP
+JS
+
+The issue - lot of bloated AJAX calls
+Lot of load in and too many AJAX calls!
+Fighitng around the templates an issue
+
+decided to build a devloper specific single page
+Used the Rest API
+
+WordCamp Plug: 1:40 on REST API
+He is not talking about RESTAPI dev, just using it
+React is all JS
+ES6 syntax
+just normal JS though
+In REACT pass everything as props
+map over them in an artifact compmenet,
+on individual article pages just pull in the content 
+Can server side render JS so it loads faster
+
+Rest API lets you very quicky make 'endpoints' 
+allows you to just get the info quickly, without pulling all the normal post metadata
+
+
+[Distribute Allthethings: WordPress And The Era Of Multiple Content Channels](https://2017.sacramento.wordcamp.org/session/distribute-allthethings-wordpress-and-the-era-of-multiple-content-channels/)
+[Jake Goldman](https://twitter.com/jakemgold)
+
+Distribute all the things, 
+big enough to conquor any problem, small enough to care
+
+Why is this important?
+10UP tells stories with digitial media
+thinking about how you telling their story
+Traditional as well print and network news media
+newer brands like the Oprah 
+odern Digitial First as well - 538
+
+From their infrastructure to their audience and rev team, thiniing that when the digital publishers succeed, they succed.
+
+
+Encyclypedias Britanica and Encarta
+things changes underneath them
+
+conpect os putting your content in multiple channels is not new
+Associated Press, special access needed, lexus nexis and similar followed
+Early was just another way reletively basic secondary channel
+'web specials'
+email news distribution, RSS, WAP, low bandwidth
+the App era started desktop channels
+then RSS extends, XML RPC, JSON
+not just platforms like iPhones, but accelerating with special platforms, like CRMs 
+interoperability is the key
+roughly now
+Jakes 2 axis paradigm for modern distribution channels
+Axis 1
+the open web has turned to crap and we can do better but same thing, (evolution) 
+A resonse to (revolutions)
+Axis 2 
+open - different ways
+constrained - best to let us control the content
+as move from LL to UR
+complexity increases but opportunity grows
+this is not static, always shifting
+newpapers changed the world, completely open when new
+now pretty standard, not even really evolving
+TV same thing
+then the way things have been done
+html5 represents web technologies
+but not the futre, iteration
+Kindle tried
+Apps thinks there is a lot of room in space for opportunity
+youtube, constrained but right in between evo and revolution
+AR and VR is the most open right now, newest frontier, most complex though
+where does the digitial CMS fit in?
+First web CMS as give requirements to devs, they build it
+next build a text editor that does not need human element
+the CMS as the hub of a multichannel strategy
+next thing for CMS is to solve for this problems
+
+MUST have a good writing experience for the CMS 
+Ecosystem of third party integrations
+API and data accessability
+trend is only accelerating
+and increasingly proprietary
+ecosystem of integrations is even more important!
+
+what does this mean for the future
+review: yesterday solving for content creation, organization storage and presentation
+channels pull out presentation layer
+editors are pullnig out the content creations
+the future is very focused on storage and API and daata cassability
+nobody really creates in the CMS directly anymore
+as the channels converge in engagement levels, do we spend time in the CMS worrying about the final 'design' of content?  
+nope
+standardized template will be norm
+
+1) presentation layer and content creation is less relevant, how to sort is more important
+editorial UX is higher value than rendering
+2) extensability is vital
+3) custom is crazy, economies of scale apply
+appresser
+mobiloud
+wordapp
+these are vibrant in the ecosystem, many options!
+watch for new announcement of tools from providers/companies like google
+will mention WP a lot
+4) Platform and content control is even more important
+with private players competing to 'own' consumption, an open platform protects publishers from third party business interests and choices
+(what swould happen if Apple bought Medium)
+Q&A: ulitmately Gutenberg will be less relevant as we move away from content creation in the CMS
+don't fragment your channel unless segmentation is obviously a right move
+
+
+[Coding For The Masses](https://2017.sacramento.wordcamp.org/session/coding-for-the-masses/)
+[Justin Busa](https://twitter.com/mrjustinbusa)
+...Limit the frequency of large releases 
+minor releases, patch release
+upers want to update with confidence
+pushing minor updates withm more frequency and less content
+don't include too many releases in minor releases
+do updates on Tuesday or Wednesday
+Foster an ecosystem by providing APIs
+Make docs available
+write celan code thats easy to read and follow
+Make your code base public and accept pull requests from others
+Don't pass the buck
+
+New features
+be selective with the features that you ass
+build things that help solve your user needs
+too many features can make a product hard to use
+new features directly impact support
+don;t add a feature just beacuase someone else did
+
+Day 2
+
+[WordPress Performance – Foundation and Tactics](https://2017.sacramento.wordcamp.org/session/wordpress-performance-foundation-and-tactics/)
+[Matt Vanderpol](https://twitter.com/bookwyrm)
+
+Creating time, not for you, but for your users, not ust better for your page rank, better for you users
+Research for 
+https://squirrelwp.com/
+Overview, perf-matters.squirrelwp.com/ as a Concrete example
+rickety foundation means bad site
+need  good foundation
+Fast web request compenents
+fix different parts, need to understand them
+Analytics is a good place to start
+benchmark of where people are coming from, all the details effect performance
+Lot of tools for this, like Pingdom, Google Pagespeed, etc
+problems on these tools
+a single set of hueristics, 
+gives you a score which may or may not represent website performance
+WebpageTest.org is the one he likes best, using it for this presenation
+he thinks it is best because:
+1) real world test
+2) actual devices used
+3) Change parameters, like locations, what kind of network, types of networks, etc taylor to your real analytics, first view only or repeat to test caching
+4) film strip output, frame by frame breakdown
+5) Test history
+you can run your own private instance if you want
+Negatives:
+it is a free service, you will likely be in a queue
+hard to quantify a score, does not give a one true score
+Now, looking at WPT output to see how and what to fix
+some scores
+some metrics 1000 is the minimu, this is not really time, but close
+waterfall chart is the key otput
+content breakdown, everything that is not html
+image analysis - taking it with a grain of salt, resolution not certain
+always double check your analytics for tuning to your real users
+Waterfall - graphical representation of all events that it takes to display a web page
+Vertical lines are events
+after DOM is loaded then JS starts chrning
+DOM = document object model
+events - window.load and width of vertical line where it starts and how long it took
+JS execution length is important to note
+A good reccomendation is run a test on the theme demo site when selecting themes
+Tactics:
+Time ti first byte TTFB
+this is tme for browser to make request, resolve DNS, transfer HTML to browser, firsst byte hits that is TTFB
+caching fill make this fast after this point
+cache later in process, it can obscure other data points when you are tuning
+static content not cached
+may be difficult to 
+(most of room not using a CDN in any way, 1/2 knew what it was)
+long waterfall example
+This is best way to keep checking if changes makes impact
+Optimizing images will speed things up
+should be optimizing your images
+bigger issue is content images
+concatenate resources, might not always speed things up, good case for checking with waterfall
+page cache with WPRocket does a lot of other things like concat resourced automatically
+browser can not do anything until it gets the HTML, best interest to get all the HTML as small as you can
+CDN - he likes KeyCDN and Cloudflare
+browser caching
+lazy load images
+http/2 - very common now, allows parallelism, multiple JS files can be loaded in parallel
+Summary - analyze, fix, test, tweak, test
+
+
+[Demystifying WordPress Multisite: When Is Multisite A Good Choice And When Is It Not?](https://2017.sacramento.wordcamp.org/session/demystifying-wordpress-multisite-when-is-multisite-a-good-choice-and-when-is-it-not/)
+[Mike Fitzpatrick](https://twitter.com/fitzpatrick)
+First 15 sites on MultiSite right after it made it into core
+very opinionated talk on what he will and not do with WP-multisite
+should you use it or not
+1/3 of room has used MultiSite
+Don't use MS if...
+too many plugins
+350 car dealers on single MS - individual plugins on each site, test bed
+200 plugins at one point, a mess
+nightmare to administor
+make it for one use case and one use case only
+this is why WP.com is only for blogs
+Do use it when you have a siloed use case and want to have repatable sites creation process and management
+more time to deliver functionality, easier to scale within silo
+trage offs: with their use case each new fnctionality they wanted would spin out site into its own site, charge for it, then manage one off as a seperate site
+domain structure
+Subdomain vs path based
+he has never found a reason to use folder/subdirectory path, he always used subdomains
+actively have to research and pick your path
+
+Setting up MS
+deactivate all plugins
+add MS in core, wp-config
+adds network setup under tools
+install gives you code to copy/paste into wp-config and htaccess file
+point domains
+wildcard
+going to need to put a way to add a way for wildcarding to work, have to do it under subdomains
+Roles whithin Multisite
+car dealer is the typical client, they will break things if you give them the chance
+give people the least amount of access possible to begin with and let them ask for more
+superadmin role is unique to MS
+give roles some serious thought
+2 ways to deal with Plugins
+network activate
+or not
+There are some reasons to not network activate, for example , slider plugin if you change on one site can be added to all of them, make sure you are sure if multisite compatible
+other reason to not network activate is if you are looking to monitize
+want to charge more for plugin/functionality, do it on a per request
+or use plugins that allow for pay path to get the functionality
+Plugins
+admin plugins
+	which plugins are activated on which sites
+	site creation plugins
+	backup plugins
+		network or individual sites
+Anti-splog (name of a plugin to prevent bots from building fake sites)
+monitize plugins
+	charge for functionality, etc.
+Ect, ect
+gravityforms
+	add on new user
+Admin menu pro
+WPMUdev
+	new blog templates
+Domain Mapping - abc.com - 123.abc.com - want to point jsmith.com - when request jsmith.com directs to 123.abc.com
+Snapshot WPMU dev
+	backup individusl sites
+Updraft
+WPEngine
+shared hosting - hostgator
+reseller perspective - really quick to pick up sites that fall over, shared hosting isn't that bad
+from a cost perspective - make sure one install is one MS, WPEngine works this way
+WPE is shared hosting on basic packages, but offers Dedicated solutions
+
+
+
+
+
+###Wrapping Up

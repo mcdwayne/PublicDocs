@@ -1,0 +1,232 @@
+WordCamp Denver: A very full schedule and a few surprises
+
+For the second time in 2 weeks I made my way back to the [mile high city](https://www.seeker.com/how-denver-became-the-mile-high-city-1769615727.html) but this time spent most of my time there in a much different part than I had in the past. [Previous adventures](https://www.mcdwayne.com/2017/08/21/wordcamp-for-publishers/) had lead me to the downtown area, close to the [16th street mall](https://www.yelp.com/biz/16th-street-mall-denver-3) but this time I found myself in the Southern neighborhoods, close to the beautiful [University of Denver campus](https://www.du.edu/).  It was a bit of a whirlwind trip that found me going directly from the airport to the speaker dinner and from my session to lunch and then the airport, so not a lot of time to explore the awesome trails and get in a little nature this go round.  But overall this was a great experience and I did learn a bit at [WordCamp Denver 2017.](https://2017.denver.wordcamp.org)
+
+https://twitter.com/d_nelle/status/901461962051260423
+
+
+#####Speaker Dinner:
+My flight got delayed about 2 hours, which normally isn't a huge deal, but this trip I had not left myself much leeway for such a thing.  As a result I arrived at the speaker dinner direct from the conspiracy filled [Denver International Airport](https://www.buzzfeed.com/rickysans/the-mysterious-conspiracy-theories-surrounding-the-denver-ai) with bags in tow but was met with a very warm and wonderful reception by the camp organizers.  They even had the kitchen accomodate me with some non-dairy cheese and mushroom pizza.  Tip of the hat to [Ernie’s Bar & Pizza](http://erniesdenver.com) for a really good spread.  It was fun to see so many familiar faces and get to connect with a few new ones.  The exhaustion of the road soon hit me and I left to check in for my 75th night at a Marriott property.
+
+https://twitter.com/WordPressRebel/status/901255846381973506
+
+
+#####Day 1
+Getting to the venue was a breeze as the team had signs out very early and took the extra step of chalking WP logos on the ground so people could find their way even easier.  This was a great accessibility move as it made getting to and from the parking lot a much less intimidating feat. 
+
+https://twitter.com/cecilyc/status/901481190418468864
+ 
+The coffee was particularly good in my opinion, even though I didn't have much.  I don't know if it is a Denver thing or not, but every coffee service I have experienced there puts out little tiny lemon slices for your tea.  Forgoing the team and just having some fresh lemon juice in my hot water kept me hydrated and refreshed most of the day.  
+Lunch was preprepared sandwiches, chips, a couple salad options and cookies.  The vegan quinoa salad was my favorite part of the meal.  The University of Denver campus is very well maintained and we took advantage of the summer sun to dine on the quad as many a student has done over the years there.  
+
+https://twitter.com/WordCampDenver/status/901517493352714240
+
+
+####After Party
+The after party was advertised as a taco party, which I normally love.  The menu though didn't seem super veg friendly and combined with the later start time for the party it seemed a good idea to find alternative dining.  I was very glad to be joined by some other plant based food fans at the highly rated [Thai Pot Cafe](https://www.thaipotcafe.com).
+
+https://twitter.com/JamesTryon/status/901627992119627776
+
+
+The after party was at [Cochino Taco](https://www.cochinotaco.com/).  We got to enjoy the patio and a pretty well stocked bar, using copper tokens instead of paper drink tickets, which I really appreciated.  As most folks who know me know, a vodka soda 'tall' is my drink of choice and I almost always just go with whatever they have for well.  The house well vodka at this joint was [Reyka](http://reyka.com/) from Iceland.  It was a pleasant surprise and the bartenders were very proud of the quality in all they made.  If you are ever in that part of Denver, go give them some business.  
+It was a great time catching up with folks about their day at camp and swapping stories and plans around contributing.  I was glad to see one of the participants from the previous week's WP-CLI workshop and got to talk about the pull requests he had made at the previous week's camp.  It is exhilarating to watch folks go from user to contributor and to be part of their journey.  Share what you know with folks and let's make the world better together.  
+
+https://twitter.com/WordCampDenver/status/901635850815057920
+
+
+#####Karaoke
+A few of us actually made it out to sing some #WCKaraoke after such a long day.  We went to [Sobo151](http://sobo151.wixsite.com/sobo-151) and got there just as the Bronco's preseason game was wrapping up and they were warming up the karaoke equipment.  Not the largest event ever but happy to report we saw a 33% increase in attendance over the previous year's festivities and had one person sing for the first time ever.  Very much a great part of any WordCamp.  
+
+
+https://twitter.com/levelten_tom/status/901685020615745536
+
+
+
+###Sessions
+
+#####Opening remarks:
+Most of the time I don't write any comments on opening remarks, but this camp had one of the best pre-keynote warm ups I have seen.  It started with [Gordon Seirup](https://twitter.com/CopperGordon) getting our attention with an anecdote about his original misunderstanding of the nature of WordCamps.  He did a fantastic job of warming us up. At one point he had us introduce ourselves to folks around us.  It was a very nice welcome, especially with so many folks experiencing their first WordCamp.  It set a very nice tone for the rest of the event.  
+
+https://twitter.com/SiteLock/status/901461800595619840
+
+
+#####Keynote
+[The Future of WordPress](https://2017.denver.wordcamp.org/speakers/#wcorg-speaker-zack-katz)
+[Zack Katz](https://twitter.com/zackkatz)
+
+I was very glad to hear that they got Zack to speak at this camp.  I had not heard him speak before but reading up on him a bit before the camp he seemed like someone with a lot of experience and knowledge around this space, hopefully meaning he would have a solid opinion on our future.  He started with a crash history of of WP and I had never heard anyone articulate this forking of B2 and the reasoning behind it so clearly.  It gave me a new perspective on the origin. This definitely colored the rest of the presentation as he painted a world where Gutenberg and Customizer are giving the admin a lot more flexibility in the near future.  If you have been wondering where the project is going, this is a must see talk.  
+
+Raw notes:
+Gravity View, Small team, 5 people all over the world
+WP makes it happen
+History of WP
+His WP story
+Future of WP and You
+A fun surprise
+In 2003 Ma.tt was a college student
+lot of photos
+B2 - was cool, allowe to be upated
+B2 maintainer dissapeared and it stop being updated
+Matt could either wait for the dev to come back or he could take b2 and make it his own
+Mike Little thought one or 2 people might be interested :)
+Zack started in 2007 making GravityViews
+worked at Fast Signs
+learned how to do web design, PHP and mySQL
+best tool was his phone
+he cold called and got clients
+was building static pages
+and clients wanted to change content themselves
+they wanted a way to manage their content, CMS
+Then clients wanted custom functionality
+the custom code he built became Gravityviews
+he has 38 plugins on wp.org
+Future of WP
+Matt is pushing us back to be the best in publishing
+Gutenberg: from text to blocks
+blocks are consistent interface for all the elements of your site
+everything is a block now
+Gutenberg demo
+feels normal and cool
+It is the future of content editing
+The Customizer is how to change view
+Not much at the moment, but future is how to interact with your site
+Edit existing content with customizer soon
+Really cool live preview demo
+Customizer Change set have multiple people and multiple changes scheduled at once
+this is 4.9 core!
+Implications: page building is in core now
+for Page builders need to either embrace customizer or do their own thing
+get involved now with Gutenberg, this is the future
+and there is a lot more
+The four freedoms of Open Source
+the contract of using WP
+1) the freedom to run the program in any way you want
+2) you can study code and change it
+3) share it 
+4) modify and fork with a diffrent name
+
+https://twitter.com/wapuus/status/901469890099466240
+
+
+[What I Wish I’d Known About Freelancing](https://2017.denver.wordcamp.org/session/what-i-wish-id-known-about-freelancing/)
+[Nathan Ingram](https://twitter.com/nathaningram)
+
+The very first time I heard Nathan speak it was at WordCamp Denver 2016, where he gave a talk that remains to this day one of my favorite talks.  It was a treat to get to hear a new talk from him that was jammed full of amazing advice to the freelancer and really anyone that has to manage their own time, which I think is everyone.  There was one quote that I am going to remember and recite as I am thinking through priorities: "People are more important than projects!"  I know this is true but as someone on the road a lot and with a fair amount to get done, sometimes I forget this.  It was great to be reminded of this and to hear that I am not alone in this struggle.  
+
+Raw notes:
+You don't have to know everything, no one does!
+Become a person who is good to know!
+Stay out of debt
+Checklist manifesto
+Put everything in a list in order and that means you can streamline
+and when you onboard people, you have process you can pass on
+difference between owning job and building business
+Focus on process, not heroics
+There are seasons in freelance work, don't waste the slow times
+We stay in a cycle of stress, must make best use of time and dont freak out
+business will come back
+The 'someday list' when slow times come, you can do that list!
+being busy is not a badge of honor
+Don't forget what matters in life, 
+lost opportunities for family and friends don't come back
+midset shift that it is good to be too busy to have leisure, a status symbol
+People are more import than projects!
+
+https://twitter.com/aburrell/status/901482919692251136
+
+
+[After the Post: SEO, Images, and Meta Descriptions](https://2017.denver.wordcamp.org/session/after-the-post-seo-images-and-meta-descriptions/)
+[Mendel Kurland](https://twitter.com/ifyouwillit)
+
+There was some technical difficulties in this session room as Mendel got underway and he had to deliver without his slides.  Fortunately for all of us Mendel is a tremendous storyteller and a natural entertainer, so he handled the projector outage with grace and charm.  He told us an intense at time story of being scared in bear country and avoiding crocodiles before having a nice relaxing time by a lake.  Afterwards he broke down the story into some component parts and explained the layout of a story arc. This is very much along the same lines as the story spine I teach in my [session](https:://www.mcdwayne.com/improv-for-developers/) and was glad to hear a variant perspective that still conveyed the same underlying value around the importance of storytelling.  
+
+Raw notes:
+Technical SEO go to Yoast
+instead we are going to be talking about telling your story with your content
+3 things
+1) being descriptive and interesting
+Writing for humans, conversational and eas to read, some 
+basics of story anatomy
+Tells a story and then explained the story arc
+also is an article part
+intro to a topic H1, H2, H3
+2) Enjoyable and illustrative
+shows progress form boring Lorum Ipsum -> Bacon Ipsum - pic -> animated gif
+more info
+more interesting to look at better for SEO
+generate this stuff 
+3) making things sharable
+click to sweet, share icons
+basic plugins
+write your own meta, just gives you control, not SEO tip
+
+https://twitter.com/askwpgirl/status/901494375615795201
+
+
+
+[Creating & Telling Your Brand Story](https://2017.denver.wordcamp.org/session/creating-telling-your-brand-story/)
+[Pamela Herrmann](https://twitter.com/PamHerrmann)
+
+Every camp lives on a spectrum of all technical and all business side. This camp is more focused on SEO and business side of things than technical skills. This meant, much to my approval, that there was time for multiple talks on storytelling and I was glad to hear Pamela lay out her thoughts on the subject.  She focused on a character driven story approach which I had not encountered before and felt like it came from a much more literary view of things rather than a theatrical one, which I am more accustom.  I walked away with a new perspective, which I believe makes this a very succesful session.
+
+Raw notes:
+Story
+brain science
+reptillian brain, conundrum
+want to talk to middle brain
+cast a net, just under the boat - leading with science for IVF vs how changes family
+instead think of fly fisherman
+highly targeted
+Garret White Wake Up Warrior
+knows who he is fishing for
+how to create a brand story
+Joseph Campbell Hero's Journey
+3 element to her Hollywood 
+1- the character, the desire and the obstacle to the future
+Rose from Titanic example
+ordinary world- what makes them relatable (reliable?)
+fabricating your first customer profiles
+Rose is pressured into marriage, high society, free thinker, etc
+Translate into brand story
+Weight Watchers - because it works
+2- the desire
+Chuck from Castaway
+goal is to escape the island alive get back home
+Design arounf 4 goals
+Win
+Escape 
+Stop 
+and Retrieve
+Dollar shave club example - 
+the desire of the customer is 
+quality, save money, delivered to door
+shave time and shave money
+Focus on the result // the plotline
+connect the dots, create the glue
+3- the obstacle
+Ray from Field of Dreams
+Plowing under field - now his home and livelyhood is in danger
+AirBnB 
+overcoming objections from both sides of transaction
+No fail template
+story spine!  :)
+
+https://twitter.com/megdelagrange/status/901502714496126977
+	
+
+#####My Session
+[Workshop: Let’s learn Git. No more excuses.](https://2017.denver.wordcamp.org/session/lets-learn-git-no-more-excuses/)
+
+I got to teach Git as part of the three hour Sunday workshop day. I love teaching Git.  The [first time](https://2017.montreal.wordcamp.org/session/lets-learn-git-no-more-excuses/) I taught this workshop I was a bit nervous, but this time I felt way more solid in the updated materials and anticipated some of the questions better.  It was a complete thrill to take one student, who had issues even installing git on their machine, all the way from git init to submitting a successful pull request.  Not bad for 3 hours on a Sunday morning.  They left feeling very confident they could use this tool and planned to teach it to their significant other.  Everyone gave me some great feedback and I learned a few new things along the way.  I got one question I had no idea how to answer, so we just replicated the issue on my machine and solved it together, which felt amazing.  I am hoping this workshop gets accepted at more camps in the future so I can keep spreading the love.    
+
+https://twitter.com/McDwayne/status/901866798194331653
+
+
+###Wrapping up
+Given this was a one day camp, I spent a little more time in the 'hallway track' having some great and meaningful conversations with community folks.  It meant I saw fewer sessions and meant I didn't have any time to hang out at the Happiness Bar, one of my favorite things this community makes happen.  
+I left Denver pretty tired, as I found little time to myself and no time to see mush of the natural beauty that is hidden all throughout the urban landscape. Still, I walked away very happy with the trip and am already looking forward to next year when I can return for WordCamp Denver 2018!  
+
+
+https://twitter.com/zgordon/status/901848291431915520
+
+https://twitter.com/SheCanTravel/status/901563342224887808

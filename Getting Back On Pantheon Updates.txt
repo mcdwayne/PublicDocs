@@ -1,0 +1,8 @@
+Fix your locally updated site
+
+1. Clone the site locally (git clone)
+2. Create a new multidev and use the Git command to create a branch locally
+3. Add Pantheon remote git remote add pantheon-wordpress git://github.com/pantheon-systems/WordPress.git
+4. do a git fetch pantheon-wordpress
+5. In Sourcetree, open the folder/project
+6. 

@@ -1,0 +1,390 @@
+WordCamp Sacramento: The time I didn't have to fly or stay at a hotel to go to WordCamp
+
+I spend a lot of time on the road going around the world to WordCamps and I make no secret that I love it.  But I do wish that I had a hometown one.  San Francisco last had a WordCamp in 2014, right before I got involved in the community.  I am very fortunate that just 80 miles or so from my house though is one of the largest WordCamps in the West and they were more than happy to let me call it home for the weekend for WordCamp Sacramento. 
+
+As the title suggests, I did not have to make extensive travel plans.  Instead I rented a car and called up my old buddy who lives downtown for a place to crash.  It was pretty neat to be able to drive from the office to the camp straightaway.  I realize that this is how most people, in general, experience getting to camp, but for me it was a novel thrill.  Sacramento itself feels a lot like San Jose to me, to the point I called it SJ more than a few times.  There is a pretty major revitalization going on in the downtown corridor where we were and we benefited from some pretty awesome restaurants as a result.  
+
+https://twitter.com/WC_Sacramento/status/909068849936441347
+
+###Food and Fun
+
+#####Speaker Dinner
+As with any good WordCamp, this one kicked off the night before day 1 with a speaker/sponsor dinner.  We gathered at [Hot Italian](http://www.hotitalian.net/), which is home to one of the [Big Ass Fans](http://www.bigassfans.com/case-studies/hot-italian-pizza-panini-bar/) which used 75% less electricity to do the job of 38 fans! We had pizza, including gluten free and vegan varieties, and gelato or sorbettos.  We were treated not only to good food but also some quality music from a local musician named Forest.  It was great to see so many familiar faces and to meet to so many new friends. What a great way to kick of the camp.  
+
+https://twitter.com/WC_Sacramento/status/908877346219843585
+
+#####Day 1
+The coffee was OK as we starting things up.  One of the unique things about this camp was the venue prohibited the event organizers form directly handing out food if it was not being served by the Conference Center catering service.  To get around this ban, all the sponsor's were given bowls of snacks and candy, refilled by the volunteers, so that all the attendees could get their cookies, energy bars, and oh so much candy without issue.  
+Lunch was served from three food trucks, for all 500 attendees.  Sort of reminded me of the WCEU after party.  The vegan options were supposed to include falafel, but they did not.  I was able to get some vegan tacos, but I was very, very glad that the snack bowls contained Oreos and Nutter Butters to round out my meal.  
+
+https://twitter.com/ChrisBadgett/status/909146149826654209
+
+https://twitter.com/McDwayne/status/909132908627075072
+
+#####After Party
+The 'after party' for WCSacramento was a Networking Reception with tacos, chips and some agua frescas.  It was awesome to connect with folks who were fresh out of sessions about what they learned while it was still totally fresh in their minds.  Since the camp drew people from all over [NorCal](https://en.wikipedia.org/wiki/Northern_California), it was an interesting but thoughtful choice to not have an afterparty that had no alcohol or made people kill time before an event at a separate venue.  For sure not your typical after party, but was very inclusive and for that I applaud the effort.    
+
+https://twitter.com/stewartsavage/status/909220085339787265
+
+https://twitter.com/stewartsavage/status/909260723930333185
+
+#####Dinner
+Since the taco option was light and non-vegan friendly, I got together with one of our favorite #WPLife camp sponsors, SiteLock, to throw a little after party dinner.  We went to [Capitol Garage](http://capitolgarage.com/), which is a funky diner/cafe with a really choice vegan menu and plenty of other dietary options as well.  We had a great time and as we celebrated a fantastic first day at camp.   
+
+https://twitter.com/mpmike/status/909247518260715520
+
+#####Karaoke
+Of course there was #WKaraoke as well.  We went to [The Distillery](http://www.thedistillerysacramento.com/) which I found out was just a clever name since they did not distill any alcohol there on premise.  Fortunately for us they definitely sold it though.
+
+https://twitter.com/McDwayne/status/909283224609632257
+
+###Sessions
+
+I was not able to get a session submitted before the deadline for this camp.  This meant more time for hallway track, Happiness Bar time and going to sessions.  I didn't actually get to as many sessions as I normally do at camps, but happy to share what I learned.  
+
+[The Future: Why Open Matters](https://2017.sacramento.wordcamp.org/session/the-future-why-open-matters/)
+[Aaron D. Campbell](https://twitter.com/aaroncampbell)
+
+Aaron is one one of my favorite speakers since he has a laid back style that puts the audience at ease.  He picked a topic that is very near and dear to my heart but which can open up a whole can of worms in discussions.  I have very good feelings about the future of Free and Open Source technology, but as he discussed there is a lot of work still to do.  I was very happy he ended with some definite action items we can take back into our day to day lives.  He even wrote a whole blog about this over at [his site](		https://aarondcampbell.com/2017/06/the-open-web-matters/)
+
+Raw Notes:
+QBasic Gorillas was his intro to open code
+breaking it and shift-f5 to compile 
+1991 - Tim Berners Lee and Commercial Wed Consorstioum
+12th Century
+Bernard of Chartres - dwarves perched ont he shoulders of giants
+Start by building on what was already there
+Isaac Newton Paraphrased 1675
+If I have seen further it is by standing on the shoulders of giants
+Waitbutwhy website
+growth of knowledge before language
+how tribal knowledge works
+generational
+pre-language was very slow
+post-language amount of knowledge grew exponentially
+The internet is the single most effective information sharing tool in all of history.
+open systems have some dangers
+Closed systems are owned by companies and they control the data
+they will only do things that benefit them as a company, not really a bad thing
+If don't like it leave
+Net Neutrality
+closed systems sit on top of the web, Net Neutrality is really about the way the core of the internet works
+lot of separate networks joined together, is basically how it still works
+Let's talk about the ideal, not the legislation
+Treat all data the same
+Historically sometimes common knowledge gets it wrong and only a small group gets it right early
+if we don't allow everyone the same voice online, can stop this from happening
+taking away people's right to make decisions by force is wrong, is it also just as bas to prevent them from learning a thing?
+_The internet is not the future_
+The internet sets us up for a better future
+What can we do?
+	Use Open Platforms
+	spread the word - many people don't know this is important, tell them
+	Vote - Be Informed
+	Vote with your $$$
+		https://aarondcampbell.com/2017/06/the-open-web-matters/
+
+https://twitter.com/jwh1138/status/909303861873041408
+
+
+[Using WordPress As A Decoupled CMS For A Single Page Application](https://2017.sacramento.wordcamp.org/session/off-with-its-head-using-wordpress-decoupled-cms-for-single-page-application/)
+[Treighton Mauldin](https://twitter.com/Treighton1988)
+
+I always enjoy a talk on front end anything.  This mostly is from my bewilderment at visual design.  Learning how something is actually implemented demystifies this a bit and in a pleasurable to my brain kind of way.  I especially love case studies where I can see actual real world results and peek at the code.  This was a pretty good example of that and if you are thinking of building in React (or any other JS library) to work with the REST API I would for sure check this out for some best practices he learned from good ol' trial and error.  
+
+The original stack
+LAMP
+JS
+The issue - lot of bloated AJAX calls
+Lot of load in and too many AJAX calls!
+Fighting around the templates an issue
+decided to build a developer specific single page
+Used the Rest API
+WordCamp Plug: session at 1:40 on REST API (from Andrew Taylor) for more on Rest API
+He is not talking about REST API dev, just using it
+React is all JS
+ES6 syntax
+just normal JS though
+In REACT pass everything as props
+map over them in an artifact component,
+on individual article pages just pull in the content 
+Can server side render JS so it loads faster
+Rest API lets you very quickly make 'endpoints' 
+allows you to just get the info quickly, without pulling all the normal post metadata
+
+https://twitter.com/jwh1138/status/909304692340961280
+
+
+[Distribute Allthethings: WordPress And The Era Of Multiple Content Channels](https://2017.sacramento.wordcamp.org/session/distribute-allthethings-wordpress-and-the-era-of-multiple-content-channels/)
+[Jake Goldman](https://twitter.com/jakemgold)
+
+This was the second time I had seen this talk, but Jake is a very good presenter and the ideas he laid out were so good I wanted to get a second dose to absorb more of what he was laying down.  Very glad I did, as this was less geared to a publishing audience, as it was when he delivered it at [WordCamp For Publishers](https://www.mcdwayne.com/2017/08/21/wordcamp-for-publishers/) and I could wrap my head around his overall point a little clearer.  It is going to become even more critical in the near future to not tune your WP install for presenting to the browser faster and faster, but instead to be able to pipe out content via the REST API in a coherent and reliable fashion faster and faster.  The future is very cached, very well organized and delivered very quickly.  
+
+Raw notes:
+Distribute all the things, 
+big enough to conquer any problem, small enough to care
+Why is this important?
+10UP tells stories with digital media
+thinking about how you telling their story
+Traditional as well print and network news media
+newer brands like the Oprah 
+Modern Digital First as well - 538
+From their infrastructure to their audience and rev team, thinking that when the digital publishers succeed, they succeed.
+Encyclypedias Britanica and Encarta
+things changes underneath them
+concepts of putting your content in multiple channels is not new
+Associated Press, special access needed, lexus nexis and similar followed
+Early was just another way relatively basic secondary channel
+'web specials'
+email news distribution, RSS, WAP, low bandwidth
+the App era started desktop channels
+then RSS extends, XML RPC, JSON
+not just platforms like iPhones, but accelerating with special platforms, like CRMs 
+interoperability is the key
+roughly now
+Jakes 2 axis paradigm for modern distribution channels
+Axis 1
+the open web has turned to crap and we can do better but same thing, (evolution) 
+A response to (revolutions)
+Axis 2 
+open - different ways
+constrained - best to let us control the content
+as move from LL to UR
+complexity increases but opportunity grows
+this is not static, always shifting
+newspapers changed the world, completely open when new
+now pretty standard, not even really evolving
+TV same thing
+then the way things have been done
+html5 represents web technologies
+but not the future, iteration
+Kindle tried
+Apps thinks there is a lot of room in space for opportunity
+youtube, constrained but right in between evolution and revolution
+AR and VR is the most open right now, newest frontier, most complex though
+where does the digital CMS fit in?
+First web CMS as give requirements to devs, they build it
+next build a text editor that does not need human element
+the CMS as the hub of a multichannel strategy
+next thing for CMS is to solve for this problems
+MUST have a good writing experience for the CMS 
+Ecosystem of third party integrations
+API and data accessibility
+trend is only accelerating
+and increasingly proprietary
+ecosystem of integrations is even more important!
+what does this mean for the future
+review: yesterday solving for content creation, organization storage and presentation
+channels pull out presentation layer
+editors are pulling out the content creations
+the future is very focused on storage and API and data accessibility
+nobody really creates in the CMS directly anymore
+as the channels converge in engagement levels, do we spend time in the CMS worrying about the final 'design' of content?  
+nope
+standardized template will be norm
+1) presentation layer and content creation is less relevant, how to sort is more important
+editorial UX is higher value than rendering
+2) extensibility is vital
+3) custom is crazy, economies of scale apply
+appresser
+mobiloud
+wordapp
+these are vibrant in the ecosystem, many options!
+watch for new announcement of tools from providers/companies like google
+will mention WP a lot
+4) Platform and content control is even more important
+with private players competing to 'own' consumption, an open platform protects publishers from third party business interests and choices
+(what would happen if Apple bought Medium)
+Q&A: ultimately Gutenberg will be less relevant as we move away from content creation in the CMS
+don't fragment your channel unless segmentation is obviously a right move
+
+https://twitter.com/jwh1138/status/909308754650206208
+
+
+[Coding For The Masses](https://2017.sacramento.wordcamp.org/session/coding-for-the-masses/)
+[Justin Busa](https://twitter.com/mrjustinbusa)
+
+Every now and again you come across a talk that you wish you had heard at least a year before and also wish that everyone who touches code had also heard.  This is one such talk.  If you are thinking of developing anything you are going to release out into the world, go watch this talk.  There was so many good things on his slides, I didn't capture them the best, [go look at them here](http://justinbusa.com/docs/coding-for-the-masses.pdf)
+
+
+Raw notes: (I stepped in a little late)
+...Limit the frequency of large releases 
+minor releases, patch release
+users want to update with confidence
+pushing minor updates with more frequency and less content
+don't include too many releases in minor releases
+do updates on Tuesday or Wednesday
+Foster an ecosystem by providing APIs
+Make docs available
+write clean code thats easy to read and follow
+Make your code base public and accept pull requests from others
+Don't pass the buck
+New features
+be selective with the features that you ass
+build things that help solve your user needs
+too many features can make a product hard to use
+new features directly impact support
+don;t add a feature just because someone else did
+
+
+https://twitter.com/WordImpress/status/909190466670940162
+
+
+[WordPress Performance – Foundation and Tactics](https://2017.sacramento.wordcamp.org/session/wordpress-performance-foundation-and-tactics/)
+[Matt Vanderpol](https://twitter.com/bookwyrm)
+
+While some of talks I have seen focus on various plugin approaches or singular focus strategies such as caching, I really appreciated this talk because it took a much broader approach.  He started out with a very interesting premise, that we can, in fact, create time.  Not literally, but every millisecond we give back to our users when they are not awaiting our pages to load is the same as creating that time for them.  He then went through many best practices to look at performance with development and testing tools, focusing mainly on his go to solution [WebpageTest.org](https://www.webpagetest.org/).  Even though he focused through the lens of this tool, the larger patterns he discussed are just a best practice approach to tuning.  Very glad this session exists.  For sue check it out when it hits WordPress.tv
+
+Raw notes:
+Creating time, not for you, but for your users, not just better for your page rank, better for you users
+Research for 
+https://squirrelwp.com/
+Overview, perf-matters.squirrelwp.com/ as a Concrete example
+rickety foundation means bad site
+need  good foundation
+Fast web request components
+fix different parts, need to understand them
+Analytics is a good place to start
+benchmark of where people are coming from, all the details effect performance
+Lot of tools for this, like Pingdom, Google Pagespeed, etc
+problems on these tools
+a single set of heuristics, 
+gives you a score which may or may not represent website performance
+WebpageTest.org is the one he likes best, using it for this presentation
+he thinks it is best because:
+1) real world test
+2) actual devices used
+3) Change parameters, like locations, what kind of network, types of networks, etc tailored to your real analytics, first view only or repeat to test caching
+4) film strip output, frame by frame breakdown
+5) Test history
+you can run your own private instance if you want
+Negatives:
+it is a free service, you will likely be in a queue
+hard to quantify a score, does not give a one true score
+Now, looking at WPT output to see how and what to fix
+some scores
+some metrics 1000 is the minimum, this is not really time, but close
+waterfall chart is the key output
+content breakdown, everything that is not html
+image analysis - taking it with a grain of salt, resolution not certain
+always double check your analytics for tuning to your real users
+Waterfall - graphical representation of all events that it takes to display a web page
+Vertical lines are events
+after DOM is loaded then JS starts churning
+DOM = document object model
+events - window.load and width of vertical line where it starts and how long it took
+JS execution length is important to note
+A good recommendation is run a test on the theme demo site when selecting themes
+Tactics:
+Time ti first byte TTFB
+this is time for browser to make request, resolve DNS, transfer HTML to browser, first byte hits that is TTFB
+caching fill make this fast after this point
+cache later in process, it can obscure other data points when you are tuning
+static content not cached
+may be difficult to 
+(most of room not using a CDN in any way, 1/2 knew what it was)
+long waterfall example
+This is best way to keep checking if changes makes impact
+Optimizing images will speed things up
+should be optimizing your images
+bigger issue is content images
+concatenate resources, might not always speed things up, good case for checking with waterfall
+page cache with WPRocket does a lot of other things like concat resourced automatically
+browser can not do anything until it gets the HTML, best interest to get all the HTML as small as you can
+CDN - he likes KeyCDN and Cloudflare
+browser caching
+lazy load images
+http/2 - very common now, allows parallelism, multiple JS files can be loaded in parallel
+Summary - analyze, fix, test, tweak, test
+
+
+https://twitter.com/jwh1138/status/909659450553786368
+
+
+[Demystifying WordPress Multisite: When Is Multisite A Good Choice And When Is It Not?](https://2017.sacramento.wordcamp.org/session/demystifying-wordpress-multisite-when-is-multisite-a-good-choice-and-when-is-it-not/)
+[Mike Fitzpatrick](https://twitter.com/fitzpatrick)
+
+Working where I do, we have a pretty specific view of WordPress Site Networks, also called [Multisite](https://codex.wordpress.org/Create_A_Network).  I was very curious about a couple things.  Mainly, how this approach is seen by industry professionals who use it and more importantly, what use cases they think it is a good fit for and which are a 'never do this'.  I was very happy to hear the way Mike described it was very much in line with how I have been thinking about it already.  Basically there is a use case where all the sites have the exact same code every single time, no exceptions.  At Pantheon further think that scale is also a real consideration and under a certain size a network does not make as much sense as a common upstream and automation strategy around updates.  I left with a much richer understanding of this approach and feel I can have better conversations moving ahead.  
+
+
+Raw notes:
+First 15 sites on MultiSite right after it made it into core
+very opinionated talk on what he will and not do with WP-multisite
+should you use it or not
+1/3 of room has used MultiSite
+Don't use MS if...
+too many plugins
+350 car dealers on single MS - individual plugins on each site, test bed
+200 plugins at one point, a mess
+nightmare to administer
+make it for one use case and one use case only
+this is why WP.com is only for blogs
+Do use it when you have a silo-ed use case and want to have repeatable sites creation process and management
+more time to deliver functionality, easier to scale within silo
+trade offs: with their use case each new functionality they wanted would spin out site into its own site, charge for it, then manage one off as a separate site
+domain structure
+Subdomain vs path based
+he has never found a reason to use folder/subdirectory path, he always used subdomains
+actively have to research and pick your path
+Setting up MS
+deactivate all plugins
+add MS in core, wp-config
+adds network setup under tools
+install gives you code to copy/paste into wp-config and htaccess file
+point domains
+wildcard
+going to need to put a way to add a way for wildcarding to work, have to do it under subdomains
+Roles within Multisite
+car dealer is the typical client, they will break things if you give them the chance
+give people the least amount of access possible to begin with and let them ask for more
+super-admin role is unique to MS
+give roles some serious thought
+2 ways to deal with Plugins
+network activate
+or not
+There are some reasons to not network activate, for example , slider plugin if you change on one site can be added to all of them, make sure you are sure if multisite compatible
+other reason to not network activate is if you are looking to monetize
+want to charge more for plugin/functionality, do it on a per request
+or use plugins that allow for pay path to get the functionality
+Plugins
+admin plugins
+	which plugins are activated on which sites
+	site creation plugins
+	backup plugins
+		network or individual sites
+Anti-splog (name of a plugin to prevent bots from building fake sites)
+monetize plugins
+	charge for functionality, etc.
+Ect, ect
+gravityforms
+	add on new user
+Admin menu pro
+WPMUdev
+	new blog templates
+Domain Mapping - abc.com - 123.abc.com - want to point jsmith.com - when request jsmith.com directs to 123.abc.com
+Snapshot WPMU dev
+	backup individual sites
+Updraft
+WPEngine
+shared hosting - hostgator (ewwww)
+reseller perspective - really quick to pick up sites that fall over, shared hosting isn't that bad
+from a cost perspective - make sure one install is one MS, WPEngine works this way
+WPE is shared hosting on basic packages, but offers Dedicated solutions
+
+
+https://twitter.com/McDwayne/status/909490762743668736
+
+
+[Speed Networking](https://2017.sacramento.wordcamp.org/session/speed-networking/)
+
+One of the sessions I attended where I took no public sharable notes was the 'speed networking event'.  We split into groups of 10 and had a minute each to tell everyone who we were and why we were at camp.  I loved getting to hear so many diverse reasons and from people at all stages of their WP path.  Really a terrific idea for any camp, easy to organize and let us network in a structured manor that I think was less intimidating that the classic 'throw everyone in a room, give them food and hope for the best' approach so many networking events I have attended use.  
+Here is how they described it:
+Don’t worry if you’re an introvert… We’ve got you covered! This is a structured session with facilitated networking, which means you’re not just going to be wandering around introducing yourself to people, feeling awkward, or wondering if you’re interrupting a conversation. Instead, you’ll be following a system that we provide so you can confidently speak about what you do and what you need and look like the pro you are.
+
+https://twitter.com/WC_Sacramento/status/909131011039961089
+
+
+
+###Wrapping Up
+I do hope that there is a WordCamp San Francisco again one day, sooner than later, but for now I feel I got my 'home region' WordCamp itch scratched.  It was great to see so many folks I recognized from the [WP-SFO meetup](https://www.meetup.com/wordpress-sf/) at the camp. I also really appreciate the sheer number of brand new to WP folks that showed up, it felt like over half the camp was there learning about WordPress for the first time.  This is exciting since it means we are growing as a community.  There is a lot to do and if we have a lot of new hands on board constantly we will make lighter work of these challenges in good time.  While I can not say I was a huge fan of the drive back and forth and I did miss my United Club lounge visit I normally get to experience on these trips, I can say with absolute certainty that I had a blast at WordCamp Sacramento and can't wait till next year!  
+Also, I will make sure I watch the deadline for speaker submissions a little closer ;)

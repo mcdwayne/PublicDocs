@@ -1,0 +1,330 @@
+WordCamp Los Angeles: Having a birthday the same day as you give a talk makes your alerts go insane
+
+When I was a kid, I spent multiple birthdays at the annual convention for my church, since my dad was a pastor.  I haven't really thought about that in years, but I have been thinking about that as I travel more myself and my job lets me go to so many events.  As a kid, I didn't have a lot of choice with my venue of choice, but this time, it was all intentional and a very good time. I turned 39 while at one of my favorite events in the world, [WordCamp Los Angels, aka: WCLAX](https://2017.la.wordcamp.org).  
+
+https://twitter.com/WordCampLAX/status/914510209409781761
+
+###Food and Fun
+
+#####Post Beginner Day Lunch
+The first time I had the opportunity to have a meal with my fellow WP people, was after the Beginner Day training I got to help teach (more on that later).  The teachers visited lovely Pasadena, CA to get some of the most delicious food I have ever experienced in my life at [My Vegan Restaurant](http://www.myveganpasadena.com/).  If you go, you have to get the vegan beef jerky.  I honestly do not have words that describe this amazing dish. It was so good, a group of us went back the following night after the after party to get more jerky.  I want to go back right now.  
+
+https://twitter.com/YouTooCanBeGuru/status/913882669880025088
+
+
+#####Speaker Dinner
+Not too long after we ate way too much vegan food it was time to gather at [Angel City Brewing](http://angelcitybrewery.com/).  It was fantastic to see so many old friends and to meet a few new ones.  The speakers were given awards!  I now have a small trophy that says what tracks I spoke in.  I don't go chasing medals and ribbons, but when these tokens fall into my life I am super grateful!  Thank you to the whole [WordCamp LAX organizing team](https://twitter.com/WordCampLAX)!
+
+https://twitter.com/TopHatArsen/status/914040657349459968
+
+#####Day 1
+Coffee was alright.  I can honestly say when you are at the mercy of university catering, you have to be OK with anything wet.  More and more lately I am defaulting to tea to start my day because it is harder to have a bad experience.
+Lunch was efficient and pretty good. They had a vegan chicken option that was a little too close to the texture of real chicken.  I actually had to confer with my fellow vegans, [Marc Benzakein](https://twitter.com/MarcBenzak) and [Josh Pollock](https://twitter.com/josh412) to double check my suspicion. We determined it was soy based and delicious.  
+In the afternoon there were snack bars and trail mix supplied.  Very good stuff.  Nothing to do with camp, but why you gotta ruin perfectly good trail mix with yogurt covered things?  Raisins are great on their own, they don't need dairy on them [Planters](http://www.planters.com/product/00029000021037).  They just don't.  Still, huge thank you to the organizers for supplying this.  
+
+https://twitter.com/WordCampLAX/status/914587755631570945
+
+#####After Party
+Immediately following the last session on Saturday night we started the official After Party.  There was music and food and a bar with free drink tickets! We were outside in the [Student Union Plaza](http://www.calstatelausu.org/unionplazaproject) and the weather could not have been better.  No wind and a perfect ~70 degrees with a setting sun making it beautiful.  Thanks again to the organizers for a fun networking function.   
+
+https://twitter.com/Glenn_IRS/status/914335178578812928
+
+#####WCKaraoke
+Not immediately following the party, but before a group us us went to bed, we hit up [All Star Lanes](http://www.allstarlanesbowling.com/), a bowling alley with Karaoke in the back bar area.  This place has been a staple of the Eagle Rock neighborhood for many years and the building showed it.  I had a great time, but there was a local who performed the best version of ["If I Were A Boy" by Beyonce](https://youtu.be/AWpsOqh8q0M) possible. I was so tired and this was so unexpected I literally had tears in my eyes.  The power of singing together as a community, no matter what that community is, overwhelms me sometimes.  One of my favorite birthday memories of all time!  Thanks to everyone who came to make WCKaraoke a thing!  
+
+https://twitter.com/jpurpleman/status/914325074567663616
+
+
+#####Day 2
+The best part of the coffee service of day two was the left over granola bars and snacks from the previous day.  Lunch was a duplicate of day one, slightly more green veggies than potato.  It was a quick closing set of remarks and a huge send off from the organizing team, leaving us looking forward to next year.  
+
+https://twitter.com/MistressPrime/status/914634062366568448
+
+
+###Sessions
+
+#####Opening Remarks
+
+https://twitter.com/WordCampLAX/status/914155159738970114
+
+#####Beginner day
+
+I was very happy to ge to take part in Beginner Day at this camp.  I got to contribute in 2 ways.  First I got asked to teach part of the day! I was explaining that you had to get your site up on a server on the internet and you how to use a SFTP client, like [CyberDuck](https://cyberduck.io), to accomplish this feat.  Beginner is a relative term and a good portion of folks played along from their seats and got their files up to a site online.  Some folks were a little lost, but it is important to expose ideas for those not quite there yet. I remember when it was a new concept to me as well.  It was a pretty great feeling to take people through that process and have them come up later and ask follow up questions.  One person even had some git questions for me.  It felt awesome.  
+The second way I got to contribute was to build some demo sites for these students on [Pantheon](https://www.pantheon.io).  To do this I learned how to build a bash script that could take in data from a CSV and produce a site on the platform and then hand it off gracefully to the student.  I ran into a weird issue early on around the while loop, so the current version of the script requires echoing out the built commands into another script and running that, which seems excessive, but given that this ia a one off use case I decided not to spend too much time debugging the thing.  If you want to take a look and let me know why the script would stop after only one row of data, but can echo through the entire csv just fine, the script [lives here](https://github.com/mcdwayne/pantheon_sites_from_csv_script_builder).  
+
+
+https://twitter.com/WordCampLAX/status/913806406268137473
+
+[Discovering The WordPress REST API]()
+[Josh Pollock](https://twitter.com/Josh412)
+
+Josh has a very straightforward presentation style and I really enjoy it.  This is a really great example of a 'teach a person to fish' talk.  I learn best by doing a thing and having the tool itself guide me along.  This is part of why I love using [WP-CLI](http://wp-cli.org/) and [Terminus](https://pantheon.io/docs/terminus/), because I can just try something and they will guide me along by suggesting what I might have meant.  Not quite what this talk was about but it reminds me of that same idea.  Still don't comprehend enough to expand on it more than my raw notes.     
+
+Raw Notes:
+Route discovery Rest API
+Post users, comments, taxonomies, etc...
+Philosophically a problem, can't just teach "do this and then this" becuase each site is different
+The REST API tells us that we can do with it
+Don't need to memorize these routes
+learn how to process it and understand it, don't memorize code only
+/wp-json (like an index of all apis)
+/wp-jason/<namespace>
+_links section of response"
+tools for exploring APIs
+Postman, ARC REST API -chrome extension
+ARC
+PAW - desktop app
+JSONView - pretty printer for JSON
+/wp-json - lear some things about the site
+every route where it is
+what is available
+underscored linked
+tells you where the link is documents
+route schema
+what can it do
+Point is: it tells you what it is doing as a human readable description
+post endpoint parameters, it will tell you all options
+discoverability FTW Every WP site is discoverable!
+_links tells you where things are
+Can the RESTAPI do something?  The answer is in the _links most likely, explains the connections of the data
+if the schema says you can do it, you can write more defensive code,
+this is how to get started discovering for yourself
+Calderalearn is a thing
+
+
+https://twitter.com/WordCampLAX/status/914227402594750464
+
+
+[What’s The Difference Between Blogging and Content Marketing?](https://2017.la.wordcamp.org/session/whats-the-difference-between-blogging-and-content-marketing/)
+[Kitty Lusby](https://twitter.com/Kitty_Lusby)
+
+I first saw Kitty Lusby speak at [WordCamp LA 2016](https://2016.la.wordcamp.org/session/going-pro-how-to-make-your-blog-pay-your-bills/) speaking about how to be a serious blogger.  It was a talk full of awesome advice straight talk, which is my favorite kind of talk.  I have been following her blog ever since and was delighted to get to hear her again this year.  This time she was explaining the difference between blogging and content marketing.  Blogging is what I am doing here, pretty much whatever I want to say and no goal of representing a brand or goal other than to share my experiences with my future self and maybe you. Content Marketing, I think, would be the actions I would take to specifically inform you about my brand to inspire confidence enough to give my brand money in exchange for making your life better.  Anyway, she says it much better than I can so watch for the video.  Meanwhile here she is giving the talk from [2016](https://wordpress.tv/2016/10/10/kitty-lusby-going-pro-how-to-make-your-blog-pay-your-bills/)
+
+Raw notes:
+A blog is not content marketing
+First let's define a brand
+got a volunteer, some of us know, most do not
+this is the same as a brand
+we have to inform people what he is about
+this is content marketing
+what is this perosn about
+why do we care?
+hard to do
+no one goes to your website because they want to give you money
+they are trying to make their life better
+compelling reason for giving money
+go look at competitors
+go to google in URL "forum" keyword
+forums are the last ditch effort for customers
+key to brand is finding intersection who you are, what you do and why people will give you money for value
+brands evolve
+personality evolves
+it helps if you are a sociopath (half joking, need to pick up on other's personality)
+Speak their language - speak on their level
+Remember a human is going to read it, write intelligently
+Write in slang is fine, but know what it means and your audience
+http://buzzsumo.com/ is not a free tool, but very awesome tool
+tells her how to better market yourself
+content marketing tells you how to reach these audiences
+wit is good for twitter
+pintrest, can read the image even with no words at all, just tells what is in it
+rank better on different platforms
+know how to change your content to meet the medium
+pay attention to your metrics and analytics
+don't just get caught up in what the latest trends are
+video for example, is labor intensive, is it for you??
+if just have FB, Twitter, and website and it works, fine!  
+stay where you are competent and grow gradually
+be careful with brand drift
+drift is great if it is evolution!  
+But i you are getting off topic, that is bad
+
+
+https://twitter.com/WordCampLAX/status/914245601948307456
+
+
+[Using WordPress for Social Good](https://2017.la.wordcamp.org/session/using-wordpress-for-social-good/)
+[Devin Walker](https://twitter.com/innerwebs)
+81633616
+
+I walked into this talk expecting to hear a bit about the non-profit space and how they are leveraging WordPress.  While that was certainly part of what happened, this talked was a two fisted, no punches pulled flurry of a sermon.  His first slides told folks to get off cheap hosting, use modern tools and think about things like security.  The rest of the talk was best practices from design to messaging to donation plugin settings. If you are a developer working at a non-profit, you should likely show this talk to your peers. 
+
+Raw notes:
+Fast talker lot of ideas
+must have a solid foundations
+Use managed hosting
+Https, PHP7, SEO, Updates and maintenance, SEO
+Recommended tools
+backups, wp-timecaplse is a good one if your host is not providing it directly
+ongoing maintenance
+(just some really real tools talk!)
+Now onto your site
+First impressions
+average user spends 8 seconds on a site why first impressions matter
+The Jane Goodall Institute
+Obama foundation
+Liberty in North Korea
+Effective messaging makes your org work
+Deliver from multiple audience points of view
+accessible and readable
+screen readers
+just because you can make a website, should you make a website
+you need to figure out your mission before designing
+wireframes balsamiq
+page builders
+5 years ago this would be hard to do by hand
+easier now
+Effective online campaigns
+Donation, peer to peer fundraising
+reaching out to your social network for fundraising 
+inventive ways to make interactive
+steps program
+Bethlehem theme from themeforest
+recurring donations
+recurring donors give 42% more than one time givers
+give them way to manage donations
+let them exit quickly if they want
+enable donors to opt in to recurring easily 
+and share with friends and family
+explain how your donations are going to make an impact
+"$19.20 to feed and care for 10 people"
+Keep people updated on how money is spent
+Oxfam America is a good example
+Keep it simple - reduce fields
+allow customizable amounts
+no distractions from the 
+Don't forget mobile
+accept multiple payment methods
+clear terms
+use properly terminology
+Donation Plugins:
+GiveWP
+Charitable.com
+Seamless Donations
+gravity/woo/edd can but should you?
+Online donations in reach
+
+
+https://twitter.com/GiveWP/status/914536284005163008
+
+[Slow sites suck! How to speed up WordPress without touching a line of code.](https://2017.la.wordcamp.org/session/slow-sites-suck-how-to-speed-up-wordpress-without-touching-a-line-of-code/)
+[Andrew Wilder](@blogtutor)
+
+I went into this talk with a bit of skepticism.  Another part of me really loves session titles like that and I knew there was either another angle here.  I think performance is one of those evergreen subjects because tech keeps evolving and Google keeps changing how they measure things.  I really liked this talk because it was filled with very practical, straightforward advice anyone can follow. Some things I don't exactly agree with, like page caching with plugins, though caching all the things is a very good idea.  I really liked the reinforcement, which I heard echoed in a lot of hallway talk and in a few other sessions, that you should find a quality managed host.  I know one of those.  
+
+Raw notes:
+Speed is super important but not sexy
+people don't wait around  on sites
+Simplified view of the site
+to illustrate how a page loads
+the waterfall
+load times - every little bit adds up
+Declutter
+Do you really need that...badge, widget, ed, etc
+remove all unused everything
+limit plugins
+delete inactive plugins
+Shrink your homepage and archive pages.
+show experts at best
+reduce the number of posts per page
+remove social sharing from homepage
+Cache all the things
+optimize your images! 
+before uploading: 
+create images at the size they'll be displayed
+use JPG with compression - white with no color takes less space
+use PNG for text or line art
+imigify, short pixel, ewww image optimizer, kraken
+Don't use a crappy host
+don't be 1 in 1500
+change servers every 3-5 years to get
+new hardware SSD
+New software PHP7
+Use SSL!
+and HTTP/2 protocol 
+optimize for above the fold content
+Defer CSS and JS
+WP rocket-Autoptimize-Above The Fold Optimization
+minify 
+wp-rocket can combine fonts and css and html into one file to speed it all up
+use a CDN
+Securi Firewall (Cloudproxy)
+Cloudflare
+Page Speed Insight
+don't chase a number, use as a guide
+
+
+https://twitter.com/victorcab/status/914551280327991296
+
+[So Easy Even A Kid Can Do It: Using WordPress as a Platform for Portfolios](https://2017.la.wordcamp.org/session/so-easy-even-a-kid-can-do-it-using-wordpress-as-a-platform-for-portfolios/)
+[Jansen Henschel](https://twitter.com/jansen_henschel)
+
+Every now and again you see a talk that blows your mind and makes you rethink some of your life choices.  Jansen is an 11 year old who started his journey into WordPress 3 years earlier by attending Beginner Day.  On this day he stood to teach us all in the best prepared and delivered presentation I have might of ever seen.  I very much hope his talk gets on WordPress.tv, but until it does, check out his amazing videos explaining [bitcoin in under 3 minutes](http://jansenslessons.com/economics/bitcoin/), [how the periodic table is organized](http://jansenslessons.com/science/periodic-table-trends/), and [Geneva Drives](http://jansenslessons.com/engineering/the-geneva-drive/) in the most elegant ways I have ever heard.  
+
+Raw notes:
+Missed the first few minutes
+Themes explained!  
+Portfolios are really designed to convince someone of something
+you don't need to do a lot to impress people, just impress yourself.
+A portfolio makes it more real and expresses your ability more
+Also a proof of work
+people have short attention spans
+three pieces of content, that is enough to convince someone of something
+Don't bury your best work, put it front and center
+people are not going to spend a lot of time on your site
+"People get bored easily. so don't expect a lot out of them."
+faster sites are better
+Put your best work forward, don't bury
+preview pics for vids reflect the interesting part - not the first frame
+portfolios are convincing someone to do something
+Don't distract from yourself
+no ads, they are not about you
+
+
+https://twitter.com/andyfragen/status/914592630347939840
+
+[Becoming a Community Builder: A WordPress Story](https://2017.la.wordcamp.org/session/becoming-a-community-builder-a-wordpress-story/)
+[Raquel Landefeld](https://twitter.com/raqueLandefeld)
+
+I got to see the first version of this back at [WordCamp Minneapolis 2017](https://2017.minneapolis.wordcamp.org/session/becoming-a-community-builder-a-wordpress-story/) as a lightning talk.  I was excited to hear the full version.  My raw notes don't nearly capture the talk and I thought about not posting them here, but I do think they paint the broad brush of her timeline from having an identity completely reliant on the identity of others to a self image of being part of a larger community as a leader.  It is inspiring and a story I think should be heard by more people.  It is a great reminder that we all have stories to share and we should be encouraging others along their journeys as well. 
+
+in her 20s
+Identity directly related to others
+stay at home mom
+2009 economy bad, Cody, her husband, lost job
+went into business for self full time
+she became co-founder anf team manager
+2012 - 1st WordCamp
+she loved it!
+was this real though?  
+People were just immediately interested in her as a person
+open and loving
+identity "wife"
+then all the WCs after that!
+2014 - Phoenix community
+WP Meetups
+Phoenix tech
+Phoenix creative
+WCPHX
+2015 - 2016
+WCEU
+local government
+PTA Treasurer
+Lead Organizer??
+Community = people
+you can have the best anything but without people. you don't have community
+
+
+https://twitter.com/Kitty_Lusby/status/914606269406650368
+
+#####My Session
+
+Once again I got to talk about the WP-CLI, which is pretty dang cool.  I discovered that my online IDE of choice, [Cloud9](https://c9.io/), was suffering from [this issue](https://github.com/wp-cli/wp-cli/issues/4370) literally 3 days before the ticket was closed.  So I downloaded the British English version of WP (en_GB) which was not affected for some reason.  Good thing I spot check these things before I talk.  Only other observation from this time out was that no one really asks questions during the WP-CLI talks.  Everyone just wants you to show off that 'one really cool thing I use it for', which is the best.  That also puts me on the spot, as demoing _wp_ _shell_ requires I know enough PHP to demo using the shell itself, which I literally never do.  
+
+No pics exists as fas as I could find on Twitter yet, if that changes, I will update this space.  
+
+https://twitter.com/WordCampLAX/status/903802187293147136
+
+###Wrapping Up
+
+I left LA more exhausted than when I showed up, which to me means I tried my best.  I am not a fan of Los Angeles overall, with the traffic and the smog, yadda, yadda, yadda.  But I am a huge fan of the people in the WP community in LA and those who traveld to the city of angels to take part in this camp.  I can not remember a better time being in there than this trip.  It was a pleasure to grow a little older and hopefully a little wiser in La La Land.  Thanks LA.  

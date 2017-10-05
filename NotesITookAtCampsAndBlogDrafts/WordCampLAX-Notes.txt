@@ -1,0 +1,345 @@
+
+Beginner day:
+
+https://twitter.com/SiteGround/status/913825726532481024
+
+https://twitter.com/McDwayne/status/913846823139155969
+
+
+
+Speaker Dinner:
+
+https://twitter.com/TopHatArsen/status/914040657349459968
+
+https://twitter.com/Glenn_IRS/status/914134821252644864
+
+https://twitter.com/heyadamsilver/status/913955253325766656
+
+https://twitter.com/mediatemple/status/914133431725862914
+
+AfterParty: 
+
+
+https://twitter.com/WordCampLAX/status/914510596464414727
+
+https://twitter.com/Glenn_IRS/status/914335178578812928
+
+
+
+#Sessions
+
+[Avoiding Bloggers Block](https://2017.la.wordcamp.org/session/avoiding-bloggers-block/)
+[Nile Flores](https://twitter.com/blondishnet)
+
+
+
+Beginner blogging advice, find her slides and talk well about her.  
+slideshare.net/blondishnet
+
+aim for what your customers want.  
+
+https://twitter.com/McDwayne/status/914175746200944640
+
+https://twitter.com/WPFixItFast/status/914175268083793920
+
+
+
+[Discovering The WordPress REST API]()
+[Josh Pollock](https://twitter.com/Josh412)
+
+
+Route discovery Rest API
+Post users, comments, taxoonomies, etc...
+
+Philisophically a problem, can't just teach "do this and then this" becuase each site is different
+The REST API tells us that we can do with it
+Don't need to memorize these routes
+learn how to process it and understand it, don't memorize code only
+
+/wp-json (like an index of all apis)
+/wp-jason/<namespace>
+_links section of response"
+
+tools for exploring APIs
+Postman, ARC REST API -chrome extension
+ARC
+PAW - desktop app
+JSONView - pretty printer for JSON
+/wp-json - lear some things about the site
+
+every route where it is
+what is available
+
+underscored linked
+tells you where the link is documents
+
+route schema
+what can it do
+
+Point is: it tells you what it is doing as a human readable description
+
+post endpoint parameters, it will tell you all options
+
+discoverablility FTW Every WP site is discoverable!
+
+_links tells you where things are
+
+Can the RESTAPI do something?  The answer is in the _links most likely, explains the connections of the data
+
+if the schema says you can do it, you can write more defensive code,
+this is how to get started discovering for yourself
+
+Calderalearn is being made now
+
+https://twitter.com/WordCampLAX/status/914227402594750464
+
+https://twitter.com/WordCampLAX/status/914228313656356864
+
+
+
+[What’s The Difference Between Blogging and Content Marketing?](https://2017.la.wordcamp.org/session/whats-the-difference-between-blogging-and-content-marketing/)
+[Kitty Lusby](https://twitter.com/Kitty_Lusby)
+
+A blog is not content marketing
+First let's define a brand
+got a volunteer, some of us know, most do not
+this is the same as a brand
+we have to inform people what he is about
+this is content marketing
+what is this perosn about
+why do we care?
+hard to do
+no one goes to your website because they want to give you money
+they are tryng to make their life better
+compelling reason for giving money
+go look at competitors
+go to google in URL "forum" keyword
+forums are the last ditch effort for customers
+key to brand is finding intersection who you are, what you do and why people will give you money for value
+brands evolve
+personality evolves
+it helps if you are a sociopath (half joking, need to pick up on other's personality)
+Speak their language - speak on their level
+Remember a human is going to read it, write intelligently
+Write in slang is fine, but know what it means and your audience
+http://buzzsumo.com/ is not a free tool, but very awesome tool
+tells her how to better market yourself
+content marketing tells you how to reach these audiences
+wit is good for twitter
+pintrest, can read the image even with no words at all, just tells what is in it
+rank better on different platforms
+know how to change your content to meet the medium
+pay attention to your metrics and analytics
+don't just get caught up in what the latest trends are
+video for example, is labor intensive, is it for you??
+if just have FB, Twitter, and website and it works, fine!  
+stay where you are competent and grow gradually
+be careful with brand drift
+drift is great if it is evolution!  But i you are getting off topic, that is bad
+
+https://twitter.com/WordCampLAX/status/914245601948307456
+
+https://twitter.com/WordCampLAX/status/914242419096457216
+
+https://twitter.com/WordCampLAX/status/914245601948307456
+
+
+
+
+
+[Using WordPress for Social Good](https://2017.la.wordcamp.org/session/using-wordpress-for-social-good/)
+[Devin Walker](https://twitter.com/innerwebs)
+81633616
+
+Fast talker lot of ideas
+must have a solid foundations
+Use managed hosting
+Https, PHP7, SEO, Updates and maintenance, SEO
+Reccomended tools
+backups, wp-timecaplse is a good one if your host is not providing it directly
+ongoing maintenance
+(just some really real tools talk!)
+
+Now onto your site
+First impressions
+average user spends 8 seconds on a site why first impressions matter
+The Jane Goodall Institute
+Obama foundation
+Liberty in North Korea
+Effective messsaging makes your org work
+Deliver from multiple audience points of view
+accessibile and readable
+screen readers
+just because you can mak a website, should you make a website
+you need to figure out your mission before designing
+wireframes balsamiq
+page builders
+5 years ago this would be hard to do by hand
+easier now
+Effective online campaigns
+Donation, peer to peer fundraising
+reaching out to your social network for fundraising 
+inventive ways to make interactive
+steps program
+Bethlehem theme from themeforest
+recurring donations
+recurring doners give 42% more than one time givers
+give them way to manage donations
+let them exit quickly if they want
+enable donors to opt in to recurring easily 
+and share with friends and family
+explain how your donations are going to make an impact
+"$19.20 to feed and care for 10 people"
+Keep people updated on how money is spent
+Oxfam America is a good example
+Keep it simple - reduce fields
+allow customizable amounts
+no distractions from the 
+Don't forget mobile
+accept multiple payment methods
+clear terms
+use properly terminology
+Donation Plugins:
+GiveWP
+Charitable.com
+Seamless Donations
+gravity/woo/edd can but should you?
+Online donations in reach
+
+
+https://twitter.com/McDwayne/status/914536563001794560
+
+https://twitter.com/GiveWP/status/914536284005163008
+
+[Slow sites suck! How to speed up WordPress without touching a line of code.](https://2017.la.wordcamp.org/session/slow-sites-suck-how-to-speed-up-wordpress-without-touching-a-line-of-code/)
+[Andrew Wilder](@blogtutor)
+
+Speed is super important but not sexy
+we
+don't wait around  on sites
+Simplified view of the site
+to illustrate how a page loads
+the waterfall
+load times - every little bit adds up
+Declutter
+Do you really need that...badge, widget, ed, etc
+remove all unused everything
+limit plugins
+delete inactive plugins
+Shrink your homepage and archive pages.
+show exeprts at best
+reduce the number of posts per page
+remove social sharing from homepage
+Cache all the things
+pick a plugin
+optimize your images! 
+before uploading: 
+create images at the size they'll be displayed
+use JPG with compression - white with no color takes less space
+use PNG for text or line art
+imigify, short pixel, ewww image optimizer, kraken
+Don't use a crappy host
+don't be 1 in 1500
+change servers every 3-5 years to get
+new hardware SSD
+New software PHP7
+Use SSL!
+and HTTP/2 protocol 
+optimize for above the fold content
+Defer CSS and JS
+WP rocket-Autoptimize-Above The Fold Optimization
+minify 
+wp-rocket can combine fonts and css and html into one file to speed it all up
+use a CDN
+Securi Firewall (Cloudproxy)
+Cloudflare
+jetpack (photon)
+Page Speed Insight
+don't chase a number, use as a guide
+
+
+
+https://twitter.com/victorcab/status/914551280327991296
+
+https://twitter.com/JenBlogs4U/status/914553726941069313
+
+https://twitter.com/hackrepair/status/914552443794374656
+
+
+
+[So Easy Even A Kid Can Do It: Using WordPress as a Platform for Portfolios](https://2017.la.wordcamp.org/session/so-easy-even-a-kid-can-do-it-using-wordpress-as-a-platform-for-portfolios/)
+[Jansen Henschel](https://twitter.com/jansen_henschel)
+
+Themes explained!  
+
+Portfolios are really designed to convince someone of something
+you don't need to do a lot to impress people, just impress yourself.
+A portfolio makes it more real and expresses your ability more
+Also a proof of work
+people have short attention spans
+three peices of content, that is enough to convince someone of something
+Don't bury your bst work, put it front and center
+people are not going to spend a lot of time on your site
+"People get bored easily. so don't expect a lot out of them."
+faster sites are better
+Put your best work forward, don't bury
+preview pics for vids reflect the interesting part - not the first frame
+portfolios are convincing someone to do something
+Don't distract from yourself
+no ads, they are not about you
+
+https://twitter.com/JenBlogs4U/status/914599359970295808
+
+https://twitter.com/JenBlogs4U/status/914593593624469506
+
+https://twitter.com/andyfragen/status/914592630347939840
+
+https://twitter.com/theisaac/status/914590046992216064
+
+https://twitter.com/theisaac/status/914590046992216064
+
+https://twitter.com/themexicoreport/status/914590015551766528
+
+
+[Becoming a Community Builder: A WordPress Story](https://2017.la.wordcamp.org/session/becoming-a-community-builder-a-wordpress-story/)
+[Raquel Landefeld](https://twitter.com/raqueLandefeld)
+
+in her 20s
+Identity directly related to others
+stay at home mom
+2009 economy bad, Cody, her husband, lost job
+went into business for self full time
+she became co-founder anf team manager
+2012 - 1st WordCamp
+she loved it!
+was this real though?  
+People were just immediately interested in her as a person
+open and loving
+identity "wife"
+then all the WCs after that!
+2014 - Phoenix community
+WP Meetups
+Phoenix tech
+Phoenix creative
+WCPHX
+2015 - 2016
+WCEU
+local government
+PTA Treasurer
+Lead Organizer??
+Community = people
+you can have the best anything but without people. you don't have community
+
+
+
+https://twitter.com/Kitty_Lusby/status/914606269406650368
+
+https://twitter.com/victorcab/status/914606076850343936
+
+https://twitter.com/andyfragen/status/914605350543777792
+
+
+
+Wrapp
+
+----HTTP/2 talk?????----

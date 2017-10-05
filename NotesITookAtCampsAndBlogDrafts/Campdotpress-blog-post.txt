@@ -1,0 +1,16 @@
+Campdotpress_blog_post
+
+Camp.press 2017: I got stung by a wasp but still had a good time
+
+I had the pleasure of attending the first ever [Camp.Press](https://camp.press/) event.  This is described as "your chance to detox from digital life by spending time in nature with fellow geeks". What happened really was the definition of an 'un-conference', there were no sessions, there were no workshops, there were no Happiness Bar shifts. Just a group of us WP and other tech geeks around a fire and a swimming lake, talking about life and sometimes about tech.
+
+![picture of a camp fire with silhouetted in the background in chairs][https://camp.press/wp-content/uploads/2017/08/DSC04249.ARW_.jpg]
+
+I got asked a couple questions when I was there by just about everyone at some point: "dont you travel a lot? why did you come all the way to [Fry Lake, Oklahoma](https://camp.press/location/)?" Yes, I do travel a lot.  I love it and am very grateful for the opportunity to get to see so much of the US and the world while talking to agencies and other folks interested in using my company's platform.  I can see why I got asked this but the answer is rather simple on 'this this event.' 
+
+If you read any other posts on my site, you will see a structure that revolves around the flow of a camp.  One of the things I rarely talk about is, even though they are very enjoyable, these are simply exhausting these events.  There are times to be places, things to do, a lot of prep for each event and the lugging of gear for sponsor tables and so on.  This event was not like that at all, once we were there we were told that the time was ours.  If we didn't want to do a thing that was suggested, we didn't have to at all.  At first this felt a little strange to me, but soon it felt like the best thing ever.  Skipping a suggested scavenger hunt to take a nap or sitting by a swimming lake instead of going hiking (which is what most of us opted for) was just relaxing.
+
+The larger difference and what I really got out of the camp was the chance to talk to people about things not related to our jobs.  Connecting with great folks who also work in tech, but in a way that I would never likely do at a normal event.  I feel like I left with a group of new friends and not just acquaintances who share an open source code base.  Yes, all the other events yield awesome memories and conversations, but much of it has the underlying motive of furthering our positions in the tech space.  I really didn't feel that was the case here.  
+
+I did get stung by a wasp, which cold happen anywhere, but overall this was a very positive experience and I am glad I got to be part of the first ever Camp.press!
+

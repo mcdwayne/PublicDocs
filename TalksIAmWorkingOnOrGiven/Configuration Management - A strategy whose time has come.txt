@@ -1,1 +1,3 @@
 Configuration Management - A strategy whose time has come!
+
+We have all been there, we have our local or dev environment all configured and performing exactly as we want.  Now we have to push those changes to production and we have to either overwrite the DB or reconfigure the settings manually.  Neither of these are good options.  Let's take a lesson from other projects and manage DB configuration through version control and code.  This talk will be leveraging the WP-CFM project to accomplish this.  Let's talk strategy and stop overwriting our databases.  

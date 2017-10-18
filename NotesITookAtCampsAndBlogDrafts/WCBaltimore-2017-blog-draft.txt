@@ -1,0 +1,377 @@
+WordCamp Baltimore: All about that B2B - Bay Area to the B'more
+
+I love Baltimore.  Every time I visit I find a new reason to like it even more.  It was here that I first gave my [improv talk](https:://www.mcdwayne.com/improv-for-developers/).  It was here that I got to take part in the largest to date [DrupalKaraoke](https://twitter.com/drupalkaraoke) [event](https://twitter.com/CommerceJohn/status/857088719924449281).  And it is here that I returned for [WordCamp Baltimore 2017, WCBalt](https://2017.baltimore.wordcamp.org/)
+
+
+https://twitter.com/cass_ingles/status/919180943767810048
+
+
+###Food and Fun
+
+#####Speaker Dinner
+As per the normal custom,  got to participate in the Speaker/Sponsor dinner and hanging out.  We gathered at [Spark](http://spark-bmore.com/), a coworking space inside of [Power Plant Live](http://www.powerplantlive.com/), the entertainment complex tha feels a bit like a little tiny Las Vegas, sans gambling.  We had pizza and refreshments.  Some of us journeyed a few doors down afterward to extend the eventing's activities but we didn't stay out too late, as the one and [Sal Ferrarello](https://twitter.com/salcode) was set to once again host the [pre WCBalt breakfast](https://twitter.com/salcode/status/918637686688223232) early the next morning.  I tried to get up for this, but I didn't make it. 
+
+Can't find a tweet with a pic, but it was in the same place as last year, so here is a tweet from then:
+
+https://twitter.com/wpvideoeditor/status/799754569307668480
+
+#####Day 1
+The coffee at WCBalt reminds me of what you would find at a church function, meaning it is made in small batches in old fashion [electric percolators](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dgarden&field-keywords=50+cup+electric+percolator).  Snacks were plentiful and flowing throughout the whole event, with rotating selections of chips, candy, soda and such.  I was never wanting for snacks.  
+Lunch on the first day was absolutely outstanding, with hearty vegan options of beans and rice, mixed steamed veggies and fried plantains.  I ate way too many of that latter, as they were sorta like a fried banana candy.  
+
+
+https://twitter.com/McDwayne/status/919242623658987520
+
+#####After Party (Networking Social)
+WCBalt joined the growing list of camps that are attempting to stem the tide of people not making it back out for the after party by turning the event into a networking social immediately following the last session of day one.  I have mixed feeling about this to be honest.  I am very much in favor of the inclusion it brings.  No matter who you are or the circumstances, if you made it to the venue, this is an accessible function.  There is no alcohol but there were some pretty spectacular appetizers.  They ordered from [Dooby's](https://www.doobys.com/) which got all the locals excited.  They had tremendously great vegan [Kimbap, a sort of Korean sushi](https://en.wikipedia.org/wiki/Gimbap) and veggie pot stickers, as well as pork buns, spinach artichoke dip, cookies and some fantastic looking donuts.  It was great to connect with so many people but what felt like all too soon, the crowd thinned and we had to find elsewhere to go.  
+
+
+https://twitter.com/wordcampbalt/status/919320167389257728
+
+
+#####Dinner
+Since the after party ended so soon and there were only (the very tasty) appetizers, some of us wanted to go grab a proper meal before we found later night fun together.  One of the greatest side effects of my dietary choice is it helps narrow down the crazy wide array of options a larger city tosses at you when you google search for 'Restaurants near (an address)'.  I stumbled across the menu for [Of Love and Regret](http://www.ofloveandregret.com) and was excited to try this out.  An amazing beer list, fine spirits and creative cuisine in a very stylish old building across from [Natty Boh Tower](http://brewershill.net/available-space/natty-boh-tower/).  Bette than any of that though was the company of my fellow WC folks.  While plugins and continuous integration strategies are great subjects, getting to hang out and talk about more human things is part of what keeps me going out on the road.  So many new connections and friends made along the way.   
+
+https://twitter.com/McDwayne/status/919368483439349761
+
+
+#####WCKaraoke
+My top Karaoke bars are:
+1 - Bow Bow Lounge (Cinatown in San Francisco)
+2 - Otter's Saloon (Minneapolis, MN) 
+3 - Walt's Inn (Baltimore, MD)
+A small group of us made it out to [Walt's Inn](http://waltsinn.com) to celebrate a great first day at camp.  Walt's has ridiculously cheap drink specials and a heavy hand when pouring.  The only downside, which I do not remember them enforcing last year, is a 2 drink minimum before you can sign up for singing.  Fortunately, if one person signs up you can get any number of people to back you up.  We rocked B'more with a stirring rendition of ["Bohemian Rhapsody"](https://www.youtube.com/watch?v=fJ9rUzIMcZQ).  Freddy and the boys would have been proud.  
+
+https://twitter.com/WesLinda/status/919400786853072898
+
+
+#####Day 2
+Coffee and tea were again available and pretty alright.  
+Lunch however was a bit of a letdown, especially in light of the previous day's bounty of awesome, filling options.  They ordered Dominos and the only vegan option were 2 side salads we would have to split between all the dietary restriction folks that are Gluten, Dairy or Animal Product adverse.  I have learned on the road to carry backup food and was OK, but if you are reading this and are organizing an event where you plan to order pizza please, please, please either get it from somewhere that offers vegan cheese or gat a few pies with no cheese and extra veggies.  Most pizza dough is vegan and so is the sauce.  Not the healthiest meal but a filling one and no dairy involved.  
+
+In liu of a lunch tweet here is Mr. Trash Wheel
+
+https://twitter.com/aaroncampbell/status/919332785726291968
+
+
+###Sessions
+
+#####Opening remarks
+
+
+
+https://twitter.com/shelleymagnezi/status/919187249136394245
+
+
+#####Keynote
+
+[The Future: Why Open Matters](https://2017.baltimore.wordcamp.org/schedule/)
+[Aaron Campbell](https://twitter.com/aaroncampbell)
+
+I had just seen the first version of this talk back at [WordCamp Sacramento]() a few weeks before and was actually pretty excited to hear the next evolution.  I love this central premise in this talk, that we have only gotten here in our technological advancement arc by openly sharing information.  This has always been true.  From the earliest roots of language, to Newton and Calculus, to the internet, which is the greatest information sharing system ever devised.  We are at a place now where some people do not agree we should be sharing and open with information.  We face a new kind of existential threat where the very same openness that helped create some of the monster tech platforms might not help further our freely shared knowledge base.  It is in this light that he made a 'call to arms' for us to own our own data and make sure a free and open internet continues to exist.  No easy answers here, but an important conversation that needs to be had.  
+
+Raw notes:
+History teachers 
+not a fan of history
+but important for this talk to go back in time
+1994 super important year
+changed all our lives 
+how we shared informations
+but before that 1990
+SNES changed Aaron's life
+such a giant leap from qbasic gorillas
+but that game and DOS taught him to code/modify the source code
+before internet, books from bookstore
+open code he did not write, just modify
+standing on the shoulders of giants, from 1100's is that saying
+Newton 1675 paraphrased
+sharing information has evolved
+technology has improved knowledge base you can access
+books were a huge jump
+stores of information
+then computers
+then internet - single most effective information sharing tool in history
+closed systems are not necessarily bad, just potential hazard
+risks are OK sometimes, but looking from history
+sharing is what advances us
+now we are risking private hands of big advances and not share
+divorcing net neutrality
+trying to treat all data the same
+should be easier than it is
+handling all data the same weight is a lot easier
+but morally and ethically this is not so easy
+not illegal stuff, just bad info
+"If I was in control I would wipe out this bad info from the internet"
+small groups that hold minority opinion are sometimes right
+majority rule and suppressing voices and info
+then who decides what is true?
+Internet is where people go to learn things
+historically, putting that in the hands of a limited set of people has issues
+only way to overcome those mistakes is to distribute all into to all people
+then people can decide
+must allow things we don't care for, it is possible we are wrong
+love that people can prove him wrong
+most be allowed to have progress
+What happens to the internet in the future
+can we make info free to create a next isaac newton?
+Steps we need to take make sure it stays around
+1) use open alternatives.  Don't give single companies closed monopolies.
+2) Spread the word about this idea.  Inform and inspire people to keep it open and accessible
+3) Vote and make your voice heard, but please be informed
+4) Vote with your money, support businesses that support the open web!
+
+
+https://twitter.com/wordcampbalt/status/919190564670726144
+
+
+[Write Better Javascript](https://2017.baltimore.wordcamp.org/session/write-better-javascript/)
+[Ethan Butler](https://twitter.com/ethanfbutler)
+
+I am not even going to pretend I absorbed all this.  It was a very quick paced delivery and jammed full of awesome knowledge.  Part of this is my just lack of personally using JS day to day.  Without a direct application only so much is going to seep through.  I think it is vital to understanding the future of the internet to undertand it though and I hate not trying at least.  I did glean some knowledge and didn't know JS can directly do Map/Reduce.  This is a terrific talk to watch if you are thinking about building JS and want to do it right!
+
+
+Raw notes:
+Javascript is the future
+(I came in late I assume he said that)
+Browserify
+"Writing webpack direct is like inviting demon into your home"
+recapping modularity
+write doce i 
+you need a bundler
+JS makes it hard to express your ideas
+transpiliation to the rescue?
+Future specs!  
+Languages move faster than browser tech
+real language features
+babel is the go to, really only game in town for transpilers
+(I got distracted and missed more)
+Object notation
+He deconstructed an object for us
+Object destructuring is a newer thing
+Object assign - data method on the object primative to merge objects
+Promises are if you expect a return at a future unspecified time
+resolve or reject
+used is Ajax a lot
+async/await is a more powerful alternative
+we can use transpiliers to leverage new features without worry about browser
+final problem for today
+hard to debug
+Functional programming
+avoids mutable data
+program is just an evaluation of user input
+same input gets the same output, every time
+Bugs happen because of side effects
+pure functions a + b + c example
+Data - arrays of objects for the most part
+array.map - iterate over the values and transform it
+array.sort (not a new thing) compare values pos, neg or 0, to sort posts for instance
+array.includes - see if includes a string, so a search, can use for strings or anything really
+array.some - true if callback is partial match of term
+array.every - true if every value matches term
+array.reduce - flatten values to a single value, 
+
+
+https://twitter.com/nehagupt/status/919208911412056064
+
+
+[Making Your Code Easy To Extend](https://2017.baltimore.wordcamp.org/session/making-your-code-easy-to-extend/)
+[Sal Ferrarello](https://twitter.com/salcode)
+
+Sal is a great guy but also a terrific code writer.  If you look at his [github repos](https://github.com/salcode) they are well commented and have clear readme files (which is vital to any project).  This talk was not about that aspect but the cleaner the code the easier it is to build off of bu other later. If you are contributing code at all this is a must see.  
+
+Raw notes:
+(missed first 10 minutes)
+MU Plugins -best kept secret in WP
+Best place to put code as pugins and not worry about client deleting them
+the code expects it
+Add actions - do_action - await for a thing to happen
+not returning a value
+takes control and then give chance to do own thing
+he likes bootstrap to acheive effects
+wrote a email stop plugin stop-emails 
+used do_action
+takes focus and says log email to a file
+using __DIR__ . 
+solves a problem for a plugin request without actually modifying the plugin     
+by exposing that do_action and tiny bit of code
+template
+esc_html( $btn_text ) .
+fe-raptor-button.php
+using include
+templates/btn.php
+
+https://twitter.com/wordcampbalt/status/919219574435917824
+
+
+[SASS isn’t Scary](https://2017.baltimore.wordcamp.org/session/sass-isnt-scary/)
+[Beth Soderberg](https://twitter.com/bethsoderberg)
+
+Last year at WCBalt 2016 I met Beth and heard her amazing talk [I Learned to Code Through WordPress and So Can You
+](https://wordpress.tv/2016/11/21/beth-soderberg-i-learned-to-code-through-wordpress-and-so-can-you/).  I have sent this talk to a good number of people who are getting started or want to get started.  Clear an straightforward, I really appreciated her approach.  I was excited to see this same style applied to a talk about something I really didn't fully understand, Sass.  Just like JS, I don't touch it all the time, so my limited functional understanding is limited.  The lightbulb turned on for sure and I can't imagine someone approaching a larger project without this approach.  For sure one to see when it hits WordPress.TV   
+
+Raw notes:
+Beginner, welcome, you do need to know a little CSS
+Selectors
+properties
+values
+that is it for CSS
+A preprocessor is a anguage that compiles to another language
+all kinda the same, syntax is a little different but converging on a set standard of ideas
+Preprocessors bring programatic methodology to CSS
+DRY: don't Reprat Yourself
+Reusable libraries - pulling from a standard set of code
+ability to define abstract values, let the computer built to do the math
+CSSS preprocessors are NOT CSS
+CSS don't have to follow the rules of the CSS specification rules
+Benefits
+Modularity - don't get lost by stuffing everything in one file
+programmability + automation + modularity = scalability
+Potential challenges
+Fear of change
+old way fels inefficient even for small projects
+Set Up is sometimes hard, uses Ruby and is unfamiliar to most
+Issues are normal, you are not alone
+Debugging is harder with SASS since there are so many partials
+"Why is this not telling me where this is coming from?" - Beth's least favorite part about SASS
+Bloat - easy to write crappy code in SASS just like CSS, just way more code created
+Still want the thing you are compiling to to be as small as possible, avoid bloat
+Maintainability - can be an issue for legacy especially - inherited sites are much harder
+once compiled to one file can at least make it approachable though
+Why SASS over LESS?
+	Work team preference
+	Overall in the WP community - lot of resources and blogs about this and WP
+	Accessibility written books/resources
+Less is still a thing though - 
+Syntactically Awesome Stylesheets
+Sass is a extention of CSS
+Really helps you use Compass
+Sass has 2 extentions
+.sass and .scss
+Basics:
+Learn SASS slowly but also learn CSS first
+Nesting
+Benefits
+	avoids duplicating selectors
+	reflects markup structure
+	uses indentation to indicate heirarchy
+	should eb limited to 4-5 levels
+	less typing
+Nesting Properties with Shared Namespaces
+in simple examples not that impressive, but in production real world saves a lot of time and effort
+can reference the parent selector
+Variables
+invoking varaibles
+good uses
+	colors
+	font stacks
+	image paths
+	margin
+	widths
+	font sizes
+Mixins
+Allows defining a group of styles once for use throughout a style sheet
+should be used for common patterns independent of HTML markup
+80% of mixins have less than 5 declarations
+Mixin Libraries
+write your most common mixins once and reuse accross projects
+write your own
+Compass
+Bourbon
+Sass CSS3 Mixins
+Breakpoint and more!
+Operators - letting the machine do the math
+Partials
+and underscore-prefixed Sass file is prtial
+Don't generate CSS files directly
+
+
+https://twitter.com/WordPressDC/status/919270193087614979
+
+
+[Conquering Continuous Integration and Deployment](https://2017.baltimore.wordcamp.org/session/conquering-continuous-integration-and-deployment/)
+[Tessa Kriesel](https://twitter.com/tessak22)
+
+I am a huge fan of Tessa and her relentless work for [Girl Develop IT](https://tessakriesel.com/how-i-got-involved-with-girl-develop-it-and-why-you-should-too/), which is a great organization teaching women to code.  I am also a real fan of the content of this talk since I also discuss and deliver these worts of enablements and trainings at our shared employer Pantheon.  No matter how deeply you understand something like CI, seeing the crowd react to this information is always enlightening. 
+
+Raw notes:
+First let's look at what daily things we routinely do
+She lays out a list of daily dos
+Automating tings in your life
+Invest the time in automation
+can be hard to fit it in
+walks through automating updates
+look at slack to show off visual regression tests
+explains Backstop
+pics comparing 2 versions of a site
+build steps
+setup containers
+install dependencies
+running automated testing
+behat (behavioral testing)
+containers are awesome	
+Github is where all the code lives
+
+https://twitter.com/McDwayne/status/919566222479552518
+
+
+[Sketches: The Universal Language](https://2017.baltimore.wordcamp.org/session/sketches-the-universal-language/)
+[Joshua Wold](https://twitter.com/JoshuaWold)
+
+Joshua was last of the Would brothers I had not met.  All working at the top notch [XWP](https://xwp.co/), they further the state of the art of WP in their own ways.  Joshua is much more design minded and brought those sensibilities and skills to his session and to the [WordPress Core Team](https://make.wordpress.org/core).  Anyone who has seen [my site](https://www.mcdwayne.com) can likely attest to my lack of design skills and I feel very lacking in my visual communication abilities. One of my mental blocks has always been my self consciousness around nonexistent drawing skill, always worrying it is not good enough.  I was very encouraged by Joshua to not care at all about this i the early stages of sketching.  He showed how with some very simple lines and shapes and a few  basic notations you can turn a page long written description, that might take hours to interpret, into 
+
+Raw notes:
+How should a portal be set up
+how to communicate with the client on what they want
+and how the designers are thinking about it
+He did a sketch to try to understand what the client was trying to say
+the whole conversation changed for the better
+cleared up confusion
+Once the client saw the issue more clearly, was able to move forward much better
+a quick sketch in 10 minutes changed everything
+the tech doesn't really matter, he used an ipad
+most people are visual thinkers
+hard to put into words what a website looks like, easier to sketch
+they are building a house
+miscommunicated on paper, once saw in person, visually saw what was issue
+if you have a pen and a napkin you can sketch
+simple lines and shapes and arrows are all you really need
+just draw something and share it
+does not have to be pretty just to get idea across
+Gutenberg example (see his handout)
+Ticket management...hard to recall what ticket messages mean
+if you can sketch wire frames an attach to ticket
+gets anyone no matter what their native language is to get on same page in seconds
+stay in the ugly lines as long as you can, 
+once you move beyond that it can takes hours to make any changes
+He has been able to contribute to core by adding sketches to help everyone communicate
+simle really is better, just standardize a few simpe elements like clickable buttons
+Sketching: paper and pen really is the best way to go for initial phase
+next best is ipad pro, + Paper 53, then Balsamiq for squiggly lines (tells people you are not done.
+Prototyping: Adobe XD, Illustrator, INvision
+Sharing CloudUp, Quicktime, Tapes for Mac
+It is more important to get on same page with clients than to dwell on tech or pretty sketches
+
+
+https://twitter.com/McDwayne/status/919580379618709505
+
+
+My session
+	
+[Everything louder than everything else! Navigating stakeholder needs through better discovery](https://www.mcdwayne.com/everything-louder-than-everything-else/)
+
+I have only given this talk one other time, [at MIT,](https://www.mcdwayne.com/2017/06/26/design4drupal/) and was very happy to give it again!  The talk is basically me cramming all I know about the discovery phase of a project or sales process into 35 minutes of slides with a lot of references to [Motorhead](https://en.wikipedia.org/wiki/Mot%C3%B6rhead) along the way.  I love sharing tools that I have gathered over time by earning it the hard way.  It was great to see so many people nodding along and asking questions as they were trying to apply these "best practices" to their situation.  Thank you too all who had such kind words afterwards in person and on social media.  
+During the Q & A, both times I have given this talk, there indirectly arose the matter of 'what is the goal of a website'.  I think I am going to write a talk on that next.  
+
+
+https://twitter.com/shelleymagnezi/status/919617043342741504
+
+
+Closing and cleanup
+
+https://twitter.com/wordcampbalt/status/919643647402037253
+
+###Wrapping Up
+After a great camp it is always a little sad to pack up and part company with folks.  I got to spend a rare personal evening meeting up with an old friend who lives in the city and seeing yet another new-to-me vibrant part of the old town.  Every time I visit I find new surprises and reasons I like it a little more.  [Plan your visit today!](https://baltimore.org/)
+I am not sure when I will be back to Baltimore.  I certainly hope I will again before too long.  For sure I plan to return next year for WCBalt 2018!  
+
+

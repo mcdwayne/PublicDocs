@@ -1,34 +1,28 @@
 ## Session Slides And Such
 
-[Let’s Learn Git.  No Excuses!](https://www.mcdwayne.com/lets-learn-git-no-more-excuses/)
-[WCDenver Workshop Slides](https://docs.google.com/presentation/d/1wB13-6htJmlhI_ELjavE0ty5lKOhxlseAHCAH1Xvuak/edit#slide=id.g23c5a455c0_0_410)
-[Slides from the talk](https://docs.google.com/presentation/d/1yy-TpoF2db-MFP-2HRG3e-t5msD89lhwT-Alol82cvA/edit?usp=sharing)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [Slides from the Workshop](https://goo.gl/oS4ZbG) 
-
-
-
-[WP-CLI Workshop WordCamp for Publishers Slides](https://docs.google.com/presentation/d/1wHG2PmkOxpoKtojhMOrDQo8KwuhAdp-PCFX-InSPnsI/edit?usp=sharing)
-
-[WP-CLI: Don’t Fear The Command Line:][3] 
-[Slides][4] - [Github][5] - [Demo Vid][6] - [Video (from #WCSD)][7]
-
-[So you want to speak at a camp? Yes please!][1] 
-[Slides][2]
+[Discovery, Discovery, Discovery, Discovery! The Most Important Part of the Project](https://docs.google.com/presentation/d/1bmTjzourh9drcDFItdJBbRkHIHPk8XPG9v1lQIdTEEg/edit?usp=sharing)
 
 [Every project is a story: Applying storytelling to your client interactions:][8] 
-[Slides][9]
 
 [Everything Louder Than Everything Else!: Navigating stakeholder needs through better discovery][10] 
-[Slides][11]
+
+[Let’s Learn Git.  No Excuses!](https://www.mcdwayne.com/lets-learn-git-no-more-excuses/)
+
+[Pricing Strategy and Tactics For Agencies][16]
+
+[So you want to speak at a camp? Yes please!][1] 
+
+[WCDenver Git Workshop Slides](https://docs.google.com/presentation/d/1wB13-6htJmlhI_ELjavE0ty5lKOhxlseAHCAH1Xvuak/edit#slide=id.g23c5a455c0_0_410)
 
 [We Are All Making This Up, Improv Lessons For Developers][12] 
-[Blog][13] - [Slides][14] - [Video][15]
 
-Pricing Strategy and Tactics For Agencies
-[Slides][16]
+[WP-CLI: Don’t Fear The Command Line:][3] 
+
+[WP-CLI Workshop](https://goo.gl/cCYav8)
 
 ## ![dwaynemic][17]
 
-## Contact me:
+## Contact/Info
 
 [Twitter][18] (preferred) 
 [LinkedIn][19] 

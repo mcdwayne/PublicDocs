@@ -1,0 +1,450 @@
+
+General:
+
+
+https://twitter.com/KoriAshton/status/926838743876624384
+
+
+
+###Food and Fun
+
+
+
+Speaker Dinner
+
+https://twitter.com/McDwayne/status/926612298919063553
+
+
+Lunch
+https://twitter.com/VeggieGrill/status/921890230835167232
+
+snacks
+
+After Party
+
+https://twitter.com/caseyrunz/status/927158267393884160
+
+WCKaraoke
+
+https://twitter.com/McDwayne/status/927038675241672704
+
+
+###Sessions
+
+
+
+Opening Remarks:
+
+https://twitter.com/fatdogcreatives/status/926841146482950145
+
+https://twitter.com/wordcampseattle/status/926840913455808513
+
+
+#####Keynote 
+
+[WordPress is a Banquet](https://2017.seattle.wordcamp.org/session/keynote-wordpress-is-a-banquet/)
+[Andrea Middleton](https://twitter.com/andmiddleton)
+
+Most people are surprised that this freee software runnign 28% of the interenet is made by community
+lot of people wr=ork on WP but no one works for WP
+Goes over the teams
+Looks like a lot of plates
+o a table
+like a banquet
+it is , each of us bring something to create something bigger than ourselves
+Not going to talk about the eating part - the using
+talk about contributing and the recipes
+and what some contributors have found works
+One of the goals 
+I couldn't do that fallacy
+	I can't write code so I can't contrib
+3 stories of contributors with no code!
+	there is some secret people or unusual attributes required
+She wants to show the source code of contributions
+humans made of human stuff
+1 - James Huff
+2004 - Lost and House re new, flip phones, ipods are new
+James working at a feed store
+macmanx news site
+wanted blogs, movable types
+james didn't like it, minor things got on his nerves
+WP 1.2
+hit bug
+answered a few questions on install
+he liked helping people
+he learned in the process
+I learned most of wht I know today by researching answers for questions I thought were really cool
+User: Can I display only one category on my front page?
+Me: Wow, that sounds cool! Let's find out!
+Became a moderator when unemployed 
+went to work for WP.com
+happiness engineer
+49,000 replies on the support forums!
+start by focusing on what you know, not what you don't know. 
+You know something that someone does not know of the forums, even if you just installed WP
+Patience
+Willingness to help others
+Dedication to the project over your own needs
+Petya Raykovska
+2007
+Superbad, iPhone and FB premeired
+She was marketing manager for publishers
+set up a blog
+WP let her do things that until then took a dev to do
+in 2011 started a web agency
+translated stuff into Bulgarian
+she learned a lot about WordPress
+she got in deep in a way she 
+Eventually met the head of translations at WCEU
+Editing the Codex
+just gave her a page to edit, she did, and she realized at that table of international people
+part of something huge that mattered
+She ended up running the team
+in 2015 polyglots went to translating 30,000 projects
+still needed more people
+Stayed for the people
+they came up with WP Global translation day
+the last one was the biggest and she didn't have a direct hand, she passed it on
+it will be bigger than you
+Curiosity, Respect and patience a
+Bridget Willard
+in 2007
+Was working at the office manager for contractor firm
+WP.com blog personally
+in 2008 economy crash - crushed construction market
+Started a blog for company and didn't tell her boss
+she ran it on her own
+they let her
+no tech background, she had a relentless curiosity
+networking for a lot of social media
+brought in work
+undervalued
+she had 20K followers, which is crazy good for a construction company
+First wordcamp in 2013
+Side note - Keeping the price low for WC helps keep it accessible and growing
+Anyhow 
+Bridget kept building and learning and blogging about her user experiences
+by end of 2015 she got a job at a plugin
+she found her tribe
+I got a shout out :)
+Listening 
+learning and listening
+Intellectually honesty
+open-mindedness
+start small and move forward 
+that is only 3 of the 'dishes' in our banquet
+You are welcome to join us
+you are invited
+and you can defintely bring something to the table
+
+https://twitter.com/WPDistrict/status/926847793863561217
+
+https://twitter.com/kylevalenzuela/status/926844944186195970
+
+
+[Accelerating Custom Development with Dynamic Scaffolding and WP-CLI](https://2017.seattle.wordcamp.org/session/accelerating-custom-development-with-dynamic-scaffolding-and-wp-cli/)
+[Ben Byrne](https://twitter.com/drywall)
+
+real name of talk:
+Come hear about this neat thing we built
+building good stuff fast is the issue at hand
+Want to keep affordable, non-profit
+custom sites, can take a lot of time and effort
+A lot of people immediatly got o premium themes
+overblown for some use cases
+hard to maintain sometimes, bugs and troubleshooting
+sometimes very hard to coustomize
+Starter themes
++ component libraries are another approach, 
+preferred way for a lot of people
+but at Cornershop
+lot of institutional knowledge
+hard to maintain library if you are doing a lot
+plus all the copy and pasting
+Dynamic scaffolding
+for their starter theme
+fancy way of copying things and configuring them as they set them
+warning: your milage may vary, not a best practices talk
+just ideas around efficient workflows they have experienced
+First goal is to speed develpment
+also easy for new folks to learn
+theme should hae everything it needs and NOTHING IT DOES NOT - clean code
+Avoid reinventing the wheel
+avoid tedious, repetitive work (e.g. copy/past)
+WP-CLI is the cornerstone of the their work
+Broad support and awareness
+already offers scaffolding
+supports Mustache templating
+Easy documentation! - no sperate help docs, all in tool
+WP-CLI scaffold child theme
+plugin
+post-type
+taxonomy - outputs you have to STOUD
+theme-tests - build s a bunch of files
+_s
+They extended it
+built Produce (it could be a package as well)
+It extends wp-cli with a new command and subcommands
+then run, commande inject code into our starter theme, Crate
+Basic flow
+Make sure starter theme is present
+install & Acivte Produce plugin
+Run WP-CLI commands
+...
+Example
+customize the admin login
+manually it is cumbersome
+Quick command lines to automate adding new logo and changing background!
+other subcommands
+wp produce site-options (bundle of fields they commonly mod)
+term-fields - acf fields builder
+articles gives you a new post type
+10 commands now and still growing
+lot of ideas in queue
+architecture - 
+base class with methods, variables and helpers to facilitate building commands
+subdirectorie for a lot fo things
+articles files commands/articles
+more
+mustache templates
+automatic support for WP-CLI is part of why they like it
+template with some PHP and CSS
+4 variables injected
+mustache is name of curly brackets for simple templates
+commands are straightforward to extend and build
+__invoke is what gets triggered when you type a command
+you can skip things that are not needed when you enqueue things
+Don't touch non-generated fields! 
+makes it way easier to customize bu standardizing what they can touch
+moustache.github.io
+
+
+https://twitter.com/aaronmsturm/status/926864446714142721
+
+https://twitter.com/McDwayne/status/926858909368774656
+
+https://twitter.com/daviddodman/status/926858737775656967
+
+
+[Stronger Than Fear: Mental Health in the Developer Community](https://2017.seattle.wordcamp.org/session/stronger-than-fear-mental-health-in-the-developer-community/)
+[Edward Finkler](https://twitter.com/funkatron)
+[OS Mental Illness](https://twitter.com/OSMIhelp)
+
+this talk if for the people who work with tech
+How many people wear glasses?
+Are you comfortable talking to your co-workers about glasses?
+How about diving?  Talking about it?
+Cancer? 
+Mental health? A larger number than he thought would
+talk about your own mental health
+difference between talking about mental and physical health
+Generailized anxiety disorder - flight or fight is extreme in non extremem situation
+like a lion going to eat you is OK to have reaction
+but how about buying lunch?
+Walking into a new bar for the first time
+overwhelms
+ADHD - low frustration threshold - tem minute "snit fit" when things go poorly
+good at constructing false situations in his mind,  
+Therapy helps - talks about how and why he does the things he does
+some of this is advantageous to his job
+security issues, empathizing with users
+able to make disperate connections faster
+it can take everything from you though
+hospitalized and had to do outpatient therapy
+forced him to quit a job
+had o step away from stuff that is normal for him
+Feeling alone is a real part of it
+especially in a crowd
+depression kicks in
+afraid of people getting tired of him and leaving
+lot of people feel that way as well
+that is what we are fighting
+WHO study - burden of mental disorders is largest in North Maerica accross all acatogies
+People do not feel they can talk to their peers or employers about mental health
+most people think it would affect their careers
+there is some evidence that there is more mental health issues with tech professionals
+Sick workers don't work
+it benefits the org to have better employees
+mental wellness = better employees
+people want to work with people who respect them fully
+1. Get the OSMI handbooks for free 
+ebooks on getting your workplace improved
+2. Speak openly about Mental Health subjects
+you have a lot of influence o the community around you
+you would be surprised how many people open up if you open us first
+3. Tell people that they matter
+we are social creatures and need affirmation
+those are tings you can do
+we are talking about our colleagues and friends
+suffer in silence
+some disappear
+and we are left to wonder and regret and try to understand
+Fear is the only thing that allows this
+we have to choose
+give in to fear and be quiet, it is easier
+pretend it does not happen
+meet inaction with action
+meet confusion with understanding
+meet indifference with compassion
+Yes, we need you, lot to do, go check out the
+[osmihelp.org](https://osmihelp.org)
+
+https://twitter.com/McDwayne/status/926908160027148288
+
+
+[Women in WordPress Panel](https://2017.seattle.wordcamp.org/session/women-in-wordpress-panel/)
+[Miriam Goldman](https://twitter.com/mirigoldman)
+[Francesca Marano](https://twitter.com/FrancescaMarano) 
+[Rachel Cherry](https://twitter.com/bamadesigner)
+[Bridget Willard](https://twitter.com/YouTooCanBeGuru) 
+[Tessa Kriesel](https://twitter.com/tessak22)
+
+
+Miriam intro karate and ballroom dance
+Tessa is 10 years a dev, works at Pantheon
+Bridget Marketing Freelancer, WPBlab womenwhoWP, apple music CD of her music
+Francesca from Italy, siteground manager, building sites since 1999, freelancer 6 years, meetup organizer, global WP community team
+Rachel works disney, build shopdisney, was in an ad campaign for slack, in NYT!
+- What was a major challenge and how you overcome it
+Mariam: job people didn't take her serious because she is small and look a newbie in some ways
+persevered and now people take her more serious
+Tessa: Her attitude is sassy and outspoken, been an issue with 
+Outspokenwomen.io
+Bridget: Being taken seriously as a marketer, marketing is as important as code, WP does value words! 
+she went to meetups and talks and taught herself a lot and she is taken more seriously now, friends spoke dev
+Rachel: Asume she is a designer or marketer only, she is a dev though, not taking seriously, she had a boss who was intimidated by her
+she as trying to make the world better and he made it harder on her, only wanted his opinion validated, she kept on keeping on and ultimately she left on her own terms to go to a dream job
+F: Imposter syndrome, very real
+first job was picking oranges at age 20
+she became freelancer because she didn't 
+Siteground tell her she had a impressive resume
+she is surprised and delighted, felt good 
+- What is greatest achievement?
+M: Doing so many talks and conferences
+T: teaching herself code and site building in a super small town
+B: year of transitions, biggest achievement is believing she is worth being valued and worth investing in herself this is the year she is not going to be afraid anymore, that is awesome, we are awesome
+Stop apologizing for being awesome
+F: born in the herring capitol of Romania, teaching herself English and bettering her life is greatest 
+R: didn't;t ever thing she could do this for a living, wanted to be a band director, no access to real education, born in alabama, she taught herself along the way, worked way up to where she is now, Higher education work, stuff she does at Disney, sometimes she is the only woman int he room, recognizing that she deserves to be there.  Feels good to not feel out of place, safety is the main reason teams get better
+- how to get started as a woman in WP
+All: Just do it! 
+R: Diversity talk - person speaking is not lways expert, just person who said yes
+F: sometimes you don't even need to say yes, just tweeted and got on
+R: that's how we got this organized
+Q&A
+
+
+https://twitter.com/RNissenbaum/status/926916638628126720
+
+https://twitter.com/McDwayne/status/926917646720819205
+
+
+[What WordPress is Doing to Keep Your Site Safe](https://2017.seattle.wordcamp.org/session/what-wordpress-is-doing-to-keep-your-site-safe/)
+[Aaron Campbell](https://twitter.com/aaroncampbell)
+
+Talks about what you have to do
+this talk is about that WP is doing for the user
+Goal is not really site secure, it is keep users secure
+makes what they are doing more difficult than just the site
+security team 
+50 volunteers
+most have day jobs around security
+Code review is def part of it
+constantly changing 
+bad actors are always coming up with new ways to break things
+bug bounty program https://hackerone.com/WordPress
+a secure, safe way to surface and fix issues
+some real successes with it already
+increased number of reported issues
+reporters feel appreciated
+paid out about $12K in bounties
+average bounty $350
+better tools HackerOne - used to be an email chain
+make sure it is fixed right the first time thanks to testing
+there has been some struggles too
+only about 16% of reports are valid
+information overload, 5 out of 6 are invalid
+high touch - lot more time per ticket
+time is the limiting factor they struggle with the most
+some things we do better than other projects
+Relationships
+plugin devs
+can help 
+Hosts
+WAFs
+able to help protect WP sites before the actors ever hit the site itself
+want to protect millions of sites thanks to WAFs and Hosts
+4.7.2 - millions sites protected before there was even an issue
+does not want it to be a fair race, lets get a head start on security
+they are pretty good at that
+Automatic updates are fast
+tens of thousands of updates a minute
+If you are turning off auto updates OK if you got 24/7 staff working with host, that is reasonable
+But if you don't have staff and turned them off from fear o site breaking, that is bad
+99.9% of new updates success
+.001% failure rate
+rest are retrys
+you are far more likely because you were late on updating to get hacked than have a broken site
+and with that Q&A
+
+
+
+
+https://twitter.com/theisaac/status/926952025480314880
+
+
+
+DAY 2 CONTRIBUTOR TRACK
+
+
+Picture Perfect: Getting Beautiful Images Without Violating the Law
+[Timeca Briggs](https://2017.seattle.wordcamp.org/speaker/timeca-briggs/) 
+[Zainab Hussain](https://2017.seattle.wordcamp.org/speaker/zainab-hussain/) 
+[Christine Winckler](https://2017.seattle.wordcamp.org/speaker/christine-winckler/)
+[Lisa Stewart](https://2017.seattle.wordcamp.org/speaker/lisa-stewart/)
+
+
+Copyright vs copywrong
+Copyright is the legal right
+exclusive, yo have the right to use and distribute the image 
+exclusive but not absolutethey do expire, then go to public domain
+copywrong
+cr not to ideas just the specific written down thing
+copyright is not universal, it is territorial
+ Copywrite is automatic without registering
+ but registering makes it way easier to prove you have the rights
+ also registered lets you get damages above normal damanages 
+How to find the images
+think about what you really need, too tall/too short, what do you need it for and costs
+THink about compelling compsition
+this can subjective, go back to your style guides
+make sure it addresses an emotional needs
+need to know their needs and how you solve them, images reinforce that messaging
+How do I find free images
+First up is Google image search, easy to see these
+flickr is actually really good as well
+another great source is wikimeida - lot of public domain that require no attributoin
+as well as paper trail on how it was used in the past
+unsplash has over 500,000 shared images you can freely use for a variety of reasons
+lots of options these days
+Use trusted sources because they will have terms that explain  licensing in one page
+google does a good job of this, but has disclaimer, not 100% but it helps show your good faith efforts which protects you somewhat
+Watch out for other people reuploading an image they don't own undr creative commons license
+try reverse image search to see obvious violations
+Make sure you are regularly reviewing your use and the terms
+sometimes they change but more importantly sometimes you change
+some licenses are non-profit specific for example
+some specific verticals have certain rules
+Licensing for images are NOT transferable
+make sure you are not buying on their behalf
+if they don't use it then 
+tips for non-photographers to tke their own photos
+Assessment.  Know what you need
+want to be super organized
+orientation, resolution, number needed, budget, etc
+blogpost have to have an attractive image that has something to do with content
+matching images
+sometimes easier to just take own pics
+Lighting is super important
+daytime if you can
+know your subject!

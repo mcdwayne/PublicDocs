@@ -1,0 +1,181 @@
+WordCamp Birmingham: WPYall, they don't have sidewalks here
+
+I returned to Alabama for only the second time since I turned 18.  My dad had lived in Tuscaloosa when he was a teen and we would visit almost every year when I was really young to visit my great uncle who I am named after.  We even moved to [Russellville](https://en.wikipedia.org/wiki/Russellville,_Alabama) when I was 8, though we moved back to Ohio a couple years later.  Still, even with all that history in the state, I can not recall ever visiting Alabama's [Magic City](https://www.quora.com/What-is-the-reason-why-Birmingham-is-called-the-Magic-City) before arriving for [WordCamp Birmingham](https://2017.birmingham.wordcamp.org/), or as they refer to it, WPYall.
+
+https://twitter.com/wcpdx/status/921398832981729280
+
+
+This one falls on the smaller end of the camp attendance spectrum.  However, this was the first WordCamp in the south and still the only WordCamp in Alabama.  The participants are just the nicest and most engaged folks I think I have ever met.  It is completely normal for attendees to be focused and eager to learn but WPYall stood out to me durning this quite busy year as something special.  The organizing team was lead this year by the pretty awesome [Nathan Ingram](https://twitter.com/nathaningram), who you might have seen speak at a WordCamp near you or possibly from his voice as the leader of the [iThemes Training Podcast](https://ithemes.com/training/).  Nathan and I have had the privilege of speaking at several of the same camps this year and I was thrilled when he told me my sessions were accepted!  
+
+###Food and Fun
+
+Unfortunately by the time I got into my hotel it was already closing in on 11:00pm, so I missed the Speaker/Sponsor dinner.  I hate missing these, but logistics didn't let me get to Birmingham any sooner and still leave [Seattle](https://www.mcdwayne.com/2017/10/22/wooconf-2017/) on Friday.  
+
+#####Day 1
+
+I decided to walk to the venue, since Google Maps told me it was around a 15 minute walk.  What the maps didn't tell me was there are no sidewalks and I would have to walk on the brim of the road, which was a busy state highway for a one stretch.  I later found out two facts about this.  Point 1: there is a foot bridge behind the hotel row I was staying in that lead to the parking lot of the [Civic Complex](http://pelhamciviccomplex.com/), which is also the home of the [Birmingham Bulls](https://bullshockey.net/).  Point 2: no one in Alabama walks anywhere, so no one thought to explain point one to me.  The foot path required walking between a couple buildings and feeling like I was going very much 'off the beaten path'.  It was a nice reprieve from the concrete jungle to walk over grass and through bushes to get to and from a venue.  Still, I wish they would of had sidewalks.  
+
+Day one coffee was pretty OK and there were [Bud's Best Cookies](http://budsbestcookies.com/).  This is a local bakery only a few miles from the venue that has, at least to me, a better version of the [mini Oreo](https://shop.budsbestcookies.com/collections/bud-s-best-cookies/products/caco-chocolate-2-25-oz).  
+We had a boxed lunch, I had a veggie sandwich, chips and a lot of very yummy dill pickles.  Not sure what brand but they were pretty spot on for exactly what you want in a pickle spear.  The thing that set this lunch apart though was the organized 'table talks' where all the speakers were assigned a topic (mine was WP-CLI which I had also spoken about) and we ate with folks who had questions or otherwise wanted to chat.  It was a very great idea and I loved the simple yet effective execution of this.  Other camps, take note!  
+
+https://twitter.com/RJMcWilliams/status/921801651975000065
+
+
+They served a southern favorite frozen treat [Frios Gourmet Pops](http://friospops.com/) for an afternoon snacks.  Even though they had a dairy free version available, I missed my chance to get one because I lost all sense of time while helping folks at the happiness bar (more on that later).  I was a little bummed, but given the number of cookies I had that morning, my waistline is likely better for it.  
+
+https://twitter.com/RJMcWilliams/status/921838387073560576
+
+
+#####After Party
+
+The after party officially started an hour after the end of Day 1, but a number of us showed up a little sooner, which [Margarita Grill](http://www.themargaritagrill.com/) was A-OK with.  A good percentage, though not a majority, of the camp attendees stopped through for drinks and appetizers.  I will say one thing for southern hospitality, they don't tolerate half empty bowls of chips and salsa.  We got generous refills of each to the point we had to start waving our hands over the table to stop them from piling the chips any higher.  The conversations and camaraderie were suburb even though this was a seated dinner party and not my preferred "stand around and mingle" type of afterparty. 
+
+https://twitter.com/McDwayne/status/921879528393314304
+
+
+#####WCKaraoke
+
+You can find Karaoke almost anywhere you look and Google makes looking anywhere easy.  I was happy to find a place with Karaoke five nights a week just 10 minutes up the road, which in Alabama where everyone drives, was practically next door.  There was a small but very motivated gathering of us that made it to [Barrister's Tavern](https://www.barristersbirmingham.com/) a tad earlier than the DJ.  We got to play some [cornhole](https://en.wikipedia.org/wiki/Cornhole) and this 'ring on a string' game, which I believe is called [Bimini Ring](http://www.biminiringgame.com/how_to_play.html). Basically there was a hook on a wall and a matching a string and ring from the ceiling about 3 feet away.  The string was long enough to let the hefty metal 3" diameter ring tied to the end just catch onto the hook with a little bit of play.  This $0.50 in parts from Home Depot provided a lot of entertainment as it was way harder to do than you are thinking right now to swing the ring onto the hook from behind a foul line on the ground.  The singing was fun as well with most of the group getting to sing in the first hour no matter how long they waited to sign up.  We also made a pit stop at the attached Waffle House for some of their better than they should be hash browns.
+
+https://twitter.com/McDwayne/status/921939270746693632
+
+
+#####Day 2
+
+Most of the time on these trips I get out of bed, get ready and am immediately engaged with getting to the venue and working it.  This Sunday morning though I slept in a bit and woke up without that sense of urgency since the venue did not re-open until 12:30pm with the workshops starting at 1:00pm.  This honestly threw me off more than I thought it would.  By the time I made it to the venue my body had entered some kind of relaxed and wanting to go back to bed state that coffee didn't quite remedy the rest of the day.  I understand there are reasons for not having a morning start time in that region, and I am not complaining, but just want to document the experience. 
+
+There were leftover snacks and fresh coffee when I did make it to the venue, but no other food was served.  A few of the organizers and myself did have a final meal together up the road at [Baha Burger](http://www.bahaburger.com/) which puts pineapple on everything, making for an unwieldy but delicious sandwich experience.  
+
+
+###Sessions
+
+#####Opening remarks
+
+https://twitter.com/McDwayne/status/921738989010411522
+
+
+[Task Runners + Theming: Automating Your Workflow](https://2017.birmingham.wordcamp.org/session/task-runners-theming-automating-your-workflow/)
+[Joshua Gilmer](https://twitter.com/JoshuaGilmer)
+
+I'll admit, I know most of what I know about automation as a direct result of my role at Pantheon.  I help devs figure out our tooling, among other things, and how to hook together their workflows.  For a lot of folks, Once they do it the first time, they start asking why it took themselves so long to get to it.  The intimidation factor of any new tech is really real and this is why I very much appreciate talks like this one that break things down into more manageable and graspable chunks.  No matter how many times you see a talk like this, it is all just nice theory until you roll up your sleeves and dig in.  If you have been waiting to sort out of you should automate something or not, I encourage you, just as Joshua did here, to just do it.  
+
+Raw Notes:
+All about saving time
+anyone can do this
+don't need to eb a hardcore dev
+Don't need to memorize anything, just can look it up
+Crawl, Walk $run
+Have you ever done the following? 
+	Local environment
+	Command line
+	Used Node.js or NPM or installed a library and Git
+These are things you will need 
+Task Runners
+	Gulp
+	Grunt
+	npm
+	yarn
+	etc
+don't get too overwhelmed with the number of things possible
+Pick what works for you
+Pros and Cons to each
+	-Grunt is slower but easier to learn
+	-Gulp is faster but less intuitive
+	-NPM is no frills, fast but need your own error handling
+	-Webpack is for when you are moving into the realm of product dev
+	-Yeoman and other generators are good for prefabs
+Think about PHP vs JavaScript in your processes
+Don't start from scratch! 
+Learn command line, then git, then github, 
+then tackle each runner from the repo for WP, don't write your own (no need to)
+Caveats
+Working in groups or on different machines, require different thoughts
+Which versions of things?
+What is the OS? (it matters)
+Libraries break in real time
+automating locally vs on your own
+DEMO TIME!
+
+https://twitter.com/nullvariable/status/921760527596097537
+
+
+######Keynote
+
+[Why WordPress?](https://2017.birmingham.wordcamp.org/)
+[Brian Krogsgard](https://twitter.com/Krogsgard)
+
+I have read a lot of Mr. Krogsgard's thoughts, since I subscribe to his informative and well laid out [Post Status](https://poststatus.com/).  It is rare for me to get the chance to hear him speak, as he does not do a lot of them, at least not at events I have hit.  Brian has a much broader perpective on the WP space as he tries to keep up with all the moving parts and sectors.  I believe he and other journalist types can see parallels and intersectionality that those of us more focused on backend or blogging or theming or any other specialized facet readily recognize.  I think it is easy to start to get myopic and an occasional reminder of what we are overall doing as a project really helps us advance.  Brian did a great job of this.  
+
+Raw notes:
+Started working with WP originally for learning and fun in 2008
+Learning as he went really in 2010 got serious
+Publishers are the whole part of the ecosystem, 
+everyone is a publisher
+empowered by the tools around us like WP
+Ma.tt started the project and embedded a lot of the principals 
+At end of the day this is just content management!
+aimed at disrupting the software giants
+democratize publishing - in open source we trust
+a new paradigm
+barriers of entry were pretty high
+not anyone can do it
+Number 1 principle that guides the growth of WP
+Is the community 
+It is weird, we get excited for software and for helping eachother
+not suits and ties
+it is Andrea answering support for a decade
+photo publishing software that got forked and worked OK
+iterated on by hundreds of people and 
+Spoiled by backwards compatibility 
+WP is special because of that, upgrade process is easy and predictable
+It is easy to give feedback and request things from contributors
+you can sway this conversation and participate in the product in ways you can not replicate in closed services
+we feel like we have an unlimited supply of talent and ability from the community, not a fixed budget
+millions of installs all over
+so footprint is giant
+SEO is basically just Yoast tools now
+that common language ubiquity is very important
+likelihood that you will use WP in any size company is pretty high
+any web agency is going to have WP skills
+transferability
+also people working on it that are very future looking while honoring backwards compatibility
+REST API lets WP to talk to anything everywhere
+FB can't shut down your page if you are not relying on FB
+still easier to use Twiter or FB though
+moving towards a WP content first then distibute through other channels
+
+https://twitter.com/mivaleslie/status/921802575007055872
+
+
+
+#####My Sessions
+
+I felt very fortunate that I got to do both a technical talk and a non-technical soft skills workshop.  I love sharing knowledge and this camp gave me a chance to cover a wide range and engage with a couple different audiences at the same event.  
+
+[WP-CLI: Don't Fear The Command Line](https://2017.birmingham.wordcamp.org/session/wp-cli-dont-fear-the-command-line/)
+
+This talk could have gone better to be honest, but not for lack of audience enthusiasm.  Everyone that was there was great.  Unfortunately we ran into an issue of a directional HDMI cable, which none of us in the room had ever heard of before.  It took some time to track down the facilities person to this squared and I lost about 15 minutes of my time, since it is heavily dependent on showing the WP-CLI in action.  As a result I rushed through much of it and when I hit a snag with the DB on my demo with C9 I didn't have time to fix it, even though I clearly saw what had gone wrong.  Fortunately the slides contain the animated gifs of what I was trying to show and I could get back on track I was rushing down.  Overall I think it went well, but next time, I am just going to start talking at the session start time and let facilities worry about how to share my slides in the background.  
+
+https://twitter.com/nullvariable/status/921753255251795969
+
+
+[We Are All Making This Up: Improv Lessons For Developers - The Workshop](https:://www.mcdwayne.com/improv-for-developers/)
+
+Nathan and I talked about possibly reviving my improv talk, which I retied back at [WordCamp Europe in Paris](https://www.mcdwayne.com/2017/06/20/wceu-paris/).  I was hesitant to do so, partially because I like the latest WordPress.TV version to be the definitive version of that.  However, Nathan suggested that a workshop where we practiced the skills I talked about in the blog version.  I tried this out at the camp, and am very grateful for the opportunity.  However, I am not sure I am going to be going this again. I have taught a lot of workshops and one off improv classes in SF over the years, but none of it has been applied improv.  That is a whole field unto itself and this experience highlighted for me the amazing job [those fine folks do](http://appliedimprovisation.network/).  Trying to follow a script to teach an improv workshop while also trying to reiterate points from the talk made this a daunting task and I got in my head about trying to make it flow to the point I think it affected the quality of the class.  Still, people gave overall good feedback and it was a fun way to connect with some of the folks at the camp.
+
+https://twitter.com/nathaningram/status/922161676094459905
+
+
+#####Happiness Bar
+
+I only got to attend 2 sessions, which is the same number of sessions I gave.  Instead, I got to spend a good deal of the camp at the Happiness Bar.  Normally I don't spend more than an hour or so at these, but there were a steady stream of people who needed some assistance and I just couldn't leave them without answers.  I helped someone with a launch checklist and someone else with basic SEO, as in we installed Yoast and I explained how to find, understand and leverage those best practices. I spent the longest stretch of time with someone who was 'handed' a WP site to manage.  They took over a site that needed updates, which are terrifying if you have no knowledge.  We got backups set up and then cautiously did our updates, after explaining we really need a dev environment.  Fortunately one of the great strengths of the CMS shined through and the update went off without a hitch.  That success opened a whole flood of questions they had been saving up for a few months since being volunteered as webmaster.  There is a long road ahead of them and their site to meet the goals that they laid out and I am very glad to have been a guide for part of their journey.  There really are few feelings like that in the whole world.  
+
+https://twitter.com/wordcampbham/status/921775446261403650
+
+
+###Wrapping Up
+
+I got to the end of WPYall brain dead and exhausted.  This camp was the last leg of a 4 city - 10 day tour and I was glad to be able to just sit in my hotel for a minute without rushing to one thing or another. It also gave me time to reflect on how lucky I am in all of this.  I get to go to not just one or two camps, which is how most people experience WordCamps.  I get to go participate in a lot.  I also get to see the US and world, experiencing the local cultures in the most welcoming and enjoyable ways I think you can do it.  As I left for the airport at 4:00am I was tired and very glad to be headed home, but also glad I got to end my trip with such a positive experience.  I hope my schedule and the timing allow me to return for WPYall 2018!
+
+
+https://twitter.com/professorbeej/status/921748832240701440

@@ -1,0 +1,94 @@
+Sub SaveOneDocumentPerDataRecord()
+
+' Starting with a mailmerge main document connected to a Word data source.
+' create and save one document for each record in the data source, using the
+' path of the mail merge main document as the default path for the output
+' documents
+
+' Mac Word 2011 lacks some of the things in the Windows version, e.g. a
+' RecordCount for the datasource (which isn't reliable even on Windows)
+
+Dim bDone As Boolean
+' The Mail Merge Main Document
+Dim docMMMD As Word.Document
+Dim lngLastRecord As Long
+Dim lngActiveRecord As Long
+Dim strFullName As String
+Dim strSaveFolderName As String
+Dim strStem As String
+
+bDone = False
+' Mac Word has an older interface than Windows
+' Word and we cannot use RecordCount
+' So we have to work a little harder..
+Set docMMMD = ActiveDocument
+
+' This assumes AFP pathnames, which Word still seems to use except in some cases.
+If InStr(1, docMMMD.Path, Application.PathSeparator) = 0 Then
+  MsgBox prompt:="Please save your mail merge main document in the folder where you want to save the output files.", _
+  buttons:=vbExclamation
+
+Else
+  ' In Mac VBA, .Path and .FullName both give us the file's fullname.
+  ' So we have to wrk a bit harder to get the path.
+  ' A way to get the path is probably to get the FullName and
+  ' delete the number of characters in the .Name from the end.
+  ' Needs a bit more "edge testing", really.
+  strSaveFolderName = Left(docMMMD.FullName, Len(docMMMD.FullName) - Len(docMMMD.Name))
+  On Error GoTo problem
+  Application.ScreenUpdating = False
+
+  With docMMMD.MailMerge.DataSource
+    .ActiveRecord = wdLastRecord
+    .LastRecord = .ActiveRecord
+    lngLastRecord = .ActiveRecord
+    .ActiveRecord = wdFirstRecord
+    .FirstRecord = .ActiveRecord
+  End With
+
+  Do While bDone = False
+
+    docMMMD.Fields.Update
+    With docMMMD.MailMerge
+      .Destination = wdSendToNewDocument
+      ' uncomment as needed
+      '.SuppressBlankLines = False
+      With .DataSource
+        .FirstRecord = .ActiveRecord
+        .LastRecord = .ActiveRecord
+        ' Construct the full output document name minus the extension
+        ' in this example, we will make the name using the fields "K" and "t"
+        ' Here, the names are case-sensitive - i.e. we must use "K" and not "k" if the
+        ' field is called "K"
+        ' Probably need to pay more attention to special values of K and t
+        strStem = strSaveFolderName & CStr(.DataFields("District").Value)
+      End With
+      .Execute Pause:=False
+
+      ' The output is in the Activedocument (we are assuming no errors, here)
+      ' Save as .docx (comment out if you do not need this)
+      strFullName = strStem & ".docx"
+      ' we have to remove any existing file first
+      On Error Resume Next
+      Kill strFullName
+      Err.Clear
+      On Error GoTo 0
+      ActiveDocument.SaveAs fileName:=strFullName, fileformat:=WdSaveFormat.wdFormatXMLDocument
+
+
+      ' remove the output document
+      ActiveDocument.Close savechanges:=wdDoNotSaveChanges
+    End With
+
+    If docMMMD.MailMerge.DataSource.ActiveRecord = lngLastRecord Then
+      bDone = True
+    Else
+      ActiveDocument.MailMerge.DataSource.ActiveRecord = wdNextRecord
+    End If
+
+  Loop
+End If
+problem:
+Application.ScreenUpdating = True
+Set docMMMD = Nothing
+End Sub

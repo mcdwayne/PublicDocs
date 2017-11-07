@@ -1,0 +1,96 @@
+MERGE! Conference: 5 tiny events smushed together in one big convention center
+
+I am not going to dwell on the downsides of this event, but I have never in my life felt better about going to WordCamps and DrupalCamps than I did after this event.  I was there for the 'CMS Summit' part, which had some good talks and speakers.  I knew several of the attendees and met a few new folks too.  It was actually really nice to talk to Joomla devs about the advancement and use cases for different CMSes from their perspective.  Most of the people there were for the 'Domain Event'.  This is the conference for people who buy Top Level Domains in bulk in hopes of selling them to the highest bidder. I gotta say I really feel these were my people, vertical-wise or otherwise.  
+
+So why do I feel lucky to go to WordCamps and DrupalCamps?  To sum it up in a few points.  I get to learn about the awesome tech underneath a thing and not just the top level benefits from marketing folks.  The Camp system believes it should be affordable for all and provide lunch, snacks and coffee/tea, or are at least clear on options.  And maybe the largest thing is Camp folks are my people, in spirit and in belief in FOSS. The TLD folks are not against FOSS but they sure don't speak the same language as those who embrace it.  
+
+I did go to a few sessions and took some notes. But honestly, the only two I attended that I think are worthy of talking about are discussed below.  This is not to say there were not great other talks, just I didn't see them.   For instance, I know that the awesome [Steve Burge](https://twitter.com/SteveJBurge), author of [Drupal 8 Explained and many other great titles](https://www.amazon.com/Stephen-Burge/e/B004GIFQX8/) was there but I missed his talk.   
+
+CONVERSION RATE OPTIMIZATION 101
+[Chris Edwards](https://twitter.com/ChrisEdwardsCE)
+
+I got into this session, the first one I saw after my first trip to the registration desk, a little late.  I love SEO talks for a couple reasons, neither of which are because I actually do anything with it.  First, it is a glimpse into applying data science as applied to marketing, which is just fascinating to me.  Second, as internet development moves towards more and more services connected together, it is important to stay up on trends around automation points and look for new and interesting amalgamations.  It was a great talk, as Chris is a real wealth of info on this subject and a great presenter.  
+
+Raw notes:
+Quantitive data
+Google Analytics
+	Not Free
+	AB Testing tools integrate
+		Mixpanel
+		Kissmetrics
+Want to be building a funnel
+HotJar not free but easy to buld funnels
+Collect Qualitative data
+On page surveys	jumping in and asking how to improve the product
+Use heat maps
+(have models looking at product, not you!)
+Watch your visitors
+!record them!
+I agree to terms moved RIGHT above checkout button improved sales
+made it more accessible based on heat maps of mouse movements
+Saved "Lost Visitors"
+Optimizely 
+Test everything
+Obama was the master of this with his data scientists
+so did Trumps
+Test your money pages
+at least 5000 users per variation on testing, 
+might need more
+A/B Significance test
+Double check amazing! (larger than expected, rethink it)
+Usertesting.com if you want to pay for it
+Hotjar has a way to ask for test users
+James added A/B testing with Hotjar for free, worth the money
+upped conversions!
+
+
+
+
+TECHNICAL DEBT IS KILLING YOUR SOFTWARE TEAM
+[Chad Windnagle](https://twitter.com/drmmr763)
+
+Chad comes to CMSSummit from the Joomla world, though his knowledge base is far wider and seems pretty deep as well.  This talk was about a subject I get to talk to a lot of agencies about, though I rarely mention it by it's proper name.  Mostly we are talking about process improvements rather than application code improvements but the same underlying principals apply.  Chad's great quadrant diagram captures the overall idea in a way I had not heard discussed before.  There are times you can be Reckless and Deliberate on a project, making an agreement that you will meet a temporary deadline but ultimately is the wrong way to do it, and set plans to fix it later.  If that does not meet the definition of reckless for a production website workflow, then I don't know what it means.    
+
+Raw notes:
+Was writing new code, then had to take over a Perl project
+that was released in 1987
+Changes over time 
+legacy application cleanup
+@WardCunningham invented the word Techinical Debt to cover what devs have to do to change a running application
+Tech debt is complex
+	DUplicate code
+	Inconsistent code
+	Parsing Errors
+	Slow code
+	Inflexible
+	Dead Code - Commented out code that know one knows why it is there
+Careless debt and careless management (need to ask for reasonable mothodology)
+participate in the team, don't just inject
+Debt Quadrant - Martin Fowler
+					Reckless  |	Prudent
+	
+	Deliberate				  |
+				______________|_________________
+	Inadvertent				  |
+							  |							  
+Fixing?
+	Strict Logging
+	Code Analysis
+	IDE code quality
+	Code Quality Gatekeepers - SonorCube
+	Talk to developers (they know where bad code is)		
+Rebuild or Refactor? 
+	Early on you always want to rebuild
+refactoring though is needed
+refactoring effectively
+If you have to rebuilding successfully
+Stranger system approach (like strangler figs)
+	wrap the new code around the old code to replace the old system over time
+Got to increase velocity
+
+
+I gave two talks
+[Every project is a story: Applying storytelling to your client interactions](https://www.mcdwayne.com/every-project-is-a-story/)
+[WP-CLI: Don’t Fear The Command Line](https://www.mcdwayne.com/wp-cli-wp-yes-you-can-aka-dont-fear-the-command-line/)
+
+All in all, I am very glad to be going back to Orlando in a few weeks for WordCamp.  As for MERGE! well, I learned a lot from it.   

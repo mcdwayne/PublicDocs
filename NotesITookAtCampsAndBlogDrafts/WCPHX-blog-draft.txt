@@ -1,0 +1,361 @@
+WordCamp Phoenix: Hot times in the old town and getting to help out 
+
+It was unseasonably hot in Phoenix when I got there.  Every time I have ever been to the [Valley of the Sun](http://arizonaoddities.com/2011/06/how-the-phoenix-area-nabbed-the-valley-of-the-sun-nickname/) it has been too hot for my general liking, but this time around even the locals agreed it was not supposed to be this hot.   Fortunately I got to spend most of my time inside the pretty nice [Galvanize](https://www.galvanize.com/phoenix/campus) facilities, really only walking around during the cool of the evening.  No matter the weather I was really happy to be part of [WordCamp Phoenix 2017, aka WCPHX!](https://2017.phoenix.wordcamp.org/).  
+
+I got in early afternoon and had the chance to go load my gear at the venue thanks to the organizing team setting things up.  I absolutely love doing certain elements of event set up.  I was thrilled they let me jump in and make some gift bags and assemble name tags.  The team made me feel right at home and we once again proved that many hands make light work.  
+
+https://twitter.com/Spiral_Arch/status/924355832313274369
+
+
+###Food and Fun
+
+#####Speaker Dinner
+
+Though I had done the afternoon setup stuff, things officially kicked off over at the [Bluehost offices](https://goo.gl/maps/37HuZ7yM29R2) that evening at the speaker sinner.  It featured a nice spread of interesting pickled veggies and fruits, hummus, pizza and deserts.  It was great to hang out with some of the other speakers I have known for a while and to meet a few new folks too.  Every speaker dinner is slightly different and this one stands out because they made a formal ceremony of giving us our speaker gifts and acknowledging each person who had a hand in the camp. It made me feel pretty great to hear about so many contributions and set the stage for a pretty awesome first day at camp.  
+
+https://twitter.com/kouteki_/status/924112775667789824
+
+
+#####Day 1
+
+There were 2 options for coffee.  Pouring from a pre-made giant cauldron of coffee, which really wasn't too bad, or custom made gourmet barista prepared awesomeness.  I actually didn't partake of the second option until the afternoon and immediately regretted not getting it sooner.  [Luana’s Coffee Yard](https://www.yelp.com/biz/luanas-coffee-yard-glendale-2) knows what the heck they are doing.  If you live in the area, go give them your money!
+
+https://twitter.com/JenBlogs4U/status/924380972836990977
+
+
+The snack tables were never empty as the volunteer crew kept us well plied with cookies, chips, and all the halloween candy we could grab.  I did my best to resist, but watermelon tootsie pops are too good.  
+
+Lunch was served from food trucks.  From experience I knew I had really 3 options ahead of me.  1 - Beat the rush, 2 - wait in line in the sun or 3 - don't eat until the end of service and risk them running out of stuff.  I was fortunate enough to enact option one the first day.  They were efficient as a food truck taking custom orders can be and the food was excellent, but lets just say it was a good idea that the lunch break was an an hour and forty minutes long. I had a really good jalapeno hummus plate from [Hummus Express](http://hummusxpress.com/) and there were options for cheesy melty sandwiches and Mexican grub.  I was glad there were a lot of options for folks of any dietary restriction or preference.  
+
+https://twitter.com/collingmedia/status/924352645929697285
+
+
+#####After Party
+
+There were actually two opportunities for after parties, given that our camp was at the same time as the [AIGA Method + Madness conference](https://arizona.aiga.org/event/method-madness-conference-phxdw-2017/). AIGA is the professional association for design and there was overlap in the communities they they invited their patrons to our after party and they were extended and invitation to ours.  I didn't actually make it to the AIGA one, but it sounded awesome.  
+I rolled into the official after party right on time but it was already in full swing at [Phoenix Public Market Café,](http://phxpublicmarket.com/cafe/).  A nice spread of veggies, pretzels, all manor of dips and chips and a some BBQ. Of course drink tickets made this all the better.  What made this party stand out though was the mobile gaming truck that got parked outside.  All sorts of VR games and 4K monitors to play PS4 and Wii games on.  There was even a Rock Band setup what we got to rock out with.  While I personally would not consider this Karaoke or WCKaraoke, there were enough folks who did that we didn't venture out to the Karaoke venue at the end.  Overall this was really fun night with a great number of new connections made.  
+
+https://twitter.com/JoeManna/status/924475048689147904
+
+
+#####Day 2
+More of the same as day one. Lunch was again food trucks but a different line up, this time I had a pretty awesome tofu veggie stir fry from [The Pho King Food Truck](http://phokinghungry.com/).  Other options included a cheesesteak truck and a salad and wraps truck.  I had to wait a bit in the direct sunlight on day two and I can say with full certainty that I am not a creature of the sun.  Luckily the cool of the shade was easy to find and the venue was very nicely climate controlled so I could eat in comfort.  
+More delicious coffee rounded out my experience for the camp.  
+
+https://twitter.com/HogfishTees/status/924633023798054912
+
+
+###Sessions
+
+Opening Remarks
+
+https://twitter.com/McDwayne/status/924305459074310144
+
+
+This was a one track conference and I am growing more and more fond of these types of events.  Since there is only one speaker at a time, aside from the workshops, then the session room is generally pretty full and the entire camp can discuss the same general topics after each slot on the schedule.  In a multi track conference it is pretty common to hear "I wish I would have gone to that one, but it was at the same time as this other one."  Single track is a nice solve for this. 
+This decision also makes for a much better 'hallway track' which is a loose term for all the conversations that happen outside of the session tracks during the course of the conference.  This is where a lot of the discussions and deals happen at camps.  It is also a great feeling as a speaker to have a full room when you talk!  
+
+[Poetry is the One Simple Hack](https://2017.phoenix.wordcamp.org/session/poetry-is-the-one-simple-hack/)
+[Shawn Pfunder](https://twitter.com/pfunder)
+
+I had no idea what to expect from this talk walking in.  I was kind of blown away by this talk and hope that my improv talk was half as well received.  I bring up my improv talk because, just as Shawn has done, it was an attempt to apply an art to the science of development.  From the opening moments when Shawn read us a poem he really loves I knew this was going to be a special one and one I really hope people see.  I often joke about how many bad poems I write in my private, not published writings, though occasionally some slip out into Facebook.  I had never considered the fact that I like to write poetry an asset before, but I can certainly see now, after this talk, that it has helped me in a number of areas.  Really a must see talk for anyone, even outside of WordPress or even tech.  
+
+Raw Notes:
+Poetry has a bad rep
+but there is a 
+Poetry will make you better at everything
+DoDaddy basically sells pens
+tools get easier and easier to use
+Actual creation of ideas is one solved with poetry
+traditionally the person with the most funds/loudest wins the conversations
+Novel
+Useful
+Art
+iFart was novel, but not useful
+Puddles pity party is art and novel example
+needs all three
+how to pull this off?
+can't get there with just meditation
+poetry is like taking a brain expanding drug
+Emily Dickenson poem
+Neuroscience loves poems
+you are your experiences and poetry rewires your brain for the better
+They found 3 things
+1 teach you look for connections - Inspiration
+2 Patience, let the ideas come to you, rest with it
+3 Excitement - what is truly making you happy, not the paycheck
+3 columns of list of words 
+brain interprets all the combos, no wrong way to do it
+Billy Colins poems - litany
+Seeing new connections
+stealing and reworking is also OK for poems
+view source 
+if you come to poetry to meditate and think you will improve
+and let ideas come to you
+you can't force an idea out, you let them come to you
+They the line breaks?
+Anticipation - this is the goosebump bits
+Couple examples of our brains making connections, - time after time
+screw up a lot - never show up knowing the answer to poetry
+learn to jettison 
+intentional fallacy - you can not know what the author was intending you to experience
+be quiet - be aware of what is going on around you
+carry a notebook - write down these connections
+
+
+https://twitter.com/ShawnaCulp/status/924319289162612736
+
+
+[Love the Functionality, Hate the Speed, Now What?](https://2017.phoenix.wordcamp.org/session/love-the-functionality-hate-the-speed-now-what/)
+[Joshua Eichorn](https://twitter.com/jeichorn)
+
+Let me first say that I adore the open agenda that Joshua has that I think can be summarized as "get everything on Github so we can collaborate better."  My very first interaction ever with him was walking up on a conversation where he was talking about PHP7 and Github and my respect for him has never diminished from that initial great impression.  SO I was super excited to get to hear him again in person for the [second time this year](https://www.mcdwayne.com/2017/04/10/pressnomics/).  
+Anyhow, I loved this talk. I have been to a few talks about performance that are really plugin specific or tech you how to just diagnose the problems.  This talk went in depth with a way to fix it by cracking open the code and adding a little modification for much better, and overall puts you on a path for more scalable, performance.  It did get technical with some code examples, which are hard to capture in written notes, but these slides and this talk are going to be made available.  It was also the first time I have heard anyone not from 10UP talk about [WP Minons](https://github.com/10up/WP-Minions), a very cute name for a very powerful job queue.
+
+Raw Notes:
+Simple at first
+small site, OK performance
+add functionality and now performance sucks
+now what?
+full page caching>?
+great except low cache hit rates, traffic from bits, logged in requests, full cache purge
+it is  nice, but does nt really solve the problem overall
+over 2 seconds for load times you are lost
+more machine at it? 
+nope, bots will take that capacity quickly
+now what?  
+find out why we are slow
+Slow is normally IO
+Slow DB query
+slow HTTP request
+it sometimes doing tons of fast things (show 1000 small posts at once for insceance)
+its less commonly doing something slow in the php
+Work?
+Revert changes one at a time, but that loses functionality
+1. APM, likeNew Relic (great but expensive)
+2. Query Monitor, etc
+3. p3 profiler
+4. PHP profiles, Xdebug
+Tools help pinpoint slow lines of code
+can actually start to solve underlying issues now
+query monitor looks for a lot of things, not just the top query
+digging in found the slow..
+stack trace, can ignore a lot of it
+know it is not core WP, since we know t was fast before we added anything
+Now what? 
+Could turn off the plugin, but lose the plugin
+also what if it is an API call?
+Let's fix it 
+if not your code fork it
+plugins hosted on github makes it simple
+at a minimum rename the folder, update comments
+goal is to get your fixes upstream
+everyone in the community wants performance help, but rename it locally if you are making these changes
+running patched plugins without renaming is a good way to have auto updates ruin your day
+but how do we actually fix this?
+cache the API call
+use a work flow - process outside the normal loads
+caching using transients
+transients are the generic WP caching API
+store data in object cache if available 
+Example - render method
+caching with long TTL 
+is caching enough
+	maybe not if not high enough cache hit rate
+	long tail content
+	bits crawling 
+	that is the API gets slower?
+Really only option is either stop making the call or move it out of flow
+If you have the data, display it
+if you don't queue a request to load it, make API request outside normal flow
+WPMinions (from 10UP) (requires another server/service outside your appserver)
+WP Background Processing (not as high capacity but less dependencies)
+Let's build a basic queue
+store jobs in an option
+process them using wp-cron
+limitations
+	keep the max queue size small
+	low max processing rate (wp-cron is serial, not parallel, limited around timeouts as well)
+	will be prone to race conditions
+Setup the cron for 5 minute intervals
+have to be able to handle rendering to handle no value (maybe swap in default data)
+	this is a trade off, sometimes nothing to show
+Return a cache value or queue
+	instead of a normal API call, invoke the queue or cache
+Make the API calls in the Cron - this is the bottleneck now
+never going to get insane capacity from this simple work queue
+limited worker on a fixed time cycle
+remove the tasks from the queue
+	clear out the in memory cache
+at its heart, this is the same content as a site with far less functionality
+queue results should improve all the page loads
+Problem solved?  probably
+the queue needs to keep up
+high rate sites will need something more robust
+the fixes:
+	added a full page cache
+	patched the plugin
+		caching around API calls
+		moving API calls to a work queue
+
+https://twitter.com/JoeManna/status/924344806284783617
+
+
+KEYNOTE: 
+[In Praise of the Side Project: How to Learn New Skills, Make Money, and Have a Little Fun](https://2017.phoenix.wordcamp.org/session/in-praise-of-the-side-project-how-to-learn-new-skills-make-money-and-have-a-little-fun/)
+[Rachel Cherry](https://twitter.com/bamadesigner)
+
+I always love to hear Rachel speak, she has a gentle southern nature that puts the audience at ease and gets them on her side as she lays down her session.  This talk had way more information than I could capture and the Q&A was really fun and had the whole audience participating.  I had not considered my contributions to the [WP community](https://make.wordpress.org) a side project but I can certainly see it in that light now.  I hope to find more time for more side projects in the future.
+
+Raw Notes:
+side projects are not side hustles
+maybe you make money
+maybe you contribute to a community
+planning WC is def a side project
+giving back to others
+podcasts
+help with someone else's side project
+Side projects can be whatever you want tthem to be
+ust be motivated though
+only so much free time
+fill n gaps that you see missing
+want to donate time? 
+are you going to burn yourself out?  Side projects can give your mind a break
+Her side projects
+hiroy.club
+wpcampus
+tips and tricks
+	have a goal
+	write everything down
+	forulate a plan, start small
+	break everything into small tasks
+	ask for help (when you need it)
+	Perfection is the enemy
+	be selfish
+	publish your work or a recap
+Challenge yourself
+at least an hour a week to give yourself a chance to focus on something else
+
+https://twitter.com/NNN/status/924377662713245698
+
+
+[The WordPress REST API: Powering Every Platform](https://2017.phoenix.wordcamp.org/session/the-wordpress-rest-api-powering-every-platform/)
+[Cory Crowley](https://twitter.com/corycrowley)
+[John Gough](https://twitter.com/john_gough)
+
+Sometimes you walk into a talk expecting one thing and get something even better out of it.  This is likely going to be my go to example for this happening moving ahead.  I went in expecting code sample and abstract discussion.  While there was plenty of code to be seen, the examples were done through a creative role play that really hammered the points home and made the use cases for REST API far more solid than any other talk I have seen on this topic.  On top of that this talk has the most elegant explanation of MVC I have ever heard using Iron Man as an allegory. This is a pattern that takes a while to grasp, at least it was for me when I first encountered it.  I feel super confident in explaining this moving ahead thanks to this awesome example.   
+
+Raw Notes:
+managing content is like herding cats
+Siloed access
+single source of truth
+MVC explained
+Iron Man
+Tony is the Model
+the suit is the view, what we physically see
+Jarvis is the controller
+People using API for a lot of stuff
+building sites with JS
+Mobile app dev with WP
+replacing AJAX
+publishing content everywhere
+Use case: events
+Role play developer at a university and ain implementer
+what they need to show (title, duration, etc) long list
+adding new events to websites
+not just a static PDF
+Here is mock up, do it by tomorrow
+no sleep, overworked
+reasonable request with a bad timeline
+need basic event post type
+but also need to shw by location and bt category
+register a taxonomy
+need an application
+can use ACF PRO 
+no sleep lost
+now they want to have new events in a kiosk
+Can do this with HTML5 veu.js php
+pull the content from a single source of truth
+silo-ed access, not content
+ACF to REST-API
+you can do this manually, but this is an easier path, simple
+Next up, build an app! orientation, showing off events by category and location
+Again getting the events from system of truth
+vue.js looks very similar to kiosk, just pulling from multiple locations
+Our imagination is the only limit to what can be done with WP
+
+
+https://twitter.com/McDwayne/status/924400384881319937
+
+
+[Myths and Facts About Securing Your Site](https://2017.phoenix.wordcamp.org/session/myths-and-facts-about-securing-your-site/)
+[Aaron D. Campbell](https://twitter.com/aaroncampbell)
+
+There are few people on earth that spend more time thinking about security when they release code than Aaron and the release team for WordPress Core.  I am thankful I am not on the hook for those pull requests and can safely sit by as an end user reap their thoughtful decisions and process.  Aaron brings all the knowledge to this talk and a lot more based on his experience from working for GoDaddy supporting their wide variety of users.  I really appreciate any talk that gives me new things to consider, things to actually do or gives me confirmation and evidence of ideas I have been pushing out there.  In this case he challenged my thoughts around passphrases as passwords and helped push my agenda to get everyone in the world using password managers, which is a great idea.  I tried to capture all the basic thoughts here in case you can't catch it online, but Aaron is a great presenter and he uses a lot of humor in the slides, so you will want to find those for certain.  
+
+
+Raw Notes:
+Security is not hard or scary
+it does not have to be
+1 Updates improve security = FACT
+Update all the things!
+2 No one will attack me = MYTH
+vast majority of attacks are scripted attacks
+you will be attacked, just know that doing in
+Staying up to date helps, but these are mostly automated scripts and we can stay one step ahead by studying them
+3 Locking down files = MYTH
+leaving a back door - files won't be able to write to them, 
+this focuses on the wrong part
+you want to keep people out of your house, not just specific rooms
+problem comes up is updating
+one of their best tools is force updating security patches
+4 avoid using admin user name = myth
+keep username private and secret is not real because your username is ultimately discoverable
+you can log in with your email, which is pretty easy to get
+you should focus on better passwords and maybe 2 factor auth
+5 Changing DB tables prefixes = MYTH
+easily discoverable but no added 'security through obscurity'
+when you think you are doing something to secure your site but it does nto do much, it lulls you innot a false sense of security
+6 Move/Hide admin = MYTH
+does not help to protect from hackers
+no front door, people still know there is still a door you use
+This actually causes more issues than it solves
+7 SSL improves security = FACT!  
+important for each and every site, no reason should not go with SSL
+everything between your user computer and the server and all things between 
+make sure all traffic is encrypted
+if a weak point, then makes sure no one can see what is being passed
+8 Passwords are important = FACT
+obvious one, lets talk instead about the way to make good passwords and what makes the good
+	Long passwords are better = fact!
+		password strength are measured in entropy = takes longer to break
+	Substitutions = MYTH
+		every modern cracker knows the patterns and only adds a small additoinal ammount of effort to break
+	Passphrases, taking a memorable moment and making a passphrase from it = PLAUSIBLE
+		27 characters but only 5 words, password crack scripts have gotten more advanced
+		can pull in keywords from social media to build a specific dictionary to use for the attack
+		better than just a simple one word passphrase but not the best method
+	use a password manager makes it best = FACT!  
+		these manages like Lastpass (which I use) make long unique, random passwords and manage them for you
+
+
+https://twitter.com/JoeManna/status/924741443528179712
+
+
+*****My Session
+
+[Developer Workshop: WP-CLI](https://2017.phoenix.wordcamp.org/session/developer-workshop-wp-cli/)
+
+I was super thrilled to have the chance to [once again](https://www.mcdwayne.com/2017/08/21/wordcamp-for-publishers/) teach people some hands on skills around the command line.  This is such an important skill to have, not just from a developer perspective either.  While my original motivation for learning the WP-CLI was to do specific site fixing and maintenance, it evolved to speeding up my site builds and then graduated to where it sits now, which is at the heart of automating all the things WP.  If the attendees walked away with no other thoughts than "I can use this to automate my life around WordPress more" then I would consider this a huge win.  I had a number of follow up conversations that revolved not around the WP-CLI tool and commands themselves but how to apply the scripting ability to the larger context of building and management.  There were a few logistical concerns and of course there were some machines with issues that stumped us, but overall I got enough positive feedback that I am going to count this as a success.  
+
+https://twitter.com/modmatt/status/924697104991248384
+
+
+###Wrapping Up
+
+From the chance to volunteer to the final session I saw, I felt very engaged and had an amazing time at WCPHX. I get the best feeling from the community I have met there; one of cohesiveness and togetherness that I see others strive for but have not as fully realized as they have in AZ.  
+
+I was sad that I had to get on a plane and come back even though I was bone tired from the weekend.  While I love being at any camp it is rare to find myself reluctant to leave.  I had even considered changing flights, but was already on the last one out for the day.  I am looking forward to going back, which is not going to be that long from the time of this writing. Next year, WC Phoenix is planning to be even bigger and is happening [February 16th and 17th in 2018](https://2017.phoenix.wordcamp.org/wordcamp-2018/).
+
+
+https://twitter.com/PHXWordCamp/status/924783157764751360

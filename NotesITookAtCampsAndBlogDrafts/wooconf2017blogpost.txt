@@ -1,0 +1,515 @@
+WooConf 2017: It rained in Seattle and other obvious statements
+
+When you fly into Seattle most times, you will drop below the clouds and fly through a pretty thick marine layer.  Sometimes, this is the last time you will see the sun for the next few days.  Fortunately the sun was easily replaces by the warm glow of the vibrant [Woo Commerce](https://woocommerce.com/) community as I got to spend a little under 2 days in the [Jet City](https://en.wikipedia.org/wiki/Seattle) for [WooConf 2017](https://wooconf.com/)
+
+https://twitter.com/marinapape/status/921065373029429248
+
+
+###Food and Fun
+
+It was raining Wednesday night when I arrived at the hotel and I did not venture far from my room.  But since I was staying in the official hotel I still got to hang out and have a drink with some of the conference folk who were also staying there.  I even got to see my old colleague [Alex](https://twitter.com/atjuch) who now works for a pretty sweet little company that helps with abandoned shopping cart conversions, [Jilt](https://jilt.com/).Before too long I turned in as day 1 of the conference was going to be a long one, with lots to learn.
+
+Unfortunately, at 2:30am the fire alarm went off and the entire building was evacuated.  Luckily it was a false alarm, most likely a drunk or a kid (or a drunk kid) had pulled an alarm as a prank.  Still, it made for a tired morning.  
+
+#####Day 1:
+
+Breakfast was served and I think it was a lovely one.  There was even granola and almond milk along side all sorts of other staple foods.  I ate to my fill, drank a good deal of the very good Seattle's Best coffee and got all geared up for the keynote. 
+
+Lunch was a clear cut above most events.  This was one of the times I realized it was not a WordCamp, though it is a lot of the same people who would go to such a thing.  It is also not nearly as affordable as a WordCamp, as the amenities reflected.  I had one of the more delicious tofu and veggie dishes I can remember on the road along a beautiful salad.  No vegan deserts, but I really didn't have room for it anyhow. 
+
+The afternoon snacks were a real treat, with hot hamburger sliders and fresh french fries.  There were also these tiny stuffed tomatoes, a lot of candy and veggie chips.  I am going to admit I went a little nuts with the veggie chips.  So good though.  
+
+https://twitter.com/ShippingEasy/status/921120870919213056
+
+
+
+#####Networking Event
+
+At the end of day one we were ushered to a giant room with an open bar, black bean burger and salmon sliders and a pretty awesome popcorn bar with flavors like dill pickle and sriracha salt and candy fixin's to mix in.  I loved the dill pickle flavoring and abused the situation to fill a bag with Jelly Belly beans without adding any popcorn.  I still think this was in the spirit of the popcorn station, but some others later disagreed.  It was great to meet a lot of new folks and have some interesting conversations about the future of Woo based on what we all learned in the keynotes and sessions. The long day and the interrupted sleep lulled me back to my room for a power nap instead of going straight to the after after bar some folks were walking to in the rain.  In retrospect I wish I would have powered through as I met no new people or had any interesting discussions in my room, but the bunk time felt mighty nice in the moment.   
+
+https://twitter.com/avalara/status/921198030061105152
+
+
+#####WCKaraoke
+
+I realized that we would not have to modify the prefix for WCKaraoke to make it fit this event and that made me insanely happy.  Refreshed from my power nap I ventured over to the [Capitol Hill neighborhood](https://en.wikipedia.org/wiki/Capitol_Hill_(Seattle)) to one of the better 'mixed use' karaoke bars I know about, [Rock Box](http://rockboxseattle.com/).  By mixed I mean it has private room as well as a main stage you do not have to rent.  The staff is a little surly but given the number of drunk karaoke fans they put up with year round I can understand it.  We had a blast and sang well into the night and I got to meet some pretty interesting locals as well as catch up with an old improv buddy from SF who moved to the area earlier this year.  This was really one of the best WCKaraoke experiences of the year for me, even though the WC meant something else.  
+
+
+#####Day 2 and After Party
+
+I am sad to report that due to my other commitments I had to leave before the end of the second day, only getting to sit through 1 full keynote of the 2 in the morning.  The after party looked like it was going to be a blast as well.  Oh well, can't be everywhere and do everything, though I will keep hoping technology will eventually solve this.  There are too many good events and not nearly enough time.    
+
+
+###Sessions
+
+Let me just say this us front.  WOW!  The caliber of the talks at this event was second to none.  Since I go to a lot of camps and cons, I have a lot to compare this to and I am certain this is one of the very top from a quality perspective.  I felt engaged and energized by each and every session I sat in.  I had applied to speak at this event and in retrospect I can see why my talk wasn't chosen.  I can only strive to improve and hope to be able to provide this kind of value to anyone sitting in my sessions moving ahead.  It really raised the bar for me.  
+
+
+Also, let me take a second to give it up for [Julia Amosova](https://twitter.com/j_amosova), who did the intros for most of the talks I saw.  Intros are not something I often talk about but I think she deserves a shout out for putting a nice practical spin on any talk by relating it to her experience in support.  Really helped set the stage with grounded real world applicability before the speaker even appeared.  Great job!
+
+
+https://twitter.com/McDwayne/status/921085412327559168
+
+
+Keynote 1:
+
+[State of the Woo](https://wooconf.com/schedule/)
+[Todd Wilkens](https://twitter.com/toddwilkens)
+
+More or less just going to toss you my raw notes here. I don't have a lot of commentary after this talk other than that.  I walked away with a new appreciation for where the tools are headed and a curiosity about using Woo that I have not had before. I am actually planning to build my first Woo store in the near future for testing out some ideas.  
+
+Raw notes:
+Todd is the self described "Head Janitor" of the project.  
+He started out really celebrating our diversity and all who make and use it
+Here are the numbers:
+32.4 Million downloads globally
+3 Million active installs from the WP repo
+So many amazing things built on Woo
+They are on track for Woo stores to do $10Billion in sales in the next year!
+Conservative estimate based on their numbers
+$30Million in Woo extensions this year as well
+Healthy ecosystem
+613 contributions in the last year from the community
+A diverse set of users
+Basically 3 key roles
+1- Store Owners
+2- Store Builder (the original focus of the tool)
+3- Extension developers
+They have different needs, but this is the best way they have made these distictions
+Mostly is is small - medium businesses
+This sets you up for evolution, does not happen with large systems
+Cases tude from his friend that 
+Sqarespace got started, but no room for flexibility or growth
+it was really inflexible, he has high end craft , needs a unique experience.
+WooCommerce is a fit for him to do it himself, and as evolve, a pro takes over...that is the dream
+This is a typical one though, likely know such a story
+But it is not just about small -med
+there are multiple doing $100M+ a year ont heir sites
+H-E-B case study
+12th biggest private company (Forbes) grocery stores
+more tha 40 stores + growing
+HEB was 2 hours ahead of the FEMA convoy during the Houton floods
+same ethos but at scale for whole state!
+They don't just sel stuff, they do good stuff
+Big news from the year was Woo 3.0
+Abstractions - CRUD classes
+Rest
+Performance
+new product gallery
+new CLI (WP-CLI and some REST API)
+logging system
+Don't want people to have to hack PHP to customize in the future
+The 2.0 rollout was shakey and they admit that now, they learned their lesson though
+LEarned: More reliable update/upgrade experience 
+That involved Woo and Extention Devs
+Committed to making upgrade and maintenance experience rock solid, 
+For instance: internally they ping certain woo usrs to preview releases now
+regular roll outs expected and much improved experience in the future
+3.1 and 3.2 had ver few issues for a lot of feature rolls outs/improvements
+1-CSV import/export in core
+Extention license management in Core
+Search helpers for orders
+2- Better coupon control
+Extension version checks
+Search helpers for Products
+Better integration with SaaS payments, shipping, an taxes  
+In near future
+Faster tables
+new event queues to remove race conditions
+Making it easier to manage store builders to manage more stores from the product side
+No more subscrition keys to manage
+copy/paste is not scalable, now one click
+Also need to be able to share and transfer subscription, new now, improving fast
+Woo and WordPress.com are merging affiliate programs
+test extentions before you buy
+Better UX for store owners
+Paypal, Stripe, Square, Klarna (Northern Europe)
+New automated tax service, automate for all the largest markets (US, EU, CAN, AU)
+make it easier to onboard no matter where they are
+Have to set up Jetpack - trying to make it super simple, just hit connect and JetPack just happend
+Then can set payments, tax, logitics before they put their first product online!
+Been investing a lot in cloud services foundation
+Don't want to pull people away from the idea of self hosting but looknig at cloud more and more
+Woo + Automatic can build on their strengths
+they agree 2 factor auth is great why rebuild it, 
+same thing with Jetpack, it is larger than Woo and learned a lot before Woo, moght as well combine forces
+Constrictive feedback helps them grow!
+Also revamping the mobile app for WooCommerce (this is a big deal)
+2018 roll out is planned
+Store owner feature love
+Builders can more easilt sell since it is all included!
+No plans for chaging for mobile app, just part of Woo
+Big changes in extensions
+Not a lot rolled out in 2017
+BUT a lot of devs asking for more and more
+Current extention devs want more direct access to customers and more contril over products
+retinking architecture
+Going to be opening up the marketplace for extensions! (There is a whole talk on that later)
+needed to open it an change dynamics, higher payouts and more control, more open
+
+
+https://twitter.com/nickweisser/status/921051241660084224
+
+
+Keynote 2
+
+[Why Customize?](https://needmoredesigns.com/wooconf17)
+[Kandace Brigleb](https://twitter.com/kandacerae)
+
+I always tell people I am a bad designer or that I am not a designer at all.  This single talk has corrected this behaviour.  I, in fact, do have the ability to contribute to the design process and so do you, no matter who you are or what you think you know.  All it takes is clear and honest communication.  Every step of every process can be opened to improvement and the evolution of those ideas is the design process itself.  I hope this talk is made available online as I think everyone that ever says "Oh, I am not a designer" should see it!  
+
+Raw notes:
+She lives by "Make every room you walk in better because you are there."
+Small shop Needmore
+Coffee brands have universal issues
+she has a show for coffee folks
+coffee roasters have specific needs arond design
+Many people get the same beans, so it comes down to lifestyle brand
+lot of that comes don to design
+Must differentiate
+WooCommerce helps them be flexible
+Joy to be a part of this community
+Looked at customized website strategy and case study
+Need to first explain the why
+then how
+and then 'Who does what' on these projects
+Make every project you join better ebcause you are there
+Not making websites just to do so
+making stories that have a pull, sell things better
+more donations, ect
+make it easy for people to buy
+need to buy direct on the sites, but prduct into hands of customers is the uderlying goal
+we want more than things though
+experiences make us happy
+in the end, the hot coffee in a cup is happier than holding beans
+need to start making emotional connections with your stories
+leave room for emotional connectionst o grow
+not every page needs to direct drie conversion
+Let people fall for your brand
+Traditional Web Process - used to be good
+but it does change some
+still alinear process
+discovery, structure, design, developer, hand off, Launch
+expects milestones
+billing cycle linked to this most of the time
+but some decisoins later or earlier need adjustments.  Hard to rethink sometimes
+Earlier assumptions about customers and needs need readjustments somemtimes
+We have to empathize
+To be interesting, be interested.
+Try to talk to anyone along supply chain for coffee
+Go do a thing yourself and see how you felt through each part of the process.
+Define the issue, 
+It's not "design a chair" its "create a way to suspend a person" -- (I love this quote)
+Ideate
+No good idea have come from staring at a screen from other peoples work
+It is only in still water that we can see
+get out of your bubble
+They make lists of 10s each day, just used to generated ideas
+gets you used to throwing ideas away and letting go
+why 10?  3 to 5 is too few
+10 means they are expecte to throw out 1/2 of ideas
+by 9 or 10 ideas get weird
+create and build as you g, protoype early to get ideas out
+Never a sense design was over, bill by month, not by phase!
+Case study time
+coffee reoassters, hand tallying as they printed labels
+lot of errors, customers didn't rust the process
+made them reports that told them what to do, custoemrs trusted that process, more sales
+Flavor Notes, fairly new, like wine
+changed the way FourBarrels did it, beat the rest of the market.
+Literary arts example, 
+map was just the programs site map basically
+very silos
+they did an empathy step, everyone wanted less siloed
+Team engagement - need better teams working togetther for custom web design
+Team A Dsigner, Exec, PM, Client, Programmer
+Team B Some people have experience, some don't, when the meetings are over, people linger for a while
+which team innovates more: Team B says research
+less structure makes for better innovations
+Less a good idea to stick to traditional approaches overall they have found
+Devs and Design wall is bad, does not feel good
+"I don't like to be encumbered by that is possible" - designer
+Everyone designs!  
+Design is how it works
+Anyone who influences what the design becomes is the designer
+We have responsibility to speak up then
+means all voinces need heard
+Sometimes the simplest answers are easier to see from the outside
+In the beginners mind there are many possibilities, in the experts mind there are few
+Some case studies:
+Sakeone - brewer/importer
+team B approach
+smaller budget, but important to tell story of the brewers and their local process
+excited about what akes sake so interesting
+Oregon vs Japan similiarities, tells the tory modularly, very successful and simpe to design
+We are ultimately judged by how successful it is, not by who came up with the idea
+La Marzocco
+espresso machines
+the lamborgini of the espresso world
+give people more ownership feeling before buying, made configuratior
+press loved it gave all new press, boosted sales!
+We are all made of stars
+We are all designers!
+
+
+https://twitter.com/wpcombo/status/921086262345334785
+
+
+[How we are scaling WooCommerce Core](https://wooconf.com/schedule/)
+[Kevin Killingsworth](https://twitter.com/coderkevin)
+
+This is one of the sessions I specifically came to the show to see and take notes about.  As you can imaging scale is one of the main concerns I have around eCommerce in general given where I work.  With the coming and current changes to Woo and how data is structured with the new CRUD objects, there is a lot to parse through and understand.  I anticipate we in the hosting world are going to be running into some of the edges of this new in memory 'data store' idea as we cluster and run apps on multiple app servers.  The awesome news is that I did no see or hear anything that spooked me or seemed out of place.  I am still wrapping my head around the underlying caching of the array and how we could hook something like Redis (or Memcached) into it for further persistance and scale.  It is really one of the things I love about Computer Science is that it is a very much alive and moving beast.  I did the best I could to capture the entire talk and Q/A.  
+
+Raw notes:
+Goals
+Scaling to Huge
+Performance: Appropriate to scale
+Extention compatibility
+CRUD objects in WooCommerce
+comes from SQL 
+does not just aply to relational DBs
+Improves the intereface
+New Release CRUD class Dec 2016 Woo2.7
+go read that blog post
+Data stores = data flexibility
+Data Stors were his idea, but he did noe of the work
+Data stores are true but not persistant
+Does not know how it is stored anywhere else, just busienss logic around it
+Right now, default 
+data store get_post_meta in array of order objects
+can implement abstraction and not break anything
+CustomTabels - Lot of postmeta, how t we up performance, lot of poepl agree, custom tables!
+Liquid Web just related plugin that abstracts thaat table approach
+How does it scale though?
+Abstractions are permeant
+By the time you are doing a thing, hope to have enough money to solve the scale issue from infrastructure
+solvable problems
+more machine, more DB changes are possible then
+New diagram
+Custom Table Data Store
+Get row call, it getpostmeta
+many compbos of information
+Question1  Save method, there is a data structure to it, CRUD objects, why is that work that way?
+Q2 - Are cutom Tables really the future? 
+CRUD int he data store 
+Why is CRUD important?
+All owners want to make millions but most wont
+they have to pick a platform when they are tiny
+Multiple Sites, Multiple Databases
+DATA stores make some happy intended befefits they have found:
+What if you had single place that you shipped from but have regions you sell in international
+do you really want to serve all of those from a single site in the US?  US - Australian connection is hyper slow, does it make sense to do it.  Legal concerns for localization
+All same US warehouse though.  Multiple sites, different currencies
+Data Story that got it from inventory systems
+Orders Data Store
+Product Orders store
+Inventory can be on anything else and just feed the objects, not the DBs
+Import/Export (for free!!!!!)
+iterate array and export to another store without directly manipulating the DB
+How does it use processor resource
+can do batch or can do this one at a time
+Lot of code that needs evaluated
+WooCommerce Custom Order Table - Mindsize and LiquidWeb built it
+Already done, Woo does nto need to do it on their own
+Woocommerce Product Tables Feature Pllugin in their Woo Core team recently
+private now, public in a few more days
+DEMO CODE- Pre-alpha Product Product Inventory Datastore - Kevin's project
+easy to implement
+Postmeta matting
+CRUD beneath that
+also has extra function to update post meta as well
+Q3 - is there a performance impact
+Q4 -hard to hear but about metadata on the CRUD itself
+There are meta store on CRUD but you can push that post meta
+Backwards compatibility os the trip up for some of this
+how do you do this in a custom table
+better than adding this step to business logic and validation
+just focused on what do I kneed to do to read and save data
+Flexibility to connect not just to $wpdb but to anything
+Q5 - eventaully you wan to clear that out,how invalidate?
+Post_Meta is the concern here.  
+(If I am understanding we are basically creating an in memory data store as an array that leads a table that reads/writes to the DB indirectly) (Does this natively persist to the WP object cache?) 
+
+
+https://twitter.com/schmitzoide/status/921087816653668352
+
+
+#####Lighting Talks!
+
+Oh, I love a good lightning talk!  And on Day 1 I got to see 2 in a row!  There were more but I had some things to attend to and have not got good notes from the other ones to post. 
+ 
+Lighting Talk 1
+
+[Aviva Pinchas](https://twitter.com/in_a_pinch)
+[Opportunities for your plugin](https://wooconf.com/schedule/)
+
+Raw notes:
+3 Million sotres running Woo under the hood
+A store running Woo runs 15 plugins
+6 are specific to Woo
+Lot of plugins, need to have regional flexibility
+we solved these together!
+Opening Woo marketplace to new developers
+long tail of Woo makes up a lot of the userbase
+need specialized local solutions, like FastPay in South Africa
+Success is when people dev product for solving loclal issues
+CASE STUDIES of things individual devs have made:
+Fashion is the top use case
+By default Woo includes variations
+Product Type extensions make more money than anyother category
+also most complex
+vape supply store, hard to manage artisanal inventory
+bundles for own customers
+rolled that out to the rest of community 
+FB and Mailchip plugin 
+can think big with good partners
+first new dev extension
+by solving a real use case for real customer and then releasing that
+Claudio Brazil specific plugins case study
+1200 ideas on Woo ideas board, real problems
+types of things plugins can solve
+Any extension for sale on WooComerce is discoverable through the product
+Not just a proeuct but Supports and Updates
+Launched to let plugin devs to support their own plugins
+Connecting ot customers in Woo i their inbox and product
+When
+November you can submit 
+woocomeerce.com/develop-woocommerce
+
+
+https://twitter.com/benscoot/status/921136299385405440
+
+
+Lighting Talk 2
+
+[Fostering repeat business](https://wooconf.com/schedule/)
+[Cody Landefeld](https://twitter.com/codyL)
+
+Raw notes:
+Clients get hyper focused on a single challenge
+they don;t want to start from scratch
+this is the victory you wan to focus on
+"Little hinges swing big doors"
+Part if their challenges were around staffing
+accounting and sales
+we need to know their business, not a crude thing to offer more value accross the business, crude to blindly sell on
+learn to sell
+
+
+https://twitter.com/scottbolinger/status/921139602928254978
+
+
+
+[Rand Fishkin](https://twitter.com/randfish)
+[Wizard of Moz](https://wooconf.com/schedule/)
+
+For me, this one was the main event of the whole darn event. Not to diminish the other talks which were very amazing, but this was a chance to drink from the fire hose of knowledge of the man that defines a lot of what I know about SERP and SEO.  I am likely going to be recalling and telling people about this amazing talk for a long time to come.  Biggest thing I waked away with was over 21% of all search is Google Image Search. Think about that for a second.  That is over one out of five times someone goes to a browser to search, they are looking for images.  The other thing I got distracted with was how he thinks about Google trends. I had played with this before but I got lost later digging through trends and seeing all this data in a new light.  I am not an SEO marketing person per se, as I do not make any money doing it, but this incredible wealth of knowledge at my fingertips makes me want to explore and play with data around the space!  
+
+There is no way I captured even 1/10th of what he said, go look at this slides.  Just a treasure trove of wisdom and knowledge.  [Slides: https://bit.ly/keepup2017](http://bit.ly/keepup2017)
+
+Raw notes: 
+A move to machine learning, 
+Old guard was not AI first, that changed
+Rare to see 10 blue links, now mixed results is 90% of all reselts
+PPC growth continues and levels off
+Thanks to clickstream data, We know more about how searchers interact
+Theory of why Google images are 21.80% of all web searches in may 2017
+We google celebs a lot and like looking at pics and look for related things
+mobile results
+2% goto paid
+40.9% click on organic
+57.1% don't click, for any 
+Desktop
+2% paid 65% organic 37 no click
+Google sends traffic to the long tail
+See where competitors get their traffic
+create multiple content channels for multiple engines
+Google images drive a LOT of eccomerce
+google is owning the experience, Google does not send it unless the user clicks on it
+there is a way to draw the click
+text in images is one way to draw in clicks for the right kind of queries
+influence search suggest
+call things the things they are called, not what you are competing on
+KEyword matching is not a competitive advantage
+on-page SEO is not longer stisfied with keyywords either
+Growth Hack 
+Replublishing - recreate it or a part - create much more link for brand
+Published on medium 
+
+Step 1 find two similar stores in the region
+Skip chains
+step 2, use a combined query for those businesss
+boom, link opportunities galore
+ 
+
+https://twitter.com/askwpgirl/status/921156316265099264
+
+
+Keynote for Day 2
+
+[Selling Open Source ecCommerce to clients](https://wooconf.com/schedule/)
+[Beka Rice](https://twitter.com/Beka_Rice)
+
+I know I have said this before and in many different ways but one of the bedrocks of how we advance as a society is the open sharing of information and the freedoms we have to act on that information.  I really loved how Beka laid out the differences between OSS and freely distributed but not open source software vs proprietary (locked down) software.  Again I am astonished by the data that shows that even though OSS is more secure, flexible and bug free than any closed system, the myths persist and the client objections are real.  We still have a long, long way to go to get Open Source as the de facto way to approach technology adoption by the vast majority of the public.  This talk well arms the community, not just with rich data points, but also with relatable stories that any end client is going to relate to immediately. 
+
+Raw notes:
+Their company has 50 plugins on WooCommerce
+If you run a store, most likely running code they wrote
+Why OSS ecommnerce matters?
+May not be in the merchant's shoes
+True Story: 
+laptop stands, getting them to market
+intimidating process: design, source materials and protypes, manufacturing, shipping, lots more
+then you can finally look at marketing to consumers
+yearly trips to china is common
+want to have own store and sell on Amazon
+3 years later, great reviews, on time delivery, all standards doing great
+a few negative reviews and you cna lose your store
+cautionary tale of not owning the whole of the mechanism
+if interrupted then you can lose everything
+Open Source vs Closed Source
+Self hosting is assumed here
+Freedoms of FOSS is important
+Looking at the myths:
+	OSS is only for small stores - nope, HEB
+		there are theoretical limits of 5 orders a second - but most shops will never hit this
+	Free - can't be good
+		Other costs arise
+	Are OSS harder to use?
+		can be
+	Insecure
+	Just for bloggers
+		misoconseptions
+let's focus on strengths
+	freedom!  when you own the platform, no one can remove you from it
+	No data loss - stop giving away your data and not accessing it all
+	Developer independence
+	Usage freedom
+Security - proprietary hides it 
+	Quality 
+	Carnegie Mellon found proprietary - 20-30 bugs for every 1000 lines of code
+	Linux have 0.17 bugs per 1000 lines of code
+Flexibility is massive, can change when they need to shange them
+	inverts the features waned vs available things you can do, 
+	anything possible, though maybe not easy, with FOSS
+	Contribution - you can fix things in the codebase
+Interoperability
+	you cna connect anything to about anything else with APIs
+	Closed you are stuck with their decisions, no flexibility again
+Community - 
+	Resources are massive
+	we can all join in
+Weaknesses - lets be real
+	Setup and Configuration are not eeasy to a non tech
+	optimizations must be done, not baked in out of the box
+	Maintenance is actually important and you need to think about this
+	Clear responsibility - closed has a clear throat to choke
+
+
+https://twitter.com/in_a_pinch/status/921412606891405317
+
+
+
+###Wrapping Up
+
+Even though it was only a 1.2 day camp for me it was a great one.   I think in part because of the sharp contrast from the previous event [I came directly from](https://www.mcdwayne.com/2017/10/18/merge-conference/) and the overall super high quality of the speakers, this show stands out for me as one of the highlights of 2017!  There are a lot of great things happening in the WordPress world and it is exciting to be a part of them.  

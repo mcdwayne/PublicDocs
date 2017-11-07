@@ -1,0 +1,555 @@
+WooConf
+
+General
+https://twitter.com/marinapape/status/921065373029429248
+
+
+--- HOT LEAD: UBTech for a show next year, high tech CIOs and Higher Ed--- 
+
+Afernoon Snacks :
+https://twitter.com/ShippingEasy/status/921120870919213056
+
+https://twitter.com/openstream/status/921139908927881216
+
+
+Keynote 1:
+
+[State of the Woo]()
+[Todd Wilkens](https://twitter.com/toddwilkens)
+Head Janitor
+
+
+Celebrated our dieversity and that we all make it, since it is OSS
+
+32.4 Million downloads globally
+3 Million active installs from the WP repo
+
+So many amazing things built on Woo
+
+They are on track for Woo stores to do $10Billion in sales in the next year!!!!!!
+Conservative estimate based on their numbers
+$30Million in Woo extensions this year as well
+Healthy eosystem
+
+613 contributions in the last year from the commnity
+
+A diverse set of users
+Basically 3 key roles
+1- Store Owners
+2- Store Builder (the original focus of the tool)
+3- Extension developers
+They have different needs, but this is the best way they have made these distictions
+Mostly is is small - medium businesses
+This sets you up for evolution, does not happen with large systems
+
+Cases tude from his friend that 
+Sqarespace got started, but no room for flexibility or growth
+it was really inflexible, he has high end craft , needs a unique experience.
+WooCommerce is a fit for him to do it himself, and as evolve, a pro takes over...that is the dream
+This is a typical one though, likely know such a story
+
+But it is not just about small -med
+there are multiple doing $100M+ a year ont heir sites
+H-E-B case study
+12th biggest private company (Forbes) grocery stores
+more tha 40 stores + growing
+HEB was 2 hours ahead of the FEMA convoy during the Houton floods
+same ethos but at scale for whole state!
+They don't just sel stuff, they do good stuff
+
+Big news from the year was Woo 3.0
+Abstractions - CRUD classes
+Rest
+Performance
+new product gallery
+new CLI
+logging system
+Don't want people to have to hack PHP to customize in the future
+The 2.0 rollout was shakey and they admit that now, they learned their lesson though
+LEarned: More reliable update/upgrade experience 
+That involved Woo and Extention Devs
+
+Committed to making upgrade and maintence exp. rock solid, 
+For instance: internally they ping certain woo usrs to preview releases now
+regular roll outs expected and much improved experience in the future
+3.1 and 3.2 had ver few issues for a lot of feature rolls outs/improvements
+1-CSV import/export in core
+Extention license management in Core
+Search helpers for Orgers
+2- Better coupon control
+Extension version checks
+Search helpers for Products
+Better integration with SaaS payments, shipping, an taxes  
+
+In near future
+Fster tables
+new event queues to remove race conditions
+
+Making it easier to manage store builders to manage more stores from the product side
+No more subscrition keys to manage
+copy/paste is not scalable, now one click
+Also need to be able to share and transfer subscription, new now, improving fast
+---? Woo and WordPress.com are merging affiliate programs
+test extentions before you buy
+Better UX for store owners
+
+Paypal, Stripe, Square, Klarna (Northern Europe)
+New automated tax service, automate for all the largest markets (US, EU, CAN, AU)
+make it easier to onboard no matter where they are
+Have to set up Jetpack - tryingt o make it super simple, just hit connect and JetPack just happend
+Then can set payments, tax, logitics before they put their first product online!
+
+Been investing a lot in cloud services foundation
+Don't want to pull people away from the idea of self hosting but looknig at cloud more and more
+Woo + Automatic can build on their strengths
+they agree 2 factor auth is great why rebuild it, 
+same thing with Jetpack, it is larger than Woo and learned a lot before Woo, moght as well combine forces
+
+Constrictive feedback helps them grow!
+
+Also revamping the mobile app for WooCommerce (!!!!) 
+2018 roll out is planned
+Store owner feature love
+Builders can more easilt sell since it is all included!
+No plans for chaging for mobile app, just part of Woo
+
+Big changes in extensions
+Not a lot rolled out in 2017
+BUT a lot of devs asking for more and more
+Current extention devs want more direct access to customers and more contril over products
+retinking architecture
+!!!Going to be opening up the marketplace for extensions! (Talk on that later)
+
+needed to open it an change dynamics, higher payouts and more control, more open
+
+https://twitter.com/nickweisser/status/921051241660084224
+
+https://twitter.com/GoRobotNinja/status/921053446383452160
+
+https://twitter.com/wpcombo/status/921064376244850690
+
+
+
+Keynote 2
+[Why Customize?](https://needmoredesigns.com/wooconf17)
+KANDACE BRIGLEB
+[Kandace Brigleb](https://twitter.com/kandacerae)
+Partner at Needmore
+
+Make every room you walk in better because you are there
+
+Small shop Needmore
+Coffee brands have universal issues
+she has a show for coffee folks
+coffee roasters have specific needs arond design
+Many people get the same beans, so it comes down to lifestyle brand
+lot of that comes don to design
+Must differentiate
+WooCommerce helps them be flexible
+Joy to be a part of this community
+Looked at customized website strategy and case study
+WHY???
+then how
+and then Who does what on these projects
+Make every project you join better ebcause you are there
+Not making websites just to do so
+making stories that have a pull, sell things better
+, more donations, ect
+make it easy for poeple to uy
+need to buy direct on the sites, but prduct into hands of customers is the uderlying goal
+we want more than things though
+experiences make us happy
+in the end, the hot coffee in a cup is happier than holding beans
+need to start making emotional connections with your stories
+leave room for emotional connectionst o grow
+not every page needs to direct drie conversion
+Let people fall for your brand
+Traditional Web Process - used to be good
+but it does change some
+still alinear process
+discovery, structure, design, developer, hand off, Launch
+expects milestones
+billing cycle linked to this most of the time
+but some decisoins later or earlier need adjustments.  Hard to rethink sometimes
+Earlier assumptions about customers and needs need readjustments somemtimes
+
+We have to empathize
+To be interesting, be interested.
+Try to talk to anyone along supply chain for coffee
+Go do a thing yourself and see how you felt through each part of the process.
+
+Define the issue, It's not "design a chair" its "create a way to suspend a person"
+Ideate
+No good idea have come from staring at a screen from other peoples work
+It is only in still water that we can see
+get out of your bubble
+\
+They make lists of 10s each day, just used to generated ideas
+gets you used to throwing ideas away and letting go
+why 10?  3 to 5 is too few
+10 means they are expecte to throw out 1/2 of ideas
+by 9 or 10 ideas get weird
+create and build as you g, protoype early to get ideas out
+Never a sense design was over, bill by month, not by phase!
+
+Case study time
+coffee reoassters, hand tallying as they printed labels
+lot of errors, customers didn't rust the process
+made them reports that told them what to do, custoemrs trusted that process, more sales
+
+Let them 
+Flavor Notes, fairly new, like wine
+changed the way FourBarrels did it, beat the rest of the market.
+
+Literary arts example, 
+map was just the programs site map basically
+very silos
+they did an empathy step, everyone wanted less siloed
+
+Team engagement - need better teams working togetther for custom web design
+Team A Dsigner, Exec, PM, Client, Programmer
+Team B Some people have experience, some don't, when the meetings are over, people linger for a while
+which team innovates more: Team B says research
+less structure makes for better innovations
+
+Less a good idea to stick to traditional approaches overall they have found
+Devs and Design wall is bad, does not feel good
+
+"I don't like to be encumbered by that is possible" - designer
+
+Everyone designs!  
+Design is how it works
+Anyone who influences what the design becomes is the designer
+We have responsibility to speak up then
+means all voinces need heard
+
+Sometimes the simplest answers are easier to see from the outside
+In the beginners mind there are many possibilities, in the experts mind there are few
+
+Sakeone - brewer/importer
+team B approach
+smaller budget, but important to tell story of the brewers and their local process
+excited about what akes sake so interesting
+Oregon vs Japan similiarities, tells the tory modularly, very successful and simpe to design
+We are ultimately judged by how successful it is, not by who came up with the idea
+
+La Marzocco
+espresso machines
+the lamborgini of the espresso world
+give people more ownership feeling before buying, made configuratior
+press loved it gave all new press, boosted sales!
+
+We are all made of stars
+We are al designers
+
+
+https://twitter.com/wpcombo/status/921086262345334785
+
+https://twitter.com/nickweisser/status/921072322982723585
+
+https://twitter.com/in_a_pinch/status/921069343185682432
+
+https://twitter.com/McDwayne/status/921068713410830337
+
+
+
+Julia Amosova - woo commerce support introduced
+Intros are not something I often talk about and I would like to remedy that.  
+https://twitter.com/McDwayne/status/921085412327559168
+
+
+
+[How we are scaling WooCommerce Core](https://wooconf.com/schedule/)
+[Kevin Killingsworth](https://twitter.com/coderkevin)
+
+Goals
+Scaling to Huge
+Performance: Approapriate to scale
+Extention cmpatability
+
+CRUD objects in WooCommerce
+comes from SQL 
+does not just aply to relational DBs
+Improves the intereface
+New Release CRUD class Dec 2016 Woo2.7
+go read that blog post
+Data stores = data flexibility
+Data Stors were his idea, but he did noe of the work
+Data stores are true but not persistant
+Does not know how it is stored anywhere else, just busienss logic around it
+
+Right now, default 
+data store get_post_meta in array f order objects
+can implement abstraction and not break anything
+CustomTabels - Lot of postmeta, how t we up performance, lot of poepl agree, custom tables!
+Liquid Web just related plugin that abstracts thaat table approach
+How does it scale though?
+Abstractions are perminate
+By the time you are doing a thing, hope to have enough money to solve the scale issue from infrastrucutre
+solvable problems
+more machine, more DB changes are possible then
+New diagram
+Custom Table Data Store
+Get row call, it getpostmeta
+many compbos of information
+
+Question1  Save method, there is a data structure to it, CRUD objects, why is that work that way?
+
+Q2 - Are cutom Tables really the future? 
+CRUD int he data store 
+
+Why is CRUD important?
+All owners want to make millions but most wont
+they have to pick a platform when they are tiny
+
+Multiple Sites, Multiple Databases
+DATA stores make some happy intended befefits they have found:
+What if you had single place that you shipped from but have regions you sell in international
+do you really want to serve all of those from a single site in the US?  US - Australian connection is hyper slow, does it make sense to do it.  Legal concerns for localization
+All same US warehouse though.  Multiple sites, different currencies
+Data Story that got it from inventory systems
+Orders Data Store
+Product Orders store
+Inventory can be on anything else and just feed the objects, not the DBs
+
+Import/Export (for free!!!!!)
+iterate array and export to another store without directly manipulating the DB
+How does it use processor resource
+can do batch or can do this one at a time
+Lot of code that needs evaluated
+
+WooCommerce Custom Order Table - Mindsize and LiquidWeb built it
+Already done, Woo does nto need to do it on their own
+
+Woocommerce Product Tables Feature Pllugin in their Woo Core team recently
+private now, public in a few more days
+
+DEMO CODE- Pre-alpha Product Product Inventory Datastore - Kevin's project
+
+easy to implement
+Postmeta matting
+CRUD beneath that
+
+also has extra function to update post meta as well
+
+Q3 - is there a performance impact
+
+Q4 -hard to hear but about metadata on the CRUD itself
+There are meta store on CRUD but you can push that post meta
+Backwards compatibility os the trip up for some of this
+how do you do this in a custom table
+
+better than adding this step to business logic and validation
+just focused on what do I kneed to do to read and save data
+
+Flexibility to connect not just to $wpdb but to anything
+
+Q5 - eventaully you wan to clear that out,how invalidate?
+Post_Meta is the concern here.  
+
+(If I am understanding we are basically creating an in memory data store that leads a table that reads/writes to the DB indirectly  )
+
+
+https://twitter.com/schmitzoide/status/921087816653668352
+
+
+https://twitter.com/JS_Zao/status/921116754381803520
+
+
+[Aviva Pinchas](https://twitter.com/in_a_pinch)
+[Opportunities for your plugin](https://wooconf.com/schedule/)
+
+3Million sotres running Woo under the hood
+A store running Woo runs 15 plugins
+6 are specific to Woo
+Lot of plugins, need to have regional flexibility
+we solved these together!
+
+Opening Woo marketplace to new developers
+long tail of Woo makes up a lot of the userbase
+need specilized local solutions, like FastPay in South Africa
+Success is when people dev product for solving loclal issues
+
+CASE STUDIES of things individual devs have made:
+
+Fashion is the top use case
+By default Woo includes variations
+
+Product Type extensions make more money than anyother category
+also most complex
+
+vape supply store, hard to manage artisinal inventory
+bundles for own customers
+rolled that out to the rest of community 
+
+FB and Mailchip plugin 
+can think big with good partners
+first new dev extention
+by solving a real use case for real customer and then releasing that
+
+CLaudio Brazil specific plugins case study
+
+1200 ideas on Woo ideas board, real problems
+types of things plugins can solve
+
+Any extension for sale on WooComerce is discoverable through the product
+Not just a proeuct but Supports and Updates
+Launched to let plugin devs to support their own plugins
+Connecting ot customers in Woo i their inbox and pridcut
+
+When????
+November you can submit 
+woocomeerce.com/develop-woocommerce
+
+
+https://twitter.com/benscoot/status/921136299385405440
+
+[Fostering repeat business](https://wooconf.com/schedule/)
+[Cody Landefeld](https://twitter.com/codyL)
+
+Clients get hyper focused on a single challenge
+they don;t want to start from scratch
+this is the victory you wan to focus on
+"Little hinges swing big doors"
+
+Part if their challenges were around staffing
+accounting and sales
+
+we need to know theur business, not a crude thing to offer more value accross the business, crude to blindly sell on
+learn to sell
+
+KEVIN EULENBERG (Golden ticket winner)
+When to Buy, Customize, or Extend a Plugin
+used FANCY PLUGIN DESIGNER
+
+
+
+[Rand Fishkin](https://twitter.com/randfish)
+[Wizard of Moz](https://wooconf.com/schedule/)
+
+Slides: bit.ly/keepup2017
+A move to machine learning, 
+Old guard was not AI first, that changed
+Rare to see 10 blue links, now mixed results is 90% of all reselts
+PPC growth continues and levels off
+Thanks to clickstream data, We know more about how searchers interact
+Theory of why Google images are 21.80% of all web searches in may 2017
+We google celebs a lot and like looking at pics and look for related things
+mobile results
+2% goto paid
+40.9% click on organic
+57.1% don't click, for any 
+Desktop
+2% paid 65% organic 37 no click
+Google sends traffic to the long tail
+See where competitors get their traffic
+create multiple content channels for multiple engines
+Google images drive a LOT of eccomerce
+google is owning the experience, Google does not send it unless the user clicks on it
+there is a way to draw the click
+text in images is one way to draw in clicks for the right kind of queries
+influence search suggest
+call things the things they are called, not what you are competing on
+KEyword matching is not a competitive advantage
+on-page SEO is not longer stisfied with keyywords either
+Growth Hack 
+Replublishing - recreate it or a part - create much more link for brand
+Published on medium 
+
+Step 1 find two similar stores in the region
+Skip chains
+step 2, use a combined query for those businesss
+boom, link opportunities galore
+ 
+
+https://twitter.com/BFTrick/status/921156889093836800
+
+https://twitter.com/nicoleckohler/status/921156637720707072
+
+https://twitter.com/askwpgirl/status/921156316265099264
+
+
+Keynote 1 Day 2
+
+[Beka Rice](https://twitter.com/Beka_Rice)
+Partner at SkyVerge
+
+Selling Open SOurce ecCommerce to clients
+50 plugins on WooCommerce
+
+Why OSS ecommnerce matters?
+May not be in the merchant's shoes
+True Story: 
+laptop stands, getting them to market
+intimidating process: design, source materials and protypes, manufacturing, shipping, lots more
+then you can finally look at marketing to consumers
+yearly trips to china is common
+want to have own store and sell on Amazon
+3 years later, great reviews, on time delivery, all standards doing great
+a few negative reviews and you cna lose your store
+cautionary tale of not owning the whole of the mechanism
+if interrupted then you can lose everything
+Open Source vs Closed Source
+Self hosting is assumed here
+Freedoms of FOSS is important
+Looking at the myths:
+	OSS is only for small stores - nope, HEB
+		there are theoretical limits of 5 orders a second - but most shops will never hit this
+	Free - can't be good
+		Other costs arise
+	Are OSS harder to use?
+		can be
+	Insecure
+	Just for bloggers
+		misoconseptions
+let's focus on strengths
+	freedom!  when you own the platform, no one can remove you from it
+	No data loss - stop giving away your data and not accessing it all
+	Developer independence
+	Usage freedom
+Security - proprietary hides it 
+	Quality 
+	Carnegie Mellon found proprietary - 20-30 bugs for every 1000 lines of code
+	Linux have 0.17 bugs per 1000 lines of code
+Flexibility is massive, can change when they need to shange them
+	inverts the features waned vs available things you can do, 
+	anything possible, though maybe not easy, with FOSS
+	Contribution - you can fix things in the codebase
+Interoperability
+	you cna connect anything to about anything else with APIs
+	Closed you are stuck with their decisions, no flexibility again
+Community - 
+	Resources are massive
+	we can all join in
+Weaknesses - lets be real
+	Setup and Configuration are not eeasy to a non tech
+	optimizations must be done, not baked in out of the box
+	Maintenance is actually important and you need to think about this
+	Clear responsibility - closed has a clear throat to choke
+
+https://twitter.com/zaowebdev/status/921413601113632769
+
+https://twitter.com/JS_Zao/status/921412610842644485
+
+https://twitter.com/in_a_pinch/status/921412606891405317
+
+
+
+(sublime . = open the whoe flder)
+
+
+[Zach Stepek](https://twitter.com/zstepek)
+[]()
+
+
+47% expect a < 2 second load time
+57% of online shoppers (2015) abandon a page after 3 seconds
+how to fix/address?
+browser optimization is a great place to start
+	__ Key here is many small opimizations add up to real scale and performance __
+Above the fold - gain speedby just addressing that part to make it look ready quicker
+images and other media - minify
+
+
+https://twitter.com/zaowebdev/status/921419897875435520
+

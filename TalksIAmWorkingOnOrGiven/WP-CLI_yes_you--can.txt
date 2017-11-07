@@ -1,7 +1,7 @@
 WP-CLI: wp yes you --can
 WP-CLI: Don't Fear The Command Line
 
-It is 2017 and time to make the robots do all the things we can make them do.  Machines can do just about anything as long as you give them the properly formed instructions.  Fortunately for us WordPress allows us to give these instructions in an easy to learn and very robust manner called The WP-CLI.  It is the fastest way to install, active and update any theme, plugin or just about anything else in your WordPress site. 
+It's time to make the robots do all the things we can make them do.  Machines can do just about anything as long as you give them the properly formed instructions.  Fortunately for us WordPress allows us to give these instructions in an easy to learn and very robust manner called The WP-CLI.  It is the fastest way to install, active and update any theme, plugin or just about anything else in your WordPress site. 
 In this presentation I will demonstrate a simple install script that will have a fully functioning, customized WP website in about the same time than it normally takes download the WordPress.zip file.  We will also look for how third party tools and hosts are leveraging the WP-CLI to make your life as a developer even easier.  
 
 Walk away with:

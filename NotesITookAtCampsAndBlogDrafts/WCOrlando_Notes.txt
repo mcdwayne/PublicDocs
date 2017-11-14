@@ -1,0 +1,479 @@
+General:
+
+https://twitter.com/jesseinternet/status/929465403490914304
+
+Wapuus
+
+https://twitter.com/wapuus/status/929356885614088193
+
+
+###Food and Fun
+
+#####Speaker/Sponsor Dinner
+Ice Bar
+
+https://twitter.com/boldgrid/status/929140654638272513
+
+#####Day 1
+I didn't try the conference coffee.  Nothing against it, but was feeling a team mood and that is a consistent experience thanks to the fine folks at [Twinings Tea](https://www.twiningsusa.com/).  
+
+Lunch was interesting since I saw no veggie options, I assumed there were none.  I missed the tweet that said to ask the servers and they wold make you a fresh plate fo alternative foods.  This was not a huge concern because fellow vegan food enthusiast [Josh Pollock](https://twitter.com/Josh412) of [Caldera Labs](https://twitter.com/CalderaWP) 
+https://twitter.com/hiwillfang/status/929419711296757761
+
+###Sessions
+
+#####Opening Remarks
+
+https://twitter.com/dimensionmedia/status/929349311577706496
+
+
+#####Keynote
+[A Personal Story: Joining the WordPress Community](https://2017.orlando.wordcamp.org/session/keynote-a-personal-story-joining-the-wordpress-community/)
+[Sam Smith](https://twitter.com/gsamsmith)
+
+Firefighter
+lot of free time between shifts
+did't want to be a handyman or grass cutter
+went on interenet,
+kept getting pointed to Web Developer
+liked no set schedule and could be remote
+internet is not going anywhere
+growing industry
+Found out about how websites work
+youtube totorials
+html
+borrowed MacBook Air and bought a chromebook and installed linux
+enough to get him started
+Found a lot of outdated videos
+tech moves fast
+possible unreliable sources
+freecodecamp and W3School (free code schools)
+Learned CSS
+Kept seeing WordPress pop up
+Should know what that is
+dug more in, found a lot of things he didn't know were possible
+back on youtube
+local dev environment
+linux sort of worked
+hacky but a little sandbox
+You can only ask Google so much
+I needed like minded people
+found meetup app
+AP meetups
+Messaged David Laietta
+Was very welcoming!  
+He was nervous
+Forst meetup
+introvert
+thought people would be too advanced
+but happy to fine people of all skill levels
+excited to be around people also passionate about things
+Q&A asked how is everyone learning
+Lynda.com free with library card in Orange county
+helpful nature of others, hard to do with Linux
+commandeer the macbook air
+Reputable online learning is key
+Free: Freecodecamp and W3school
+Paid: Lynda.com, Treehouse, Udemy
+Skeptical of learning online
+hands on
+Ability to pause and take notes
+Ability to replay courses
+in browser code editing alongside the videa (most hands on)
+learn when it works for your schedule
+Hears about WordCamp
+signs up for WC Orlando in 2016
+hit with hurricane Matthew
+Called into Firefighting work for 4 days
+40 calls in 8 hours
+Asked David for one on one learning
+he said no but 
+WC rescheduled
+first time was very overwhelming
+aimlessly wandering around from talk to talk
+getting frustrated and feeling alone
+wanted to go home by lunch
+saw a guy that looked familiar
+ate lunch with him
+it was Jesse Petersen from Treehouse instructor
+shared their stories
+gained a mentor
+helping him out in the months ahead
+Second day 
+awkward feeling walking around
+meets Sandy Edwards, her future boss along with Chris Edwards
+Inspired by the community 
+It's all about the people
+Bank on people first
+accountability
+Google is your friends
+Ask for help when gaining knowledge
+search out new tools from others
+find where they are gaining their knowledge
+used Git
+Attended another 2 WordCamps
+continued learning
+started at the Agency CESquared
+keynote now
+Building your personal brand comes aloing with the journey
+documenting your larning can build credibility
+you can get leads on social media
+loggin on and answering questions is a good thing
+chance to give back and help others
+huge topic, can't touch on eery detail
+Recap:
+figure out hat you need to learn
+team up wtihother people
+have the right tools
+never stop leaning(Take all the notes!)
+ID what you are passionate about!
+Get involved locally
+its OK to feel like you aren't getting anywhere
+Google is your friend (15 minute rule)
+build your brand
+Don't give up!!!!!!!! Big break maybe right around the corner!
+Your not alone, everyone is nervous
+eople are here to meet other people
+Sr. WP peeps, be a soft place to fall
+have a great time!
+
+
+https://twitter.com/GiveWP/status/929353543550668800
+
+
+
+[Tech and the Time Warp: How the ever changing tech world shatters stereotypes about age, ability and experience]()
+[Miles Lifton](https://twitter.com/KidCoderDev)
+
+It is inspiring to hear young people 
+
+Born in 2006, always loved tech
+Tech is moveing faster than a bullet train
+thing from 10 years ago no longer work today
+for example python 2.5 and 3.0 are different compilers
+WP is older than Twitter and 27% of internet 
+WP started with a dozen users in 2003, released for free
+little drop turned into a sea
+history of the mobile phone
+supercomputers in our pockets
+python timeline
+moving so fast means never a bad time to start
+anyone can jump in
+can do things other than be a dev
+Social media 
+What draws you to tech?
+What drives you forward?
+What is your passion?
+everything we think is going to happen in the future is already here
+tomorrow starts today
+like a ball of clay
+love to learn
+the community gives
+global reach
+He was going to learn Apple, iOS 6 buggy
+was referred to a local college professor
+had a TA help him out
+Wants to go to DefCon and BlackHat but you have to be 18+
+CES is even 18 and over
+People make all sorts of assumptions about 
+If you are speaking to someone in their 2nd language you are speaking to thier mind
+if you speak in their first language you speak to their heart
+languageisnotabarrier.com
+WordPress is moving faster and faster
+We need fresh minds to learn new things
+once you learn one thing, you are spurred to learn more
+Asks the audience about their ideas 
+commentary on how to help leverage their community to reach your goals
+
+
+https://twitter.com/dimensionmedia/status/929372703550734341
+
+https://twitter.com/WordCampOrlando/status/929374882768523264
+
+
+
+
+[The Ups and Downs of Transferring Your WordPress Site](https://2017.orlando.wordcamp.org/session/the-ups-and-downs-of-transferring-your-wordpress-site/)
+[John Hughes](https://twitter.com/johnhughesgolf)
+
+Not a coder
+not a designer
+A do it yourselfer
+A golf pro
+always trying to learn 
+Masters Professional training level, the PHD of his industry
+Family comes first, 
+does a lot of talks
+first site one page really simple
+grew it from there and rebuilt
+ended up on page 7 of google
+was doing all own SEO, learning as he went
+lot of CTA issues on early sites
+redirects broken, poor email and bounces
+poor loading times
+poor photo compression
+92% bounce rate
+no theme uppdates, developer unresponsive
+feels this is a standard postion people can find themselves in
+his host: poor customer service
+unexplained downtime
+shared server vulnerabilities
+Unreliable website
+last year, july 2016 made a game plan
+needed better uptime, security, more options
+change theme - you get what you pay for
+Elegant themes, Divi - Siteground is what he went with
+135 domain names
+best practices how switching over works
+Got to do your homework
+research and ask questions - not all hosts are for all people
+ask for free trials, never hurts to ask
+Once a decision is made but before moving your site to a new host
+fix any simple tasks of content, links, image compression
+don't move junk
+kill unused plugins, the slow your site down
+review site on all devices and browsers possible
+53% of users are on mobile devices
+backup site and DB and export 
+While leaving site live on existing host, transfer site files to new host company
+pay for the extra services to do as much of this for you as you can
+create a staging area, new environment
+test/review on all deviced from stage
+backup site 
+after transfer
+explore options
+change theme
+clean up errors
+test, test test, 
+try to break it and take notes
+Results
+SSl 
+Amenities offered improved backups and such
+customer service is outstanding
+more secured environment
+While site is still live on original host
+create backup
+make a list of changes you need in new theme
+Test everything
+again use multiple devices 
+important that it works right before you turn it live
+do things consistently
+make sure all links work
+Agencies are good at this
+it is a time vs money equation
+if you have more money than time, good idea to talk to an Agency
+otherwise use checklists and time
+Backup often
+he did it every 2 weeks but you can do it however often makes tou feel good about it
+cta buttons are a big thing for his industry
+increased his revenue 
+results
+99% uptime
+excellent customer service
+technicaly complex tasks done by host company
+decreased load time
+bounce rate of home page
+less clutter, more functions
+Siteground walked him through it first time
+taught him how to do it
+
+
+
+https://twitter.com/McDwayne/status/929432692717969409
+
+[Watch Edit Repeat: Today’s Story of User Tracking](https://2017.orlando.wordcamp.org/session/watch-edit-repeat-todays-story-of-user-tracking/)
+[James Tryon](https://twitter.com/JamesTryon)
+
+That is the point of user tracking?
+1 - making sure your site/app actually works
+2 - make sure your marketing budgets are being spent in the correct areas
+Do you really know how your users are using your site?
+understanding where they came from
+understanding where you should focus your marketing $ on thing that work
+how to
+ga-devs-tools appspot campaign builder
+not direct GA
+spend money on fancy tools
+new spreedsheet is how they track it, simple and portable
+using Buffer to manage social media
+reshared and have some decent followers have good way to track them
+utm term and campaigns
+onClick onClick="_gaTracker('send','event', .......
+older but reliable way to do this
+namecheap.com crazy88 domains
+make shortest domains possible in print
+then tack that landing page traffic
+lot of tracking phone number services - lot to consider not going to make one reccomendation
+types of testing
+- A/B Testing 
+Tools 
+VWO
+Optimizely
+Hotjar for Heat Maps
+helps understand the user experience
+Test one thing at a time
+Test something crazy once in a while.
+Everyone’s market is different.
+video recordings are his faovrites
+bookings plugin example, people didn't realize had to use it differnt
+real time and not just stats, real usabile actionalble data immediately to improve
+site was beautiful but just not usable
+Showed a hotjar demo
+100 at a time, 
+you do have to purge them
+Shut up james, don't be lazy, do it right!
+
+
+https://twitter.com/dimensionmedia/status/929446855532072961
+
+
+[How to Fire Yourself](https://2017.orlando.wordcamp.org/session/how-to-fire-yourself/)
+[Andrew Norcross](https://twitter.com/norcross)
+
+Used to have an agency
+wanted people to hire in in spite of him
+the work had to be good,
+that worked
+other goal reputation of company grew well beyond him
+for a long time he was the one being hired, not the company
+they pulled it off
+200% growth
+He walked away this spring
+why?
+growing and thier of clients involved way more work thet he was not well suited with
+roles changed as they scaled
+He loves writing code, not the things that come along with it
+when he left he was exhausted, took time off
+hard to do nothing
+did not go in to fail or quit
+did not prepare 
+how many people know how much their company is worth?
+how you gonna value the company?
+valueations methods are going to come into play, decide before you are worth anything
+maybe think trigger terms
+hit X, exit
+it was harder to leave than a divorce
+you can quit your company by closing the company
+he trusted his partner and let him take over
+Legal, lot to consider
+none of this is legal advice
+you should have an attorney
+thought through how they wanted to part
+then took it to lawyer to sort out
+If it isn't documented, it's up for debate
+in this case did buy out
+personal accountant got involved, protect from IRS
+Taxes are a huge issue
+had to make an s-corp
+you can't remove primary from an s-corp without a lot og hurdles
+Corp Amex can not remove owner either
+The aftermath
+how to plit up clients
+he took 2 of the clients, everything else stayed with company
+business bank account had issues
+lot of mieutua but all important
+you can be as public or as private as you want
+they told employees first before anyone else
+otherwise inviting trust issues and negative impacts
+What about me?
+do something for you, take tmie for yourself
+disconnect
+get to the little stuff around the house
+Learned a lot throughout
+lot to know
+you don;t start with a business partner, you figure that out
+
+
+
+
+https://twitter.com/GiveWP/status/929743127371571202
+
+
+
+
+[Becoming a Better Developer](https://2017.orlando.wordcamp.org/session/becoming-a-better-developer/)
+[Micah Wood](https://twitter.com/wpscholar)
+
+His stroy
+grew landscaping company
+martial arts shchool
+before web dev
+economy took a hit
+lawnmowing took a hit
+left with premium customers
+sold those off
+Developed and knew enough to get buy
+but didn't feel he had what it took
+but really everyoby has the ability to bigger things if you put your mind to it
+today focuing on development
+how to identify where you are at the moment and how to optimize your journey
+that is the goal here
+Dunning-Kruger Effect
+bank rober was wearing invisible ink was surprised he got caught
+do dumb pelple know they are stupid?
+perceived ability vs perceived test score vs actual test scores
+some people don't know they are better than they really are
+New devs are often more confident that they should be
+other end of the spectrum is imposter syndrome - expereinced devs are less confident than they should be
+it takes competence to recognize competence
+how do you know what you need to know without knowing what you need to know?
+competence vs competence chart
+peak early and then a low valley and then back up
+I am new -> I am awesome -> I don't know what I am doing -> I got this
+any time you learn something new, you are just imitating someone who already knows what they are doing
+we don't really know yet
+this phase brings a lot of enthusiasm
+realize and recognize you are going to go through this curve
+focus is the key to getting through this part
+exposure vs engagement
+good to get high level broad spectrum, but focus in and learn
+what is silver bullet?  get through and start making money
+there is no right answer though
+you should have a path and be able to change it
+go another route
+Keep that focus (ford focus on screen)
+need a good feedback loop
+keep it local! 
+have a good local dev environment
+originally was just uploading everrything to see if works or not
+then pulled it locally
+then xdebug and stepped through line by line to understand solutions
+but better understand exactly what WP even does
+He used Google for everything
+10 minute rule
+if you don't find it in 10 minutes, likely there is not a good answer
+maybe a simple dumb mistake on your end
+reach out to friends, other devs
+give it the full ol' college try, not just the high school try
+imitate -> practice -> build (Uncertainty -> ...)
+Focus-> feedback - > Collaborate
+Pair programming is explaining why you think you need to do something
+not as many people do this as they should
+very effective way to learn
+Code Reviews are a must!
+You don't just ask someone to be your mentor
+you should find a way to benefit them
+trade and work it out with someone better at the thing you want to do than you are
+imitate -> practice -> build (Uncertainty -> effiiency)
+Focus-> feedback - > Collaborate -> automate, reuse
+you spend 90% of your time readng code, messy code it harder to read and wastes times
+clear as opposed to concise, concise can be less clear
+and modularly reusing code
+last step is Mastery
+imitate -> practice -> build (Uncertainty -> effiiency) -> Master
+Focus-> feedback - > Collaborate -> automate, reuse - > strategize
+effectiveness
+always goig to be a knowledge gap between what you want to know and what you know
+giving talks is how he likes to learn
+defining and sounding out why he does 
+whole lot of diffrent things you can learn from different communities
+Q&A comment - "Thank you, I don't feel alone in this anymore."  (WOW! what a comment)
+
+
+https://twitter.com/McDwayne/status/929771302788980736
+
+*****My session
+[Everything louder than everything else! Navigating stakeholder needs through better discovery
+](https://www.mcdwayne.com/everything-louder-than-everything-else/)
+
+I was super glad to have the chance to give this talk

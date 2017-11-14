@@ -1,0 +1,491 @@
+WordCamp Seattle: Seeing my first snow of the year and living through the time change
+
+For the first time since I was in [Iceland](https://www.mcdwayne.com/2017/03/01/dcnlights/) I saw fresh snowfall.  Unfortunately it was falling a lot and on the [SEATAC airport](http://www.portseattle.org/Sea-Tac/) so my flight got delayed a bit and we sat on the runway once we landed waiting the backlog to clear.  Not too terrible of a flight all in all.  Regardless of weather, I was super thrilled to come back to the [home of Starbucks and Microsoft](https://www.urbandictionary.com/define.php?term=seattle) for [WordCamp Seattle 2017, aka WCSEA](https://2017.seattle.wordcamp.org/)
+
+This was my second time to WordCamp Seattle and thus my second trip to the [Washington State Convention Center](http://www.wscc.com/). Also, I was just there 2 weeks prior for [WooConf](https://www.mcdwayne.com/2017/10/22/wooconf-2017/) and had some pretty high expectations from that event for this community.  Well friends, I am happy to report that I was not disappointed!  From amazing sessions to fantastic lunch options to contributor track fun and excitement, this was not a WordCamp you wanted to miss.  Let's dig in.  
+
+https://twitter.com/KoriAshton/status/926838743876624384
+
+
+
+###Food and Fun
+
+#####Speaker Dinner
+
+As per usual with WordCamps, the fun kicked off the night before the event with the speakers and sponsors gathering together and sharing a drink and some food. We assembled at [The Elephant & Castle ](http://www.elephantcastle.com/seattle).  While this place scpecializes in hearty pub grub, I was very pleasantly surprised by the quality of their baked balsamic glazed hummus. Tangy and sweet and creamy all at once.  It was so great to see so many people there including some surprises like the amazing [Carole Olinger](https://twitter.com/CaroleOlinger) who introduced me on stage back at [WC Europe](https://www.mcdwayne.com/2017/06/20/wceu-paris/).  I was also there with a few members of ym company and I had the divine pleasure of introducing people around.  It feels good to make introductions and see people immediately hit it off.  
+
+https://twitter.com/McDwayne/status/926612298919063553
+
+
+#####Day 1
+Like many conference centers, this place relies on the in house catering to provide conference coffee.  Unlike most places, since we are in Seattle, bad coffee is a terrible sin and we got [Seattle's Best](https://www.seattlesbest.com/) which is a far step above most bulk coffee.  My colleagues had supplied me with some pretty neat options for breakfast, including some vegan donuts, and the day started out amazing.  
+Lunch at WCSEA takes an interesting approach that leverages it's proximity to so many lunch places and I wich more camps would follow this approach.  Each day of the conference you get a gift card for $10 to go to one of several local restaurants. $10 is enough for a filling small lunch from any of these places and if you wanted more to supplement it, no issues paying extra with cash or card.  I chose [Veggie Grill](https://www.veggiegrill.com/) which is a chain I really wished was in SF, but also thankful it is not too close to my house or I would eat nothing else.  No animal products allowed on their decadent and robust menu.  I really wanted to take all the folks who were on the fence about the plant based food options here.  The food is just better.  
+
+https://twitter.com/VeggieGrill/status/921890230835167232
+
+
+#####After Party
+Again, as the year before and as many other camps are starting to opt for, the after party happened immediately following the last session on day one.  We once again returned to Elephant & Castle for our "No Host" party.  I go to a lot of events and I have only ever heard this term in Seattle, leading me oo believe it is a regional phrase.  "No Host" means that you are on your own for drinks and food, the venue is just providing the space to use.  Not a terrible way to go to be honest.  It keeps bad behaviors in check because if you overdo it, then it is your own fault, not ever because you got one too many drink tickets.  
+
+https://twitter.com/caseyrunz/status/927158267393884160
+
+It was a great time, but soon enough, some of us wanted to eat dinner so a small band broke off and had some pretty awesome asian fusion over at [Wild Ginger](http://www.wildginger.net/).  Their wine list is absurdly large, over 20,000 bottles and the staff is top notch.  Can not recommend them enough
+
+
+#####WCKaraoke
+I was extra excited about WCKaroake this time around because it meant I got to go back to one of my favorite karaoke bars in the world, RockBox, where you can, [according to their website](http://rockboxseattle.com/) "Rock Like A Salaryman."  This is my current favorite slogan for anything.  There was a great showing from the camp and this might be second only to [Chicago](https://www.mcdwayne.com/2017/05/03/wordcamp-chicago-2017/) for largest turn out for a WCKaraoke this year. I am super happy to be a part of this community!  
+
+https://twitter.com/McDwayne/status/927038675241672704
+
+#####Day 2
+More of the same from day one.  I again had good coffee and once again returned to Veggie Grill to feast for lunch.  There was some dessert things that happened but I am not sure of the details, all i know is I got handed vegan ice cream with peanut butter.  It was incredible.  Thanks to my teammate [Tessa](https://twitter.com/tessak22) for looking out for me.  
+
+No pics of this ice cream exist, so here is a random tweet about vegan ice cream I found:
+
+https://twitter.com/vanilla_cake/status/925540573775360000
+
+
+###Sessions
+
+#####Opening Remarks:
+
+https://twitter.com/wordcampseattle/status/926840913455808513
+
+
+#####Keynote 
+
+[WordPress is a Banquet](https://2017.seattle.wordcamp.org/session/keynote-wordpress-is-a-banquet/)
+[Andrea Middleton](https://twitter.com/andmiddleton)
+
+It is not everyday I get to hear one of the leads of the whole [WordPress Community](https://make.wordpress.org) give a talk.  I was super excited as the community itself has become one of my passions over the last couple years.  I love being a part of making WordPress even though I have never done a single pull request for code on the project.  This was actually the crux of Andrea's talk and I was super glad to hear this articulated so well.  The talk revolved around three stories of people who contribute significantly to WordPress without writing code.  No matter who you are or what you think you know, you know enough to contribute to the project.  Don't just sit there, go to [make.wordpress.org](https://make.wordpress.org) right now and join the team!  
+
+Raw Notes:
+Most people are surprised that this free software runnign 28% of the interenet is made by community
+lot of people work on WP but no one works for WP
+Goes over the teams
+Looks like a lot of plates on a table
+like a banquet
+each of us bring something to create something bigger than ourselves
+Not going to talk about the eating part - the using
+talk about contributing and the recipes
+and what some contributors have found works
+One of the goals 
+I couldn't do that fallacy
+	I can't write code so I can't contribute
+3 stories of contributors with no code!
+	there is some secret people or unusual attributes required
+She wants to show the source code of contributions
+humans made of human stuff
+1 - James Huff
+2004 - Lost and House re new, flip phones, ipods are new
+James working at a feed store
+macmanx news site
+wanted blogs, movable types
+James didn't like it, minor things got on his nerves
+WP 1.2
+hit bug
+answered a few questions on install
+he liked helping people
+he learned in the process
+I learned most of what I know today by researching answers for questions I thought were really cool
+User: Can I display only one category on my front page?
+Me: Wow, that sounds cool! Let's find out!
+Became a moderator when unemployed 
+went to work for WP.com
+happiness engineer
+49,000 replies on the support forums!
+start by focusing on what you know, not what you don't know. 
+You know something that someone does not know of the forums, even if you just installed WP
+Patience
+Willingness to help others
+Dedication to the project over your own needs
+Petya Raykovska
+2007
+Superbad, iPhone and FB premiered
+She was marketing manager for publishers
+set up a blog
+WP let her do things that until then took a dev to do
+in 2011 started a web agency
+translated stuff into Bulgarian
+she learned a lot about WordPress
+she got in deep in a way she 
+Eventually met the head of translations at WCEU
+Editing the Codex
+just gave her a page to edit, she did, and she realized at that table of international people
+part of something huge that mattered
+She ended up running the team
+in 2015 polyglots went to translating 30,000 projects
+still needed more people
+Stayed for the people
+they came up with WP Global translation day
+the last one was the biggest and she didn't have a direct hand, she passed it on
+it will be bigger than you
+Curiosity, Respect and patience a
+Bridget Willard
+in 2007
+Was working at the office manager for contractor firm
+WP.com blog personally
+in 2008 economy crash - crushed construction market
+Started a blog for company and didn't tell her boss
+she ran it on her own
+they let her
+no tech background, she had a relentless curiosity
+networking for a lot of social media
+brought in work
+undervalued
+she had 20K followers, which is crazy good for a construction company
+First WordCamp in 2013
+Side note - Keeping the price low for WC helps keep it accessible and growing
+Anyhow 
+Bridget kept building and learning and blogging about her user experiences
+by end of 2015 she got a job at a plugin
+she found her tribe
+I got a shout out :)
+Listening 
+learning and listening
+Intellectually honesty
+open-mindedness
+start small and move forward 
+that is only 3 of the 'dishes' in our banquet
+You are welcome to join us
+you are invited
+and you can definitely bring something to the table
+
+https://twitter.com/WPDistrict/status/926847793863561217
+
+
+[Accelerating Custom Development with Dynamic Scaffolding and WP-CLI](https://2017.seattle.wordcamp.org/session/accelerating-custom-development-with-dynamic-scaffolding-and-wp-cli/)
+[Ben Byrne](https://twitter.com/drywall)
+
+There is no secret that I am in love with the [WP-CLI](http://wp-cli.org/).  It is a real time saver for sure, but the real magic of the tool is that you can extend it and make it do anything you want.  It is rare however to hear someone make that as an articulate argument or real world example of anyone doing this. Ben hits the ball clear out of the park with this talk on both of those fronts.  His team has not only figured out how to make the most out of what WP-CLI offers out of the box, but they have also bent it to their own needs and made it do some pretty neat tricks.  I did my best to follow along here and make sense of my raw notes, but you should really find his slides to see the awesome code examples.  
+
+Raw Notes:
+real name of talk:
+"Come hear about this neat thing we built"
+building good stuff fast is the issue at hand
+Want to keep affordable, non-profit
+custom sites, can take a lot of time and effort
+A lot of people immediately got o premium themes
+overblown for some use cases
+hard to maintain sometimes, bugs and troubleshooting
+sometimes very hard to customize
+Starter themes
++ component libraries are another approach, 
+preferred way for a lot of people
+but at Cornershop
+lot of institutional knowledge
+hard to maintain library if you are doing a lot
+plus all the copy and pasting
+Dynamic scaffolding
+for their starter theme
+fancy way of copying things and configuring them as they set them
+warning: your milage may vary, not a best practices talk
+just ideas around efficient workflows they have experienced
+First goal is to speed development
+also easy for new folks to learn
+theme should have everything it needs and NOTHING IT DOES NOT - clean code
+Avoid reinventing the wheel
+avoid tedious, repetitive work (e.g. copy/past)
+WP-CLI is the cornerstone of the their work
+Broad support and awareness
+already offers scaffolding
+supports Mustache templating
+Easy documentation! - no separate help docs, all in tool
+WP-CLI scaffold child theme
+plugin
+post-type
+taxonomy - outputs you have to STOUD
+theme-tests - build s a bunch of files
+_s
+They extended it
+built Produce (it could be a package as well)
+It extends wp-cli with a new command and subcommands
+then run, command inject code into our starter theme, Crate
+Basic flow
+Make sure starter theme is present
+install & Activate Produce plugin
+Run WP-CLI commands
+...
+Example
+customize the admin login
+manually it is cumbersome
+Quick command lines to automate adding new logo and changing background!
+other subcommands
+wp produce site-options (bundle of fields they commonly mod)
+term-fields - acf fields builder
+articles gives you a new post type
+10 commands now and still growing
+lot of ideas in queue
+architecture - 
+base class with methods, variables and helpers to facilitate building commands
+subdirectories for a lot fo things
+articles files commands/articles
+more
+mustache templates
+automatic support for WP-CLI is part of why they like it
+template with some PHP and CSS
+4 variables injected
+mustache is name of curly brackets for simple templates
+commands are straightforward to extend and build
+__invoke is what gets triggered when you type a command
+you can skip things that are not needed when you enqueue things
+Don't touch non-generated fields! 
+makes it way easier to customize bu standardizing what they can touch
+moustache.github.io
+
+
+https://twitter.com/aaronmsturm/status/926864446714142721
+
+
+
+[Stronger Than Fear: Mental Health in the Developer Community](https://2017.seattle.wordcamp.org/session/stronger-than-fear-mental-health-in-the-developer-community/)
+[Edward Finkler](https://twitter.com/funkatron)
+[OS Mental Illness](https://twitter.com/OSMIhelp)
+
+Ed is one of the bravest persons I have ever met.  He is brave because he is standing up and saying things that absolutely need to be said.  Mental health is just as critical as any other kind of health, in some ways even more so.  It is easy to see someone with a broken arm or other obvious injury and give compassion and sympathy.  But mental health issues have a terrible stigma imposed by our fear and ignorance as a society which prevent us from even wanting to acknowledge this is a real problem.  Ed shared his personal experiences, ones I am all too familiar with and never really talk about because I too have a fear of being stigmatized.  It is time we openly talk about mental health and realize we all need some help and know people that are in need of some support and help.  If anyone out there reading this wants to talk, let me know.  I am always willing to be there to listen and support you if you feel you need someone to talk with about anything mental health related.  Be brave.  
+
+Raw Notes:
+this talk if for the people who work with tech
+How many people wear glasses?
+Are you comfortable talking to your co-workers about glasses?
+How about diving?  Talking about it?
+Cancer? 
+Mental health? A larger number than he thought would
+talk about your own mental health
+difference between talking about mental and physical health
+Generalized anxiety disorder - flight or fight is extreme in non extreme situation
+like a lion going to eat you is OK to have reaction
+but how about buying lunch?
+Walking into a new bar for the first time
+overwhelms
+ADHD - low frustration threshold - ten minute "snit fit" when things go poorly
+good at constructing false situations in his mind,  
+Therapy helps - talks about how and why he does the things he does
+some of this is advantageous to his job
+security issues, empathizing with users
+able to make disparate connections faster
+it can take everything from you though
+hospitalized and had to do outpatient therapy
+forced him to quit a job
+had o step away from stuff that is normal for him
+Feeling alone is a real part of it
+especially in a crowd
+depression kicks in
+afraid of people getting tired of him and leaving
+lot of people feel that way as well
+that is what we are fighting
+WHO study - burden of mental disorders is largest in North America across all catogies
+People do not feel they can talk to their peers or employers about mental health
+most people think it would affect their careers
+there is some evidence that there is more mental health issues with tech professionals
+Sick workers don't work
+it benefits the org to have better employees
+mental wellness = better employees
+people want to work with people who respect them fully
+1. Get the OSMI handbooks for free 
+ebooks on getting your workplace improved
+2. Speak openly about Mental Health subjects
+you have a lot of influence o the community around you
+you would be surprised how many people open up if you open us first
+3. Tell people that they matter
+we are social creatures and need affirmation
+those are tings you can do
+we are talking about our colleagues and friends
+suffer in silence
+some disappear
+and we are left to wonder and regret and try to understand
+Fear is the only thing that allows this
+we have to choose
+give in to fear and be quiet, it is easier
+pretend it does not happen
+meet inaction with action
+meet confusion with understanding
+meet indifference with compassion
+Yes, we need you, lot to do, go check out the
+[osmihelp.org](https://osmihelp.org)
+
+https://twitter.com/McDwayne/status/926908160027148288
+
+
+[Women in WordPress Panel](https://2017.seattle.wordcamp.org/session/women-in-wordpress-panel/)
+[Miriam Goldman](https://twitter.com/mirigoldman)
+[Francesca Marano](https://twitter.com/FrancescaMarano) 
+[Rachel Cherry](https://twitter.com/bamadesigner)
+[Bridget Willard](https://twitter.com/YouTooCanBeGuru) 
+[Tessa Kriesel](https://twitter.com/tessak22)
+
+I have a ton of respect for anyone that is ever in front of an audience on a panel who is willing to share their experiences.  The sheer talent of this group of individuals made this an awesome one.  It is almost like they planned an 'Awesome people in WordPress' panel and it just happened to be all women.  I wish we lived in a world where that would happen by happenstance, but I am very glad that we made sure in fact it did happen this time by planning an all women panel.  I showed up and I listened and I took a lot of notes and walked away with some awesome stories to share next time I encounter anyone feeling like they are limited in what they can do because of their gender.  I am super grateful to this panel for giving their time.  
+I did my best to capture what was said and represent exactly what I heard verbatim here without commentary.  
+
+Raw Notes:
+Miriam intro karate and ballroom dance
+Tessa is 10 years a dev, works at Pantheon
+Bridget Marketing Freelancer, WPBlab womenwhoWP, apple music CD of her music
+Francesca from Italy, siteground manager, building sites since 1999, freelancer 6 years, meetup organizer, global WP community team
+Rachel works Disney, build shopdisney, was in an ad campaign for slack, in NYT!
+- What was a major challenge and how you overcome it
+Mariam: job people didn't take her serious because she is small and look a newbie in some ways
+persevered and now people take her more serious
+Tessa: Her attitude is sassy and outspoken, been an issue with 
+Outspokenwomen.io
+Bridget: Being taken seriously as a marketer, marketing is as important as code, WP does value words! 
+she went to meetups and talks and taught herself a lot and she is taken more seriously now, friends spoke dev
+Rachel: People assume she is a designer or marketer only, she is a dev though, not taking seriously, she had a boss who was intimidated by her
+she as trying to make the world better and he made it harder on her, only wanted his opinion validated, she kept on keeping on and ultimately she left on her own terms to go to a dream job
+F: Imposter syndrome, very real
+first job was picking oranges at age 20
+she became freelancer because she didn't 
+Siteground tell her she had a impressive resume
+she is surprised and delighted, felt good 
+- What is greatest achievement?
+M: Doing so many talks and conferences
+T: teaching herself code and site building in a super small town
+B: year of transitions, biggest achievement is believing she is worth being valued and worth investing in herself this is the year she is not going to be afraid anymore, that is awesome, we are awesome
+Stop apologizing for being awesome
+F: born in the herring capitol of Romania, teaching herself English and bettering her life is greatest 
+R: didn't;t ever thing she could do this for a living, wanted to be a band director, no access to real education, born in Alabama, she taught herself along the way, worked way up to where she is now, Higher education work, stuff she does at Disney, sometimes she is the only woman int he room, recognizing that she deserves to be there.  Feels good to not feel out of place, safety is the main reason teams get better
+- how to get started as a woman in WP
+All: Just do it! 
+R: Diversity talk - person speaking is not always expert, just person who said yes
+F: sometimes you don't even need to say yes, just tweeted and got on
+R: that's how we got this organized
+Q&A (I had to go get on booth duty :( )
+
+
+https://twitter.com/RNissenbaum/status/926916638628126720
+
+
+[What WordPress is Doing to Keep Your Site Safe](https://2017.seattle.wordcamp.org/session/what-wordpress-is-doing-to-keep-your-site-safe/)
+[Aaron Campbell](https://twitter.com/aaroncampbell)
+
+Once again I got to see a new talk from the awesome Aaron Campbell and hear about the deep dark secrets of the security team.  This is a special subgroup of the Core team that does not operate as openly as the rest of the Core group and with good reason.  They are the team concerned with all the terrible stuff black hats are trying to do against WordPress installs and trying to stay one step ahead.  Next time you hear someone say "WordPress is insecure" I would recommend citing this talk.  WP does more for its users' security than a lot of other projects and thanks to their backwards compatibility commitment, every WP user can get the latest and greatest patches ASAP after release, ahead of the black hats targeting their site for those recently surfaced vulnerabilities.
+
+Raw Notes:
+Talks about what you have to do
+this talk is about that WP is doing for the user
+Goal is not really site secure, it is keep users secure
+makes what they are doing more difficult than just the site
+security team 
+50 volunteers
+most have day jobs around security
+Code review is def part of it
+constantly changing 
+bad actors are always coming up with new ways to break things
+bug bounty program https://hackerone.com/WordPress
+a secure, safe way to surface and fix issues
+some real successes with it already
+increased number of reported issues
+reporters feel appreciated
+paid out about $12K in bounties
+average bounty $350
+better tools HackerOne - used to be an email chain
+make sure it is fixed right the first time thanks to testing
+there has been some struggles too
+only about 16% of reports are valid
+information overload, 5 out of 6 are invalid
+high touch - lot more time per ticket
+time is the limiting factor they struggle with the most
+some things we do better than other projects
+Relationships
+plugin devs
+can help 
+Hosts
+WAFs
+able to help protect WP sites before the actors ever hit the site itself
+want to protect millions of sites thanks to WAFs and Hosts
+4.7.2 - millions sites protected before there was even an issue
+does not want it to be a fair race, lets get a head start on security
+they are pretty good at that
+Automatic updates are fast
+tens of thousands of updates a minute
+If you are turning off auto updates OK if you got 24/7 staff working with host, that is reasonable
+But if you don't have staff and turned them off from fear o site breaking, that is bad
+99.9% of new updates success
+.001% failure rate
+rest are retries
+you are far more likely because you were late on updating to get hacked than have a broken site
+and with that Q&A
+
+https://twitter.com/theisaac/status/926952025480314880
+
+
+
+Picture Perfect: Getting Beautiful Images Without Violating the Law
+[Timeca Briggs](https://2017.seattle.wordcamp.org/speaker/timeca-briggs/) 
+[Zainab Hussain](https://2017.seattle.wordcamp.org/speaker/zainab-hussain/) 
+[Christine Winckler](https://2017.seattle.wordcamp.org/speaker/christine-winckler/)
+[Lisa Stewart](https://2017.seattle.wordcamp.org/speaker/lisa-stewart/)
+
+I was very interested in this talk mainly because I borrow a lot of images for my talks.  Mostly my use falls under Fair Use since I am using them for scholarly reasons and not commercially.  However, this talk made me very aware of some of the things I have been overlooking when considering the implications of doing image searches for gifs and such.  For instance, I have been taking CC (Creative Commons) licensing for granted if I saw it CC licensed at all. Turns out you should always do a reverse image search to see if it is really CC licensed or if someone just re-uploaded with a new license on it.  This is done all the time and not legit at all.  You will be liable if it come up for litigation!  Be careful out there and maybe just make your own pics to be sure you own the rights.  
+
+Raw Notes:
+Copyright vs copywrong
+Copyright is the legal right
+exclusive, yo have the right to use and distribute the image 
+exclusive but not absolute
+they do expire, then go to public domain
+copywrong
+cr not to ideas just the specific written down thing
+copyright is not universal, it is territorial
+Copywrite is automatic without registering
+but registering makes it way easier to prove you have the rights
+also registered lets you get damages above normal damages 
+How to find the images
+think about what you really need, too tall/too short, what do you need it for and costs
+Think about compelling composition
+this can subjective, go back to your style guides
+make sure it addresses an emotional needs
+need to know their needs and how you solve them, images reinforce that messaging
+How do I find free images
+First up is Google image search, easy to see these
+flickr is actually really good as well
+another great source is wikimeida - lot of public domain that require no attribution
+as well as paper trail on how it was used in the past
+unsplash has over 500,000 shared images you can freely use for a variety of reasons
+lots of options these days
+Use trusted sources because they will have terms that explain  licensing in one page
+google does a good job of this, but has disclaimer, not 100% but it helps show your good faith efforts which protects you somewhat
+Watch out for other people re-uploading an image they don't own under creative commons license
+try reverse image search to see obvious violations
+Make sure you are regularly reviewing your use and the terms
+sometimes they change but more importantly sometimes you change
+some licenses are non-profit specific for example
+some specific verticals have certain rules
+Licensing for images are NOT transferable
+make sure you are not buying on their behalf
+if they don't use it then 
+tips for non-photographers to take their own photos
+Assessment.  Know what you need
+want to be super organized
+orientation, resolution, number needed, budget, etc
+blogpost have to have an attractive image that has something to do with content
+matching images
+sometimes easier to just take own pics
+Lighting is super important
+daytime if you can
+know your subject!
+
+https://twitter.com/McDwayne/status/927286953812180992
+
+
+#####My Session
+
+["Discovery, Discovery, Discovery, Discovery! The Most Important Part of the Project"](https://docs.google.com/presentation/d/1bmTjzourh9drcDFItdJBbRkHIHPk8XPG9v1lQIdTEEg/edit?usp=sharing)
+
+I was super happy to deliver this talk only for the second time.  The first time was back at [Stanford](https://www.mcdwayne.com/2017/03/12/stanforddrupalcamp/) in the Spring.  I have developed a similar talk around this subject as well, but with a [Motorhead theme](https://www.mcdwayne.com/everything-louder-than-everything-else/).  The real highlights for me on this talk are hearing the Q&A feedback and suggestions.  As [Rachel Cherry](https://twitter.com/bamadesigner) said in the Women in Tech Panel, it is not always the be all expert up on stage, it those of us that raised our hands and volunteered to contribute.  I firmly believe that the real experts are in the room, collectively knowing more than I could possibly store in my limited brain.  The other part was, since this was loosely based on [Ballmer's "Developers" speech](https://www.youtube.com/watch?v=Vhh_GeBPOhs) I got to close the thing out by having everyone chant "Discovery, Discovery, Discovery, Discovery!"  Truly one of my crowning achievements this year!
+
+https://twitter.com/lyndalcairns/status/927295752128184320
+
+#####Contributor Day
+
+There was not a dedicated contributor day at this camp, it was instead a dedicated track on day 2.  This has the plus side that there is a lot of foot traffic that would not be there otherwise, but it also means that you have to choose between contributing and seeing sessions.  This is a hard choice.  Since Andrea had called me out as one of the leads for the [Marketing team](https://make.wordpress.org/marketing/) I decided I better roll up my sleeves and help out.  Very glad I did, helping people get started and having some interesting discussions with both the Meta and the Core teams.  So many good ideas were born that day and I can not wait to discuss them more deeply with the rest of the team formally at WordCamp US contributor day!
+If you are reading this and want to contribute to WP, hit me up, I am more than happy to guide you towards the right path if I can.  So happy to be a part of this team and can not wait for you to join in to also experience the feelings of awesomeness that come with contributing.  
+
+https://twitter.com/FrancescaMarano/status/927237130312495105
+
+###Wrapping up
+
+I learned a lot this camp even though I missed all the lightning talks to go be part of the contributor day.  That is a lesson unto itself that I struggle with, FOMO: fear of missing out.  I realize intellectually I can't do everything and am going to have to make some trade offs.  In my head though I feel like I am missing all the best things by doing the other amazing things.  This camp actually did a good deal to help me settle down and just be able to focus.  This is mainly due to my amazingly talented teammates from Pantheon who held theo booth down and kept the steady flow of folks informed on what we are all about.  
+
+I really dig Seattle.  From the fact that I never see see the sun, to the awesome coffee options, all the way down to Pike's Market and the many goodies that are for sale there, this town has a lot going on.  Making it even better is a pretty amazing and wonderful WordPress community that puts on a pretty good camp.  I am super happy to get to visit and hope to visit again well before WordCamp Seattle 2018!
+

@@ -1,0 +1,537 @@
+WordCamp Orlando: Superhero Wapuus vs long humid days in the South
+
+This was a year that I took multiple trips to Florida.  I landed for [WC Jacksonville](https://www.mcdwayne.com/2017/05/23/wcjax/) back in the spring, a couple personal trips and was just there a few weeks prior for [Merge Show](https://www.mcdwayne.com/2017/10/18/merge-conference/). Every time I go to the [Sunshine State](https://en.wikipedia.org/wiki/Sunshine_State) I am reminded of a couple facts.  First is that there are these little lizards everywhere.  I think they are neat, even though the prominent species is an invasive one killing off the native one, which always makes me think of the frogs scene from [The Holy Mountain](https://www.youtube.com/watch?v=bdXGhsAynGI).  I also am reminded that every Floridian is so used to them they think it is weird I call them out when I see them.  I was happy that the campus of [UCF Rosen College of Hospitality Management in south Orlando](http://today.ucf.edu/rosen-college-hospitality-management-earns-no-2-ranking/) was home to many a little scurrying lizard and also the for [WordCamp Orlando 2017, AKA WCORL](https://2017.orlando.wordcamp.org/)
+
+https://twitter.com/jesseinternet/status/929465403490914304
+
+
+I was really excited for this show in part because the artwork was all 'Superhero Wapuus' based.  Wapuu is the spirit animal of WP and the unofficial mascot, a lovable cute character that everyone can get behind and kids adore.  The maintainer of [Wapu.us](https://wapu.us), [James Tryon](https://twitter.com/JamesTryon) just happened to be one of the organizers and dumped a lot of effort into creating new heroes and villains that all at one familiar and completely custom as the same time.  Our name badges had a wapuu character and a comic book feel to it and gave facts like "First Appearance" as well as issue number.  There was even a bar code that was the dates of the camp.  The shirts and speaker gifts all featured the cast of new super wapuus and I could not be happier to start sticking the stickers on anything I could back in the office!  
+
+https://twitter.com/wapuus/status/929356885614088193
+
+
+###Food and Fun
+
+#####Speaker/Sponsor Dinner
+
+The weekend officially kicked off on [the Marine Corps birthday]() with the speaker sponsor dinner at [Ice Bar]().  I have heard of ice bars but I have never been to one before and they are pretty cool.  Actually they are freezing (Editorial note: Sorry I couldn't resist).  Not all of Ice Bar is carved from a block of ice, that part is basically in a giant walk in freezer.  There is an actual bar inside carved from ice that serves only hard spirits, no beer or wine, since they would freeze.  The glasses themselves are all made of ice as well.  It was a great experience and a great idea for a place to trow a party. 
+
+https://twitter.com/boldgrid/status/929140654638272513
+
+
+The food unfortunately all had animal product in it, but I did not go hungry as a few of us that prefer the plant based foods found our way over to [Tako Cheena](http://mytakocheena.com/) which was not super close, but well worth the drive.  If you are anywhere near downtown Orlando, do yourself a favor and go get some of their amazing food.  Almost everything on the menu could be made vegan and their hot sauces are a dream come true.  
+
+https://twitter.com/GoEpicurista/status/915901323396227072
+
+
+#####Day 1
+
+I didn't try the conference coffee.  Nothing against it, but was feeling a tea mood and that is a pretty consistent experience, thanks to the fine folks at [Twinings Tea](https://www.twiningsusa.com/).  Waking up in a different time zone always messes with me a little bit and I was crankier than I should have been before the cafeen kicked in fully.  Sorry if I was a grump at you as I woke up for the day.  
+Lunch was interesting since I saw no veggie options, I assumed there were none.  I missed the tweet that said to ask the servers and they wold make you a fresh plate of alternative foods.  Missing that tweet was not a huge concern because fellow plant based food enthusiast [Josh Pollock](https://twitter.com/Josh412) of [Caldera Labs](https://twitter.com/CalderaWP) came to my rescue with awesome spicy Thai curry.  No mater the food situation it was great to hang out with some of the awesome community members for the break.  
+
+While not prominently featuring lunch, this is the only tweet I could find that showed people at lunch.  
+
+https://twitter.com/hiwillfang/status/929419711296757761
+
+
+#####After Party and WCKaraoke
+
+The after party started a little later than most, at 8:30pm.  This meant people could go get dinner on their own and with folks they had met at camp.  A few people suggested that Tako Cheena sounded too good to not experience again, so I went and experienced it again.  They were a lot busier on Saturday night and they were out of the amazing super hot yet sweet sauce I had the night before, but the food was overall still some of the best Mexican/Asian fusion I have ever experienced.  It was so great to get to have dinner with so many partners and friends.  
+
+https://twitter.com/McDwayne/status/929496387242348547
+
+
+The after party itself featured karaoke, making this one of the few after parties aside from WPCampus and WCUS to do so.  Singing is not everyone's thing, but there was a lot of lively conversation and fellowship happening.  We got to hear some of the local talent, including the amazing voice and energy of our karaoke DJ [Katie Joyce](http://www.katiejoyce.com/) at the spacious and well staffed [Game Changers](http://gamechangersfla.com/).  Several people mentioned they were not expecting the level of performance that this establishment brought with it.  There was also college football on a lot of TVs so we satisfied a number of people's entertainment needs in one go.  
+
+https://twitter.com/ChrisWiegman/status/929542146805370880
+
+
+I have written in the past about my preference for later start times for parties.  Having a later start time, for me as a night person, makes a ton of sense, since I am likely going to be be up for a late night anyhow.  For others though, the idea of relaxing for a few hours then coming back out is just overwhelming.  So attendance was not nearly as good as the events that happen right after the last session ends and therefore feels less inclusive.  I don't know if there is a conclusion to reach about this, as there might not be a perfect one size for everyone solution for camps and their parties.  I could not be happier with the fact that each and every camp tries their best to make their events accommodate their community.  huge applause for the team making this and all the parties happen.  
+
+https://twitter.com/McDwayne/status/929537936143605760
+
+
+#####Day 2
+
+Normally here I write 'more of the same' but WCORL was anything but.  Day one morning had a lot of us milling about and not really sure where to congregate, as the coffee station area was a bit too small for a mass gathering.  Day two started with a real unity as we brunched together from 9:00 till the first session kicked off at 11:00.  Mimosas were even served.  This was possibly one of the best 'hallway track' experiences I have had since we had plenty of time to talk amongst ourselves.  I even got to give someone the low down on one of my favorite tools, [WP-CLI](http://wp-cli.org/).  
+
+https://twitter.com/WordCampOrlando/status/929714580988813314
+
+
+Lunch was a little better on day two since I was in the know about asking for the special meal.  I had a pretty good fried eggplant sandwich and some chips. A tad carb heavy but filling, not that I was too hungry after that awesome brunch. 
+
+
+###Sessions
+
+#####Opening Remarks
+
+https://twitter.com/dimensionmedia/status/929349311577706496
+
+
+#####Keynote
+[A Personal Story: Joining the WordPress Community](https://2017.orlando.wordcamp.org/session/keynote-a-personal-story-joining-the-wordpress-community/)
+[Sam Smith](https://twitter.com/gsamsmith)
+
+The day after this talk I was speaking to a person who was completely new to WordPress and WordCamps.  He said he was feeling like he was not going to fit in and that everyone there was surely more advanced then him before this talk.  He actually planned on going home but thought he might as well stay for this first session, then just get his shirt.  Sam's talk changed everything for him.  Knowing that the person delivering the keynote was not someone super advanced and who only started with development 2 years ago made him feel like maybe this was the right place after all.  That if this fireman who didn't even own his own computer to start out with could be up there talking about WordPress that he too could get it and be a part of this WP thing.  I had run into this same attendee the previous day and had a chance to talk at the happiness bar.  I loved hearing his questions and hearing him eagerly explain his use case.  I had no idea that he was feeling 'not good enough' that morning.  He just seemed like he fit in and knew he was ideal person to be there.  Sometimes we have no idea the impact of our words.  Because Sam was brave enough to stand up and give this talk it made all the difference for a stranger.  I can only hope I have ever inspired someone like this.  Thanks Sam!
+
+Raw Notes:
+Firefighter
+lot of free time between shifts
+did't want to be a handyman or grass cutter
+went on Internet,
+kept getting pointed to Web Developer
+liked no set schedule and could be remote
+internet is not going anywhere
+growing industry
+Found out about how websites work
+youtube tutorials
+html
+borrowed MacBook Air and bought a chromebook and installed linux
+enough to get him started
+Found a lot of outdated videos
+tech moves fast
+possible unreliable sources
+freecodecamp and W3School (free code schools)
+Learned CSS
+Kept seeing WordPress pop up
+Should know what that is
+dug more in, found a lot of things he didn't know were possible
+back on youtube
+local dev environment
+linux sort of worked
+hack-y but a little sandbox
+You can only ask Google so much
+I needed like minded people
+found meetup app
+AP meetups
+Messaged David Laietta
+Was very welcoming!  
+He was nervous
+First meetup
+introvert
+thought people would be too advanced
+but happy to fine people of all skill levels
+excited to be around people also passionate about things
+Q&A asked how is everyone learning
+Lynda.com free with library card in Orange county
+helpful nature of others, hard to do with Linux
+commandeer the macbook air
+Reputable online learning is key
+Free: Freecodecamp and W3school
+Paid: Lynda.com, Treehouse, Udemy
+Skeptical of learning online
+hands on
+Ability to pause and take notes
+Ability to replay courses
+in browser code editing alongside the video (most hands on)
+learn when it works for your schedule
+Hears about WordCamp
+signs up for WC Orlando in 2016
+hit with hurricane Matthew
+Called into Firefighting work for 4 days
+40 calls in 8 hours
+Asked David for one on one learning
+he said no but 
+WC rescheduled
+first time was very overwhelming
+aimlessly wandering around from talk to talk
+getting frustrated and feeling alone
+wanted to go home by lunch
+saw a guy that looked familiar
+ate lunch with him
+it was Jesse Petersen from Treehouse instructor
+shared their stories
+gained a mentor
+helping him out in the months ahead
+Second day 
+awkward feeling walking around
+meets Sandy Edwards, her future boss along with Chris Edwards
+Inspired by the community 
+It's all about the people
+Bank on people first
+accountability
+Google is your friends
+Ask for help when gaining knowledge
+search out new tools from others
+find where they are gaining their knowledge
+used Git
+Attended another 2 WordCamps
+continued learning
+started at the Agency CESquared
+keynote now
+Building your personal brand comes along with the journey
+documenting your learning can build credibility
+you can get leads on social media
+logging on and answering questions is a good thing
+chance to give back and help others
+huge topic, can't touch on eery detail
+Recap:
+figure out hat you need to learn
+team up with other people
+have the right tools
+never stop leaning (Take all the notes!)
+ID what you are passionate about!
+Get involved locally
+its OK to feel like you aren't getting anywhere
+Google is your friend (15 minute rule)
+build your brand
+Don't give up!!!!!!!! Big break maybe right around the corner!
+Your not alone, everyone is nervous
+people are here to meet other people
+Sr. WP peeps, be a soft place to fall
+have a great time!
+
+
+https://twitter.com/GiveWP/status/929353543550668800
+
+
+
+[Tech and the Time Warp: How the ever changing tech world shatters stereotypes about age, ability and experience]()
+[Miles Lifton](https://twitter.com/KidCoderDev)
+
+It is inspiring to hear young people give talks at camps.  Miles holds the record for youngest WC speaker ever, as he gave his first talk at age 9.  This was a follow up talk for him where he gave his state of the world views tech and how we can better embrace it no matter if we are "5 or 150 years old".  The biggest thing that I am going to be quoting from this talk is the idea that there is never a bad time to start learning precisely because tech changes so fast.  Since everyone is struggling to keep up with the rapid changes, you are not going to get to far behind before everyone else is right back to having to learn a new thing as well.  I had never thought of this in those terms before.  I love being able to walk away from a talk with a new perpective and new way to encourage new folks to keep learning.  
+
+Raw Notes:
+Born in 2006, always loved tech
+Tech is moving faster than a bullet train
+thing from 10 years ago no longer work today
+for example python 2.5 and 3.0 are different compilers
+WP is older than Twitter and 27% of internet 
+WP started with a dozen users in 2003, released for free
+little drop turned into a sea
+history of the mobile phone
+supercomputers in our pockets
+python timeline
+moving so fast means never a bad time to start
+anyone can jump in
+can do things other than be a dev
+Social media 
+What draws you to tech?
+What drives you forward?
+What is your passion?
+everything we think is going to happen in the future is already here
+tomorrow starts today
+like a ball of clay
+love to learn
+the community gives
+global reach
+He was going to learn Apple, iOS 6 buggy
+was referred to a local college professor
+had a TA help him out
+Wants to go to DefCon and BlackHat but you have to be 18+
+CES is even 18 and over
+People make all sorts of assumptions about 
+If you are speaking to someone in their 2nd language you are speaking to their mind
+if you speak in their first language you speak to their heart
+languageisnotabarrier.com
+WordPress is moving faster and faster
+We need fresh minds to learn new things
+once you learn one thing, you are spurred to learn more
+Asks the audience about their ideas 
+commentary on how to help leverage their community to reach your goals
+
+https://twitter.com/WordCampOrlando/status/929374882768523264
+
+
+[The Ups and Downs of Transferring Your WordPress Site](https://2017.orlando.wordcamp.org/session/the-ups-and-downs-of-transferring-your-wordpress-site/)
+[John Hughes](https://twitter.com/johnhughesgolf)
+
+One of the more awesome parts of any WordCamp is hearing people from a wide range of backgrounds give talks.  John has a very different career path than most, as he is the top most level of PGA golf pro that there can be.  He is quick to point out he is not a coder or developer by training, but a "Do It Yourselfer".  Though I am not a golfer I completely identified with his DIY ethos was fascinated as he shared his wisdom he got through good old fashion trial and error and persistence.  This is a pretty amazing talk for anyone who 'inherits' a site and is at a loss for what to do about it.  In plain language, aiming to connect to his non-coder peers, he laid out some of the most practical nuts and bolt best practice advice of any talk I have ever seen.  If you know someone just starting out and they have a site they are always asking you to help them fix, send them to this talk and to his slides!  
+
+Raw Notes:
+Not a coder
+not a designer
+A do it yourselfer
+A golf pro
+always trying to learn 
+Masters Professional training level, the PHD of his industry
+Family comes first, 
+does a lot of talks
+first site one page really simple
+grew it from there and rebuilt
+ended up on page 7 of google
+was doing all own SEO, learning as he went
+lot of CTA issues on early sites
+redirects broken, poor email and bounces
+poor loading times
+poor photo compression
+92% bounce rate
+no theme updates, developer unresponsive
+feels this is a standard position people can find themselves in
+his host: poor customer service
+unexplained downtime
+shared server vulnerabilities
+Unreliable website
+last year, July 2016 made a game plan
+needed better uptime, security, more options
+change theme - you get what you pay for
+Elegant themes, Divi - Siteground is what he went with
+135 domain names
+best practices how switching over works
+Got to do your homework
+research and ask questions - not all hosts are for all people
+ask for free trials, never hurts to ask
+Once a decision is made but before moving your site to a new host
+fix any simple tasks of content, links, image compression
+don't move junk
+kill unused plugins, the slow your site down
+review site on all devices and browsers possible
+53% of users are on mobile devices
+backup site and DB and export 
+While leaving site live on existing host, transfer site files to new host company
+pay for the extra services to do as much of this for you as you can
+create a staging area, new environment
+test/review on all devices from that stage environment
+backup site 
+after transfer
+explore options
+change theme
+clean up errors
+test, test test, 
+try to break it and take notes
+Results
+SSl 
+Amenities offered improved backups and such
+customer service is outstanding
+more secured environment
+While site is still live on original host
+create backup
+make a list of changes you need in new theme
+Test everything
+again use multiple devices 
+important that it works right before you turn it live
+do things consistently
+make sure all links work
+Agencies are good at this
+it is a time vs money equation
+if you have more money than time, good idea to talk to an Agency
+otherwise use checklists and time
+Backup often
+he did it every 2 weeks but you can do it however often makes tou feel good about it
+cta buttons are a big thing for his industry
+increased his revenue 
+results
+99% uptime
+excellent customer service
+technically complex tasks done by host company
+decreased load time
+bounce rate of home page
+less clutter, more functions
+Siteground walked him through it first time
+taught him how to do it
+
+https://twitter.com/McDwayne/status/929432692717969409
+
+
+
+[Watch Edit Repeat: Today’s Story of User Tracking](https://2017.orlando.wordcamp.org/session/watch-edit-repeat-todays-story-of-user-tracking/)
+[James Tryon](https://twitter.com/JamesTryon)
+
+James has a certain presentation quality that makes me want to just root for him no matter what he is saying.  It is awesome he actually says really awesome stuff on top of that.  This time, he was saying that if you are not sure what the user experience is like from their perspective it is impossible to tune it.  Once you know what the 'desire path' is, which is a term I learning around trail planning years ago that means 'where people want to walk, no matter where the proper path is laid out", you can simply pave that path and let users do what they want, leading to less bounce and better conversion rates.   I don't have a lot of need for understanding my user's navigation of this blog, since me in the future is my target audience, but absolutely I will be implementing these best practices next chance I get on some of my other projects out there.  Not the first time I have heard Hotjar come up this year, leading me to believe I need to dig into that tool further.  
+
+Raw Notes:
+That is the point of user tracking?
+1 - making sure your site/app actually works
+2 - make sure your marketing budgets are being spent in the correct areas
+Do you really know how your users are using your site?
+understanding where they came from
+understanding where you should focus your marketing $ on thing that work
+how to
+ga-devs-tools appspot campaign builder
+not direct GA
+spend money on fancy tools
+new spredsheet is how they track it, simple and portable
+using Buffer to manage social media
+re-shared and have some decent followers have good way to track them
+utm term and campaigns
+onClick onClick="_gaTracker('send','event', .......
+older but reliable way to do this
+namecheap.com crazy88 domains
+make shortest domains possible in print
+then tack that landing page traffic
+lot of tracking phone number services - lot to consider not going to make one reccomendation
+types of testing
+- A/B Testing 
+Tools 
+VWO
+Optimizely
+Hotjar for Heat Maps
+helps understand the user experience
+Test one thing at a time
+Test something crazy once in a while.
+Everyone’s market is different.
+video recordings are his favorites
+bookings plugin example, people didn't realize had to use it different
+real time and not just stats, real usabale actionable data immediately to improve
+site was beautiful but just not usable
+Showed a hotjar demo
+100 at a time, 
+you do have to purge them
+tells himself sometimes "Shut up james, don't be lazy, do it right!"
+
+
+https://twitter.com/dimensionmedia/status/929446855532072961
+
+
+[How to Fire Yourself](https://2017.orlando.wordcamp.org/session/how-to-fire-yourself/)
+[Andrew Norcross](https://twitter.com/norcross)
+
+No secret that Andrew is one of my favorite speakers ever.  From his ultra direct style, to the Jeb Bush slide I completely stole from him that I end most of my talks with currently, I just am on the same page with a lot of what he is laying down.  At the moment, I don't have a lot of direct need for his specific advice around leaving a company that he founded, but the talk was so chock full of great overall advise around thinking things through and doing them the right way that I felt this was a real win.  I am super glad I went.  
+
+Raw Notes:
+Used to have an agency
+wanted people to hire in in spite of him
+the work had to be good,
+that worked
+other goal reputation of company grew well beyond him
+for a long time he was the one being hired, not the company
+they pulled it off
+200% growth
+He walked away this spring
+why?
+growing and their of clients involved way more work that he was not well suited with
+roles changed as they scaled
+He loves writing code, not the things that come along with it
+when he left he was exhausted, took time off
+hard to do nothing
+did not go in to fail or quit
+did not prepare 
+how many people know how much their company is worth?
+how you gonna value the company?
+valuations methods are going to come into play, decide before you are worth anything
+maybe think trigger terms
+hit X, exit
+it was harder to leave than a divorce
+you can quit your company by closing the company
+he trusted his partner and let him take over
+Legal, lot to consider
+none of this is legal advice
+you should have an attorney
+thought through how they wanted to part
+then took it to lawyer to sort out
+If it isn't documented, it's up for debate
+in this case did buy out
+personal accountant got involved, protect from IRS
+Taxes are a huge issue
+had to make an s-corp
+you can't remove primary from an s-corp without a lot og hurdles
+Corp Amex can not remove owner either
+The aftermath
+how to split up clients
+he took 2 of the clients, everything else stayed with company
+business bank account had issues
+lot of mieutua but all important
+you can be as public or as private as you want
+they told employees first before anyone else
+otherwise inviting trust issues and negative impacts
+What about me?
+do something for you, take time for yourself
+disconnect
+get to the little stuff around the house
+Learned a lot throughout
+lot to know
+you don;t start with a business partner, you figure that out
+
+https://twitter.com/GiveWP/status/929743127371571202
+
+
+[Becoming a Better Developer](https://2017.orlando.wordcamp.org/session/becoming-a-better-developer/)
+[Micah Wood](https://twitter.com/wpscholar)
+
+As I said on Twitter at the time, this is exactly the kind of talk I came to WordCamo to hear.  I have heard similar thoughts around 'the learning/competence curve' in the past but I really appreciated Micah's personal story and thoughts on it.  In my day to day world I am constantly learning new technologies and way of doing things.  It can become very discouraging to feel like I am incompetent at things.  So discouraging I want to give up and just watch internet videos from [The Archive](https://archive.org).  I think the way I felt afterwards is better summed up by one of the question askers in the room who said "Thanks for the talk, I don't feel alone in this anymore."  I am going to be asking people for more help as I keep learning and headed toward mastery!    
+
+
+Raw Notes:
+His story
+grew landscaping company
+martial arts school
+before web dev
+economy took a hit
+lawn mowing took a hit
+left with premium customers
+sold those off
+Developed and knew enough to get buy
+but didn't feel he had what it took
+but really everybody has the ability to bigger things if you put your mind to it
+today focusing on development
+how to identify where you are at the moment and how to optimize your journey
+that is the goal here
+Dunning-Kruger Effect
+bank robber was wearing invisible ink was surprised he got caught
+do dumb people know they are stupid?
+perceived ability vs perceived test score vs actual test scores
+some people don't know they are better than they really are
+New devs are often more confident that they should be
+other end of the spectrum is imposter syndrome - experienced devs are less confident than they should be
+it takes competence to recognize competence
+how do you know what you need to know without knowing what you need to know?
+competence vs competence chart
+peak early and then a low valley and then back up
+I am new -> I am awesome -> I don't know what I am doing -> I got this
+any time you learn something new, you are just imitating someone who already knows what they are doing
+we don't really know yet
+this phase brings a lot of enthusiasm
+realize and recognize you are going to go through this curve
+focus is the key to getting through this part
+exposure vs engagement
+good to get high level broad spectrum, but focus in and learn
+what is silver bullet?  get through and start making money
+there is no right answer though
+you should have a path and be able to change it
+go another route
+Keep that focus (ford focus on screen)
+need a good feedback loop
+keep it local! 
+have a good local dev environment
+originally was just uploading everything to see if works or not
+then pulled it locally
+then xdebug and stepped through line by line to understand solutions
+but better understand exactly what WP even does
+He used Google for everything
+10 minute rule
+if you don't find it in 10 minutes, likely there is not a good answer
+maybe a simple dumb mistake on your end
+reach out to friends, other devs
+give it the full ol' college try, not just the high school try
+imitate -> practice -> build (Uncertainty -> ...)
+Focus-> feedback - > Collaborate
+Pair programming is explaining why you think you need to do something
+not as many people do this as they should
+very effective way to learn
+Code Reviews are a must!
+You don't just ask someone to be your mentor
+you should find a way to benefit them
+trade and work it out with someone better at the thing you want to do than you are
+imitate -> practice -> build (Uncertainty -> efficiency)
+Focus-> feedback - > Collaborate -> automate, reuse
+you spend 90% of your time reading code, messy code it harder to read and wastes times
+clear as opposed to concise, concise can be less clear
+and modularly reusing code
+last step is Mastery
+imitate -> practice -> build (Uncertainty -> efficiency) -> Master
+Focus-> feedback - > Collaborate -> automate, reuse - > strategize
+effectiveness
+always going to be a knowledge gap between what you want to know and what you know
+giving talks is how he likes to learn
+defining and sounding out why he does 
+whole lot of different things you can learn from different communities
+Q&A comment - "Thank you, I don't feel alone in this anymore."  (WOW! what a comment)
+
+https://twitter.com/McDwayne/status/929771302788980736
+
+
+*****My session
+[Everything louder than everything else! Navigating stakeholder needs through better discovery
+](https://www.mcdwayne.com/everything-louder-than-everything-else/)
+
+I was super glad to have the chance to give this talk again.  I love the fact that it got picked up by several camps this year and let me make all sorts of Motorhead references.  Without a volunteer room monitor the previous speaker had inadvertently gone overtime with his Q&A and went all the way to the top of the hour, so I didn't have time to get sound working for the one part which wanted to be loud, which drives home just how loud Motorhead was live. Ended up pumping some of the intro to [Killed by Death](https://youtu.be/RH8nfp5sD_s) through my MacBook Air's speakers in front of the room.  This was quite the juxtaposition to my desired point since people had to strain to hear it at all.  I think in the future I am not going to try to make points that require the AV in a room to work as expected and just bring my own speakers.  We had some great discussion out of Q&A this time around, as there were some really smart questions with no clear immediate or definitive answer I could see. All I could offer up was situational advice, which I hope was helpful to those there.
+
+https://twitter.com/VickiBraun/status/929808336240955392
+  
+
+###Wrapping up
+
+This was my final trip to the Sunshine State for 2017.  I am glad that I got a little time to myself on Friday and was able to see some of the tourist stuff in that area, including a ride on the [Coca-Cola Orlando Eye](https://www.officialorlandoeye.com/), a massive ferris wheel.  I walked away from this camp more exhausted from the time zone difference I believe because I am still getting used to the daylight savings time change.  I also walked away with a new appreciation for how much of an impact sharing our experience can have, no matter how far along your journey.  I want to leave you with that thought.  Speak up and share what you have been through, you have no idea how it will be received and who you might inspire.  Hope to see you again Orlando for WCORL 2018.  
+
+
+https://twitter.com/dimensionmedia/status/929801957258203137

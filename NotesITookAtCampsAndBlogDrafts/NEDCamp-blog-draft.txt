@@ -1,0 +1,489 @@
+NEDCamp 2017: Driving in the New England rain and my last talk of 2017
+
+The direct flight from [SFO](https://www.flysfo.com/) to [BOS](http://www.massport.com/logan-airport/) is about 5 hours and 30 minutes long.  I arrived at dusk in the light rain and got to experience the horror show that is Boston traffic at rush hour.  I rarely drive, but I felt very safe in these treacherous conditions because we are never going that fast, 15-20 MPS the whole way.  I was very glad to make it to my destination, which was the quaint and confusingly laid out [Worcester, MA](https://en.wikipedia.org/wiki/Worcester,_Massachusetts) (local pronunciation: WUUSS-tə), specifically to the campus of [College of the Holy Cross](https://www.holycross.edu/) for [New England Drupal Camp 2017, better known as NEDCamp](https://nedcamp.org/)
+
+https://twitter.com/nedcamp/status/931854066350788609
+
+
+I had gotten there a day early so I would not miss the speaker/community dinner and glad I had the chance to cruise around and see the town.  I got a very pleasant surprise, finding a vegan Jamaican spot for lunch, [Belmont Vegetarian](http://www.belmontvegetarian.com/).  I got to work from a funky coffee shop right across from city hall and even got to go inside [Salisbury Mansion](http://www.worcesterhistory.org/museum/salisbury-mansion/) which is nicer than the pics make it seem.  They were just putting up decorations for the holiday season and if I lived in the area I would surely go back to see it in all its glory.  I rarely take side trips or spend any time outside of my normal conference duties on these trips, so this was very nice.  New England is great and all, but it was getting a little too cold for me.  
+
+###Food and Fun
+
+#####Friday night dinner
+
+Instead of a speaker/sponsor dinner that was invite only, the Drupal community kicked things off with am open to camp goer who registered at [Lock 50](http://www.lock50.com).  This was a very lovely thing to do, with the trade off being  everyone paid for their own meals.  It was a joy to eat a pretty amazing gourmet meal with the Drupal community.  Getting to connect over some nice drinks and fine food is one of the absolute best parts of any camp.  
+
+https://twitter.com/AshishjainMr/status/931703951090769920
+
+
+#####Breakfast
+Almost all camps supply coffee and all should. But not every camp provides a full continental breakfast spread.  Thinking back on it, MidCamp was the last time I saw a breakfast banquet quite this good.  You can't learn on an empty stomach, and given I had a set up time before my hotel started serving, this was one of my favorite aspects to this camp.  It was all great, but raisin cinnamon bagels are amazing.  
+
+https://twitter.com/nedcamp/status/920968346010611713
+
+
+#####Lunch
+
+The staff of Holy Cross is pretty great about dietary restrictions.  The lead catering person helped each of us figure out what was what.  It was pretty great.  There were build it yourself sandwiches, with many bread options for the gluten free, salad, chips and a huge veggie and pickle platter.  For those looking for alternatives to that there was humus, tabouli and pita triangles.  A true feast but I didn't really have a lot of room for it since I overdid it at breakfast a bit.  Definitely a good problem to have. Stuffed, we were all thankful that there was copious amounts of coffee to keep us going all afternoon.  
+
+https://twitter.com/nedcamp/status/931945551268020224
+
+
+#####After Party
+
+The after party kicked off after the last session and we all got a drink ticket to start and a lovely cheese and bread platter.  Servers came around with all sorts of goodies including these mushroom stuffed mushrooms that I think I am going to try and make myself.  Just breadcrumbs, mushrooms and a lot of garlic mashed up and spooned into mushroom caps and baked.  It was great to talk to so many folks about the day and how things had gone with the camp.  
+We only had the place for about an hour, so we scattered but some of us made plans for dinner.  We found this pretty great BBQ joint with OK veg options that was pretty close to a Karaoke bar.  They have some of the friendliest staff in the whole North East at [Smokestack Urban BBQ](http://www.bbqstack.com/).  It was a real treat to hang out with the community and get to know each other a little better as people.  We are all in this together trying our best, breaking bread is an important thing we all do and reminded us how we are more similar than different.  
+
+https://twitter.com/McDwayne/status/932049699955265536
+
+#####DrupalKaraoke
+
+Then we sang.  It was so much fun, as our party was literally the only patrons for the first hour we were there.  Then the crowd came in and we got to show Worcester locals how FOSS does it!  I only wish I had video of the 8 minute 25 second version of ["Paradise by the Dashboard Lights"](https://youtu.be/C11MzbEcHlw) by a couple of our community which remain nameless in this post.  
+
+https://twitter.com/McDwayne/status/932082007991029760
+
+
+###Sessions
+
+I was very excited to be at this camp because with my life and focus in other areas, Drupal is still pretty amazing and something I want to learn more about.  Some amazing speakers on this year's lineup, I had a hard time picking which ones I wanted to hit.  By the end of the day my brain was mush from info overload so these notes get a little sloppier along the way.  So much great info though, and you can see any of these sessions yourself thanks to the tireless efforts of [Kevin Thull](https://twitter.com/kevinjthull) who records all the sessions, and the [New England Drupal community's youtube channel](https://www.youtube.com/channel/UCxFYh7d37gOMWfchVlbEFQg/videos)
+
+#####Opening Remarks:
+
+https://twitter.com/dbungard/status/931882432101601280
+
+
+
+
+#####My Session
+
+I got to admit, I went into this with a touch of sadness, this is my last speaking engagement of 2017 and as of the time of this writing I hae nothing lined up for 2018, which is the norm for speaker since most camps are just opening up for submissions for the spring around now. 
+I was very grateful to have a good number of people in my room, it made me feel pretty great. The Q&A was fun as well and I am so glad that this got to be the way I will remember my last talk of the year!  
+
+https://twitter.com/mikemiles86/status/931886325019693056
+
+
+[Can't we all just git along?](https://nedcamp.org/new-england-drupal-camp/sessions/cant-we-all-just-git-along)
+[Erik Peterson](https://twitter.com/eporama)
+
+Having written a talk and workshop on git, I am very curious to see how other people approach it.  Erik approaches it from the terminal up.  Literally a step by step of what the heck git is doing under the covers.  I lost track of taking notes a few times because I moved over to my terminal to try some of this out, like [git hash-object](https://git-scm.com/docs/git-hash-object) which I have not run across before.  This is a must watch video for anyone that ever wondered how that black box of magic that we call git works!
+
+
+Raw Notes:
+Not a 'how to'
+not things you will have to do
+help understand what git is doing and what it is trying to do 
+how to fix things when they break
+logic behind it
+Tim Berglund's "git from the bits up" is where he got the idea
+setting up git
+git config --global
+file that manages config
+initialize a repo
+init
+that is all you need to do
+what did that actually do?
+that is meat of talk
+What git tries to track
+Objects and Refs
+Blob - data of the files
+Trees - pathing for a blob and other trees
+Commits - tree, parent, comments
+REFS
+	Tags - named commit
+	Heads/Branches - line of commits you can add to
+Working directory - the actual files on your disk
+Repository - history of all the changes
+.git directory in the Working Directory
+Commits
+Each commit has an identifier hash
+commits play one after the other
+commit messages should be robust
+People expect a master branch
+Starting with Raw Build
+Creating directory structure
+hash-objects command
+moving object into index
+git update-add
+DEMO TIME
+mkdir .git
+mkdir .gitobjects
+mkdir -p .git/refs/heads
+refs/heads/master > .git/HEAD
+git hash-object 
+most OS hate large folders
+objects in file 10K OK, 10M not ok
+git generates huge number of files
+everything is stored as objects in git
+hashes breaks off first characters and makes new folders out of them
+Directory + file is the hash
+Still no commit, but no file
+exists as a file somewhere, but not checked out
+does not know what it is or anything about it
+add it to the index 
+git updateindex -add --cacheinfo 100644 hasidentifier spiral.txt
+git write-tree
+git cat-file -c hash
+git cat-file -p hash
+git commit-tree hash
+git cat-file -p
+adding spiral file
+Point of all this 
+a commit is just a pointer to trees
+trees just paths to objects
+objects just files in git folder
+Git cleanup looks for objects that are not in trees, kill those
+head branch detached when not pointed at branch, pointed at specific commit
+don't want to be on a commit, be on a branch with that commit
+checkout rewrites your working directory
+Rebase and Reset
+branching - you can just commit your whole life through
+moving to new branch lets other people work on your repo and keep working on your idea
+like you didn't do the work if you want to toss it
+objects are still there, branch is gone though
+rep log to see changes and bring branch back
+merging is getting branches back together
+real trees rarely do this
+remembers the paths and both branches
+then can get rid of branch
+rebase is different
+a git mere is also a rebase
+that is a fast forward merge
+rebase moves the base of your branch to a different parent
+changing what it is based off of
+makes it look like one branch
+whole history you are testing against
+fetching
+vs git pull
+pull does a lot
+fetch just gets all work done from the remote branch
+but nothing else, lets you control what to rebase against
+git push me, pull you
+git reset soft
+moves head pointer wherever, leaves working directory alone
+tree (brew install tree)
+git branch --contains hash
+little history commit
+
+
+https://twitter.com/McDwayne/status/931906331082096640
+
+
+
+
+[The command-line doesn't have to be a black box](https://nedcamp.org/new-england-drupal-camp/sessions/command-line-doesnt-have-be-black-box)
+[Jim Fisk](https://twitter.com/jimafisk)
+
+As you might have guessed, even if this is the only post of mine you have read, that I love eating and I love the command line.  I was super excited to be able to see Jim lay out some of the tools he is using and how we can leverage them.  I walked away with [tig](https://jonas.github.io/tig/) installed and man, it is such a nice little tool to more cleanly read git.  Honestly think I am going to show this off in future git talks.  Lot of great information and Jim is a heck of a nice guy, if you don't already have a local Docker solution up and running, check out his project [Vesl](https://github.com/Jantcu/vesl) as it seems pretty good, though it is early days. Make sure to check out his slides, as they used some old school [telehack figlet 3-d](http://telehack.com/) font made with [Jim's CLIdeshow](https://github.com/Jantcu/clideshow) tool.  
+
+Raw Notes:
+he found himself doing a lot of things with tools
+found himself going more and more to command line
+wrote this talk to help show others how he found success with it
+We will over Docker
+Vesl, tmux, vim, and others
+basics
+how to navigate find where you are, move things, and edit files
+basically anything you can do through gui you can do through command line
+quicker
+Navigational thing
+pwd - print working directory
+ls - list files
+see . and ..
+. is folder you are in
+.. one level up
+cd - nav around the file system
+Docker, container service isolated environments that can souse your dependencies and run different version of software in a consistent way. based on your project requirements
+just type 'docker' see list of commands
+all based on a common image you can download and connect containers
+'docker ps' to see what is running
+he created a project that made config easier
+called Vesl (on dockerhub)
+bas script, complex docker commands and make them easier to run
+bloated container that out of the box, ready to go faster though
+Vesl loads things behind the scenes from blueprints
+DEMO
+vesl start container 
+Fish is shell on top of your commands
+fish shell goes ghosting, efficiently run things, autocomplete
+predictive text autocomplete, even if not same start of word, related terms
+tmux
+terminal multiplexer
+have multiple shells within shells
+why need terminal shells in shells?
+ssh 2x and edit in one
+tmux bar gets added to bottom
+vim - can configure 
+shortcuts
+demo
+at the start of what we can do with vim
+vim config that helps you do things like debug easier
+:w
+:q
+Fugitive - vim plugin
+seatags
+tig - better git history git backwards
+history of changes and commit messages 
+see diffs on file by clicking on commit
+tree view
+look through actual files at that point
+edit the old fie without pulling in memory
+mysql cli
+
+
+https://twitter.com/McDwayne/status/931923181790691329
+
+
+#####Keynote
+
+[Inclusion and Diversity in the Ever-growing Global Digital Marketplace.](https://nedcamp.org/new-england-drupal-camp/sessions/inclusion-and-diversity-ever-growing-global-digital-marketplace)
+[Aimee Degnan](https://twitter.com/aimeeraed)
+
+Aimee is a pretty amazing person and speaker.  She is one of the first people I remember meeting in the Drupal world and and was super glad to hear her keynote.  This was not a lighthearted soft skills talk nor was it a technical session nor was it a business discussion.  It was a heartfelt and honest discussion about recognizing our own experiences and recognizing the experiences and situations of others.  It reminded me of the talk [Andrew Norcross gave at LoopConf](https://www.youtube.com/watch?v=lHWI75nKWb0) earlier in the year, where it was a real gut punch, at least to me.  I do my best to be inclusive and use my privilege for the greater good, but there is so much to be done.  I intend to improve and hope I can inspire someone else to have that same intent as I go forward.  I could not capture a lot of the info from the slides, so make sure you [watch the video](https://www.youtube.com/watch?v=DBPRnI9NGTk).
+
+
+Raw Notes:
+How do we identify yourself
+project manager
+dev, site builder
+her into slide and her tech history
+do tech
+Women owned business 20+ years experience
+but who are you really?
+race, class, education, sexuality, ability, age, gender, ethnicity, culture, language
+lot of the audience looks male 
+but not sure how we identify inside
+get more data
+then this is where ask questions and listen what we say
+that is diversity
+being composed of different elements
+this is for people, the true range of differences
+the meaning of diversity os not the stat of being different, it is noticing and listing and respecting the differences in others
+inner/outer wheel
+inner are some things can't control, like ago, national origin
+outside are things you can change, appearance, work experience, Education, Family, Political 
+fluidity 
+Different is scary
+sometimes hard to find connection points
+we like to be around people like us as humans
+people find comparisons
+you can tell if someone is safe if they are familiar
+perceived confidence
+but different can be empowering
+different brings new ideas, new needs, brings change
+society comes with lot of societal baggage
+Privilege exists, we must acknowledge it
+dominant, most influential
+Oppressed, subservience and hardship, especially by the unjust exercise of authoritysomeone ho feels depressed
+if don't speak the language you could have a temporary oppression
+intersectionality
+trait 1 + trait 2 = total identity
+most people have many more than 2
+instead of Rosie the riveter being a white woman
+3 woman of color, one in hijab
+inclusion example of intersectionality
+she had hesitations on putting this together
+admitting how she is oppressed and privileged
+being a tech business leader is how she is afraid of being judged
+will she say too many feminist or radical things
+awareness
+hole built for a circle, other shapes are told by circle "just be yourself and get out"
+need to be aware not just of ourself but other people and the situation
+cycles of oppression and privileged 
+in order for a disadvantaged group to get better situation have to take on traits of dominant oppressive class
+inflammation - pain cycle - tht you can fix with Advil, not privilege 
+have to have systemic change to fix
+Inclusion - being part of a group or structure
+integration says stay in your circle, but no effort to include
+inclusion must be cultivated
+but be careful not to have assimilation
+inclusion is including people as they are, changing the system around the people's neds
+assimilation says change to fit in
+homogeneity vs heterogeneity
+made of same parts vs different parts
+equality vs equity
+fence in the way, looking at the problem different
+addressing systematic issues
+Digital divide
+digital privilege
+gap has improved over time
+worse things happening content censorship and denial of access
+across the board, internet is helping with inclusion
+content
+Drupal is 4.8% of the internet
+Digital innovations, like Google translate 
+translation programs only getting better
+why does this matter
+where did Drupal start?  and by who?
+so many languages covered in the Drupal project
+Your behavior and actions matter
+be an ally
+sometimes you don't know the right thing to do
+you can ask what the other person needs and help them, it is OK
+be aware communication is beyond language
+talk about change vs living change
+Empathetic actions
+be nice to each other
+sounds easy, but not really
+change is a process, takes time
+is ongoing
+must have an intent to improve
+Yes we can!
+
+https://twitter.com/AshishjainMr/status/931962644868845568
+
+
+
+[Opening the Black Box: Becoming a Better Developer Through Debugging](https://nedcamp.org/new-england-drupal-camp/sessions/opening-black-box-becoming-better-developer-through-debugging)
+[Dustin Younse](https://twitter.com/milsyobtaf)
+
+I recently saw a shirt that said [" ';' hide and seek champion since 1958"](https://www.webdevelopersnotes.com/wp-content/uploads/joke-hide-and-seek-champion.png) Debugging and I have a long history that goes back to my college days.  I remember printing out hundreds of pages of C and C++ code, which I wrote using the Pico editor, on green and white lined paper with the little perforated sides you tore off and then sitting down with a red marker and working through, by hand, where the issues might be.  It still gives me nightmares.  Thank goodness a LOT has changed since then. 
+I don't debug a lot of code these days but it is coming up more and more as I evolve and learn more.    The live demo part showed exactly how to use Chrome's built in dev tools to debug JS.  It was fortuitous timing that I could see this talk just as I entered the precarious world of JS and performance tuning.  Great job and I learned some things.  
+
+Raw Notes:
+Examples of errors taking down things
+funny tweets
+Nothing but text
+CSS, Aggregated byt not cached
+JS blocked in the browser
+File permissions 
+differences between debugging and troubleshooting
+5 minutes vs 5 hours
+fixed vs understand why it happened and corrected that
+What is the black box?
+no CS degree or background, self taught web skills
+everyone wanted a website, he would do it for beer money
+above average google abilities
+late nights staring at error codes
+Mental model of Drupal a black cube
+thing that did stuff
+changed mental model to "Maniac Magee"
+kids book
+can untangle knots
+largest knot in the world, he studies it, unties it with simple pushing and pulling
+bootstrap process is complex
+got harder in D8
+let's look at some new tools
+When all you have is a hammer...
+need better tools
+"text editors" - notepad, nano
+vs text editors - notepad++, Sublime
+vs IDEs - more specialized - phpstorm, eclipse, komodo
+how we set up Dev environment
+FTP development - cowboy coding and ftp
+no version control, this is bad
+Local Dev - MAMP/Native LAMP
+can work offline
+print_r()
+xdebug possible
+Local Dev Next Gen
+Kalabox/Lando - Pantheon and Acquia prehooked
+behave like the server you will be hosted on
+more performance profiling
+blackfire - newrelic but local
+XHProf
+Tidewater
+XDebug: step through debugging
+hitting pause on code execution
+inspect the state of the stack
+modify values live
+hairy problematic issue story 
+something is broken!
+the ever dangerous live demo
+example with chrome debugging tool for JS
+modifying as goes walking through step by step, break points
+looking at things as they are running
+found off by one error
+what is broken?
+is something not showing up?
+new content -is it published?
+Log files
+learn how to find your log files before you need your log files
+multitail
+linux/mac utility to easily view logs with more options than tail
+tail multiple files at once
+where is it broken?
+custom module
+template.php/.theme file
+theme template?
+since we don't hack core or contrib modules
+Change one thing at a time
+git is your friend
+save progress
+recreate 
+make rabbit holes manageable
+git bisect id your friend
+lets you isolate changes between commits
+must have multiple commits on branches and master
+start in the middle
+imagine a 45 step teddy bear factory
+Git diff is our friend
+remove your debug statements
+ensure you only changes as much as you needed to change
+git blame
+git annotate
+find out who wrote the offending code
+not a witch hunt
+a chance to find context
+you can go ask 'person' and might be more info you needed to know
+or time specific
+debugging techniques
+walk away, seriously
+talk to a coworker (pair program)
+talk to a rubber duck 
+write ti down by hand, show your work
+make the future easier
+watchdog
+drupal::logger
+etc
+
+https://twitter.com/McDwayne/status/931976333701386240
+
+
+[Did you say taxonomy or content type?](https://nedcamp.org/new-england-drupal-camp/sessions/did-you-say-taxonomy-or-content-type)
+[Benji Fisher](https://twitter.com/benji17fisher)
+
+I debated leaving this one in here.  Due to some other duties I was late to this talk and my brain was starting to go numb on me, so these notes are not the clearest.  Benji delivered a great session with all sorts of poetry and dead poet references.  After the keynote he even called himself out for only using 3 dead white guys as his poet examples.  The crowd was happy to help him out as Emily Dickinson and Maya Angelou (who does have a few public domain poems actually).  It was a great community moment.  It was also a reminder that Drupal is not always intuitive as the demo went a little weird at one point, but we got to the end with a much better understanding of content type vs taxonomy and how you can leverage both with Drupal! 
+
+Raw Notes:
+developing vocabulary 
+builds a Drupal site
+manage fields manage forms
+name=author
+ends up with 
+All english
+all dead
+all white guys
+copyright 
+Emily Dickinson is a solid choice
+page for William Blake
+taxonomy for Blake
+how you are going to edit the content type
+same here
+content type
+poet info the same in both 
+What difference does it make
+Drupal for free
+revisions, created, timestamps, bulk operations
+Drupal also gives taxonomy
+hierarchy
+drag and drop ordering
+list of associated content (nodes)
+Demo of admin, (reminded me of what Drupal dev looks like)
+Revisions to taxonomy terms, module for that
+created and changed timestamps
+author info
+bulk operations
+drag and drop ordering
+list of associated content
+Admin experience
+will you provide custom navigation
+
+https://twitter.com/McDwayne/status/931997625569759233
+
+
+###Wrapping Up
+
+I will admit, I have not spent as much time in the Drupal community as I have in the WordPress community this year.  I felt a little guilty about this when I first showed up.  But pretty quickly I remembered that these are really my people, FOSS loving and community driven individuals and just the nicest folks in the world.  I hope there are more events for me to go to next year.  The community needs to expand, not contract.  We should all embrace Drupal for what it can do and make the worked a better place.  It took going to this show to remind me of that.  Until next year for NEDCamp 2018,  thanks [NEDCamp](https://twitter.com/nedcamp) and the whole wonderful Drupal family.  
+
+
+https://twitter.com/nedcamp/status/932405108796571648

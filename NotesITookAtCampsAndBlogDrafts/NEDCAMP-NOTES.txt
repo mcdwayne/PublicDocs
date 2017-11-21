@@ -1,0 +1,455 @@
+General:
+
+https://twitter.com/nedcamp/status/931854066350788609
+
+
+Friday night dinner
+
+https://twitter.com/AshishjainMr/status/931703951090769920
+
+
+Day 1
+
+breakfast
+
+
+lunch
+
+After P
+
+
+Afterparty
+
+
+dinner
+
+https://twitter.com/McDwayne/status/932049699955265536
+
+karaoke
+
+https://twitter.com/McDwayne/status/932082007991029760
+
+
+###Sessions
+
+
+#####Opening Remarks:
+https://twitter.com/dbungard/status/931882432101601280
+
+
+
+#####My Session'
+
+https://twitter.com/mikemiles86/status/931886325019693056
+
+https://twitter.com/AshishjainMr/status/931888388789231616
+
+
+
+[Can't we all just git along?](https://nedcamp.org/new-england-drupal-camp/sessions/cant-we-all-just-git-along)
+[Erik Peterson](https://twitter.com/eporama)
+
+Not a 'how to'
+not things you will have to do
+help understand what git is doing and what it is trying to do 
+how to fix things when they break
+logic behind it
+Tim Berglund's "git from the bits up" is where he got the idea
+setting up git
+git config --global
+file that manages config
+initialize a repo
+init
+that is all you need to do
+what did that actually do?
+that is meat of talk
+What git tries to track
+Objects and Refs
+Blob - data of the files
+Treees - pathing for a blob and other trees
+Commits - tree, parent, comments
+REFS
+	Tags - named commit
+	Heads/Branches - line of commits you can add to
+Working directory - the actual files on your disk
+Repository - history of all the changes
+.git directory in the Working Directory
+Commits
+Each commit has an identifier hash
+commits play one after the other
+commit messages should be robust
+People expect a master branch
+Starting with Raw Build
+Creating directory structure
+hash-objects command
+mothing object into index
+git update-add
+DEMO TIME
+mkdir .git
+mkdir .gitobjects
+mkdir -p .git/refs/heads
+refs/heads/master > .git/HEAD
+git hash-object 
+most OS hate large folders
+objects in file 10K OK, 10M not ok
+git generates huge number of files
+everything is stored as objects in git
+hashes breaks off first characters and makes new folders out of them
+Directory + file is the hash
+Still no commit, but no file
+exists as a file somewhere, but not checked out
+does not know what it is or anything about it
+add it to the index 
+git updateindex -add --cacheinfo 100644 hasidentifier spiral.txt
+git write-tree
+git cat-file -c hash
+git cat-file -p hash
+git commit-tree hash
+git cat-file -p
+adding spiral file
+Point of all this 
+a commit is just a pointer to trees
+trees just paths to objects
+objects just files in git folder
+Git cleanup looks for objects that are not in trees, kill those
+head branch detached when not pointed at branch, pointed at specific commit
+don't want to be on a commit, be on a branch with that commit
+checkout rewrites your working directory
+Rebase and Reset
+branching - you can just commit your whole life through
+moving to new branch lets other people work on your repo and keep working on your idea
+like you didn't do the work if you want to toss it
+objects are still there, branch is gone though
+rep log to see changes and bring branch back
+merging is getting branches back together
+real trees rarely do this
+remembers the paths and both branches
+then can get rid of branch
+rebase is different
+a git mere is also a rebase
+that is a fast forward merge
+rebase moves the base fo your branch to a different parent
+changing what it is based off of
+makes it look like one branch
+whole history you are testing against
+fetching
+vs git pull
+pull does a lot
+fetch just gets all work done from the remote branch
+but nothing else, lets you control what to rebase against
+git push me, pull you
+git reset soft
+moves head pointer wherever, leaves working directory alone
+tree (brew install tree)
+git branch --contains hash
+little history commit
+
+
+https://twitter.com/McDwayne/status/931906331082096640
+
+
+
+
+[The command-line doesn't have to be a black box](https://nedcamp.org/new-england-drupal-camp/sessions/command-line-doesnt-have-be-black-box) ;)
+[Jim Fisk](https://twitter.com/jimafisk)
+
+he found himself doing a lot of things with tools
+found himself going more and more to command line
+wrote this talk to help show others how he found success with it
+We will over Docker
+Vesl, tmux, vim, and others
+basics
+how to naviagate find where you are, move things, and edit files
+basically anything you can do through gui you can do through command line
+quicker
+Navigational thing
+pwd - print working directory
+ls - list files
+see . and ..
+. is folder you are in
+.. one leve up
+cd - nav around the file system
+Docker, container service isolated environments that can souse your dependencies and run different version of software in a consistant way. based on your project requirements
+just type 'docker' see list of commands
+all based on a common image you can download and connect containers
+'docker ps' to see what is running
+he created a project that made config easier
+called Vesl (on dockerhub)
+bas script, complex docker commands and make them easier to run
+bloated container that out of the box, ready to go faster though
+Vesl loads things behind the scenes from blueprints
+DEMO
+vesl start container 
+Fish is shell on top of your commands
+fish shell goes ghosting, efficiently run things, autocomplete
+predictive text autocomplete, even if not same start of word, related terms
+tmux
+terminal multiplexer
+have multiple shells within shells
+why need terminal shells in shells?
+ssh 2x and edit in one
+tmux bar gets added to bottom
+vim - can configure 
+shortcuts
+demo
+at the start of what we can do with vim
+vim config that helps you do things like debug easier
+:w
+:q
+Fugitive - vim plugin
+seatags
+tig - better git history git backwards
+history of changes and commit messages 
+see diffs on file by clicking on commit
+tree view
+look through actual files at that point
+edit the old fie without pulling in memory
+mysql cli
+
+
+https://twitter.com/McDwayne/status/931923181790691329
+
+
+
+[Inclusion and Diversity in the Ever-growing Global Digital Marketplace.](https://nedcamp.org/new-england-drupal-camp/sessions/inclusion-and-diversity-ever-growing-global-digital-marketplace)
+[Aimee Degnan](https://twitter.com/aimeeraed)
+
+How do we identify yourself
+project manager
+dev, site builder
+her into slide and her tech history
+do tech
+Women owned business 20+ years expereince
+but who are you really?
+race, class, educatio, sexuality, ability, age, gendr, ethnicity, custure, language
+lot of the audience looks male 
+but not sure how we identify inside
+get more data
+then this is where ask questions and listen what we say
+that is diversity
+being composed of different elements
+this is for people, the ture rane of differences
+the meanig of diversity os not the stat of being differnert, it is noticing and listeng and respecting the differences in others
+inner/outer wheel
+inner are some things can't contril, like ago, national origin
+outside are things you can change, appearance, work exp,, Educatin, Family, Political 
+fluidity 
+Different is scary
+sometimes hard to find connection points
+we like to be around people like us as humans
+people find comparisons
+you can tell if someone is safe if they are familiar
+perceived confidence
+but different can be empowering
+different brings new ideas, new needs, brings change
+society comes with lot of societal baggage
+Privelege exists, we must acknoklede it
+dominant, most influential
+Oppressed, subserviance and hardship, especially by the unjust exercise of authoritysomeone ho feels depressed
+if don't speak the language you could have a temporary oppression
+intersectionality
+trait 1 + traint 2 = total identity
+most people have many more than 2
+instead of rosie the riveter being a white woman
+3 woman of color, one in hijab
+inclusion example of intersectionality
+she had hesitations on putting this together
+admitting how she is oppressed and privileged
+being a tech business leader is how she is afarid of being judged
+will she say too many feminist or radical things
+awareness
+hole built for a circle, other shapes are told by circle "just be yourself and get out"
+need to be aware not just of ourself but other people and the situation
+cycles of oppression and privileged 
+in order for a disadvantaged group to get better situation have to take on traits of dominant opressive class
+inflammation - pain cycle - tht you can fix with Advil, not privilege 
+have to have systemic change to fix
+Inclusion - being part of a group or structure
+integration says stay in your cicle, but no effort to include
+inclusion must be cultivated
+but be careful not to have assimilation
+inclusion is including people as they are, changing the system around the people's neds
+assimilation says change to fit in
+homogeneity vs heterogeneity
+made of same parts vs different parts
+equality vs equity
+fence in the way, looking at the problem different
+addressing systematic issues
+Digital divide
+digital privilege
+gap has improved over time
+worse things happening content censorship and denial of access
+accross the board, internet is helping with inclusion
+content
+Drupal is 4.8% of the internet
+Digital innovations, like Google translate 
+translation programs only getting better
+why does this matter
+where did Drupal start?  and by who?
+so many languages covered in the Drupal project
+Your behavior and acions matter
+be an ally
+sometimes you don't know the right thing to do
+you can ask what the other person needs and help them, it is OK
+be aware communication is beyond language
+talk about change vs living change
+Empathetic actions
+be nice to each other
+sounds easy, but not really
+change is a process, takes time
+is ongoing
+must have an intent to improve
+Yes we can!
+
+
+
+https://twitter.com/McDwayne/status/931957908102893568
+
+https://twitter.com/AshishjainMr/status/931962644868845568
+
+
+
+[Opening the Black Box: Becoming a Better Developer Through Debugging](https://nedcamp.org/new-england-drupal-camp/sessions/opening-black-box-becoming-better-developer-through-debugging)
+[Dustin Younse](https://twitter.com/milsyobtaf)
+
+
+Examples of errors taking down things
+funny tweets
+Nothing but text
+CSS, Aggregated byt not cached
+JS blocked in the browser
+File permissions 
+differences between debugging and troubleshooting
+5 minutes vs 5 hours
+fixed vs understand why it happened and corrected that
+What is the black box?
+no CS degree or background, self taought web skills
+everyone wanted a website, he would do it for beer money
+above average google abilities
+late nights staring at error codes
+Mental model of drupal a black cube
+thing that did stuff
+changed ental model to "Maniac Magee"
+kids book
+can untangle knots
+largest knot in the world, he studies it
+bootstrap process is complex
+got harder in D8
+let's look at some new tools
+When all you have is a hammer...
+need better tools
+"text editors" - notepad, nano
+vs text editors - notepad++, Sublime
+vs IDEs - more specialized - phpstorm, eclipse, komodo
+how we set up Dev environment
+FTP development - cowboy coding and ftp
+no versio control, this is bad
+Local Dev - MAMP/Native LAMP
+can work offline
+print_r()
+xdebug possible
+Local Dev Next Gen
+Kalabox/Lando - Pantheon and Acquia prehooked
+behave like the server you will be hosted on
+more performance profiling
+blackfire - newrelic but local
+XHProf
+Tidewater
+XDebug: step through debugging
+hitting pause on code execution
+inspect the state of the stack
+modify values live
+hairy problematic issue story 
+something is broken!
+the ever dangerous live demo
+example with chrome debugging tool for JS
+modifying as goes walking through step by step, break points
+looking at things as they are running
+found off by one error
+what is broken?
+is something not showing up?
+new content -is it published?
+Log files
+learn how to find your log files before you need your log files
+multitail
+linux/mac utility to easily view logs with more options than tail
+tail multiple files at once
+where is it broken?
+custom module
+template.php/.theme file
+theme template?
+since we don't hack core or contrib modules
+Change one thing at a time
+git is your friend
+save progress
+recreate 
+make rabit holes managable
+git bisect id your friend
+lets you isolate changes between commits
+must have multiple commits on branches and master
+start in the middle
+imagine a 45 step teddy bear factory
+Git diff is our friend
+remove your debug statements
+ensure you only changes as much as you needed to change
+git blame
+git annotate
+find out who wrote the offending code
+not a witch hunt
+a chance to find context
+you can go ask 'person' and might be more info you needed to know
+or time specific
+debigging techniques
+walk away, seriously
+talk to a coworker (pair program)
+talk to a rubber duck 
+write ti down by hand, show your work
+make the future easier
+watchdog
+drupal::logger
+etc
+
+https://twitter.com/McDwayne/status/931976333701386240
+
+
+[Did you say taxonomy or content type?](https://nedcamp.org/new-england-drupal-camp/sessions/did-you-say-taxonomy-or-content-type)
+[Benji Fisher](https://twitter.com/benji17fisher)
+
+developing vocabulary 
+builds a Drupal site
+manage fields manage forms
+name=author
+ends up with 
+All english
+all dead
+all white guys
+copyright 
+Emily Dickenson is a solid choice
+page for williams blake
+taxonomy for blake
+how you are going to edit the content type
+same here
+content type
+poet info the same in both 
+What difference does it make
+drupal for free
+revisions, created, timestamps, bulk operations
+Drupal also gives taxonomy
+heirarchy
+drag and drop ordering
+list of associated content (nodes)
+Demo of admin, reminded of what Drupal dev looks like
+Revisions to taxonomy terms, module for that
+created and changed timestamps
+author info
+bulk operations
+drag and drop ordering
+list of associated content
+Admin experience
+willyou provide custom navigation
+Database!  
+Node Tables
+
+
+https://twitter.com/McDwayne/status/931997625569759233
+

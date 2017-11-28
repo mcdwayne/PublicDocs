@@ -1,8 +1,8 @@
 ## Session Slides And Such
 
-[Discovery, Discovery, Discovery, Discovery! The Most Important Part of the Project](https://docs.google.com/presentation/d/1bmTjzourh9drcDFItdJBbRkHIHPk8XPG9v1lQIdTEEg/edit?usp=sharing)
+[Discovery, Discovery, Discovery, Discovery! The Most Important Part of the Project](https://www.mcdwayne.com/discovery-discovery-discovery-discovery-the-most-important-part-of-the-project/)
 
-[Every project is a story: Applying storytelling to your client interactions:][8] 
+[Every project is a story: Applying storytelling to your client interactions][8] 
 
 [Everything Louder Than Everything Else!: Navigating stakeholder needs through better discovery][10] 
 
@@ -16,7 +16,7 @@
 
 [We Are All Making This Up, Improv Lessons For Developers][12] 
 
-[WP-CLI: Don’t Fear The Command Line:][3] 
+[WP-CLI: Don’t Fear The Command Line][3] 
 
 [WP-CLI Workshop](https://goo.gl/cCYav8)
 

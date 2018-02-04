@@ -1,0 +1,393 @@
+WordCamp Albuquerque 2018: Seeing my first show of the year and a coin flip to decide on a workflow
+
+When you tell people you are going to [The Duke City](http://www.city-data.com/forum/albuquerque/394323-why-abq-called-duke-city.html), they have a lot of various things to say about [the food](https://en.wikipedia.org/wiki/New_Mexican_cuisine), [the culture](https://www.visitalbuquerque.org/about-abq/culture-heritage/) and about [hot air balloons](http://www.balloonfiesta.com/).  The one thing no one ever mentioned to me was that the city has an altitude higher than Denver, [sitting at 5,312 feet](https://www.smartertravel.com/2017/02/24/altitude-sickness-albuquerque-warnings-dangers/).  I discovered this fact when I first arrived at my hotel and felt a bit dry and a tad light headed, as if I was experiencing a touch of altitude sickness.  Google confirmed my suspicion, and I felt a lot better after a brief rest and a few glasses of water.  Happy to report this was literally the worst thing that happened to me the entire trip as I entered the new year of travel season by participating in an amazing [WordCamp Albuquerque 2018](https://2018.albuquerque.wordcamp.org)!
+
+
+https://twitter.com/BrownriceInt/status/954806496742780928
+
+
+https://twitter.com/sakinshrestha/status/954755701917790208
+
+###Food and Fun
+
+#####Speaker Dinner
+
+As per the norm, kicking things off proper for the camp for me was the speaker dinner.  We got a special treat by going to the largest restaurant in the whole are, [El Pinto](http://www.elpinto.com).  It is less a restaurant than a gigantic adobe compound that serves authentic New Mexican cuisine.  WE had chips, salsa,  guacamole and margaritas as we gathered and chatted together, organizer and speaker and sponsor alike.  Then a buffet line opened for us and we had a sampling of their finest popular dishes.  The corn salsa was the best thing I had and if I ever get back to this city I am for sure going to return just for a pile of that wonderful stuff.  Time goes by quick when you are really enjoying yourself and what felt like mere moments after I arrived we had to end the night. Special props to the kindness of [Nathan Ingram](https://twitter.com/nathaningram) for giving me a lift home.  Along the way we checked out a potential, but not great and will remain nameless here, WCKaraoke spot.  
+
+Unfortunately I can't find a picture on twitter of this event, so here is a nice representational tweet:
+
+https://twitter.com/SRLWattage/status/762451389947613185
+
+
+#####Saturday
+
+Albuquerque is home to [Prosum Coffee Roasters](https://twitter.com/prosumroasters).  This roaster, who strives for working directly with farmers and prides itself on sustainability, is a good solid few steps above Starbucks consistently burnt offering and a lightyear beyond some conference catering options.  Snacks were around but I didn't partake of anything but a few peanut putter filled pretzel bites.  
+
+https://twitter.com/sonjadewing/status/954445009230749697
+
+
+#####Lunch
+
+I have a love/hate relationship with food trucks.  On the one hand I love how the restaurant comes to you and in the case of [WordCamp for Publishers in Denver](https://www.mcdwayne.com/2017/08/21/wordcamp-for-publishers/) where a food truck festival was going on across the street, the lines were short and service speedy.  On the other hand if you have too few trucks offering too many things, the the queue gets very long and lunch becomes an ordeal.  I am happy to say that this camp fell in the upper quadrant of my the food truck experiences.  There were 2 trucks from [The Treet Food Institute](http://www.streetfoodinstitute.org/), each only offered 2 or 3 options, which they were able to speedily crank out and managed to get us all fed with plenty of time to spare. I had the vegetarian tacos without the cheese and they were spectacular and gloriously spicy.  
+
+At one point about half way through service a third truck showed up from [PopFizz](https://www.pop-fizz.net/), with gourmet popsicles and homemade [choco-tacos](https://en.wikipedia.org/wiki/Choco_Taco) featuring inventive creations and flavor combinations.  I had a pineapple habanero pop that was at first perfectly sweet, chased by an intense burning heat that made you want to take another bite of the frozen treat.  
+
+https://twitter.com/sonjadewing/status/954799532159709184
+
+
+
+After Party
+
+You can't have a WordCamp without an after party and the organizers delivered a good time at the [National Hispanic Cultural Center Grand Hall](https://2018.albuquerque.wordcamp.org/session/after-party/).  Drink tickets and cash bar accompanied spring rolls and meatballs.  I even found a free book bin making me wish I could read Spanish better, some of those titles looked interesting. All too soon we got swept out the venue and a couple of us ended up at some Karaoke and got to see the end of a UFC event at [Punky's Place inside Silva Lanes](www.silvalanes.us/punkys-place.html) 
+
+https://twitter.com/ATBreCox/status/954895729826426887
+
+
+
+###Sessions
+
+Foundation Day:
+I was not there for this. I flew in that day and set up the sponsor booth.  Twitter was a blaze with positive comments and I was told over 100 people were there to learn some WP basics in this single track workshop series.  I love that these days are filling up at camps, a good sign for our future.  
+
+https://twitter.com/abqwordpress/status/954419554171600896
+
+
+
+[Cain & Obenland In The Morning](https://2018.albuquerque.wordcamp.org/session/cain-obenland-in-the-morning/)
+[Konstantin Obenland](https://twitter.com/obenland) 
+[Michael Cain](https://twitter.com/michaeldcain)
+
+If you like wacky morning talk shows and like WordCamps, then this is literally what this is.  Check out [their site](https://cain.obenland.it/).  Always a good time, we get insights into the world of WordPress not only from our talented and very knowledgeable hosts, but also from a variety of guests. This time around I walked in the room in time to see [Mendel Kurland](https://twitter.com/ifyouwillit) of [Camp.press](https://adventureswithgeeks.com/) and [Hiking with Geeks](https://twitter.com/hikingwithgeeks) and also works for some web hosting company. 
+If you have never witnessed the zaniness in person, fear not, [it is on WordPress.tv.](https://wordpress.tv/?s=Obenland+cain)
+
+Raw Notes:
+Came in late due to booth duties
+Mendel Kurland special guest
+Just a fun time
+interview poked some loving fun at Mendel
+Q- how has GoDaddy been adapting to be better at WP
+A - Aaron Campbell hire, sending employees better in the community
+intensely important ways, hiring contributors, and be with the community
+level up the community
+A lot of small companies do business with small dev shops, decided to important to support that group of devs, make their experience better, that is GoDaddy Pro
+global sponsor as well
+Been to over 100 camps
+Q-advice for new campers
+A-keep yourself open to conversations and learning, asssume everyone else is open to this as well
+Q-favorite parts of WC
+A-until now, the cain and obenland show, but being a guest is terrifying :)
+Plug for camp.press
+Last section
+Gutenberg
+less than 1/3 of room had heard of it
+New Core Default Editor in 5.0
+JS based editor
+Blocks, and blocks, and blocks
+unify all the various contents into blocks
+true WYSIWYG
+lot of bugs now, but working out
+no more post types, widgets, etc
+One thing different than short codes- blocks can have prompts, no longer have to fully know how to use, prompts guide now
+Does the dirty work for you
+lot of default blocks but many more being built
+one day will get rid of sidebar and widgets and short codes
+custom functionality from plugins
+Gutes demo
+pre-gutes theme? 
+works out of the box but not fully using it properly though
+New themes will be more and more themes to leverage this soon
+
+https://twitter.com/Kitty_Lusby/status/954757625442422784
+
+
+[Using Arrays as Plugin Variables … Or Why I Should Patch Core](https://2018.albuquerque.wordcamp.org/session/using-arrays-as-plugin-variables-or-why-i-should-patch-core/) 
+[Brian Stinar](https://en.gravatar.com/brianstinar)
+
+This was a brief talk but super dense.  Basically, 'what if you build a form that lets people populate a bunch of WP-CLI and other script calls that create custom sites on demand?' Well, the answer turns out is, yep, that works very well!  Thanks to the stability and predictability of the CLIs, you can do 'boilerplate' type scaffolding without the overhead of having the unneeded parts of those templates. For sure check out his [project on Github](https://github.com/brian-stinar/WordPress-Site-Creator-Plugin).
+
+Raw Notes:
+Created a site from a form
+how did this happen
+custom code in there too
+lots of boilerplate approach?
+lot of decisions and clunky like that
+used 100% JS to invoke enque hooks
+super fast and reliable
+Code under GitHub
+100% Gravity Forms dependent right now
+could hook in others
+
+https://twitter.com/McDwayne/status/954769802916188164
+
+
+[Keynote](https://2018.albuquerque.wordcamp.org/session/keynote/) 
+[John Maeda](https://twitter.com/johnmaeda)
+
+I first heard John speak at [WordCamp Boston](https://www.mcdwayne.com/2017/07/24/wcbos-2017/) last year and it stood out among keynotes as more of an inspiring conversations I have every heard with the community.  Rather than a lecture about generally why we need not worry about the future of the project, John took questions, submitted on paper, mostly anonymously, during the talk and answered our concerns directly.  It set him apart as someone who really honestly cares about us succeeding as a community.  When I found out he was the Keynote here I was overjoyed.  The talk centered on one of my favorite philosophical points of FOSS, [The Cathedral and The Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar), which I firmly believe should be required reading in our schools.  He ended with a teaser to the forthcoming "project Muriel" shift in how Automattic and hopefully the rest of the WP world starts thinking about user journeys.  No link to anything exists yet, but the tweet below sum it up. 
+
+Raw Notes:
+Student of change
+Gave us all his cell # to text him questions throughout the event
+People are not ready to change until there is provable reason to make things better
+Give space for emotion
+why are Automattic folks making clever "cheshire wapuu" shirts?
+Need an emotional tie in to the community and people
+Mind the mobile
+one big issue, stuck int he desktop world
+trying to solve mobile issues from the desktop, everyone is mainly using phones
+The net used to be super locked down
+confined and complex
+First military
+then academia
+in 2008
+when smartphones got traction then everyone had access to that information network
+devs trying to free this network stack
+no single mind could understand, but the chaos was interesting
+one MIT network was in fact called Chaos Network 
+it will continue to be decentralized and complex
+anything around for a long while, you get tech debt
+London water system loses 40% along the way
+Internet is different
+Cathedral and the Bazaar 
+why did linux win, why did open source win
+because it is too complex to understand as a single person, but as a group, we can make it together
+WP is canonical dev approaches to SW
+people that fill in that gap make it all work because we are working with everyone's best interest in mind
+Bazaar is messy and emergent
+Cathedral is top down and controlled
+companies firmly believe in the cathedral, boss's boss oks changes
+before 2008 not as many computers, because of smart phones, everyone gets access
+bazaar makes most sense, the experience gets better faster
+solving end user problems not just dev and intended specific user problems
+Design by committee has issues and compromise
+realizing that you have to be good for specific segments and do that instead of everyone really
+Theory: Google is really, really good design
+WP used to be the best at design
+we need to reawaken that potential
+WordPress will be Good Design For All
+working on how to make this happen as a community
+Why? The parts are good
+VR and Voice are already usable with WP
+already there, programming by Alexa voice commands possible
+devs love new technology
+Issue is sometimes we are not solving for tomorrow, just today
+AARP realized years ago that the way people aging and how old they were getting changed
+We need human "wow"!
+how does Open Web survive? Needs to for all freedom for all
+lot of things were not designed for people, but for technologists
+how to improve? Project Muriel.
+how to make products more inclusive and emotional and delightful but data driven
+best practice standards for using in your cathedral approach projects
+SWOT
+lets just talk SW
+focus on the Strength Weakness 
+Hard to know who to design for
+
+https://twitter.com/brandisea/status/954821970625007617
+
+
+[Chris Lema Interview: Ashleigh Axios](https://2018.albuquerque.wordcamp.org/session/chris-lema-interview-ashleigh-axios/)
+[Ashleigh Axios](https://twitter.com/AshleighAxios)
+[Chris Lema](https://twitter.com/chrislema)
+
+If you know anything about Chris it is likely that he likes cigars, wears a hat a lot, and is an [awesome blogger](http://chrislema.com/).  What I had not really realized until this camp was how good of an interviewer he is.  The difference between a bad interview and a good interview, as explained by [Nardwar](https://en.wikipedia.org/wiki/Nardwuar_the_Human_Serviette), is research and preparation.  The way he lead this conversation made it sound like he and Ashleigh were old colleagues sharing memories rather than a formal interview.  
+Ashleigh is a delightful human being with some fabulous stories about her time working with former president [Barack Obama](https://www.obama.org/).  From the time she helped him pick out his picture for twitter to the delight and surprise their whole team felt when Bill Clinton tweeted back at him for his first tweet.  She also gave some amazing insight into design principals.  This is going to be one of the 'do not miss' WordPress.tv selections for years to come. 
+
+
+Raw Notes:
+We should ask what end users need, nobody thinks that is a bad idea
+implementing that is hard
+Sometimes government gets it right
+how important precedent is, huge thing
+policy precedent is an interesting thing, listen to your constituents
+how policy is shaped
+why not how policy is communicated
+cultural changes are hard
+How important is listening for inclusion
+super important
+must discover and create space for it, hard in a democracy
+wethepeople platform took a lot of discovery
+Base foundation is listening and intentionally allowing people to share
+People already paying attention are already there
+want to bring in other voices
+Issue with "won't Fix" status
+makes it less inclusive in WP
+non-accepted code submissions make it geel isolated and not growing community
+need to get out of the internal bubble mindset
+always a learning curve, how to we manage that
+Why WordPress and Automattic?
+Based on the time of recognizing tech community importance
+democratizing to give people better voice
+need people sharing voices and engaging in new dialog
+can't guarantee that people will stick around, need tools to bring in new people
+any change happens from community driven
+lot of commonality with the way people think about it
+better civic dialog inside 
+need to do this across the internet, communities,
+that is why WP is important, 29% and growing
+What did you take away from your experience in design school?
+can't grow if you don't learn
+must have mechanisms to hold lessons dear and learn from them
+Tips on doing more reflection:
+Document along the way no matter how informal
+think about why you are doing thing and answer these questions in docs
+as you learn and adjust and get new data, you can better track momentum
+at first feels silly, but over time pays off huge
+Makes teams more focused and when new ideas come through you can better vet them
+Community and conversations are a big deal
+one of the ways they started to battle pay discrimination was trying to shift the firewall of people discussing compensation
+Having open dialogs are the key to so many things
+
+
+https://twitter.com/ewhitmore/status/954820648374865920
+
+https://twitter.com/McDwayne/status/954821184813719554
+
+
+My Session:
+
+[WP-CLI: Don’t Fear the Command Line](https://2018.albuquerque.wordcamp.org/session/wp-cli-dont-fear-the-command-line/)
+[Slides and such](https://www.mcdwayne.com/wp-cli-wp-yes-you-can-aka-dont-fear-the-command-line/)
+
+I LOVE giving this talk. Had a full room and some amazing feedback.  Thanks to all who came out.  Only issue is I ran the heck out of time.  Only 30 minutes total, including Q&A, just not long enough.   I am in the midst of rewriting it for [WordCamp Miami](https://2018.miami.wordcamp.org/category/speaker-announcements/).  Can't wait to unveil the 2.0 version!    
+
+
+https://twitter.com/schutzsmith/status/954841526340935681
+
+
+
+
+[Help! There’s Too Much Spaghetti in My APIs](https://2018.albuquerque.wordcamp.org/session/help-theres-too-much-spaghetti-apis/)
+[Dennis Snell](https://twitter.com/dmsnell23)
+
+I went in expecting a talk about spaghetti code, which is far less delicious than it sounds but leads to exponentially more stomach aches.  Instead I walked away with a brand new appreciation for how we can, and likely should, be thinking about the REST API.  When you get down to it, the internet is not about the images or words themselves, but about how we are using them.  Clicking, pointing, dragging, filling in forms, etc.  These 'events' make much more sense to design around rather than the 'objects' involved in the transaction.  Instead of checking for the states of every object, let's just design states that include those objects.  Literally flipping the issue on it's head but to much cleaner scenarios with far fewer lines of interdependent code.  If you are writing for APIs this is an interesting topic to bring up with developers, designers and clients alike, since they can all explain what they want to do.
+
+Raw Notes:
+REST API, why is it important and what we need to do
+We have done a good job of building posts and users and such in REST
+Object vs action
+things vs actions
+API is easy for a post, a thing
+but harder for submitting a post, doing a thing
+let's talk about processes
+processes that do stuff, that can fail, that can do all sorts of things
+Hypothetical Post Content Analyzer plugin
+analyze writing and provide feedback
+premium suggests images
+What happens when something changes when calls are made, 
+move back to free, server dies,
+Let's talk about State Machines
+State machine API approach 
+state = await fetch{...
+gets a single type of data
+return JSON
+with state specific data, time, inactive, complete, alerts, finshedAt
+Lot of data
+Waiting -> processing <-> complete  | inactive
+modeling processing let's us abstract into discreet semantic units
+each has properties that only exist in that form
+jump between states but only along certain business rules you can define
+if/then
+await and then return
+if refresh page while submitting, causes error
+in state machine, no longer a user interface dependent on browser, 
+UI updates not because of transition but because of the status that gets pulled
+easier to translate what you want to do to developers
+describing states is better than describing objects
+no need to check 100 different places in JS, just one
+list of endpoints needed to know them all
+with state it needs a lot less
+no duplication, all logic from one spot
+Encourage writing in a more modular way
+In many cases inactive states, error states, issues, live on their own
+helps to write code consistently with the browser
+API becoming hollow shells
+
+https://twitter.com/McDwayne/status/954860585103118336
+
+
+
+[Design Patterns with Advanced Custom Fields and WordPress](https://2018.albuquerque.wordcamp.org/session/design-patterns-with-advanced-custom-fields-and-wordpress/)
+[Daniel Schutzsmith](https://twitter.com/schutzsmith)
+
+My one and only gripe with this, or any talk of the day, is the name.  If there is an award for mislabeled talks, this might be the all time winner.  If he had called it what it really was "How Amnesty International US became more usable with Atomic Design Principals" (or something like that) that room, even though the last talk of the day, would have been overflowing I think.  I love me a good case study, because it is literally the story of how tech was applied.  Getting to see the journey he took as a designer and developer from the old way to the new approach taught me so much in such a short time.  In fact, my notes are so short here only because a couple times I caught myself straining my eyes at the projector screen while my brain was wrapping itself around the design principals he was explaining and I was grasping for the first time.    
+Do not miss this one once posted on WordPress.tv!  If there was a better way to end a full day of sessions, I have not attended it yet.  
+
+Raw Notes:
+Starting with a case study of the Amnesty international rebuild
+that story, where do we start
+Looked at what worked and did not
+looked for similar design studios 
+Hyperakt
+just happened to be next store to Amnesty in NYC
+ethos was good
+both refugees and REALLY good at design
+focused on transformations for orgs
+Watched users through GA and heat maps
+found only 15% bounce rate
+about us and careers were a surprise thing a lot of people clicked on
+used HotJar
+smiley face message box at bottom of the page to communicate with design team, cool HotJar feature
+Need to A/B test
+Reasons for a design system
+Support brand
+Naturally agile
+ease of use
+design agile
+very quick iterations
+administrators need a better experience
+specific places to put images, makes like more manageable very quickly
+ATOMIC design
+Atoms, Molecules, Organisms, Templates, Pages
+visual ways to show content
+Creating mobile app example
+Bootstrap 4
+devs hate it, but design it makes  alot of sense, one common core system to work with
+reusable and contrib to a single system 
+no matter the vendor
+Had to look at global brand and what to adhere to
+the Big Yellow Book
+all the branding guidelines for all sites in the world for Amnesty
+Used modules (not Drupal, though it was on D6)
+really chunks of design 
+end results were easier to reach since modules laid most of work outline
+just slot in proper stile
+
+
+https://twitter.com/McDwayne/status/954870515390406656
+
+
+
+#####Contributor Day
+
+About 25 people gathered for Contributor Day on Sunday.  It was held at a different location, the FatPipe AQB co-working space.  Very roomy.  Had awesome coffee and leftovers from the after party as well as some of the snacky foods left over from the camp.  It was great to see a few new people get onboarded and brought up to speed with how to contribute.  Since my focus in on the Marketing team, that is where I got to contribute.  
+Here is the write up I did for the Marketing team:
+
+Marketing Team Contributor Day Recap from WC ABQ
+Team members present:
+@mcdwayne, @Kitty, @angela, @heatherm
+
+The main focus for the camp was working on:
+“Navigating Trac guide for new people core.trac.wordpress.org”
+https://trello.com/c/g3z2GbSX/47-navigating-trac-guide-for-new-people-coretracwordpressorg
+
+@mcdwayne and @Kitty took on the task of turning @flixos90’s presentation of beginning use of Trac into a Google Doc: 
+https://docs.google.com/document/d/1fzaafckFhSEwDtWY7Sbo0WpgQVvVEF0fKAGwpyFVBUI/edit?usp=drive_web
+
+Meanwhile @angela attended the ‘getting started as a core contributor’ session.  and took notes of the general overview she received for Trac:
+https://docs.google.com/document/d/1mDm9cY9qn_s8EgVopUO_6u66e6AZMIVzJDUrKDK_Hfs/edit
+
+@Kitty worked out an outline for a new user guide, including minimum criteria for the intended guide user, which was discussed in depth by the rest of the team over lunch, resulting in this document:
+https://docs.google.com/document/d/1Em7wZKWF-crY2_AuamQb1vvTsFR8sFcoUVAxIq1LtUw/edit
+
+After debating the merits and disadvantages of a single doc for both outline and draft vs using a second dedicated doc for the drafting of the guide itself, only to find ourselves equally divided on preferred approach, we flipped a coin and went with the 2 document approach. Draft is here:
+https://docs.google.com/document/d/1lPjhePVxSTAK0Q4NY7bhtF60PS6zk7Swz7pwK-ACO-Y/edit
+
+https://twitter.com/McDwayne/status/955191190999023616
+
+
+###Wrapping Up
+
+This was a heck of a great way to kick off the year.  The sessions were incredible and the people of the SouthWest are always so nice.  Shaking off the rust of writing this blog after about a month off felt good but also took me longer to publish than I intended.  Reminding me that I only have so much time and can only get so many things done.
+
+I am very much looking forward to 2018 and I can't think of a better way to have kicked it all off.  This was my first time in New Mexico but I sure hope it is not my last.  At a minimum I hope I can return next year for the all the fun and excitement for what will be a bigger WordCamp Albuquerque 2018!

@@ -1,4 +1,8 @@
-Allegory of the Cave applications for sales strategy
+The Allegory of the Cave and You: Best Practices from ancient Greece
+
+Imagine it: People trapped in a dark cave but don't know they are even in a cave.  You manage to escape and see the world for how it really is, only to return to try and wake the rest of the people up only to be met with resistance of "that is not how we are used to doing things."  Technology is less about the way things were done in the past and embracing the bright sunny future with new ways of looking at problems.  This talk will compare the ages old philosophical masterpiece of Plato to the journey of development and how we can leverage the core lessions to make sure we don't get stuck in our own cave like echo chamber.  
+
+
 
 Hopefully we all know Plato's Allegory of the Cave.  If not, read this first: https://en.wikipedia.org/wiki/Allegory_of_the_Cave#Summary
 
@@ -30,4 +34,3 @@ religious
 
 
 
-Imagine it: People trapped in a dark cave but don't know they are even in a cave.  You manage to escape and see the world for how it really is, only to return to try and wake the rest of the people up only to be met with resistance of "that is not how we are used to doing things."  Technology is less about the way things were done in the past and embracing the bight sunny future of embracing new ways of looking at problems.  This talk will compare the ages old philosophical masterpiece of Plato to the journey of WordPress development and how we can leverage the core lessions to make sure we don't get stuck in our own cave like echo chamber.  

@@ -5,8 +5,6 @@ Outside of tech I love producing and performing improv theater.  I also love com
 Reach out at https://mcdwayne.com or on twitter @mcdwayne
 
 
-Speaking:
-You can see some of my talks recorded here: You can see my recordings at http://wordpress.tv/speakers/dwayne-mcdaniel/
 
 Midcamp (Chicago) 2016,
 DrupalCamp Colorado 2016,
@@ -27,8 +25,21 @@ WordCamp Minneapolis 2017
 WordCamp Montreal 2017
 WordCamp for Publishers: Denver 2017
 
+
+Speaking:
+
+I have spoken at over 35 events in the last 2 years.  
+
+My 2017 speaking schedule (27 times)
+https://docs.google.com/spreadsheets/d/183m3Ex2FIJPXtQAA7KTxlEGfPuxdhA-ARdVBmPjVAVk/edit?usp=sharing
+
+You can see some of my talks recorded here: http://wordpress.tv/speakers/dwayne-mcdaniel/
+
+
+
+
 Dwayne has been working in tech and open source sales since 2005.  
 He knew as soon as he started working with Java middleware developers he never wanted to work outside of open source ever again. Dwayne first started building in Drupal and WordPress for the San Francisco Improv teams and projects.  He fell in the love the community and then found a position at Pantheon at the end of 2013.  
-As a Community and Agency Success Manager he has had the privilege of presenting at Stanford DrupalCamp, Drupal Northern Lights (Iceland), WordCamp Europe and many other conferences. 
-Outside of tech he loves producing and performing improv theater, reading webcomics and singing karaoke!!!
+As a Community and Agency Success Manager he has had the privilege of presenting at dozens of community events from Paris to Iceland to MIT and Stanford.
+Outside of tech he loves producing and performing improv theater, reading webcomics and singing karaoke!
 Reach out at https://mcdwayne.com or on twitter @mcdwayne

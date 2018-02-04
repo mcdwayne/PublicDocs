@@ -43,6 +43,11 @@ for turn in range(10):
         # Print (turn + 1) here!
         if turn == 9:
             print "Game Over"
+            print "it was at"
+            print ship_row 
+            print ship_col
+            
         else:
+            print "That was turn" 
             print turn+1
     print_board(board)

@@ -1,0 +1,660 @@
+WPCampus Online 2018: Amazing content I got to watch from home while helping out a little too
+
+I will start out by saying I do not work in higher education.  You might find yourself wondering then why I am such a fan of [WPCampus](https://wpcampus.org/).  The truth of it is that I find the problem sets that the WP developers and admins have at universities absolutely fascinating.  They have some of the most complex issues to solve with regards to permissions, compliance and delivery, coupled with an "as close as you can get to free" budget from administrations.  Every time I hear about a situation where a single dev is managing hundreds of sites and is being pulled in multiple directions by all the stakeholders, I want to extend a hand of comfort and do what I can to help.  That is why I volunteered at this year's [WPCampus Online](https://online.wpcampus.org/).
+
+This amazing and free event is put on by an incredible team of volunteers lead by the one and only [Rachel Cherry](https://twitter.com/bamadesigner), who has this infectious enthusiasm for helping higher education have the best time with WordPress. I signed up to be a Room Monitor, which is a volunteer position to make sure certain information gets announced in the chat window for the rooms as the presentations were happening as well as be on the lookout for abusive behaviour.  Very happy to report I had a very uneventful shift as only the nicest and sweetest people were in attendance and all the comments were well within the code of conduct.  There were a couple technical hiccups, as there always will be with any online conferencing system, but we got through them all and had an amazing day.  
+
+https://twitter.com/stpha6/status/958407954847453184
+
+If there is a downside to this event it is there is no social event afterwards since we are all in different locations.  Since I was at home for the whole event I will forgo the normal structure here of commenting on coffee, lunch and parties, as the event itself didn't directly involve those things.  So, let's get right to my notes.
+
+
+###Sessions   
+
+Note, all the sessions are recorded and up on the link from the session titles below.  
+
+
+[Which Way Does Your Duck Face](https://online.wpcampus.org/schedule/which-way-does-your-duck-face/)
+[Mike Demo](https://twitter.com/mpmike)
+
+Not the first time I have seen this talk and I am sure it will not be the last.  Every time I glean something new.  The biggest take away I think this time was something I have been thinking about with Load and Performance testing, and that is having too small a data set.  If you only have 100 visitors, the behavior of any one can skew data.  If you have 10,000 visitors, 1 visitor is not going to throw off any number, but dozens of users behaving the same way will for sure be significant.  Or maybe not!  Demo explains this point more eloquently than I can here, so please do take the time to see this one!  
+
+Raw Notes:
+WP is a community and we are all here together
+A-B Testing
+Shake you up
+Who has done A-B? 
+What did you do?  Change something conversions change but you don't know why
+change multiple things and nothing works
+that is typical. 
+Have to have a goal written down
+a SMART goal
+and then controlled tests
+Correlation is not causation
+Using a tool helps you test one thing at a time
+Tells about the drop shadow on a site that made all the difference
+but you have to write it down
+You have to have real traffic, thousands and thousands of visitors
+too small a sample set can mislead you
+there is software for this
+Every once in a while you will be shocked
+You can test EVERYTHING and should
+He rolls out his master list of things he tests
+it is long
+If a test can't fulfill a goal, why would you do it
+Sometimes unprofessional 
+colors, don't forget WCAG (Accessibility standard)
+low brightness vs high brightness
+never know unless you test
+Static vs animated
+stock vs amateur 
+layout options
+one CTA vs another
+Must be open to examine 'brand standards' as you work
+can't get stuck in "this is the way we always do it"
+mirrored images?
+duck image facing left vs right (name of the talk)
+facing right had much higher conversion
+80% higher
+why?
+IT DOES NOT MATTER
+you do not need to concern yourself with the way
+the goal is all that matters
+if the needle moves then you are winning
+if you get sucked into they why you are just making much more work for yourself.
+Be careful with trust logos
+early rounds of American Idol contestants do well with trust logos
+Get this free book
+https://dotcomsecretsbook.com/yourfreebook
+Q/A:
+Q: One test at a time
+A: yes, you need to control what you are testing, use software that can tune this for you
+don't test a subset of a test
+more important to have enough traffic to test each thing
+Make sure you write down your goals and keep thinking about the larger goal
+'Number 1' in google is big to chase but is that really getting them better 'results'
+The one things your site should not do is let your site stay static
+test and fin out what works to get you to your goal
+caution in using plugins for A/B testing
+you don't want google to index testing
+third party hosting tools are way better for the browser agent side, not server side
+
+https://twitter.com/boldgrid/status/958342153540956161
+
+
+[Unbundle Your Institution: Building a Web Ecosystem](https://online.wpcampus.org/schedule/unbundle-institution-building-web-ecosystem/)
+[Eric Sembrat](https://twitter.com/esembrat)
+
+I was excited to see this presentation because I mostly know Eric from his awesome work over in the Drupal Community.  The PHP CMS Community is smaller than you think sometimes and it was amazing to see this crossover and see Drupal get some love at a WP focused event.  Aside from that, Eric has a pretty sweet beard these days, making this video kind of a must see for that and a cameo by his two adorable dogs.  Also the content was super great.  Thinking about WP (or Drupal) as part of your solution, not boxing yourself in as the whole solution, is a very smart approach and I loves his insights.  I know you will as well.  
+
+
+Raw Notes:
+Eric has a sweet beard
+Works at Georgia Tech 
+nice partial view from his office
+Ignoring other applications
+WP is great but it does not do as well as some other custom apps that are fined tuned for that
+for instance
+If campus has Drupal in place for website management
+and you want to offer a quick way to roll out sites
+WP site network works very well in general
+vs Drupal multisite which takes a lot of time 
+and no way to know how long to customize and add new fatures
+if you have same amount of staffing, which would you choose
+instead of competing for time
+see all solutions and learning to love them and see their pros and cons for specific use cases
+A prebuilt Learning Management system vs building your own platform
+Without a guiding hand, people silo up and reinvent the wheel
+over and over
+A web ecosystem
+making it easier to consume all the info you can present
+through new services and tools
+blend campus identity across any application
+Where does the web infrastructure live?
+Cloud
+On Site
+does not mean all your platforms ned to live in the same place
+features
+security is paramount
+updates and support
+all need to live harmoniously
+What tools helps the team do their job better
+2 primary formats
+Less, code helpers
+living breathing code snippet approach
+DRY
+2nd one is content repository for code sharing and revisioning
+Github
+allows collaboration everywhere
+single sign on for instance, share how that is done everywhere to all teams
+Campus Web Dossier
+if you want this kind of project, this is how we do that on this campus based on the success we have seen
+4 levels of complexity
+Static/old
+brochure level, just quick landing pages without building anything, just content
+Component based web sites leveraging a CMS
+custom-fit applications, largest components, single purpose
+DAM, CRM, Repositories, etc
+Reusability id key to this,  should be able to share across all the levels of complexity
+Want to share config and assets within each level of site
+also want to share throughout the spectrum
+down through al the services
+assets
+Reusable components
+theme and branding consistency
+good examples:
+news and event tools
+directory tools
+Logo repositories
+Documentation really saves everyone a lot of work
+Docs are the binding glue and encourages us to reuse them
+4 forms
+how, why, where, when
+and the community is the subject matter expert
+they are not the creators
+but they are the customer and first person to give feedback
+contributors who drive knowledge decisions
+build a Community-of-practice
+Caveat: This takes a lot longer to see results in general, 
+just slower since more people and things involved
+Figuring out your goals
+what is missing, what are people not doing since there is nothing there currently
+Must think about end users
+and your stakeholders and experts
+Advertise your end goal
+make this known
+showcase the benefits and current limitations
+Get user input
+what works and does not work to them
+segmented and controlled groups
+if decentralized you need to build partnerships
+shout out the benefits
+Proof of concept, show it
+Pushing for change
+begin by being the change we want to see
+You can't predict the future but you can plan for change and for growth
+Drupal 8 symphony and twig
+new way of thinking is seeping into the CMS but core concepts been in place for years
+In general thinking of end users first and reusability tied to that when designing
+
+https://twitter.com/esembrat/status/958358568473907200
+
+
+[Headless and Brainless WordPress](https://online.wpcampus.org/schedule/headless-and-brainless-wordpress/)
+[Ben Moore](https://twitter.com/bmo_tv)
+
+I was not sure what to expect from this one going in.  I had never heard of this brainless concept before.  But of all the talks I saw and tried to capture in notes this one stuck with me the most and I have been thinking about the ramifications ever since.  Why not get the best of all worlds at once by letting WP load once so you get all the authentication and power the CMS gives while letting JS do all the lifting of the display on the browser end?  I mean, this is core to the idea of the new front end editing experience of Gutenberg but until Ben laid out this in practice, completely devoid of any mention of Gutenberg, did this finally sync home.  If you are debating building a decoupled application right now, watch this presentation before you do anything else.    
+
+Raw Notes:
+Higher level ways to use JS to make 
+WP is a blogging platform the same way Google is just a search engine
+WP very stable
+From 2.0 
+user management 
+Data traction
+JS
+basically have to use it now
+pulls in content and lets you reuse resources properly
+and the WP REST API is the biggest tool to make those other 2 work together
+Limbless
+Headless 
+Brainless
+limbless- just little sections of site are just using a little JS
+admin ajax
+some flexibility, but every new page load has to rebuild from PHP
+the back end back-end and front-end front
+if limbless is a little going on
+Headless is a lot
+Anything that can make an HTTP call over the wire
+Only data over the Rest API is pulled in from WP
+headless therefore only sends data over the REST API
+you have complete freedom to use anything you want in the front this way
+caveat not using the WP feature sets, might have to have people sign in 2x+
+multiple hosts
+you have to maintain everything
+New buzzwords
+brainless solution
+n first page request, WP loads the page, but just a shell
+shell is going to lead in JS and static assets
+one little snippet that instantiates the JS application
+you get all the WP features and then JS taks over from there
+as you click around not doing full reloads, just JS moving things around.  
+there are caveats
+can't build out native applications
+when disperse front end living on individual phones
+front end isn't being hosted in one place
+Brainless does not work here, limited to WP common tech (PHP, MySQL, Apache)
+but incorporating node
+We are building things that have never been done before
+the best practices ar still being figured out
+if we follow the WP philosophies rather than technical standards we will be fine
+[WordPress Philosophy](https://wordpress.org/about/philosophy/)
+Example/Demo time!
+SEO question and SERP
+this is getting better but yes issues still
+Google figuring it out now
+using this tech for just a site may or not have benefit, specifically Angular 
+around SERP
+Gutes is leveraging the RET API heavily
+impacting the tools directly
+WP and GraphQL has a lot of potential 
+more that needs to go into it on the WP side to get full benefit
+needs more demand before it will mature
+these single page sites brainless sites - theme or plugin?
+Both
+your custom code should worry about extending the back end tech
+front end should be theming components
+HiRoy
+
+https://twitter.com/McDwayne/status/958385139293159424
+
+
+
+[Please Don’t Freak Out: Managing Change Moments Across Diverse Groups](https://online.wpcampus.org/schedule/managing-change-moments-across-diverse-groups/)
+[Steve Ryan](https://twitter.com/SteveRyan_ASU)
+
+I originally was not in this talk, so missed the first 5 minutes or so.  I had missed the part of the description that the core of this talk was about getting your users ready for Gutenberg.  I have been thinking a lot about this topic recently, including the fact that [we should stop calling it Gutenberg] (link needed to the core-editor channel where this debate is raging)**.  
+This talk gave a general, no nonsense approach to dealing with any large scale change that is coming.  How to deal with it logically, emotionally and from a practical perspective.  If you have any major changes coming in your organization or systems, this is just a great talk all around. 
+
+**Not going to link that, go join the conversation [here](https://make.wordpress.org/chat/)
+
+Raw Notes:
+Change management
+leading a change is like this cowboy pic
+being on a horse
+very concerned
+Goal is to drive the herd
+One horse, one rider, one path
+One rider: rider appeals to our logical self
+just figure out the critical moves for your audience
+think about content as blocks instead of full page like Word does
+learn to rearrange as needed
+new blocks in the right hand menu
+earn to use 4 blocks - text, headline, image, youtube(or soe embed block)
+start simple!
+connect with community for questions
+Rider's face is very sharp
+sharp focus get exhausting, tired easily
+avoid decision fatigue
+only tell them what they really really need to know
+try not to bog them down with too much info
+people know what a block is via legos or minecraft
+don't attempt to define it too much
+why it is important to be a block is a good discussion but not helpful to new non-tech users
+don't intro technical things to a non-technical audience
+don't point to the end goal of democratize internet the end-point
+Don't turn it on ll at once for everyone for everything, people are going to get tired quick
+don't dwell on the massive change, let people adopt it in a realistic way
+if you are delivering the change to an audience let them know a week out, then a day or 2 before, let them know what is going to happen!
+follow up messages as needed, delivering messages where there is help available
+just in time message serves as a reference point
+for those who miss it the first time and they don't log in for a while, that "in case you missed it' email will be critical
+Scour your sites for things people did that are awesome or cool
+then brag about it!
+find the people who adopt it and get permission to get that message out
+lot of clapping and a lot of praise
+use that as the point on the horizon we are moving towards
+not 'democratize internet' but 'better content layout like you see here'
+make it more logical
+One Rider One Horse
+the Horse is the emotional aspect of the experience
+You have to feel it, the change should feel worthwhile
+cause is hard to find sometimes, especially if no immediate payout
+Do it as a gut instinct
+in order to affect the change in target audience have to find the feel
+find a cause
+introduce the change moment in relation to something you are actively try to remedy
+like
+stuff always out of date
+if we are talking about a new post editing experience, build more attractive pages that are easier to use, more users more students they win
+5 minute makeover trick
+answers "Do I have to redo all my content I own?"
+sometimes answer is yes, sometimes no
+but a demo that just makes use and let people see what you can do in a short time
+makes it less scary
+look at that, looks easy now
+oh, I see what else we can do...
+that is reaction you are going for
+learn how the horse moves
+small moves
+lots of encouragement and praise, leads to move moves
+if you can get a handful of people moving in the same direction
+they whole herd moves
+when encouraging people to move remind them they are not alone
+if ever a time to build a community around a change movement, this is the time
+small moves can be fun
+The Path: one foot in front of the other
+roll out in stages
+no-code approach turn on or off the plugin
+way to 'get me back to what I know' buttons in the tool bar
+filtering what bits of content are best for Gutes right now
+really target releases for narrow group of people
+script does not have to be that complex, just turn on and put in handful of hands
+get results and move ahead on other groups for feedback
+1 on 1 or 1 on 4 is great f you can take that time to do it
+best way to get people ahead on a path of change is 
+make a checklist, make it clear
+introduced the concept, scripted some moves, checklist gets them home safe
+when you get to that final palce, you are rounding the
+Gutes does not have to be a scary thing,just nudging into new direction
+
+https://twitter.com/wpcampusorg/status/956542436679045123
+
+
+[Developing a Culture of Mentorship](https://online.wpcampus.org/schedule/developing-culture-mentorship/)
+[Tessa Kriesel](https://twitter.com/tessak22)
+
+The first time Tessa tried to give this talk during the day technology was against her.  She persisted and gave a stellar presentation a little later than originally planned.  Very glad she did overcome the technical hurdles as this is always an inspirational subject.  If the organization we belong to don't directly provide formal paths to mentoring, it is even more on our shoulders to help those around us to raise their skills and get meaningful experience.  I know I would not be where I am today if I many, many patience and wonderful people had not helped guide me along the way.  Tessa does a pretty fantastic job of giving us all a roadmap of how we can help make the world a more inclusive place where all ships rise.  
+
+
+Raw Notes:
+Her story
+small town in MN
+helped teach a class for Girl Develop IT
+they liked her style and she started doing more
+very satisfying
+Job outlook is strong 162K jobs right now
+2026, 188K jobs expected
+this does not count turnover and retirement
+most jobs 60% require some kind of experience 2+ years in a lot of cases
+how can we expect jr. devs to get experience?
+16% of jobs 1 year
+only 23% required no experience
+how they getting this experience?
+be the change we want to see in the world
+mentor more devs
+why your org should hire more devs
+Team Morale
+mentoring is exciting 
+new people are excited by getting to do anything
+Passion is infectious 
+new ideas and ways of thinking, very optimistic
+with that being said, how to start?
+Write better job descriptions
+don't require years of experience, but instead on personality traits
+Don't require involvement
+some people don't enjoy teaching others, be aware of your team's interest
+Managers are NOT mentors
+need an open relationship they can confide in and relate to
+make sure communication channels are open
+maybe slack, maybe checkin box
+track progress and make goals
+don't just create initiatives and hope they succeed
+must have follow up
+Build a program, not just a one off
+Turn the mentored into mentors
+So, in terms of actual Devs
+say your company does not have an initiative and you want to still help
+Why would you do this?
+Grows your network
+meet interesting people along the way
+Feels good man
+selfish selflessness
+get out of your comfort zone
+meetup or local event, or even just leaving your house
+going to meet great people and maybe free beer
+Do more
+Mastering your own skills
+teaching means you have to understand it deeply
+life long friendships
+Where to find people
+Colleges or schools
+code schools and bootcamps
+easy ways to opt in and opt out helping with these programs
+code schools have very motivated learners
+Local orgs and groups, this was Tessa's path
+Girl Develop IT, Yes we code, Women who code are three good options to start
+may though
+Hackathons! a lot of fun great way to really get to know someone
+Conferences, this can be overwhelming if you are introverted
+Why and Where, so let's talk about good tips for being a good mentor...
+Boost their confidence, empower them
+remind them what they have done so far and help them feel better
+Don't say 'do this and not do this' but guide their career path
+educate them to make better decisions
+Be available!  This is super important, and hard not to overcommit
+Share resources with them
+share books
+Working Code Examples
+Live coding sessions - help them work through issues on a real project
+shows them the best path approaches
+Collect and share resources periodically
+will get a dialog going
+
+https://twitter.com/McDwayne/status/958419353791217665
+
+
+
+[Building A Training Schedule Platform and Expanding It To Everyone](https://online.wpcampus.org/schedule/building-a-training-schedule-platform-for-everyone/)
+[David Kampmann](https://twitter.com/mrkampmann)
+
+First time I have ever heard Mr. Kampmann speak and I hope it is not the last time.  He faces a unique set of challenges in his role, which is really a catch-all of anything to deal with training.  A role not too dissimilar to one my colleague [David Needham](https://twitter.com/davidneedham) faces as head of Pantheon Training and one I am very familiar with as far as the gap filling goes.  It was awesome to see how he methodically approached this issue and overcame the obstacles of no budget, no real experience building such a system and finally not having a deep background in WP development.  Even with those obstacles he still manages to leverage the WordPress ecosystem to solve a complex issue in a very elegant way, with a future roadmap and maintenance path putting him in a great position for any future challenges that emerge. 
+
+
+Raw Notes:
+From SD
+training schedule platform, they do a lot of in house training
+First, his title is Instructional Facilitator
+not sure what that really means, but he is faculty support and development
+running lean
+gives him a lot of responsibilities and he is wearing many hats
+anything under the sun without a person n charge he takes on
+this is how WP fell into his lap 7 years ago
+WP seemed like the simplest solution
+his LMS and CMS was not up to the job
+not a lot fo people in his area, but a lot going on
+students expect a lot
+tech institute, applied learning in demanding careers
+new tech all the time
+back before WP for scheduling sessions were 1:1, no massive workshops
+too busy teaching
+Manual tracking was a huge headache
+central list was constant headache
+made a wish list
+After a lot of looking at so many things
+DO NOT go down the path of using the existing class reg
+event management software is expensive
+WP seemed to seem promising
+WP Event Manager Pro - $70 a year pro
+support is biggest thing you get
+Logged In - Active Directory Integration
+new accounts
+just works minimal config!
+WPFull calendar is simple and clean
+Force Login
+email confirmation
+iCal integration was key, makes smart phones easy to deal with
+There were things people didn't need, 
+turn those things off
+keep it nice and clean
+no new event making from end users, no new event submissions
+but after a year asked people if they would like feature x
+they don't know what is possible because they didn't know it was avaialbe
+most people just said no to all that functionality
+custom settings
+Event links to the future, near future only
+Biggest wins:
+only one login (not a new one)
+iCal reminders worked well to get users to attend
+Easy path to communicate fro reschedules etc
+easy process for credentialing
+some hiccups:
+Multi stage events are not fun with this system
+Matching school website look and feel, this was part of the goal, this is frustrating
+Difficult completing Extra Signup Steps
+Mandatory fields help but not total solution for those xtra bits
+New initiative this last year
+Campus professional development
+Personal dev for all staff
+New targets and new challenges
+now more people involved, used to be 2 people total running it
+more time slots, year round as opposed to just summer
+more variables for workshops, multistage is one, but new things emerging
+outside registrations, payments from registrants - can be supported but lot to worry about around policy
+need to train people on how to use these new tools
+training to train
+lot of things to know and they will have to explain these things moving ahead
+location, location, location
+where does this all live?
+academic subdomain
+does not feel super inclusive
+tracking is different
+need to track professional development as well as credentialing
+need to pull data and use it in a different way, no solution yet
+less to duplicate the better
+full roll out happens this spring
+this is all new
+got to teach people how to use it
+May 10th is big day of workshops and the true test for the system
+
+https://twitter.com/McDwayne/status/958434133566345216
+
+
+
+[At Home in the Cloud](https://online.wpcampus.org/schedule/at-home-in-the-cloud/)
+[Jason Cauwels](https://twitter.com/troutacular)
+
+I am one of the people who thinks "why of course your infrastructure should be in the cloud."  For me it is partially motivated by self interest since I work for a website management platform.  For those who do not have my vested interest this is a very perplexing question with a lot of variables.  It was pretty great to see the way Jason and his team approached this issue and the very forward looking approach they took to solve a very real scale problem.  As we see more and more of the sites being built start to adapt a JAMStack sort of approach, it is very informative to see the real world performance results that distributed caching has and the impact for end clients.  I would love to see a follow up case study with this system in a year or so, I bet the results only get better as they tune the system further.  Awesome content!
+
+Raw Notes:
+First presentation ever at any conference!
+When sharks are raining in LA
+50K people trying ti hit website
+overwhelm resources
+had an emergency blogger site that could take over
+was slow and very manual
+minor notices, would not convey the importance of notifications
+mobile and desktop sites mobile didn't have alerts unless other site took over
+the complete publishing environment was only known by a few 
+complex to use
+in an emergency they needed:
+mitigation for spikes
+needed visual messaging
+reliability!  
+UX and design needed to be responsive
+emergency notifications were on homepage
+branding should be consistent across all sites
+Admin and usability, WP was there
+security and tech considerations
+resilient, reduce downtime, increase speed of page-loads, move to the cloud
+moving all www to AWS
+over 1000 Redirects
+authentication
+traffic and scale are major concerns
+are their new security concerns?
+planned and unplanned events
+did they have resources
+maintenance
+new initiatives
+do they have the skill sets needed
+build a page or an app that pulls from WP
+How did they choose AWS?
+to be honest, did an RFP process
+liked all of them for all sorts of reasons
+biggest reason, was central IT had a master contract with AWS, should use them
+what about all those concerns that followed?  
+discovery process
+had to understand all the options
+then they got the idea what if they delivered everything static on AWS
+secure, super fast, distributed
+global level content serves super fast
+that is what they did
+Multisite on VMs
+published themes from repos to buckets
+admin URL that people could log into, this acted as staging site
+publish to amazon 
+fetched all the posts and made static images leveraging Amazon S3 buckets
+it works
+been running since May
+but did it make a difference?
+let's look at success criteria
+Responsive homepage
+while working on the architecture, moved into WP from old CMS
+always responsive from a single codebase
+Emergency notifications: instead there is an emergency site always up does not overtake the whole site
+homepage looking for fee, new things it puts it up on page
+3 levels of severity
+update the emergency site branding, now matches the rest of the environments and themes
+can handle massive spikes, one false alarm last year saw 1000% spike
+emergency site 2,500% increase load
+would have collapsed system before
+was not slow site before, had 2380 index score
+with AWS 1295 (lower is better)
+everything is simply faster!
+Had to learn AMI vs VMs
+Optimized to run on AWS
+but they have same issues VM has with tech creep
+Docker can isolate things better and they are moving that way
+different availability zones
+Takeaways
+AWS is good but you need to determine what you want
+Full stack or SPA
+a phased approach allowed them to release more quickly
+project shouldn't really have an end, enhancements ongoing organized around milestones is better way to approach
+having a CICD architecture is key to making you sleep better
+
+https://twitter.com/McDwayne/status/958450521282527232
+
+
+[WordPress as a Platform for Moving to Open Learning](https://online.wpcampus.org/schedule/wordpress-as-platform-for-moving-to-open-learning/)
+[Keith Webster](https://twitter.com/keithatwork1)
+
+I gotta admit, for as much as I love this event and the space in general my utter lack of experience with any Learning Management System (LMS) hampered my enjoyment of this particular talk.  Most of my questions were around what the heck Moodle was doing in this architecture.  I got the RSS and WP parts but Moodle was a giant black box / question mark.  Still it was awesome to see a talk on how to tie in various systems to sove a unique need.  Despite my lack of expertise here, this was a really good one to watch if you are dealing with learning systems that need to syndicate content in an intelligent way.  
+
+
+Raw Notes:
+instructional designer
+teaching with WP for a few years
+Royal Roads university 
+Important to acknowledge that these are homes to native peoples since before time
+lot of movie filming
+he handles faculty support
+talking about school of education and technology
+mostly serving working educators
+grad programs around leadership and integration of technology
+Master of Arts in learning and technology
+recently went through a 5 year review
+redesign was agreed upon,
+openness and OER were decided upon
+coinciding with redesign was the opportunity
+new project would be using an open orientation
+moving from an LMS into a more open platform for pedagogy and better interactions
+having a WP project starting at the same time, it piggybacked on the WP one
+first thing was defining what open meant
+was a stretch to get comfortable with that
+had to negotiate open with each student on the platform
+varied as time went on, had to be built in
+avoiding too many plugins and themes
+supporting students and faculty in WP
+using WP in an own way everyone could support
+were able to redesign with WP
+able to take advantage of project management services
+milestones and workload could be shared
+within the project could make an ambitious set of goals
+separate WP installs
+one for core sites and one for student blog sites
+WPCloud, Canadian host for WP
+Shibboleth to do SSO
+unique Moodle and WP templates
+personalized support for WP
+lot of various skill levels present
+redesigned program meant students would be sharing results and discussing on their own
+external and in house tutorials set up
+key component was a feed reader
+manage their consumption of posts and comments throughout the course
+identity of current ongoing blog based discussion, if all set up right
+last thing before QA
+map out what new systems look like
+
+https://twitter.com/dashifen/status/958459306164146176
+
+
+#Wrapping Up
+
+I love this event.  Every time I get to interact with devs from higher education I approach it with a level of reverence since they are doing the most amazing engineering feats with a fraction of the budget of a normal Enterprise.  This event is chocked full of examples of this and there was an entirely separate session track running simultaneously that I could not attend and report on.  As of now I have not had a chance to review those but given the descriptions I can't want to dig in.  Very glad this is all recorded.  
+I am very much looking forward to the next live event, which you can also keep [tabs on here](https://wpcampus.org/conferences/).  Until then, I will have to be content with these recordings and the lively conversations out in the [WPCampus Slack](https://wpcampus.org/get-involved/)!  
+
+Thanks again to all the volunteers who made this event one of the best online conferences ever!  
+
+
+https://twitter.com/wpcampusorg/status/958389488668917760

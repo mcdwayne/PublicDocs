@@ -1,0 +1,444 @@
+PNW Drupal Summit
+
+
+Opening Remarks
+
+Mike Keran Memorial
+Community!  That is what it is all about!
+
+
+https://twitter.com/mcarper/status/959841384634073090
+
+
+
+
+[Saying “Yes” To The Drupal Community](https://pnwdrupalsummit.org/2018/sessions/saying-%E2%80%9Cyes%E2%80%9D-drupal-community)
+[Chris Teitzel](https://twitter.com/technerdteitzel)
+
+
+(Missed the first part)
+Yes it is hard
+there is a level where you doubt yourself and you feel like you suck
+Lot of smart Drupal people
+Baddy's first expereince was talking to Dries,
+on day one
+this does not 
+Seek out the people who are quiet and talk to them
+pack man rule
+take a stranger to have a drink
+Noobs welcome
+don't be afraid, just code (not even good) and talk to everyone
+Everyone is nice, seems too nice at first
+but it is genuine
+Go to the parties
+it's not about the parties it's about the people
+His firs conferene was WWDC10
+closed sourced conference
+no one would share what they were doing
+very weird specific questions that only served the asker
+VS
+DrupalCon Portland 2013
+Open source
+everyone shared everything, so much learning
+Story of drinking scotch with Alex Pott
+When strangers say, let's hang out, say yes!
+Go from just hanging out to adding to core committer talk
+Found his local meetup
+SeaDUG
+Great community, he was a freelancer and didn't interact with people that often in person
+find your local meetup
+Best business connections 
+and Friends from the local community
+DrupalNinja?  Go and present
+What module are you pissed off at?  (Everyone hates Views)
+go early and plan to stay late
+This summit is step one, now go and make community happen
+What is your community moment, twitter thread
+no matter what level of experience all are willing to code and help code
+Drupal is Community run!  By the people for the people
+closed to Open Source
+Communism for code, but it works really well
+in the process we all prosper
+So how did Drupal almost kill Chris?
+DrupalCon Denver
+Met Tropo at the sprint
+did a hackathon
+won the thing
+sms radius filter alets in Node
+the earthquake in Haiti had happened
+took this system to them 
+crazy story about getting stuck at airport
+then 'rescued' by maybe mafia?
+then on bus to destination, covered in dust and diesel soot
+next time slightly more safe in back of trucks
+worked with clinics to communicate better to share resources
+delivered a lot of medicine
+all because someone in an IRC channel gave him a chance
+tropical storm had rolled through and almost killed him as well
+now same SMS system helping the homeless in Washington DC
+the path in Drupal can take you anywhere
+ca change lives
+say Yes to Drupal
+
+
+
+
+
+https://twitter.com/McDwayne/status/959856550973095936
+
+https://twitter.com/TimLehnen/status/959857071184228352
+
+
+
+
+[Standing up projects in minutes using BLT, Lightning, and DrupalVM](https://pnwdrupalsummit.org/2018/sessions/standing-projects-minutes-using-blt-lightning-and-drupalvm)
+[Dane Powell](https://twitter.com/danepowell)
+
+
+BLT: a project template
+Lightning: Base distro for Enterprise D8
+DrupalVM: Vagrant based local dev for Drupal
+D8 only right now
+Live Demo
+
+history of the ecosystem
+
+Backend and frontend evovled
+Tools get complex
+Drush, gulp, grunt, git, NPM, SASS
+what you are deving vs what you are deploying
+what is on Dev machine is code
+Build Artifact are things tha go to production environment
+don't want them to overlap
+PHP is no longer the be all, end all of what we are doing
+aslo new testing tools evolved
+code sniffer, behap, phpunit, 
+meanwhile the local dev env was evolving
+everyone gets sick of "it works on my machine"
+commmon set of packages across all machines helps with this
+but not complex enough (haha)
+meanhile PHP evolved
+composer, (this is all in 2015 BTW)
+continuous integration
+no longer cna do FTP to manage,
+need a way to manage locally AND in cloud
+Enter Config Management!
+this is where we are at at the moment
+THIS is the problem that BLT is trying to solve
+it gets better
+Real world consequenses
+you don't use tools
+	no build processs to manage dependencies
+, no auto testing
+Or you spend all yout time setting up and managing these things
+there Has to be a better way
+take all the tools, box the up and use these on all the envirnments
+name it after a sandwich and BLT was born (retrofit name to BLT)
+Build and Launch Tools
+Devs become fungible, with minutes or maybe hours can work on any project
+Before BLT: Projects are days or weeks setup
+After: minutes or hours at worst
+What else is it used for?
+creating one offs for each issue
+POCs are faster, more stable
+Love Demos
+easy to npm integrate with BLT
+Easier to think of this for greenfield
+heavy customizations or Composer special use on existing projects make this harder
+retrofits are just hard
+Deploy Update does not work on Acquia for this one person
+You can override and mod yml
+drush aliases uri can be passed out to the command line
+id argument to set drush aliases you want
+Deploy process pretty straightforward
+blt deploy will pull git url, create
+run same setup, strip out readme and things you don't want
+and there you go
+
+
+https://twitter.com/McDwayne/status/959874550337961984
+
+
+
+[Drupal 9 and Backward Compatibility: Why Now is the Time to Upgrade to Drupal 8](https://pnwdrupalsummit.org/2018/sessions/keynote-drupal-9-and-backward-compatibility-why-now-time-upgrade-drupal-8)
+[Angela Byron "Webchick"](https://twitter.com/webchick)
+
+unfortunately her daughter is sick
+she is delivering from her home via Zoom
+What is Drupal?
+Flexible framework with an awesome community
+30K active devs
+hundreds donating to core
+Cutting edge of community
+edge case cool
+D8 was pulling everything you needed into one framework
+modern: Object oriented
+Improved theming with Twig, simplified context
+improved security
+Config management in D8
+Shout out from audience for D8 
+Decoupled 
+Composer
+best practices, but still in flux, transition period
+plugin system
+interesting addition to D8, intimidating but made it easier to complrehend 
+You can build real sites out of the box
+in D7, needed 20+ contrib models,
+D8 all in core
+Drupal momentum is going up
+contrib module for D8 is the biggest issue right now
+also go to release for most agencies
+YMCA open Y distro
+saves them tones of IT dollars
+A history of D release management
+D5 - 2007 - Jan 2011
+D6 2008 til Feb 2016
+D7 til D9
+D8 - D10
+longer release times
+consequenses, would be waiting for 4 years for D core features
+also philosophy, breaking code, but not data, painful upgrade path
+D8, every 4 months point releases to get new features out
+this is new to 8
+helps gets people look forward and helps backwards compatability
+don't break your site and modules
+introing LTS releases 
+then bug fixes only 
+then Security fixes only
+better use of Experimental modules
+because there are so many moduels
+dependent modules hard to find
+experimental modules
+beta modules to Drupal, eventually will make to core
+earlier feedback
+Alpha -> Beta -> Stable
+now not shipping with Beta to make longer term stable more trustworthy
+benefits, predictable release
+new functionality is easier to get a hold of
+JQuery example
+D9 will just be a normal release cycle, 
+just like the point releases
+every time you release D8. then must keep backwards compatibility recently
+8.recent will work with 9.0 release
+D9 when?  Not yet 
+pre-reqs are public
+expect 8. released for next couple years
+Putting into practice
+know the cycle https://www.drupal.org/core/release-cycle-overview
+make sure you testing as early as you can
+challenges for site owners and devs for the long release cycle
+mght be shortened, lively discussions happening
+keep abreast of the compatibility changes, in the /list-changes/drupal page
+groups.drupal.org/core - lower volume announcement list
+backwards compatibility does not mean nothing will ever break, but will mark sections safe, that you can depend to keep doing the same way
+release notes contain the 'gotchas' 
+doing their best to call out issues in these notes, please read them
+there is also a Roadmaps page /core/roadmap
+what coming down the pipe
+8.5.0 mif January just out of alpha
+Migrate Initiative
+making it easier to move to modern
+not stable yet, but migration team considers api stable, just not for multi-language sites
+API-First initiative also happening
+beyond JSON API module
+Layouts Initiative
+creating landing page should be hones=st 
+WorkFlow Initiative
+Outside-in - make it easier to understand for sitebuilder, WYSIWYG from admin
+Out of the Box initiative
+on the horizon - JS modernization  - React in Drupal!
+Automating updates
+Theme component libraries
+Data modeling
+BUT These things DON'T happen without help
+it is up to us to contribute to OSS
+many ways to get involved
+If it is working for you, D7 is still good for a while
+but get on D8 asap since it is the future
+big redesigns are ideal times
+Don't delay, try today!
+
+
+
+https://twitter.com/lilycool/status/959901730484903936
+
+https://twitter.com/NickWilde1990/status/959903484572180482
+
+
+[Our Digital Transformation to Agile: Challenges and Insights](https://pnwdrupalsummit.org/2018/sessions/our-digital-transformation-agile-challenges-and-insights)
+[Chris Smith](https://www.drupal.org/u/chrissmith)
+
+Intro
+From Ottowa
+OPIN (Open Initatives)
+polled audience, mix of devs and freelancers, all types
+all size of company
+were really loose at OPIN at first
+then got waterfall in place
+one of values of project management wasn't just time management
+risk mitigation, how document and react to risks
+we work on high risk projects
+overspending
+underestimating
+Stakeholder management
+Clients don't know what they want
+hard to get scope of a project
+largely stakeholders don't really know
+PM made them get goals set
+Waterfall works and better than nothing
+first GANT chart appeared in 1917, from WWI
+supply chain logistics from the battlefront
+intro of waterfall
+"Critical Path framework"
+minimum viable product and timelines
+1957 also PERT 
+Program evaluation risk technique
+1965 - international project maanget org starts in Europe
+1969 PMI is started, certs begin
+same time as software dev was happening first time
+SW dev projects are different than physical goods
+PRINCE2
+contraints and focus on that
+1986 SCRUM is born for code
+smal teams with MVPs
+docs came later
+2001 Agile Manifesto
+4 values, 12 principals
+extreme programming frameworks
+Agile is a manifesto not a hard PM system
+Back to the OPIN story 
+Agency switches to agile
+old way dev setup, dev, content migration, test, deploy
+every step requires the previous step to be complete
+this does not work perfect
+not even close in reality
+kept missing the goal line
+waterfall was failing
+evolved it
+touchpoints and reporting
+then moding scope throughout the project
+change orders and such
+Sales Team said they were agile
+WaterScrumFall is what they really were
+realized that they had a way to go
+SCRUM is one flavor of agile, there are others
+iterations and sprint based
+dev teams decides what they can focus on
+demo and review
+deliverables are tangable
+not ust coding, front end and content as well
+tangible business value
+also a Sprint retrospective
+what did we do well and how we can get better
+stakeholder meetings, requirement gatherings
+biweekly or faster 
+on repeat
+scrum cerimonies are important
+bedrock of scrum
+also job roles
+Business Analyst
+Scrum Master - hold people acountable 
+Dev Team - act as a unit, 3-5 people workng on a deliverable,
+they are all accountable, no one person is accountable on a dev team
+Manifesto is bedrock of what we do
+Agile values
+1 individuals and interactions over processes and tools
+2 working/software over comprehensive docs
+3 Customer Collaboration over Contract Negotiations
+4 respond to change over following a plan
+End up with the [12 agile principals](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
+important to Chris
+Don't wait for a final launch for all value, get the value out the door incrementally and quickly
+support, trust and motivate the people involved
+self organizing teams
+take all these with grain of salt
+got to use what works for you
+The Challenges!
+Challenge: Commitment!
+this stuf is hard
+Sr. Management - not a short process, this takes years
+also going to be expensive
+training is mandatory
+hire coaches or trainers
+sometimes people say the wrong things and differnt understandings fracture teams
+CFO needs to sign off and needs to see value
+also dev team needs to buy in
+How you get that buy in?
+OPIN brought in expert and as a team talked through challenges
+for other groups, more about how it would impact them and how job would change
+make it really understood
+People will have concerns
+Challenge: Cross Functional teams
+most teams are full of specialists
+maybe not everyone had same general skills
+not every dev is comfortable in working outside their bubble
+instead of jumping straight to generalist, everyone had to have a secondary skill set
+baby step
+then pair programming
+use this a lot
+investing in your employees, 
+send them to conferences and buy them books and trainings
+Challenge: Business Know-How
+CXO understands things, but individual devs don't always agree on these
+everyone needs to agree on business outcome we are trying to acheive
+gets us to value driven choices
+training tech to translate to business terms will help the conversations
+knowledge will distribute itself throughout organization
+Challenge: Learning
+professional development needs to be paramount
+need to know the objectives and devs needs to stay up to date to keep edge
+things change so fast
+new platforms, D 6 month release cycle
+always got to stay on top of it
+allowing the team to fail, give them a 2 to 3 week expected to fall behind
+in retrospective have to talk about how to get better
+they figure it out themselves
+need to allow teams to become cohesive and integrate and settle
+the retro do not use negative motivators
+ask if the manager should be in the room
+remove fear of punishment
+also traditional means (classes, confs, ets)
+Challenge: Role Change
+the new roles are often different than traditional ones
+Scrum master for instance has to deeply understand the process
+product owner is new responsibility mapping
+be open to all members about what the roles look like and the responibilites
+what you did, what you will do, what needs to carry over and evolve
+if the individual does not transition from their old role, frustration will occur
+Leads to trust issues and turnover
+Challenge: Trust
+if you have an exec that brings the client's stress onto the team, that is bad
+negative motivation breaks trust, then retros are not open and the it does not work
+at the first, management does not need to be at retros
+practice constructive critism and know the difference between const and neg crit
+Challenge: Backlog
+one client, one project this is easy
+get way more complex with more than one
+Need a single backlog in one comrehensive list
+which priority is higher than the other
+consolidated backlog is mandatory
+Challenge: Stories
+USed to tech requrements
+Story is a requirement of scrum
+focuses on the business outcome and actions and values
+collaborate easily is the goal
+that is how stories are formed
+dev team needs to be able to understand the se stories and translate them to requirements
+take a long time to transistion
+Challenge: Prioritization
+backlog all seems important
+hard to initially to clients
+flexible scope and feature sets
+instead guarantee that we are focused on the biz requirements
+we delivered the max value given the contraints
+Challenges: Estimates
+hold its for what it is worth
+they use "Party Poker"
+uncovers risks as a group
+reduces the needs
+Challenge: Software
+Get away from Basecamp
+need reporting and plannig and burn down charts
+going to likely need to transition
+takes time to train teams properly on the way you want to work
+https://twitter.com/McDwayne/status/959926872833384449

@@ -1,30 +1,72 @@
-PNW Drupal Summit
+PNW Drupal Summit: An unseasonably warm time in Portland, remembering why this community and a noticeable amount of spiders
 
-After Party
+I had to double check the weather report from an alternative source when I was packing for [Stumptown](https://en.wikipedia.org/wiki/Nicknames_of_Portland,_Oregon).  My normal weather app told me highs in the upper 50s, a bit warmer than my home city of SF.  Not that I am complaining.  I was glad to not be rushing into sub zero temps as I flew north to P-Town for the first Drupal community event for me for the year, [Pacific Northwest Drupal Summit](https://pnwdrupalsummit.org/)
+
+A couple things really stood out to me about this camp.  First, this is a dry camp.  Meaning there was no alcohol allowed at the official camp events from Friday to Sunday.  While I can understand the benefits and the fact that this helps make it more inclusive and family friendly, it is not the standard in my Camp experience.  At my time of writing I am still undecided how I feel about this and might update this post after further deliberation.  
+
+Secondly, this is one of the only times I was staying at the same hotel where the event was being held.  We were at the [University of Oregon's University Place Hotel & Conference Center](https://www.uplacehotel.com), which they describe as "Downtown Portland’s only __Economical__ Hotel and Affordable Conference Center. Owned, Operated and Located on the campus of Portland State University and Open to the Public".  Emphasis mine.  'Nuff said.  I didn't have to leave the building complex to get from my room to the booth or sessions.  Super convenient but I was feeling a tad claustrophobic by end of Sunday.  Also the hotel itself was likely very nice and state of the art in its prime, 40 or so years ago, but as a University training hotel, its age was showing with chipped furniture, stained decor and interesting plumbing sounds.  There was a courtyard that had to be transversed and the unseasonably warm weather and moisture brought out a whole host of [orb weavers](https://en.wikipedia.org/wiki/Orb-weaver_spider) gathered at each light fixture.  Happy to report that the side effect was I was never bothered by a flying insect the entirety of my stay.  It did make the whole thing feel much more camp like than most other events.   
+
+Also worth noting, I got to hang out with one of my remote colleagues from Pantheon while I was in  Portland, [Joshua Lieb](https://twitter.com/joshualieb).  He worked the booth and that let me slip away to many a session, so sit back and get ready for many a session note below.  
+
+###Food and Fun
+
+#####Game Night
+
+One of the defining characteristics of any Drupal community event with a game night.  On Friday night about 30 or so folks gathered up in the [Astoria Conference Room](https://www.uplacehotel.com/event-space-quote/) to play all manor of board games.  While I didn't play it myself I was enthralled with the mechanics of a new-to-me game called Dutch Blitz.  Imagine Uno combined with War with some of the mechanics of Rummy.  That is about all I understand of it anyway, but it was exciting to watch.  
+
+In lieu of a tweet from Game Night here is a tweet about a Dutch Blitz set.  
+
+https://twitter.com/madeye_madi/status/957115421550768128
+
+
+#####Day 1
+
+Coffee and a leftover VooDoo Donut greeted me in the morning.  Nothing else to report for food until lunch.  Lunch was your standard fare of boxed lunches, but given a ticketing misunderstanding on my end, I had not been able to mark my dietary restrictions, so I ordered out to not put any undo strain on the lunch service or organizers.  Portland has Veggie Grill locations, which as I have documented before, is one of my favorite chains ever and I will take any excuse to enjoy their cuisine.  Turns out there was a perfectly good lunch option for me and I should have just trusted the organizing team as they got it right all along.  Thank you for the options and well done.  
+
+https://twitter.com/VeggieGrill/status/960249677701459968
+
+#####After Party
+
+In the spirit of DrupalCon there was a Trivia Night as an after party.  Pizza was flowing and sodas were served at the [Puppet Labs office](https://puppet.com/).  I forgot to get the name of the pizza place but there were vegan pies which were spicy and satisfying.  My Drupal and Pacific NorthWest trivia skills are not the strongest so I sat out and enjoyed some classic pinball and arcade games in the space.  Eventually I made my way to join some of the other Drupal folks at a place I have been told is a traditional ending up spot for the community in Portland, [Rialto's Pool Hall](https://rialtopoolroom.com/).  Many a good was had.
 
 https://twitter.com/McDwayne/status/960002300109512704
 
 
-Opening Remarks
+#####Day 2
 
-Mike Keran Memorial
-Community!  That is what it is all about!
+See day 1.  Same thing except I ate the very yummy grilled veggie wrap and chips for lunch.  I realized later I never got a pic of lunch and can't find one on twitter, so here is about what it looked like
+
+Not actually from our lunch but a good representation of what went on
+
+https://twitter.com/DJCottonHere/status/185106611952558081
+
+
+###Sessions
+
+
+#####Opening Remarks and A Memorial for Mike Keran
+
+Things kicked off with the normal fanfare and general interest announcements.  We also got to hear a reading of the code of conduct (COC), which struck me as add at the time since most camps simply advise people that there is one and they should read it.  But as I thought more and more about this over the camp I came to appreciate the thought behind this more and more.  We are trying to be inclusive as we can at any camp.  Putting the onus on the participants to only get the information through a single channel in and of itself is not very inclusive.  Sharing the core values of the camp, which the COC are based on, is never going to be a bad idea and I would highly encourage other camps to follow this read and take the time to make sure everyone knows what resources are available.  
+
+Next, as we were all gathered in one place, the community remembered a colleague who was taken from this world last year.  I was moved by the heartfelt words from each person whose life was touched by the work and by the spirit of Mike Keran.  I personally never got the chance to meet him.  Still I know the world was made a better place by his commitment to this project and to the community he devoted himself to in life.  This was a first for me at a camp, beginning with such a somber note.  It made me scribble a note to myself at the time that simply read "Community!  That is what it is all about!"
 
 
 https://twitter.com/mcarper/status/959841384634073090
 
 
 
-
 [Saying “Yes” To The Drupal Community](https://pnwdrupalsummit.org/2018/sessions/saying-%E2%80%9Cyes%E2%80%9D-drupal-community)
 [Chris Teitzel](https://twitter.com/technerdteitzel)
 
+I don't want to inflate any egos here but of the handful of people I can specifically point to as inspirations for how I live my life, Chris might be the best storyteller since he has some of the most amazing stories.  This talk was filled with a very small glimpse into a life devoted to helping make the world better through technology.  If you have been feeling a bit detached from the community or if you have not yet experienced a sense of community, watch this talk.  It made me remember 'why Drupal'. Chris didn't even tell my favorite of his amazing Drupal stories, which I will not relate here as that is a future talk unto itself he will be rolling out later this year I believe.  See all his talks and meet this guy in person when you get the chance.  It is well worth it.  
 
+
+Raw Notes:
 (Missed the first part)
 Yes it is hard
 there is a level where you doubt yourself and you feel like you suck
 Lot of smart Drupal people
-Baddy's first expereince was talking to Dries,
+Baddy's first experience was talking to Dries,
 on day one
 this does not 
 Seek out the people who are quiet and talk to them
@@ -36,7 +78,7 @@ Everyone is nice, seems too nice at first
 but it is genuine
 Go to the parties
 it's not about the parties it's about the people
-His firs conferene was WWDC10
+His firs conference was WWDC10
 closed sourced conference
 no one would share what they were doing
 very weird specific questions that only served the asker
@@ -68,7 +110,7 @@ DrupalCon Denver
 Met Tropo at the sprint
 did a hackathon
 won the thing
-sms radius filter alets in Node
+sms radius filter alerts in Node
 the earthquake in Haiti had happened
 took this system to them 
 crazy story about getting stuck at airport
@@ -84,59 +126,52 @@ the path in Drupal can take you anywhere
 ca change lives
 say Yes to Drupal
 
-
-
-
-
-https://twitter.com/McDwayne/status/959856550973095936
-
 https://twitter.com/TimLehnen/status/959857071184228352
-
 
 
 
 [Standing up projects in minutes using BLT, Lightning, and DrupalVM](https://pnwdrupalsummit.org/2018/sessions/standing-projects-minutes-using-blt-lightning-and-drupalvm)
 [Dane Powell](https://twitter.com/danepowell)
 
+One of the neat things about computer science is that at the end of the day it is just making light bounce off chip and doing a thing.  How it does any one end goal can be accomplished a number of different ways and this becomes increasingly evident when you consider the tool chains that have been developed to get to that end goal.  Github is filled with countless examples of variation on a theme.  This talk really made me appreciate the fact I am truly standing on the shoulders of some really opinionated giants every time I $ lando push.  
 
+Raw Notes:
 BLT: a project template
 Lightning: Base distro for Enterprise D8
 DrupalVM: Vagrant based local dev for Drupal
 D8 only right now
 Live Demo
-
 history of the ecosystem
-
-Backend and frontend evovled
+Backend and frontend evolved
 Tools get complex
 Drush, gulp, grunt, git, NPM, SASS
 what you are deving vs what you are deploying
 what is on Dev machine is code
-Build Artifact are things tha go to production environment
+Build Artifact are things that go to production environment
 don't want them to overlap
 PHP is no longer the be all, end all of what we are doing
 aslo new testing tools evolved
-code sniffer, behap, phpunit, 
+code sniffer, behat, phpunit, 
 meanwhile the local dev env was evolving
 everyone gets sick of "it works on my machine"
-commmon set of packages across all machines helps with this
+common set of packages across all machines helps with this
 but not complex enough (haha)
-meanhile PHP evolved
+meanwhile PHP evolved
 composer, (this is all in 2015 BTW)
 continuous integration
-no longer cna do FTP to manage,
+no longer can do FTP to manage,
 need a way to manage locally AND in cloud
 Enter Config Management!
 this is where we are at at the moment
 THIS is the problem that BLT is trying to solve
 it gets better
-Real world consequenses
+Real world consequences
 you don't use tools
-	no build processs to manage dependencies
-, no auto testing
-Or you spend all yout time setting up and managing these things
+no build process to manage dependencies
+no auto testing
+Or you spend all your time setting up and managing these things
 there Has to be a better way
-take all the tools, box the up and use these on all the envirnments
+take all the tools, box the up and use these on all the environments
 name it after a sandwich and BLT was born (retrofit name to BLT)
 Build and Launch Tools
 Devs become fungible, with minutes or maybe hours can work on any project
@@ -163,10 +198,18 @@ and there you go
 https://twitter.com/McDwayne/status/959874550337961984
 
 
+#####Keynote
 
 [Drupal 9 and Backward Compatibility: Why Now is the Time to Upgrade to Drupal 8](https://pnwdrupalsummit.org/2018/sessions/keynote-drupal-9-and-backward-compatibility-why-now-time-upgrade-drupal-8)
 [Angela Byron "Webchick"](https://twitter.com/webchick)
 
+When I first heard that Webchick was not going to be there in person, I had a range of reactions from concern her daughter was OK to worrying about the technical details to some curiosity how this would affect the presentation effectiveness.  Very happy to say the talk went off well and I loved every slide.  
+
+She dove into a quick refresher of what Drupal even is and what D8 is all about.  Part of this overview up front mentioned some of the projects that are leveraging the CMS, but one really stood out in my mind from her description, [the Open Y project](http://openymca.org/).  This is literally the tech world giving freely to a good cause to reduce IT costs all around and allow increasing functionality to all YMCAs so they can spend every budget dollar possible on their core cause of ["strengthening community"](http://www.ymca.net/about-us).  Made me feel very good about being there to be honest.  
+
+Then the meat of the talk was really on what to expect in the future as Drupal 9 is worked on and Drupal 8 is continually improved in the new 6 month release cycle.  She even talked about how that 6 month release cycle is being discussed by the contributors and how we are all creating all the of these policies together.  I can't wait to spin up and play around with [Project Umami](https://www.drupal.org/project/umami), which is a slick but still evolving demo site to wow people with the breath of thing you can accomplish just with core.  It is an interesting time to be part of this thing for sure.  
+
+Raw Notes:
 unfortunately her daughter is sick
 she is delivering from her home via Zoom
 What is Drupal?
@@ -200,17 +243,17 @@ D6 2008 til Feb 2016
 D7 til D9
 D8 - D10
 longer release times
-consequenses, would be waiting for 4 years for D core features
+consequences, would be waiting for 4 years for D core features
 also philosophy, breaking code, but not data, painful upgrade path
 D8, every 4 months point releases to get new features out
 this is new to 8
 helps gets people look forward and helps backwards compatability
 don't break your site and modules
-introing LTS releases 
+introducing LTS releases 
 then bug fixes only 
 then Security fixes only
 better use of Experimental modules
-because there are so many moduels
+because there are so many modules
 dependent modules hard to find
 experimental modules
 beta modules to Drupal, eventually will make to core
@@ -231,7 +274,7 @@ Putting into practice
 know the cycle https://www.drupal.org/core/release-cycle-overview
 make sure you testing as early as you can
 challenges for site owners and devs for the long release cycle
-mght be shortened, lively discussions happening
+might be shortened, lively discussions happening
 keep abreast of the compatibility changes, in the /list-changes/drupal page
 groups.drupal.org/core - lower volume announcement list
 backwards compatibility does not mean nothing will ever break, but will mark sections safe, that you can depend to keep doing the same way
@@ -239,14 +282,14 @@ release notes contain the 'gotchas'
 doing their best to call out issues in these notes, please read them
 there is also a Roadmaps page /core/roadmap
 what coming down the pipe
-8.5.0 mif January just out of alpha
+8.5.0 mid January just out of alpha
 Migrate Initiative
 making it easier to move to modern
 not stable yet, but migration team considers api stable, just not for multi-language sites
 API-First initiative also happening
 beyond JSON API module
 Layouts Initiative
-creating landing page should be hones=st 
+creating landing page should be honest 
 WorkFlow Initiative
 Outside-in - make it easier to understand for sitebuilder, WYSIWYG from admin
 Out of the Box initiative
@@ -262,16 +305,16 @@ but get on D8 asap since it is the future
 big redesigns are ideal times
 Don't delay, try today!
 
-
-
-https://twitter.com/lilycool/status/959901730484903936
-
 https://twitter.com/NickWilde1990/status/959903484572180482
 
 
 [Our Digital Transformation to Agile: Challenges and Insights](https://pnwdrupalsummit.org/2018/sessions/our-digital-transformation-agile-challenges-and-insights)
 [Chris Smith](https://www.drupal.org/u/chrissmith)
 
+I am currently very interested in more deeply understanding Agile methodology since my day job is relying more and more on Scrum based approaches.  It was awesome to see a talk so clearly talk about the values and tie everything back to those.  Too many things I am reading recently want to deep dive on specific parts of the process and just assume you are going to understand how it maps to the core ideas.  Not only was the theory amazing but getting to hear the blow by blow of how his team adjusted and is still adjusting to agile was deeply encouraging.  I feel much better about a number of things.  
+
+
+Raw Notes:
 Intro
 From Ottowa
 OPIN (Open Initatives)
@@ -297,14 +340,14 @@ intro of waterfall
 minimum viable product and timelines
 1957 also PERT 
 Program evaluation risk technique
-1965 - international project maanget org starts in Europe
+1965 - international project management org starts in Europe
 1969 PMI is started, certs begin
 same time as software dev was happening first time
 SW dev projects are different than physical goods
 PRINCE2
-contraints and focus on that
+constraints and focus on that
 1986 SCRUM is born for code
-smal teams with MVPs
+small teams with MVPs
 docs came later
 2001 Agile Manifesto
 4 values, 12 principals
@@ -320,7 +363,7 @@ kept missing the goal line
 waterfall was failing
 evolved it
 touchpoints and reporting
-then moding scope throughout the project
+then modifying scope throughout the project
 change orders and such
 Sales Team said they were agile
 WaterScrumFall is what they really were
@@ -329,19 +372,19 @@ SCRUM is one flavor of agile, there are others
 iterations and sprint based
 dev teams decides what they can focus on
 demo and review
-deliverables are tangable
-not ust coding, front end and content as well
+deliverables are tangible
+not just coding, front end and content as well
 tangible business value
 also a Sprint retrospective
 what did we do well and how we can get better
 stakeholder meetings, requirement gatherings
 biweekly or faster 
 on repeat
-scrum cerimonies are important
+scrum ceremonies are important
 bedrock of scrum
 also job roles
 Business Analyst
-Scrum Master - hold people acountable 
+Scrum Master - hold people accountable 
 Dev Team - act as a unit, 3-5 people workng on a deliverable,
 they are all accountable, no one person is accountable on a dev team
 Manifesto is bedrock of what we do
@@ -359,12 +402,12 @@ take all these with grain of salt
 got to use what works for you
 The Challenges!
 Challenge: Commitment!
-this stuf is hard
+this stuff is hard
 Sr. Management - not a short process, this takes years
 also going to be expensive
 training is mandatory
 hire coaches or trainers
-sometimes people say the wrong things and differnt understandings fracture teams
+sometimes people say the wrong things and different understandings fracture teams
 CFO needs to sign off and needs to see value
 also dev team needs to buy in
 How you get that buy in?
@@ -401,12 +444,12 @@ need to allow teams to become cohesive and integrate and settle
 the retro do not use negative motivators
 ask if the manager should be in the room
 remove fear of punishment
-also traditional means (classes, confs, ets)
+also traditional means (classes, confs, etc)
 Challenge: Role Change
 the new roles are often different than traditional ones
 Scrum master for instance has to deeply understand the process
 product owner is new responsibility mapping
-be open to all members about what the roles look like and the responibilites
+be open to all members about what the roles look like and the responsibilities
 what you did, what you will do, what needs to carry over and evolve
 if the individual does not transition from their old role, frustration will occur
 Leads to trust issues and turnover
@@ -414,7 +457,7 @@ Challenge: Trust
 if you have an exec that brings the client's stress onto the team, that is bad
 negative motivation breaks trust, then retros are not open and the it does not work
 at the first, management does not need to be at retros
-practice constructive critism and know the difference between const and neg crit
+practice constructive criticism and know the difference between const and neg
 Challenge: Backlog
 one client, one project this is easy
 get way more complex with more than one
@@ -434,7 +477,7 @@ backlog all seems important
 hard to initially to clients
 flexible scope and feature sets
 instead guarantee that we are focused on the biz requirements
-we delivered the max value given the contraints
+we delivered the max value given the constraints
 Challenges: Estimates
 hold its for what it is worth
 they use "Party Poker"
@@ -451,8 +494,12 @@ https://twitter.com/McDwayne/status/959926872833384449
 
 
 [Git for teams: Go with the Flow](https://pnwdrupalsummit.org/2018/sessions/git-teams-go-flow)
-[M Nielson](https://twitter.com/oswebguy)
+[Michael Nielson](https://twitter.com/oswebguy)
 
+I give a git talk and I love git talks.  The meat of what I went to see was [The Wunderflow](http://wunderflow.wunder.io/) which I was unaware of until I read this talk description.  What I walked away with much more.  His excitement about the non-code uses for version control was pretty infectious.  I've been arguing that lawmakers should adopt it, if just for diff.  I was unaware that the German Parlement was using it.  Here is one way: [This Git Repository contains all German federal laws and regulations in Markdown format. The XML versions of the laws of www.gesetze-im-internet.de serve as the source.](https://github.com/bundestag/gesetze) 
+
+
+Raw Notes:
 History of Version Control
 Enter Git
 Git Jargon and Basics
@@ -460,12 +507,12 @@ repo, diff, local, commit, remote, push, branch
 came from Linux in 2005
 BitKeeper
 Pay by the seat
-large ptoject was way too much for Linux foundation
+large project was way too much for Linux foundation
 OSS solution needed, so they built it
 3 design criteria
 1 take CVS as example of what not to do
 Support distributed
-Include very strong safegards against corruption
+Include very strong safeguards against corruption
 to apply a patch in SVN 30 seconds
 some commits were 200+ patches
 you can apply patches via email in git
@@ -483,7 +530,7 @@ HEAD is the tip of the repo lives
 that ref gets moved from commit to commit
 git checkout HEAD finds the note on the branch tip
 git tags make sure you are getting the right versions
-graphic respresentations of a node
+graphic representations of a node
 Why git and Drupal?
 D born in 2001
 Git 2005
@@ -492,7 +539,7 @@ hot did it get on git
 drupal.org/node/48818 (NOPE I COPIED IT WRONG)
 Why? 
 CVS was archaic, renaming sucked, had to "Chase the head" whatever that means
-Mecurial was the other system in contention
+Mercurial was the other system in contention
 teams looked deeply and patch authors weighed in, Git won partially because of the 'Mega Patch'  hard to review and vet
 incremental history was impossible with the other systems
 Blame (commit credit)
@@ -533,7 +580,7 @@ trick with branch management
 Git Flow - read the post (find the slides)
 keeping work in isolation as long as possible
 git flow chart workflow walkthrough
-An ofshoot of this was the Wunderflow (from wunderkrout)
+An offshoot of this was the Wunderflow (from wunderkrout)
 release to production from master
 very similar but not quite same
 commit to Develop on an ad-hoc basis
@@ -547,7 +594,7 @@ merge is like "Previously seen on ... " catch up
 blur of slides at the end
 git accessibility
 git for government (FTW!!!!!!)
-german parlament used Git now
+german parlement used Git now
 git for images 
 git for biotech
 git for privacy - keybase
@@ -559,7 +606,8 @@ https://twitter.com/McDwayne/status/959946352607166464
 [Configuration Workflow Automation](https://pnwdrupalsummit.org/2018/sessions/configuration-workflow-automation)
 [Greg Boggs](https://twitter.com/gregory_boggs)
 
-https://pnwdrupalsummit.org/sites/default/files/slides/Upgrade%20Your%20Configuration%20Management%20Workflow.pdf
+I had seen some early versions of [slides](https://pnwdrupalsummit.org/sites/default/files/slides/Upgrade%20Your%20Configuration%20Management%20Workflow.pdf) for this talk before I went and went to see the updates.  I always love a talk around automation and it was for certain one of those.  I was nodded along and then it hit me.  Config Management, and its many confusing aspects, was a specific issue he had repeatedly tried to solve and rather than just finding a quick workaround and letting the world fend for itself he had open sourced his approach and was here in front of me sharing exactly how it works line by line and asking for help to solve this for everyone else.  That is a very amazing idea.  Making the world better for everyone by sharing information.  This is the very heart of FOSS.  Moving ahead this is one of the stories I will tell about what makes this community so dang special.  Thanks Greg.  
+
 
 Raw Notes:
 Keep config in code
@@ -605,7 +653,7 @@ really when delete block is largest point on this
 active;y working on this feature
 Features overrides? Maybe
 if you give a distro to the world
-need a way for a site to be differen than all the others
+need a way for a site to be different than all the others
 he understands there is not a great way to natively handle this
 
 https://twitter.com/McDwayne/status/960200985556615169
@@ -615,8 +663,11 @@ https://twitter.com/McDwayne/status/960200985556615169
 ["Expecto Patronum" (or How I Learned To Stop Worrying And Love The Command Line)](https://pnwdrupalsummit.org/2018/sessions/expecto-patronum-or-how-i-learned-stop-worrying-and-love-command-line)
 [Charles Jackson ](https://github.com/nightbeacons)
 
+Any talk that convinces me to install new command line tools or further explore old favorites is automatically going to be one of my favorite sessions.  I installed [Imagemagick's convert](https://www.imagemagick.org/script/convert.php) and not have the resizing tool I have literally always dreamed of possessing.  I learned new things about grep.  I modified my alias to add -i to rm automatically.  Also, Charles delivery was so energetic, whip-smart and joyful he had the whole room thoroughly engaged.  It was clear he had a deep down passion for the command line that I would call downright inspiring.  His name above point to his git repo, which has some fun stuff in it.  Expecto Patronum!
+
+Raw Notes:
 Just like Harry Potter spells the command line is magic
-it is complex tot he uninitiated
+it is complex to the uninitiated
 its own language and seems hard to muggles
 guard against the dark arts
 Be as safe as possible
@@ -635,7 +686,7 @@ just adds it to the end
 pass output from one command to another
 cat lot.txt | mail -s "logs" it@hogwarts.edu
 ls -l /tmp/* | sort --ignore-case > sorted.txt
-ls -1R sites | wc -l     (List everythig in and below, then count all the words in all the files)
+ls -1R sites | wc -l     (List everything in and below, then count all the words in all the files)
 ls -lt | more
 Bash Aliases
 rm is super dangerous
@@ -677,7 +728,7 @@ search through compressed files and works on multiple files at once
 Recursive grep
 grep -rn some_function_reference
 -r = recursive
--i = case insensitve
+-i = case insensitive
 -n = line number print
 How to search the DB though
 download and configure dumpxmltables.php script he wrote
@@ -687,7 +738,7 @@ before mysql dump
 then modify that one thing
 and after dump
 then dircmp before after to see all DB changes to DB
-Manipulating imagesusing convert from imagemagick.org
+Manipulating images using convert from imagemagick.org
 if you can do it with photoshop, you can do it with convert
 convert between formats
 resize, optimize
@@ -738,9 +789,14 @@ and don't forget to ask Google
 
 https://twitter.com/McDwayne/status/960221416074371073
 
-[Negotiating an MVP set of requirements for an initial product launch](https://pnwdrupalsummit.org/2018/sessions/negotiating-mvp-set-requirements-initial-product-launch)
-[nushneg]()
 
+[Negotiating an MVP set of requirements for an initial product launch](https://pnwdrupalsummit.org/2018/sessions/negotiating-mvp-set-requirements-initial-product-launch)
+[nushneg](https://pnwdrupalsummit.org/users/nushneg)
+
+Literally the next talk I go to after my talk covered the exact thing I didn't deep dive into enough, the KPI.  I came in a little late but got there just in time for her definition of MVP, which I really liked.  She used a very interesting car analogy that is better seen than described, so you for sure have a reason to check out the recording once posted.  
+
+
+Raw Notes:
 Missed the first 10 minutes or so
 What does MVP mean
 Minimum - the smallest, least time intensive thing you can possibly build, that will provide the value the customer is looking for
@@ -748,7 +804,7 @@ Can you make it more simple?
 Any assumptions you are out to prove?
 How quickly can it launch?
 V = Viable
-the thing works and gets job done,, meeting the most valuable rquirements
+the thing works and gets job done,, meeting the most valuable requirements
 Not listening to the user is not viable
 Product, can be tested and you can get feedback from it
 does application 
@@ -783,18 +839,26 @@ some people have multiple projects
 alternative, points system
 assign each stakeholder a number of total points
 let them allocate their own points to features until out of points
-must still fulif all KPIs at the end of the day 
+must still fulfill all KPIs at the end of the day 
 but guides on what to focus on up front
-Gives you a short requrement lists for the MVP
+Gives you a short requirement lists for the MVP
 Have you reviewed the requirements against current state of Drupal?
 Can Drupal get you there in short or long term? 
 What about refactors?  thinking longer term
 
-
 https://twitter.com/McDwayne/status/960290359501766656
 
 
-[SaaS Products: What I've learned, 4 years later](https://pnwdrupalsummit.org/2018/sessions/saas-products-what-ive-learned-4-years-later)
-[Jeremy Rasmussen](https://twitter.com/jprasmussen)
+#####My session
+
+[Nobody wants a website.  They want results!  ](https://pnwdrupalsummit.org/2018/sessions/nobody-wants-website-%C2%A0they-want-results-%C2%A0)
+
+This was the first time I have given this presentation.  Story goes that I was giving a [talk in Baltimore](https://www.mcdwayne.com/2017/10/17/wordcamp-baltimore/) and when I had to disagree with someone's premise of what the overarching goal of a website includes.  My response was basically "a site does what it needs to to get to a goal, nobody wants a website for the sake of it." The audience reaction told me there was a conversation to be had here.  Admittedly my imposter syndrome kicked in pretty hard on this one and huge shout out to everyone who was in that room for helping me with feedback and to further the conversation.  I am going to be fine tuning this for [Midcamp](https://www.midcamp.org/) and I have a couple pages of notes on how to improve.  
+
+https://twitter.com/McDwayne/status/960283161849618432
+
+
+###Wrapping up
+I can say without any fear of doubt I learned a lot during this event.  I didn't get to see a lot of Portland as I was primarily in the event space and a specific section of downtown, but sightseeing is not the goal of any of these trips.  Connecting meaningfully with the FOSS community is one of the goals and I feel I really did accomplish that.  I can't wait for my next chance to come back and see ol' [Bridgetown](https://en.wikipedia.org/wiki/Nicknames_of_Portland,_Oregon#Bridge_City_or_Bridgetown].  Even though it moves around and it is going to be in another city next year I am still very much looking forward to the next [Pacific Northwest Drupal Summit](https://pnwdrupalsummit.org/).
 
 https://twitter.com/McDwayne/status/960305944805621761

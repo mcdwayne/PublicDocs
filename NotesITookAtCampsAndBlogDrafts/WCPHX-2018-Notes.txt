@@ -1,0 +1,289 @@
+General:
+https://twitter.com/boldgrid/status/964528880315981824
+
+https://twitter.com/theisaac/status/964521708404092928
+
+
+
+
+Opening Remarks:
+https://twitter.com/PHXWordCamp/status/964528988554014720
+
+
+
+SESSIONS:
+
+https://twitter.com/nathaningram/status/964540364517294081
+
+
+
+
+[Imposter Syndrome: Stories from Two Different Perspectives](https://2018.phoenix.wordcamp.org/sessions/#wcorg-session-605)
+[Sheila Hoffman](http://profiles.wordpress.org/sheilahoff)@hoffmangraphics
+[Dashon Hawkins](http://profiles.wordpress.org/hackerhustle) @Dashon_Hawkins
+
+Late,
+Defining Imposter syndrome
+Exercise to share with neighbor your experience feeling it
+We ALL had stories
+"Comparing the cutting room floor to the Sizzle reel"
+Tech needs to know more than any one person Can know
+WP community is great for knowledge sharing
+Not just luck, Imposter Syndrome makes you think you are just lucky
+IS is an act of violence to yourself
+risk exposure
+Stop playing safe
+Greater risk is not knowing how capable and worthy you actually are
+Q/A became people sharing stories
+IS leads to Smartest guy in the room pissing contests
+trying to look smart wastes time
+Learn from students
+Keep at it
+What you have to do
+Dev world is a big ocean
+stay in the water until you master your lagoon
+then swimming in other territories is so similar you can do it
+
+
+
+https://twitter.com/SherriArnaiz/status/964559615689043968
+
+https://twitter.com/McDwayne/status/964563131761438720
+
+
+
+[What The West Wing can teach us about building products](https://2018.phoenix.wordcamp.org/sessions/#wcorg-session-1446)
+[AJ Morris](https://twitter.com/ajmorris)
+
+5 steps of a product
+Ideas
+Plays example clip from THe West Wing
+It was all about the ah-ha moment of 'I can fix that'
+These ideas come at us from all over 
+further clarity propels it forward
+Going away and thinking about it and come back
+Example idea he had
+sending people coffee
+sample subscription service is the idea
+part of building product is clarifying the idea
+if you move ahead too soon, will run into many issues
+learn to say no to non formed ideas
+You can have a lot of ideas, but they are all ideas
+an understanding for a product needs more than that
+enough clarity to move ahead
+then Value Propositions.
+Clear and up front
+Examples
+wp101 - learn WP the easy way
+Provide enough clarity to make the defined end user clear
+MVP!
+What could we make at a mim to get our product to function to prove it is solving a problem
+Unsplash MVP example
+free 'stock' photos
+3 hours from idea to MVP
+tumbler + $20 theme
+10 photos by local photographer
+uploaded for free use
+Traffic? hackernews post
+2 hours later 20K downloads
+free dropbox overwhelmed
+over 2 million photos are downloaded a month
+tested and validated very quickly
+Replace viable product with viable value
+if value then people will pay for it
+Knowing what to build
+start simple, single product
+Don't do ti all at once
+get it out the door asap
+keep iterating, while constantly solving bigger issues
+constantly communicate the vision of the grand problem to be solved
+Ship it quick
+product market fit means being in a god market with a product that can satisfy that market
+Customer Feedback
+surverys
+feedback boxes
+reaching out directly
+users
+usability testing
+
+
+https://twitter.com/McDwayne/status/964627757199106048
+
+
+
+
+My Talk:
+
+https://twitter.com/collingmedia/status/964614343689039873
+
+https://twitter.com/ideathree/status/964612727938334720
+
+https://twitter.com/collingmedia/status/964611438852501505
+
+https://twitter.com/WierApril/status/964611236087283713
+
+
+
+
+[Overcoming Your Fear of Sales](https://2018.phoenix.wordcamp.org/sessions/#wcorg-session-846)
+[April Wier](https://twitter.com/WierApril)
+
+It is terrifying to do sales because of fear of rejections
+it is not just you, 80% of people also fear this
+to solve this
+Frist you got to get your mind right
+Get over the idea of "I am bothering people"
+Are you talking yourself out of sales? 
+Stop being a credit manager
+don't worry about if they seem like they should buy it
+pool sales story
+Pricing for what you think they can pay is all in your head
+make more profit by charging what you are worth
+In your head it is easy to only think about how the interaction will affect you
+instead you need to focus on benefitting the client
+Immersion therapy, must do this enough to get comfortable doing it
+if it feels as scary every time like the first time you are not doing it enough
+Do you want fries with that, repetition removes 
+You job is not to sell, 
+your job is to solve problems
+Difference between 'do you want to buy' and 'how can I help'
+For whom do you solve problems?
+Not the universe
+once you have clear vision of who has what pain points you can solve, it makes it easier
+They need a trusted guide, make them look like a genius 
+Ask about their business
+Ask about their pain
+Find what they didn't like about folks they DON'T buy from
+find out what they like about folks they DO buy from
+Listen to what they say when agitated
+THEN you ge to talk
+bend your story to their concerns
+hustle and communication story
+Classic Sales Techniques, updated for the digital age
+Going out of business ->
+I'm booking up quickly, I can only take on one more project
+Foot in the door ->
+Tripwire product, little thing you can sell them that establishes trust, selling a session to find what they need, Keyword research high value and builds trust
+Stalking the Client ->
+Continue to demonstrate the prospect's value to you
+Sending article and stay top of mind without being annoying
+He who talks first loses ->
+Still works
+What are some other old school techniques?
+Make sure you are a fit
+turn away business if bad fit
+you want a relationship where you can make a difference
+only so much time on the calendar
+available start date = moving target
+if they don't have time to meet, that is a giant red flag
+flipside of scarcity is abundance,
+there are many, many opportunities
+
+
+
+
+
+https://twitter.com/McDwayne/status/964908078393999360
+
+
+
+[Yes, And: How improv basics build stronger teams, foster creativity and make the creative process more fun and less frustrating](https://2018.phoenix.wordcamp.org/sessions/#wcorg-session-878)
+[Amber Pechin](https://twitter.com/AmberPechin)
+
+(came in a tad late)
+not about being funny
+Learning some basic improv tools and muscles
+4 rules of improv
+1 Yes, And
+2 Listen
+3 No wrong answers
+4 I got your back
+Bonus rule
+HAVE FUN
+if it is not fun change what you are doing
+creativity can be painful but it should eb fun pain
+She started doing stand up
+got told that the high of performing is like nothing else
+chase that high of being in front of people
+and through creativity
+nailing specific goals
+Changing from less about the me and all about the we
+Interactive session!
+[Alphabet game example](http://improvencyclopedia.org/games/Alphabet_Game.html)
+You should know the rules 
+Our job as creatives to to come the best idea
+in business feels like competition to come up with best ideas
+Goal is not be be funny yourself, but to make each other look funny
+The most valiant thing you can do as an artist is inspire someone else to be creative
+when everyone is winning the client is happy
+no wrong answers - learning 
+failure is opportunity in disguise
+we are highly skilled at suppressing action, good improvisors develop action
+when something seems off we stop exploring
+the magic comes from going to explore an idea
+we overthink our way out of acting
+Listen!  It is super important
+silence is golden
+The third thing is usually the best idea, don't rush to fill the gaps
+give the process space and time
+it might be awkward at first
+yes, and
+the and is the hard part
+Allowing people to operate without having to explain themselves constantly turns out to be like the rule of agreement in improv, it enables rapid cognition
+think so fast you can build ideas
+Need diverse thoughts and teams
+
+
+
+https://twitter.com/McDwayne/status/964922524000690176
+
+https://twitter.com/theisaac/status/964922794726191104
+
+https://twitter.com/theisaac/status/964925196141342720
+
+
+
+User Stories Made Simple General WordPress/Beginning User
+[Sarah Wefald](https://twitter.com/sarahwefald)
+
+
+https://twitter.com/surpriseazmom/status/964993204616445953
+
+
+Why Expression is So Important Content/Strategy/Marketing
+[Tanya Moushi](https://twitter.com/tanyamoushix)
+
+Expression
+Empathy 
+care
+action 
+change
+THink about biz same a speople
+blog of energy and ideas
+moves into a physical manifestation
+Dasein
+german word - being, existence and also being with (both at the same time)
+Are you open to feedback
+periods of ideation and periods of feedback
+as an individual, expression is an act of bravery
+everything exposes you as you push out the ideas
+Imposter Symdrome - "I'm not good enough"
+don't drop things you love because you are not a pro
+don't stop doing art or sports or anything because you can't compete and have monitary value
+for a society expression of the community is important
+drives innovation and understanding
+The Value of art thinking
+orgaizational level
+emographics
+imagination game (or vizualization)
+Empathy Mapping
+Contextual immersion
+Emotional method acting
+point is to get to a point where ou really understand
+individual level
+Asks + Gives
+What if instead of using our jobs to pay for our lives, we use our work to express the highest part of our being
+Expression is the 
+
+
+https://twitter.com/McDwayne/status/965004756832800768

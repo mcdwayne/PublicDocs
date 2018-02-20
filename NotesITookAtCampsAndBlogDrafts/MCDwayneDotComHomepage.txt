@@ -1,6 +1,8 @@
 ## Session Slides And Such
 
-[Discovery, Discovery, Discovery, Discovery! The Most Important Part of the Project](https://www.mcdwayne.com/discovery-discovery-discovery-discovery-the-most-important-part-of-the-project/)
+[Nobody Wants A Website. They Want Results!][27]
+
+[Discovery, Discovery, Discovery, Discovery! The Most Important Part of the Project][28]
 
 [Every project is a story: Applying storytelling to your client interactions][8] 
 
@@ -63,3 +65,5 @@ Email: 1dwayne . mcdaniel [at] gmail . com
  [24]: https://github.com/mcdwayne
  [25]: https://www.discogs.com/user/1dwayne.mcdaniel/collection
  [26]: https://docs.google.com/spreadsheets/d/1qtfF9TOnR35abeOQNMqWnZg0EXWXAmdUZzwbAANzal0/edit?usp=sharing
+ [27]: https://www.mcdwayne.com/nobody-wants-a-website/
+ [28]: https://www.mcdwayne.com/discovery-discovery-discovery-discovery-the-most-important-part-of-the-project/

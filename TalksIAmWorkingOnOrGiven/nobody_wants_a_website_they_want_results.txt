@@ -1,6 +1,6 @@
 Nobody wants a website.  They want results!  
 
-How many times have you been in a situation where the client is never happy with the results, no matter what you do?  How many 'emergency' messages have you responded to because the site isn't quite right in some new way?  How many clients have you lost or fired because they honestly had no idea what they really wanted?  If you answered with a non zero number to any of those questions, this session is for you!
+How many times have you been in a situation where the client is never happy with the results, no matter what you do?  How many 'emergency' messages have you responded to because the site isn't quite right in some new way?  How many clients have you lost or fired because they honestly had no idea what they really wanted?  If you answered yes to any of those questions, this session is for you!
 Gathered from years of 'learning it the hard way' I am excited to share my knowledge with Freelancers, Agency Owners, Project Managers, Business Development professionals as well as anyone else who wants to better manage conversations.  
 Walk away from this talk with a better understanding of:
 	- Project And Sales Pipeline Strategy
@@ -9,4 +9,122 @@ Walk away from this talk with a better understanding of:
 	- Managing Scope
 	- Expectation Setting For Better Support Delivery
 	
+-----------
 	
+This is all stuff I think people at some level know, but as I have been told many times, no one says out loud.  I would ideally like to save folks in business positions and newer agencies and freelancers some pain by sharing what I went through to learn these points.  
+
+
+_________________________________---
+
+Nobody wants a website.  They want results!  
+
+How many times have you been in a situation where the client is never happy with the results, no matter what you do?  How many 'emergency' messages have you responded to because the site isn't quite right in some new way?  How many clients have you lost or fired because they honestly had no idea what they really wanted?  If this sounds familar, this session is for you!
+Gathered from years of 'learning it the hard way' I am excited to share my knowledge with Freelancers, Agency Owners, Project Managers, Business Development professionals as well as anyone else who wants to better manage conversations.  
+Walk away from this talk with a better understanding of:
+
+	- Project And Sales Pipeline Strategy
+
+	- Uncovering Client Business Goals 
+
+	- Objection Handling 
+
+	- Managing Scope
+
+	- Expectation Setting For Better Support Delivery
+	
+-----------
+	
+This is all stuff I think people at some level know, but as I have been told many times, no one says out loud.  I would ideally like to save folks in business positions and newer agencies and freelancers some pain by sharing what I went through to learn these points.  
+
+
+
+Would you like a sandwich?  
+
+
+
+Where this talk came from
+Last year - during a talk
+
+
+Website
+3 days on site
+Lullabot
+Creative director, architect, designers
+goals of the site
+stack ranking, what went well, what went bad
+no action plan
+goals of the site
+KPIs
+what you trying to get?
+completing forms, signing up, talk more, webinar, behind reg
+new messaging - want to know people are engaging with the messaging
+click into a path
+JTBD - failure on messaging and design
+some what hosting and some what devops tools
+new site target marketers agile marketing and easy website operations
+each with a primary and secondary calls to action
+
+
+
+
+Intro
+	Who is a Dev?
+	Who is Design?
+	Who is a business owner with a site?
+	Who here is a business analyst?
+	Who here needs a site built? 
+	Who has ever inherited a site and were like "WTF was this other dev thinking?"  
+	Who here has ever fired or Wanted to fire a client?
+	
+	
+
+Why this?  
+
+It's not "design a chair" its "create a way to suspend a person" -- [Kandace Brigleb](https://twitter.com/kandacerae)
+[Why Customize?](https://needmoredesigns.com/wooconf17)
+
+It's not "build a website" its "create a way (to do X) online" 
+
+	- Project And Sales Pipeline Strategy
+
+
+	- Uncovering Client Business Goals 
+
+
+	- Objection Handling 
+		But that is not what I want!  
+		I expected X though we never discussed this before
+	 	I don't care (later) OMG this is the most important part!!!!
+	 	Can't you just write something up based on our emails?
+
+	- Managing Scope
+		Document, Document, Document, Document!  
+		Slack and phone calls are awesome for certain things, but no records persist. 
+
+	- Expectation Setting For Better Support Delivery
+		If you can't measure it, it doesn't exist
+		If it is not tied to a goal, that is outside scope
+		
+		
+We are not designing a chair, but a human suspension system
+We are not designing a space shuttle, we are designing a way to get to and from space
+We are not designing a website, we are designing a _____
+Kandace Brigleb
+
+
+All good CMS implementations serve a Content Strategy
+How To Make a Snowflake with a Cookie Cutter: Innovative Site Building on Stanford Sites
+Location: 280B (cap. 61)
+Audience: All
+Track(s): Site Building
+Speaker/Moderator(s): zchandler, Pwshiau, yjlee617
+
+
+Planning - 
+Projects don't fail at the end, they fail at the beginning
+https://2016.seattle.wordcamp.org/session/profitable-website-projects-the-oreo-cookie-strategy/
+Manage changes - and expect changes
+conversation does not equal scope
+PROFITABLE WEBSITE PROJECTS – THE OREO COOKIE STRATEGY
+
+

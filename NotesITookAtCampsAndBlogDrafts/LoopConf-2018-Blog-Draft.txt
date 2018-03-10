@@ -1,0 +1,830 @@
+LoopConf 2018: Walking through the snow and cold of a salty Salt Lake City
+
+The last time I was in ['The Crossroads of the West'](https://en.wikipedia.org/wiki/Salt_Lake_City#Economy) it as over 60 degrees and sunny the whole time.  I was told by all the locals that this would have been the case again this year if my travels would have taken me there a week prior to my arrival.  Instead I was met with highs below freezing and bitter cold wind that reminded me why I live in San Francisco's eternal fall.  It really didn't matter what the weather outside was doing because inside [The Falls Event Center](https://thefallseventcenter.com/location/salt-lake-city-ut/) the glow of the WordPress developer community was warm enough to keep us all toasty warm as we gathered for [LoopConf 2018](https://loopconf.com).  
+
+
+###Food and Fun
+
+#####Training Day
+The set up crew for the Falls Center forgot to percolate a cauldron of coffee for our training class.  This was soon remedied before too much dozing off had occurred. Lunchtime brought salads and sandwiches of all sorts.  Due to a registration miscommunication, 100% on my end, I ended up getting some salad from the nearby Whole Foods situated on the oposite side of [Trolly Square](http://www.trolleysquare.com/).  
+There was a speaker dinner that first evening, but since I was not a speaker at this year's conference I had to make other plans.  Very glad I did, as I was able to assemble a few other attendees to get some plant based grub at the simply fantastic [Boltcutter](https://www.yelp.com/biz/boltcutter-salt-lake-city-2).  We capped the night off with what has become a traditional visit to the largest collection of whiskeys in the whole state of Utah, [Whiskey Street](https://www.whiskeystreet.com/).  
+
+https://twitter.com/McDwayne/status/966504896068399104
+
+
+#####Day one
+We were greeted by a full breakfast spread on Thursday, the first full day of sessions.  Everything from yogurt and toppings to eggs and bacon.  For me, the best part were these sugared cinnamon toast crisps.  Coffee was pretty OK. As a single session track event the snack breaks were well timed and thought out.  The morning snack spread had candy and nuts and fruit leather and many other snack goodies.
+Day one lunch meant taco bar time!  I love a build your own taco lunch. No matter what you dietary preference, there is always a way to accommodate everyone with a taco bar.  Black beans, pinto beans, rice and sala can fuel me any day and I had a heaping helping with the awesome hand made tortillas from [Cafe Rio](https://www.caferio.com/).  There was an afternoon snack break as well with iced fudge bars and even more candy abounding.  
+
+https://twitter.com/EvanMHerman/status/966767982021042176
+
+
+#####After Party
+The festivities were planned for the first night of sessions at LoopConf and was a repeat of the best parts of last year's event; Board games, Burgers and Beer!  The burgers came with choice toppings, fries and frosty milkshakes.  They were even nice enough to make veggie burgers on request.  Very good eats.  The games kicked off early and there were still people playing as they were starting to clean up the room.  I got to play the [Catan Dice Game](https://boardgamegeek.com/boardgame/27710/catan-dice-game), thanks to [Mike Demo](https://twitter.com/mpmike) which is faster paced and I think I prefer it to regular Catan.  But I think my favorite find of the night was [Ooga Booga](http://www.blueorangegames.com/index.php/games/ooga-booga) which is a nonsense phrase building and memory game.  As silly as it is fun, I now have a small group of people I will be greeting with "Ooga booga, ha!' next time I see them.  
+
+https://twitter.com/EvanMHerman/status/966885019233918976
+
+
+#####WCKaraoke
+My quest for the best Karaoke spot that is also close to the hotels is always a challenge and when I found a place in walking distance that was a 'karaoke lounge inside a dance club' I thought it would be perfect.  [Area 51](http://www.area51slc.com/) is a goth club where the interesting counterculture of SLC gather, but their staff were good humored and welcomed us 'normals' in.   Due to the fact it was Thursday, fairly early when we got there and there was a snow storm happening outside we had complete run of the place, so we got to sing many, many songs.  Truly a success by any standard of WCKaraoke measure.   
+
+https://twitter.com/chriswales7/status/966913464043106304
+
+
+######Day two
+
+The breakfast spread was a tad fancier on the second day as small breakfast tacos with all manor of filling greeted us all.  
+
+https://twitter.com/McDwayne/status/967055856310218757
+
+
+Snack time meant donut time!  It would not be an exaggeration to say you could easily gain five or more pounds at LoopConf if you were not diligent on watching your caloric intake.  I rarely feel this temped or well fed at any event I attend.  
+
+https://twitter.com/SteveRudolfi/status/967091926242480129
+
+
+Lunch time brought us salads and sandwiches, identical to the offerings on training day.  This time I got served and it was delicious.   
+
+https://twitter.com/McDwayne/status/967122809674592256
+
+
+#####After LoopConf Fun  
+
+Once the last session wrapped up we were on our own to make our own parties happen.  I teamed up with the always on top of it [Mike Demo](https://twitter.com/mpmike) to gather people for some [Topgolf](https://topgolf.com/us/) fun!  If you have never been, this is basically a driving range with RFID enabled balls that automatically keep score for you.  All the needed clubs are provided and the staff makes sure that the drinks keep flowing.  Though cold and a bit snowy at the start we had a marvelous time.  It was a pretty fantastic way to cap off a pretty fantastic event!  
+
+https://twitter.com/mpmike/status/967244629333569536
+
+
+
+###Sessions
+
+Training Day
+[WORKSHOP: AUTOMATING WORDPRESS UPDATES](https://loopconf.com/talk/workshop-automating-wordpress-updates/)
+[Andrew Taylor](https://twitter.com/ataylorme)
+[Matt Cheney](https://twitter.com/populist)
+
+I was very fortunate this year to get to assist during training day.  Working with Andrew and Matt is one of the highlights of my work life. Getting to help out with testing and unsticking folks in the room who ran into issues going through the exercises was a very interesting set of challenges.  Everything from misspellings to too old and unupdatable versions of Node the errors were interesting and all over the place. It reminds me of the old Tolstoy quote "Happy families are all alike; every unhappy family is unhappy in its own way." 
+If you were not able to get to the event but stil want to dip your toes into the water of automating all the WP updates, you can check out [Andrew Taylor's Github repo.](https://github.com/ataylorme/loopconf-2018-automated-update-workshop/tree/multiple-sites)
+
+https://twitter.com/loopconf/status/966372029824868352
+
+
+[DEVELOPING ON THE FRONT-END: CHROME DEVELOPER TOOLS](https://loopconf.com/talk/developing-on-the-front-end-chrome-developer-tools/)
+[Shawn Hooper](https://twitter.com/ShawnHooper)
+
+Every time Shawn takes the stage I learn at least one new interesting thing.  This time out was no exception.  It was literally all the things you wish someone would sit you down and explain about Chrome dev tools beyond 'inspect element.'  I did my best to keep up with the notes, but he moved at epic speed and I am sure I dropped some of what he presented on the ground.  There wasn't any single 'OMG my life has changed forever' moment but there were dozens of 'oh man, I wish I had known that before' moments.  The Chrome team has continued to evolve this treasure chest of developer tools and now I am much more aware of some of the areas I need to drill into on my own educational path.   
+
+
+Raw Notes:
+We viewed code
+then xdebug
+now sites have code running in browser
+what do we do?
+Chrome DevTools
+a pile of new and great features 
+How to access:
+Dev menu
+Right Click and inspect
+Command-Option-i
+The Console allows you to view warnings and error messages
+flips to Live Demo
+Outputting from console.log()
+there are other things this can do like 
+errors, messages All put out in different colors
+Escalate types of messages to the console
+Shows number of errors at where thrown, not same error multiple times
+Displaying arrays, neat to do
+but you can also console.table, puts arrays in tabular MUCH easier to read form, with original output below
+Group collase, upon refresh ato collapesed
+Console lets you run a timer as well
+console.time() name the thing, you can hve multiple
+timer.end will show you when the event ended
+Option in the gear menu to preserve log
+saves things between page navs and refreshes, 
+console log syas in place and appends things to the bottom
+Elements Tab:
+this tab allows to interact with Dom
+Modify CSS and Content
+Quickly make modifications experimentally and see exact results
+Break when any element is modified, set break point
+Not only on the JS code itself, Also on the Dom
+Modify CSS
+Modify color by pallet
+you can preset pallets
+Hold down shift and click on color to give you same value in different formats
+blue, hex, 
+Event listeners
+shows where this lives
+takes you to JS itself when click on sublinks
+Accessibility
+Role, show alert, shows attributes that accessible tech relies on
+You can force state, hover for instance on links
+Sources:
+view all of the JS and HTML
+handy thing, CMD-P search by filename
+much faster than going through other routes of subdirectories
+Opt-cmd-f
+full search for source code embedded, 
+Under file system tab, add folder to a work profile space
+link all the code from browser to the file system highlighting it
+Changes saved to local file automatically and instantly
+Also you can create breakpoints
+this is equivolent to why most people us XDebug
+if trying to find elements on a page, shortcuts exist
+look at $ returns elements
+$$ returns first instance and all at same time
+native, independent to JQuery
+Network
+Spending more and more time here
+See broken assets very quickly
+see stalled and 
+See what is waiting FTFB vs what is taking a while to run
+Crome does not auo cache, you can turn it on if you need
+as you navigate from page to page, network output stays put
+clicking on an item gives you additonal things
+Headers, Status Code, Remote address and request headers
+calling post endpoints
+rightclick on th call and replay XHR
+it will run it again and again without having to trigger the call via form or something
+copy data uri from any image from here
+See various connection option to test different devices
+Throttling
+from Network can mod speeds to test as well
+Application
+Can manage cookies very easily, see what is being set
+can add new cookies right away
+delete cookies and refresh page
+Sensors menu
+that shows if working rotation, accelerometer
+geolocation overwriting
+Alerting 
+Render menu
+emulation of various modes
+print mode vs display very quick way of working with alternate views
+built in auditing exists, built in Lighthouse! FTW!!!
+
+https://twitter.com/kadamwhite/status/966755248843796480
+
+
+
+[THE BALANCING ACT OF CACHING IN WORDPRESS](https://loopconf.com/talk/the-balancing-act-of-caching-in-wordpress/)
+[Maura Teal](https://twitter.com/mlteal)
+
+Caching is both a panacea and a [Pandora's Box](https://en.wikipedia.org/wiki/Pandora%27s_box) for performance.  If you leverage it correctly your visitors will have the best experience possible.  But if you don't take into consideration all the 'gotchas' then you are going to cause some serious issues and unnecessary alerts for your end users.  I was very happy that the last point she left us with was, at the end of the day though, no matter how many layers of caching you put in, you still have to write performant code. 
+
+
+Raw Notes:
+Caching = data we have given an expiration date to
+aslo cache lear events are real
+so need to plan for the data to be there or now
+want to speed up your site
+ful page caching
+It is a quick win and for basic blogs this is great
+authenticated users though, need unique to them content
+need to handle caching differently, 
+also full page caching and constantly refreshing data or live data has own challenges
+balance pHP and static assets vs loading in by Ajax
+one does not cache all the things all the time
+need to focus on different things
+Headers, Sidebar widgets, storing rendered data as HTML
+Json and remote call result
+reusing more flexibly
+detrmine we want to cache
+wp cache set
+wp cache get
+advantage cache groups
+expire a whole group but not whole site
+Transient API
+valid and can wire into object caching
+Do we need to cache more?  
+Dig deep
+Performance indicators, speed, CPU and memoy use
+New Relic is awesome for this
+Traffic indicators, specific events (shark tank)
+also hour to hour traffic, make sure watching patterns
+Watch out for use of external APis
+what if API is down, will that crash site?  
+Should you cache it?
+Browser Cache API
+fully front end focused solution
+user based applications
+is not cross browser compatible, but other options exist
+Browser cache is JS api, you can store a lot of things on the end user machine
+that is problematic if storing full results 
+notice that site was asking for large amount of storage on mobile devices example
+Cloudflare issues stored improperly same as browser cache
+Other lessons
+cache warming is real and it takes a while
+cache clears mess this up if you are depending on warm caches
+could dig yourself a large whole if you are not careful
+Understand load testing
+knowledge is power
+expired is not = to deleted data
+transients in WP options table example, 
+unless there is specific garbage collection the data just sits there
+easy to accidentally store things in the DB
+cache all you want but you must still write performant code
+
+https://twitter.com/scottdeluzio/status/966794697602752512
+
+
+[LEADING DIVERSE TEAMS (EVEN WHEN SOME OF THEM ARE STRUGGLING WITH IMPOSTOR SYNDROME)](https://loopconf.com/talk/leading-diverse-teams-even-when-some-of-them-are-struggling-with-impostor-syndrome/)
+[Chris Lema](https://twitter.com/chrislema)
+
+Teams need different voices to be heard!  If everyone looks the same they are likely to sound the same.  We must strive to include people with varying backgrounds and experience in our workforce.  The biggest thing I walked away with from this session was the definitions of GAPS, Goals, Assumptions, Parts, and Scope.  This is a pretty straightforward way to look at a problem set which forces you to look at the individual parts of the issue, which themselves ultimately make it simpler to solve the overarching issue.  This is a great session for any managers who are currently recruiting or will be growing a team moving ahead.    
+
+Raw Notes:
+For any problem, people will find solutions that leverage their own knwoledfge and expertiese
+finance wants new payment terms, marketing wats more clicks, sales wants better leads, etc
+if you are all the same will only try to solve issues that same way
+$3000 laptops but same company would not buy backpacks and bags
+Just get things done, breaking rule, the CEO was shocked the rule existed in first place
+some people think acting first and expecting it will work out
+others could never dream of such a thing
+the more diverse your teams are, the more options and solutions you have
+Teams focus on what is going to get done, not how it is going to get done
+we assume everyone is on the same page, but that is not always the case
+must focus on how as a team
+Goals - Objectives and Properties
+Assumptions - restrictions
+Parts - elements of the problem
+Scope - What changes are OK
+Representational GAPS
+Pull together and have the conversation 
+if you are only going to look at surface layer fault line you need to drop below
+workaholics and life balance people
+majority and minority
+Majority role is to keep listening
+Minority voice has to keep talking until everyone understands that perspective
+must think about the way we are thinking based on experiences
+we will benefit from opening up a diverse set of solutions
+We are all insecure
+dealing with insecurity applies to everyone
+'why is that person that way' comes down to externality and way they have to function on the team, it is driven by insecurity
+Talk in private - understand their perspective
+Talk all together - huddle up and talk through struggles
+Create Stretch Goals - help them grow!  
+Articulate Roles/Goals - make swim lanes for people
+
+https://twitter.com/EvanMHerman/status/967073312776990720
+
+
+[A SOLDIER’S PERSPECTIVE ON MENTAL HEALTH](https://loopconf.com/talk/a-soldiers-perspective-on-mental-health/)
+[Scott DeLuzio](https://twitter.com/scottdeluzio)
+
+No matter who you are or what role you have you will likely hit the hurdle of imposter syndrome or some other mental health concern.  You are not alone!  I don't think there can be enough sessions presented on this topic as it is something that affects so many of us.  I have never been in military and am glad I have not had the personal loss that Scott has suffered, but I am glad he shared his experiences and mechanisms he has leveraged.  The biggest take away from this session was the importance of just listening and having someone to listen when dealing with issues.  If you don't feel like you have anyone to talk with about things bothering you, feel free to reach out to me.  Even if we barely know each other or you only know me from my writings, I would still be available to listen if you need a patient ear to bend.  
+
+Raw Notes:
+Starts with a personal story about the worst day of his life
+August 22, 2010
+infantry soldier 
+house searches for insurgents
+someone looking for him, which concerned him
+bad news, had to be face to face, message from back home
+Brother was in an ambush, did not survive
+broke down but could not slow down because his unit got attacked and he had to lead
+had to suck it up and just deal
+hours later flys to main air base, but no one he knew there no one to talk to
+couldn't call home, felt really alone
+next day he is escorting his brother's body home
+only had one chance to call home but much later in another country on way back
+hometown hero passed away, all the reporters were there asking for information
+first thought was 'screw them' but then realized they needed the real story
+he never really got to grieve
+He started realizing events got wiped from his memories
+if stress is not dealt with properly your brain will act funny
+you might never realize it
+Burnout is real
+Fatigue
+insomnia
+forgetfulness
+loss of appatite
+anxiey and depression
+anger and irritability
+If you are expereinces, take a break, seek help
+there is no shame in asking for help!
+Imposter Syndrome
+National Guard === soldier
+some people think they are a joke since they are part time
+vs active duty are full time
+but since had regular jobs and went to school, did other things than soldier
+imposter syndrome felt very real
+mechanic on board is a great thing in a truck, active duty solders rarely have those skills
+he has an accounting degree
+never taken a programming class
+we all learn to code on our own
+Focus on the things that make you unique to be able to do what they do
+If able to do the job while incorporating your own unique skills it overcomes imposter syndrome
+Helping Others
+You're useless to others if you can't help yourself
+in the service, everyone has first aid kits,
+everyone can fix basic injury
+can't help if not safe, 
+you must put the oxygen mask on first so you don't pass out when heling others
+Failure
+I will always place the mission first, I will never accept defeat.  I will never quit - part of soldiers creed
+we all have a fear of failing
+stems from doubt, just means we are afraid to try
+What if your plan didn't work?  
+Have backup plans, b, c, d...
+It's not failure, it's a chance to redirect
+Don't give up!
+If someone asks for help, don't be overbearing and command them to do even more things to worry about
+be supportive and listen!
+Just talking things out helps tremendously
+taking it all on by yourself suffering is not realistic
+you need to share the burden
+the worst idea is to try to go through it alone
+
+https://twitter.com/kadamwhite/status/967084539150397440
+
+
+
+[CONQUERING CONTINUOUS INTEGRATION & DEPLOYMENT](https://loopconf.com/talk/conquering-continuous-integration-deployment/)
+[Tessa Kriesel](https://twitter.com/tessak22)
+
+This is not the first time I have seen Tessa talk about this subject and she even gave me a mention recalling the first time she was prepping for delivering this talk way back at [WordCamp for Publishers](https://www.mcdwayne.com/2017/08/21/wordcamp-for-publishers/).  The initial ask of the audience revealed the truth that most people know what the heck Continuous Integration is, but very few put it into daily practice in spite of the fact they know it is a good idea.  One of Tessa's thoughts on why so many people are in this state revolves around the fact that this stuff gets overwhelming very fast, especially if you try to tackle it all at once.  She called for a much more measured approach with many small wins along the way.  It is far better to focus in on one small victory and see what improvements that grants before diving in and trying to automate all the dang things.  A very solid presentation and one everyone even remotely interested in automation should check out, once the vids are available.    
+
+
+Raw Notes:
+about 2/3 of the room knows CI
+only about 1/5 use it
+she had learned about it some before Pantheon
+then she had to learn it deeply when she joined the team
+now, a year later she finally feels comfortable with it
+She wants us all to get to that point
+why is this so important for teams
+no matter where you are now, there is a path forward
+immagine a new agency,
+Rachel starts it up and is only familiar with SFTP
+hires dustin, they overwirte each other's files
+bad time
+start using Version Control, solved!
+New perosn, Alexis, brings in grunt, gulp, sass
+David joins and is a stickler for process
+makes a wiki and adds slack
+adds another member, Lizzie
+split into 2 teams and have to strategize communication
+then get a very large project
+new part time and new contractor
+but the contrator is an unkown
+they start doing code reviews, using GitHub pull request
+then hire Q/A contractor, defines a Q/A process
+"There is no sinlge CI and CD process that works for everyone, You are just trying to automate company culture with BASH scripts"
+if we are letting automated builds check for errors, we are going to be able to integrate code much faster and better
+save time bu automating the mundane things like sending slack messages when x happens
+The master has failed more times than the beginner has even tried
+You have to fail and you will fail but you will get there
+got to keep trying until you get it, worth it
+Build Steps:  (not sure what is 100% right for you, but these are common ones)
+set up containers
+install dependencies
+Complete task runners
+Run automated tests
+Behat - quick way to check functionality - if this this, then this should show/happen
+Coding Standards
+Visual Regressions
+Deploy to staging or test
+We can make the robots do all this mundane stuff and more
+Continuous delivery is getting the code out
+Continuous Deployment - auto pushing though a process
+What now?
+1 Write down steps to creating new project - be very greanular
+2 highlight problem areas inside your processes that are not right or seem off
+3 automate at least one item from step one
+4 Automate at least one problem area (this is the hardest one, you need to dig into the problem, see underlying issues)
+you can drill into [Andrew Taylor's GitHub repo](https://github.com/ataylorme/Advanced-WordPress-on-Pantheon)
+Q - on final build process how much time could this save
+A - Maybe up to 80%, it is huge and helps a lot
+Q - one issue is testing process and spin up to site time adds a lot of time and delay in getting feedback
+A - yeah, it takes time but the upside is the automation of getting the details to them in a consistent way
+Q - Why does Jenkins make us want to jump into a cold pool
+A - It can be super powerful but you have to start from nothing, basically ike building your own CMS, it can be a nightmare but worth it
+Q - How do you get buy in from managers who don't get this
+A - this is hard, but researching it and showing how it can save time will be good path, management likes numbers, 40 hours up front saves 100+ hours over the next month, that is a no brainer
+
+https://twitter.com/McDwayne/status/967083983845535744
+
+
+[PROTOTYPING, REFLECTION, AND IDENTITY: UNUSUAL APPLICATIONS OF THE WORDPRESS REST API](https://loopconf.com/talk/prototyping-reflection-and-identity-unusual-applications-of-the-wordpress-rest-api/)
+[Ashley Kolodziej](https://twitter.com/ashleykolodziej)
+
+I am a sucker for a good case study and this talk had two of them, much to my delight.  Her 'why you should listen to me' part of her intro had jaws dropping around the room and reflected the amazing job the devs and teams working in higher education face on a daily basis.  Managing thousands of sites with competing needs and still finding time to do new projects just boggles the mind and I am happy to know people with her caliber of brilliance are taking on these challenges. Her approach of getting real data into a prototype asap should stand as a lesson to us all about the power of leveraging new tools to meet real goals.  I hope to hear an updated session about her work on the scheduling app at a future WordPress event.  
+
+
+Raw Notes:
+WordPRess at Boston University
+2707+ WP sites
+188 child themes
+1 giant MultiSite
+one big ol' framework - that is her
+Took her a while before she could understand how the REST API could help
+here is how it helped
+Lesons lerned from Bostonia magazine and using basketball to heal culturally article
+Using ritual of the game to deal with issues
+somehow she was supposed to translate that to the internet
+she drew storyboards
+used color cues, audio and other techniques
+prompts, supposed to mae you think
+"One thing that has held you back" 
+come to a conclusion about what that means
+Hard part was how to create a safe space online for this work, online reflections
+by the way, in a month under deadline
+lot of people are trying to disrupt
+felt overwhlemes
+luckily [@desrosj](https://twitter.com/desrosj) was on the team and stayed calm
+"just use REST API for this"
+use a custom comment type which gives built in moderation
+Ties responses to article, no sparate services/databases
+separates 'normal' comments from response to prompts
+makes responses easily accessible to designer to display
+Demo time
+response from prompt goes to WP admin where moderator moderates
+We leave a lot to the robots, but for this sort of thing, can't rely on them
+even a blank answer is valid here for example
+What is the best place for reCaptcha anyhow? 
+need some level of protection, up front it can be a barrier to entry though
+also up front, mental reminder that we might potentially release results
+don't want self editing
+Final submission and moderation process
+reader can opt in and submit responses to share, clear and explained just at end of process
+All responses use a rules system to weed out bad words
+Human judges if valid content that actually tries to answer the question, then it goes live
+REST API gave them
+easy access to WP content for designers who code
+also Scaffolding for moderating and protecting reader responses
+Also, total control over when and how responses are submitted and checked
+The ability to bring people together
+Second time she got to use REST API was a little more straightforward
+Help students plan schedule with complex requirements
+course lottery, had to plan multiple backup schedules
+could not go ask other student information systems data about the student, out of scope
+onus is to put requirements up front for the students to realize
+start with some sketched circles and such
+Plan and flowchart, lot of logic and boxes
+UI required students to understand their own prereqs
+after some basic wire framing
+left side courses right side calendar
+but they didn't have real data to test
+wasn't sure what would be really useful, 
+answer was to just built the rest of the prototype 
+Assing data to Axure prototypes = hard and clumsy
+Using JS and the WP REST API talk she saw at WPCampus
+Joh  Rhea - WPCampus 2017
+If you can get WP data using JS, you can do anything
+already sing Rest API in project
+Worked great, got the JSON and plugged in data and make it easy to get real data
+Very nice prototype and instantly see results and filter 
+Of course had to refine through usability testing
+scheduling does work now, a work in progress
+Rapid prototyping though made it easier to find flaws and surface issues
+Filters and results use real data and are easily updatable
+no restrictions to the amount of data you can use
+little to no manual data input
+good opportunity to pre-vet front end tools used in other projects
+SO what?  "But I'm not a _____."
+But REST boils down to who you are and your responsibilites
+used to mean something different for her than it does today
+testing assumptions before building and getting feedback 
+but ultimately this means you can talk to WP
+
+https://twitter.com/mlteal/status/967097400585216000
+
+
+[ZEN MODE: DEVELOPING WHILE YOU’RE OFFLINE](https://loopconf.com/talk/zen-mode-developing-while-youre-offline/)
+[John Blackbourn](https://twitter.com/johnbillion)
+
+I, like most of the room, had some serious skepticism about how much you could realistically get done as a dev without the power of google + copy/pasting from stack overflow.  Turns out the answer is 'quite a lot if you prepare for it'.  He had the room turn our devices to airplane mode or at least turn off our wifi.  I'll admit this made me nervous.  I kept thinking 'what if I am needed on slack?  What if an email needs an immediate reply?' By the end of the session when I turned my connections back on, I realized that my constantly being online is not really a great way to work all of the time.  With enough prep, all my tools and things like documentation will all be present and available.  Ultimately any work you do will be more fault tolerant since any service calls reliant on a network to be available will need to be dealt with and not just 'expected to be working' in our testing.  People need quiet, uninterrupted time to do thoughtful work.  Simply turning off wifi is a simpe and effective way to make this happen, but do let your clients and peers know that is your plan, otherwise expect some angry texts and emails when you do reconnect.    
+
+
+Raw Notes:
+[Sign up for WP-CLI tips](https://johnblackbourn.com/wp-cli-newsletter/)
+He asked us to go into airplane mode and go offline for the course of this talk
+If you have done it:
+Welcome to zen mode
+Makes some people very uncomfortable
+everyone here likely stays connected online all the time
+Still need to get stuff done, but going offline he finds relaxing
+"I'm going offline for a while to concentrate."
+Let's get to work
+How can we get anything done without wifi?
+you need to be prepared - otherwise you can get stuck
+1. preparation is everything
+right tools
+right mindset
+Reconnection
+First download the internet (don't do this on your mifi and makes ure you have enough space)
+but really, focus on what you are working on
+Local environment
+Github wiki is all downloadable
+down't have to us the online editor, just pull then push when back online
+you can download font libraries locally
+Spend time testing dependencies on external hosts before going offline
+Is great for figuring how site works if those services go down
+improve resilience to netword failures for the end users
+better user experience as a result
+Connect before you disconnect
+License checks are a real thing, must check license for Paw for instance, before you can even open it
+Open all the apps you need before you go offline
+connect and check Google Drive and Dropbox for offline access
+email clients, ect
+git fetch --all
+fetch all the branches on the remote for use locally, one step
+Communicate with colleagues and clients
+tell them when you are offline, don't underestimate the importance of this
+2. Offline documentation
+All of the built in help docs for mac assume you are online, not helpful if offline
+Dash for Mac, Zeal for Windows
+Docs for many many things that are copied from original sources and auto updates
+searchable and integrates with other dev apps
+in IDE can highlight function and it pops open right docs around that for instance
+Alfred for searching code
+awesome alternative to using Google for everything
+supports cheat sheets and 3rd party docs, anything on composer site is game
+man grep
+wp --help
+Airplane mode for WP 
+Stops third party service calls, replaces images with local images
+makes a serious performance difference when developing
+seeing plugin list in admin offline takes .39s online takes 2.35s in his test
+on front end console errors are many from call fails
+airplane mode those errors go away, also not awaiting anything, so faster
+What if we need those assets?
+Mocking not blocking
+can do this with local HTTP proxy, return a stored value locally vs online
+charles http proxy
+demo
+save responses as local file
+can get quite granular with paths
+You might not immediately think about email you are sending
+ideally you want to capture those locally to see they are going out
+MailHog does this nicely
+email log is a WP plugin, wp-mail capture
+also useful for online work too 
+Mindset
+embrace offline, 
+look forward to it if you embrace it stop fighting bad wifi
+being a parent can be more mindful of how focus is spent
+change in habits, can look up docs much faster
+see the benefits to the end user
+more resilient network 
+wifi off makes the battery last so much longer
+wifi radio eats a lot of power
+lot of benefits to you
+Always be charging, take every chance to make sure top off battery
+never know when going to get another chance
+Reconnection
+likely feel a bit of relief
+Avoid the immediate social binge
+makes a bad habit of wasting the first minutes online every time
+how can you be more productive?
+Action points
+useful to have notes that remind you of things you need to do online
+find problems offline you need to be online to fix, do those first
+Backup Plan
+what happens when you unexpectidly offline for a long strech
+Write docs!  
+inline docblocks, stand alone docs, articles, etc
+don't waste tome
+non-dev work can be very valuable
+realize you don't always have to be online to bring value
+if all else fails, play the chrome dino game
+the disconnect.co
+new publication you must be offline to read, using new browser tools
+all about disconnecting and being offline general interest magazine
+
+https://twitter.com/nullvariable/status/967113590321831936
+
+
+[GLOBAL ADMIN – A DEEPER DIVE INTO MULTINETWORK ORGANIZATION](https://loopconf.com/talk/global-admin-a-deeper-dive-into-multinetwork-organization/)
+[Felix Arntz](https://twitter.com/felixarntz)
+
+I have never used multinetwork.  I am not in a position to ever use multinetwork or even a multisite.  But I feel in my current role it is critical to keep up on the use cases and how the core community is tracking these edge but very scale intensive use cases.  Felix is a very straightforward presenter but he did go a little quicker pace than I was able to keep up with, so sorry if my notes are spotty below. 
+
+Raw Notes:
+WP Network multisite
+multinetwork is a set of multiple multisites in one setup
+ie multple networks
+ie multisite - a singel network
+Multinetwork Case Studies
+festival produders and promoters
+Universities
+complex hierarchy with separate owners
+WordPress.com
+Network
+Site Site
+But this is incomplete
+DB schema
+replicating per site same tables
+wp_ wp_2_ wp_3_
+Global tables 
+user credentials on WP.org for example are global
+Network Untility tables
+wp_blogs
+_site stores DB information
+this schema lets you have multiple networks
+all settings will be settings table associates with the network's ID
+Global Scope really only matters when talking about multinetwork
+admins in the hierarchy for example
+users are not per network
+network is the same as global if ou have only one network
+WP Core support for Multinetwork 
+there is avaiable support, the DB supports it
+but the code is not super supported
+Has wp_NEtwork class
+lacking support
+CUD API for network (R is supported)
+No UI
+trival things like user roles that go beyond a single network
+other use case specific things you would find lacking
+have to hand wire somethings 
+but there is plugin for it
+Multinetwork
+get a UI and exposes basic functionality
+but still this is basics, just to get started, still need to write your own
+If you want to just code this all yourself, there is code on github from other's projects
+Problem: not every network admin should create new networks
+goal: Handle this functionality in global scope
+how do we do this? 
+two alternatives
+use main network as global scope layer (easy technical solutoin but conceptually a hack)
+Implement missing global functionality (Clean solution, but technical hack)
+Washington state has hacked this and it is on Github
+WSUWP-Plugin-Multiple-Networks (Github)
+vs
+wp-global-options (Github)
+wp-global-admin (Github)
+Disclaimer all these solutions are touchign WP deeply, test out before every use it
+Future, this is not going in core, plugin only 
+a regular CRUD API should be integrated to core
+Hooks will be introduced
+
+https://twitter.com/SteveRudolfi/status/967149400450478080
+
+
+[WHAT IS SOFTWARE COMPLEXITY AND HOW CAN YOU MANAGE IT?](https://loopconf.com/talk/understanding-software-complexity/)
+[Carl Alexander](https://twitter.com/twigpress)
+
+
+
+
+Raw Notes:
+Super easy to lose control and let your code get really messy
+complexity is not a ting we focus on at the front
+we initially worry about it just working
+not worrying about our future self
+cyclomatic complexity
+Better known of the approaches measurments
+Linearly moving through a piece of code
+use control flow graph so it looks like a circle of boxes and flow shown
+count edges and nodes
+see the paths in the code
+this is a lot of work and nobody wants to do it normally
+Alternative
+always count the initial function
+then each 'if' and 'or' as complexity
+But what does that number give us?
+1-4 low complexity
+5-7 moderate complexity (this is where things get dangerous, brittleness in the code show up, can feel like losing control
+8-10 high complexity - the function still works but you should be on high alert
+10+ Ludicrous complexity - unusable, want to stop and refactor, fix it
+issues with cyclomatic complexity
+treats 'if', 'while', 'for', 'case' as identical statements
+a look is the same 1 ot 1000000 times
+an if statement alters the path in the code, values change and behaviour differs
+it also does not account for nesting
+3 linear for loops are NOT the same as 3 nested loops but the model evaluates them as the same complexity
+complex code is often complicated, but those terms don't mean the same thing
+we confuse them a lot
+it is not hard to follow complicated code, use vardumps and some die statements and it makes sense
+Second measurment meath
+NPATH
+solves the shortcoming fo cyclomatic complexity
+from a single paper in the 80's, hasn't caught on as a mainstream thing
+count the number of sigular execution paths in the code
+How many unique paths there are in the code
+Statements are multiplicative
+adding paths through the code multiply
+2 * 3 = 6
+Conditionals are dangerous
+You should rarely have 2 conditionals 
+what if you had a dozen?
+4096 unique paths through your code
+how many paths through your code should you have?
+tools warn about 200 paths
+50 paths is more reasonable
+But how do we get there?
+break large functions or methods into smaller ones
+6 if statements = 54 unique paths
+not easy to split a function into two right at the mid point
+Code that logically goes together
+date objects exampled
+But are we just hiding problem by doing all this?
+whole point is to do this at the function and method level
+not the whole of the codebase
+correlates with a better code base though
+makes more robust and less brittle
+calculating complexity value is not practical
+need tools that scan your code
+CLI tools
+great starting point, run locally well and fast
+PHP code sniffer
+PHP mess detector, not as well known
+detects problems with your code
+supports both measurement methods
+other tools continuously reads code
+enforces code quality
+Codacity
+Code Climate
+Scrutinizer
+all offer a free teir for OSS projects
+complexity isn't that complex
+intimidating topic, but does not need to be
+CS scientiest used very technical dense language
+the theory itself is not that hard to understand
+All about the size of the functions and methods
+graphs are not really needed to understand this
+
+https://twitter.com/chriswales7/status/967158131410157569
+
+
+
+[BROWSER SERVICE WORKERS](https://loopconf.com/talk/servicing-your-website-visitors-with-browser-service-workers/)
+[Brian Thompson](https://twitter.com/rvtraveller26)
+
+Raw Notes:
+imagine a coonder store,
+sells things
+Katy Perry pushed people there
+shark tank effect
+caching with CDN prevetns overwhelmed from anon
+but put in cart fails
+Pge could not load
+nobody happy 
+turns a good thing, referrals, into a nightmare, down servers
+the problem, this fails to uphold golden rule of commerce, always take the order
+W3C calls them Web Workers
+Google says Service Worker though
+long running background tasks in the browser
+not tied to other aspects
+Emphasis on 'app like' experience
+not an app you download
+but a website that installs as a native mobile app
+this hidden gotchas
+very early days still
+Directories are important
+JS in a theme for instance
+service workers are scoped to the directories in which they live
+got to get them to top level so they are scoped at that level
+many people putting them in root level
+Only working over HTTPS
+no hard requirements but this is true
+this presents challenges for local setups
+must have valid cert, no self signed SSL
+Browsers realized this and added extra domain that browser recognize
+localhost is also a safe one
+whether you can trust your local machine is up to you, but browser does
+kinda have to cross your fingers since it is so early
+error handling is not there yet
+can't even do retried yet
+Supported browsrs
+Chrome, best support for any browser
+Firefox, also good since 45
+but during his prep he found out he had accidentally disallowed service workers from side effect of plugin, no way to tell which one though, still early
+Opera has full support
+Safari has limited support, still coming along
+IE - nope (not even 11, no plans to support)
+good news is degrade gracefully, just don't get benefits, no penalty
+Edge - does but not by default
+Now onto code
+maybe a dozen new lines
+register the service worker
+then listen to install event for when it gets fired by the browser
+Cache-array ont he local browser
+hard to manually get things into a browser cache and back out safely
+this apprach just caches like vrnish and gets full page
+you can get fancy and listen to a fetch event
+intercept fetch requests and take control of what the file should be
+even with a CDN it is still multiple milliseconds for roundtrip
+This route is instant from local
+Magic that takes place in the spectator's hands is so much more powerful - Shawn Farquhar
+Open up chrome
+go to live-wp-serviceworkers.pantheonsite.io
+https://live-wp-serviceworkers.pantheonsite.io/slow.php
+loops a billion time and inside that it loops a billion times
+this forces the Page Could Not Be Loaded
+https://live-wp-serviceworkers.pantheonsite.io/slow.php?help
+this loads a real page and says SLOW LOADING PAGE… This page is taking awhile to load…
+Gives a better experience
+turn off wifi
+https://live-wp-serviceworkers.pantheonsite.io/offline
+Actually loads something, it should not be able to!
+this is preloaded on browser memory
+Full circle, how do we make sure we always have the user have a good experience
+using a service worker they cna still complete the order with order confirmation page, browser is having issues so leave browser open message
+because of service workers we can see 500s and reroute to a better experience route, customer service
+convert a loss sale to a happy customer 
+he is opensourcing his work at MindGrub on service workers
+github.com/Mindgrub/always-on-wp-plugin
+
+https://twitter.com/SteveRudolfi/status/967174773955469313

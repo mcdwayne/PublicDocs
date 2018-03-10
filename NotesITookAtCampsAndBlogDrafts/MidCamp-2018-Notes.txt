@@ -1,0 +1,450 @@
+MidCamp 2018
+
+[Keynote Session: What's So Open About Open Source?](https://www.midcamp.org/topic/keynote-session-whats-so-open-about-open-source)
+[Chris Rooney](https://www.midcamp.org/topic/keynote-session-whats-so-open-about-open-source)
+
+
+Tells us his rules, what to expect
+Talk on Diversity
+Last year a lot of people felt they were under attack
+the community is suffering
+trying to bridge divide 
+Used to hate Palantir
+had bad feelings about thembut learned 
+1 Don't ever ever judge someone presenting at a Drupal event
+2 Drop your weapons
+he was a boxer and football player, weaponized himself and throught of things in zero sum
+your tools, twitter and facebook
+inflict pain on others if used that way
+powerful, so important to be aware of your own weapons
+In a focus group at DrupalCon
+someone felt it was not inclusive
+he thought he was not welcome there
+thought he was ostracized for conservative beliefs,
+could be number of responses
+3 We are all simultaneously victim and perpetrator
+this is fundamentally part of the human condition
+we should be more conscientious of ourselves and surroundings
+Diversity creates value
+lot of research into this, diverse teams perform better
+87% of the time diverse teams make better decisions
+diverse companies make more money and have better user satisfaction rates
+better at recruiting talent
+OK, but how are we doing and how did we get here?
+How diverse is Drupal?
+not very
+Participants at DrupalCon
+18% Female, 52% male, 30% other/unshared
+SPeakers
+21% female, 33% diverse (on teh big 8 social IDs)
+Tech overall, 
+30% women
+Drupal is a bit worse in these areas
+overwhelmingly the tech industry is white and male
+lot of stats on that
+Blind Spots coming on the horizon for the tech giants
+hegemony is bad but systemic of old system
+Deepening wedge of dispossession
+Customer Distrust
+clients demand more diversity
+So what is going on here?
+Capability Issue vs Systemic Issue
+people get up tight about these issues
+if capability issue is false, which he believes, then systematic is heart of issue
+He interviews a lot of people, especially right out of school
+sees kids that are super good, across all lines, good people are good
+Super Smart
+Really nerdy
+socially awkward
+(asks us to stand if that described us in our younger days)
+over half room stands up
+raise hand if still true
+almost all raise hand
+these are our people
+Barriers 
+Pipeline
+Selection Bias
+Mentorship/Role Models
+stop and think how we each got into the spac
+Lauren's Law
+(Lauren is a young engineer at Palantir)
+I fell backwards into Drupal
+didn't have a CS degree
+liked web stuff
+that described most of room as well (we stood up again)
+Career Risk Taking Prereqs
+desire, interest, capability
+a place tot learn/eperiment
+mentorship
+validation
+community
+a place to 'land'
+safety
+4 Safety Nets
+shows video of missing a trapeze move
+falls into net
+Safe place to land, he was upset
+but the net was there to make sure he was OK and could try again
+Minority populations and Risk taking
+Dispossession opportunity and ris taking
+First one to X syndrome - got to stay on a path to make people proud
+performing with no net
+high school -> College 
+and then something happens
+financial aid lost, family crisis, hae to leave school to find a job
+bounce job to job
+if lucky then find a way to learn a skill
+How do we put Open back in Opwn Source
+5 Make it a safe space
+be visible
+Proactive inclusivity means continual calibration. “How did that sound to you?” 
+So what is next?
+Atlassian survey
+over half wanted to learn more about their colleagues backgrounds
+5 accountability challenges
+
+
+
+
+
+https://twitter.com/lesmana/status/972133075273572353
+
+https://twitter.com/McDwayne/status/972134017872154624
+
+https://twitter.com/midwestcamp/status/972136452925554690
+
+
+
+At Higher Ed conference talked to person who didn't know where to start
+she talked he through it and thought others would benefit
+Sales is like dating.  Need tof ind the right partner
+need to be excited about it
+Stages of dating
+If you don't get a call back, she is sad
+prevent that
+Do you even need an RFP?
+Avoid it if you can, talk to people instead
+but if you have to, don't be a bad date
+10 things she hates about the process
+Asking for copies
+on a flash drive or (eww) CD
+physical paper copies
+spreadsheets with hundreds of boxes to fill
+notary
+wet signatures
+objections in the proposal stage
+no outline of goals
+uploading a DB
+40+ RFPs...
+nightmare scenario
+Phrases that mean nothing
+like state of the art
+best solution
+Cutting Edge - not the same for everyone
+dig into these adjectives
+"Integrations"
+Specific to region ("nothing in Northern Ireland")
+banning slavery funded businesses...holdever from very long time ever
+Worst Date Ever story (sprocurement)
+27 pages long
+scope was only 1/2 page
+zero info on goals
+many questions
+6 attachments and a flash drive
+scope was very vague
+Very!
+26 pages on how to submit the RFP!!!!
+214 questions were asked
+Quotes ranged from $35K to $235K  
+they STILL have not picked a vendor after 2.5 years
+So let's build an RFP
+1 BE SPECIFIC ABOUT YOUR GOALS!
+avoid all generalities
+BAD: I want more traffic
+Good: We want more traffic on these pages because...(specific reasons).
+2 be specific around constraints
+key dates to hit
+external forces
+brand and ID guidelines
+vacations
+3. Please tell us your budget
+for real, tell us!
+seriously!, she means it
+at least give a range
+if you don't have a number in mind, ask "Do you think it would be between X and Y?" 
+That will get some reaction
+4 Tell us your exclusions
+What is def not in scope
+specify URLs
+Who is in charge of content creation 
+Who is in charge of hosting
+5 Give details about integrations
+Bad: Integrate with LDAP
+Good: integreate with Active Directory with LDAP to do x and for y reason
+6 List external resources
+by role
+by skill
+Are they interested in working in tandem with us?
+7 outline the status of your content
+Have you audited content?
+Anything being archives?
+help them nail down the specifics early
+8 send it to the right people
+in early days she looked at RFP database
+she picked one
+went through a ton of work
+they went through 100 submissions took months for them to respond
+avoid RFPs that are open call
+random submissions are bad
+9 Give time to respond
+at least 10 business days
+more like 3-4 weeks is better
+10 allow for Q&A
+most of the time this is present
+can be via an organized conference call or ad-hoc
+Send all answers to all vendors regardless of who asked
+11 Don't ask for spec work
+we don't work for free
+work without a strategy is no good
+see nospec.com
+12 Streamline the paperwork
+be mindfull of time
+reduce formatting or paperwork requirements
+keep it simple
+13 Give a decisions matrix
+how will we be judged?
+what is weighted heaviest
+geography? cost? clarity? etc.
+14 realize you are buying a process, not a product
+look for related experience
+look ro effective problem solving
+Responsive design example, no one every built one in 2011, we learned how
+no one asked for one
+KEEP IT SHORT
+you can really do it in 3-5 pages
+Lastly: Feedback please...call us back
+cover page photo strategy
+
+https://twitter.com/McDwayne/status/972193696614637569
+
+
+
+[Managing Community Conflict in Drupal and Beyond](https://www.midcamp.org/topic/managing-community-conflict-drupal-and-beyond)
+[George DeMet]()
+
+
+Defining conflict
+can be positive or negative
+benefits
+cross pollination of ideas
+can help people find creative solutions 
+can help clear the air around team members
+something people are not saying- tension
+sometimes just need to get it out in the open
+ultimately if conflict is handled well, can build trust and improve relationships
+confilce does not mean you can not engage in an respectful way
+Consequenses of negative conflict
+When conflict is out of self interest can derail the organization
+can damage relationships and end up with toxicity
+Unmet needs often lead o neg conflict
+don't feel heard
+Feel contributions are not values
+interests are not being represented
+feel hurt by something someone did
+One will prevail over the other
+you end up feeling left out and conflict
+How? does this happen?
+Technical disagreements turn to personal attacks
+frustrations with the amount of time it takes to review patches/project applications
+people lashing out in issue queues
+During the D8 release, saw a lot of conflict
+many people declines in contributions
+lost moral
+has a real impact on diversity
+Only 3% of OSS contributors are women
+in drupal it is 6%
+still terrible!
+we literally have no idea how many people of color we have in the project
+Code of conduct can help
+it is not enough by itself and does not remove issues
+just way to understand rules
+a COC is worthless if there are no structures to suppport if ther are no structures to support it or mechanisms to enforce it
+Enter the Community Working Group
+help resolve conflicts between community members
+Uphold the drupal COC
+Recognize community leadership
+Provide conflict resolution resources and guidance
+whatever we can to help improve the overall health of the community
+no funding, no direct Drupal Association connections other than Dries
+Dries mandated they should exist
+lot of conversations around what governance means in the community
+blog post on D.O with bullet points
+session at DrupalCon about the specifics is coming
+values and principals need to be true from the top
+things get stuck as these things are complex
+Ultimately we need to take responsibility for our words and actions
+compassion and forgiveness are intertwined
+
+
+
+https://twitter.com/McDwayne/status/972234380528799749
+
+
+
+[OOP - The Pokemon Journey](https://www.midcamp.org/topic/oop-pokemon-journey)
+[Fatima Khalid](https://twitter.com/sugaroverflow)
+
+Write a modular reusable and flexible codbase that is easily extended
+Pokemon Journey
+pick pikachu
+electirc, 
+attack: thunderbolt
+These are like classes, which are blueprints
+properties
+data points
+methods
+class-specific functions
+creating a Pokemon Class
+class Pokemon{
+    public $name;
+    public $type;
+    
+    public function __construct($name, $tyep)
+    {
+        $this->name = $name;
+        $this->type = $type;
+    }
+}
+$pikachu = new Pokemon('Pi
+$pickachu->attack;
+Wild pokemon appears
+how do we know the difference
+Oddish
+grass
+Poison Fire
+Inheritance is about sharing
+parent class
+child classes
+overriding methods or properties
+tree analogy with parnet class as trunk
+Extending the Pokemon Class
+class ElectricPokemon
+class Picachu extends ElectircPokemon
+Inheritance in Drupal
+interface WidgetInterface extends WidgetBaseInterface
+Gym Battle!
+need to think about comparing and contrasting trengths for strategy
+Pik
+water (str)
+Ground (wkn)
+Getting data from our Pokemon
+PHP magic methods: __get() and __set()
+Getters and Setters in the child classes:
+class RouteMatch implements RouteMatchInterface {
+Using a Pokemon Ojbect
+interfaces are like contracts
+all methods are public
+class ElectircPokemon implements PokemonInterface
+Creating a Pokemon Evolution Trait
+$nextEveloution = $this->evolutionsstate;
+You win your first badge!
+one looks like the Drupal Drop :)
+functionlities on badges will change
+plugins are like functional lego blocks
+many types of plugins
+different behaviors | common interface
+Pokemon | plugins
+abstract class PokeBadgePluginBase extends PluginBase
+class DrupalBadge extends PokeBadgePluginBase {
+To be the very best!
+tournaments
+needs stats of wins and losses
+services are like swappable operations
+-same function | swappable code
+-global available
+creating a PokeDataInterface
+call the pokemon service
+new Pokemon
+$pokeDataHelper = \Drupal::service('pokemon.pokedataservice')
+$data = $pokeDataHelper->
+Services in Drupal are swappable
+email.validator good example
+when possible, inject your services
+Pokemon Dependency Injection
+you need to lead it and a container to load it into
+if you are in a custom block, do you have a constructor?  It tells you if you need to write the service into the interface
+bit.ly/oop-midcamp-2018
+
+
+https://twitter.com/McDwayne/status/972493237142413312
+
+
+[Too many cooks! Supporting augmented teams without getting salty](https://www.midcamp.org/topic/too-many-cooks-supporting-augmented-teams-without-getting-salty)
+[Stephanie El-Hajj](https://twitter.com/stephelhajj)
+
+Salty - to be upset or bitter, often used to express feeling left out or frustration when things don't go your way
+Augmented teams are when 2 or more existing teams come together as one for a project
+cultivating healthy teams going agile are other topics she talks about
+Drupal has many companies with distributed teams like Amazee, which makes things a bit early
+when do you augement?
+Internal dev team?
+Are you looking to hire?
+Are you just looking for one project consulting?
+Let's talk about teams
+scrum master, PO/PM, Devs
+technical design review vs functional review
+if you are in a run well kitchen, they don't talk, works as a fine tuned machine
+what you want your team to be like
+when you bring in new parts of your team, they bring unique things
+maybe using comments differently or chat differently
+team dynamics can change
+Each person can change team and the team needs to adapt to each streength,
+if done wrong fights and such
+we all start making assumptions
+normal project they just lead and lay down how it works
+with this they realized that would not work
+added a single point of contact, made sense to them
+problem is that they interpreted that request differently and assigned wrong person to this task
+who's driving, import to know
+differnt than who is in charge
+notes, repo, lot of organization logistic works
+was not clear in their case who this was, too many people made too many suggestions
+lot of time building RACI
+Everything can not be a priority
+if all are, none are
+also different paths present to how to get to end result
+like blindfolding carpenters
+without the communication of this it ended up being very peicemeal
+let's check in!
+during this time they had a lot fo spreadsheets 
+but also learning React at same time
+realized they were doing too much and incorrectly
+So we paused the project
+got everyone in the same room
+where it happens
+turns out their side had never worked together as a team before
+missing team dynamic
+this got everyone on the bus
+they enforced that building a website is NOT like building a house
+once rescoped as a larger picture they got on track
+building a website is like a road trip
+only so much gas, so much money and so much time
+start here, end there, but know there are a lot of options and directoins you can take
+back to who's driving
+visionaries should be informed, but they were not being translated and communicated
+Where are we NOT going
+have to suss out what is out of scope for this project, make it to new project
+want to see heads nodding
+after every point asking "nodding head, we agree, we don't agree? this is your chance"
+changes calls because people realize they can't just go back and add on later
+getting into specifics
+what the thing will be and what will be in it
+planning is a group activity
+Get everyone to know where they are
+fail fast, fail often
+when you get to the end, it is like a three legged race, 
+win the race with good teamwork
+
+
+https://twitter.com/McDwayne/status/972508184626782212
+

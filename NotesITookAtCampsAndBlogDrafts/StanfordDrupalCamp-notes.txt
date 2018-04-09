@@ -1,0 +1,156 @@
+Stanford DrupalCamp
+
+Opening Remarks:
+9th year
+
+https://twitter.com/SUWebServices/status/982349718326935552
+
+
+[Keynote: Stanford Off-Campus Learning Opportunities (SOLO)](https://drupalcamp.stanford.edu/keynote-stanford-campus-learning-opportunities-solo)
+[Pauline Larmaraud]()
+[jcrespo](https://twitter.com/jscrespo)
+
+Off Campus is good,
+stry abroad is very healthy and helps do things you can't do on campus
+Siloed from other design and reinventing the wheel every year
+listened to stakeholders, really listened
+what they really needed was an application management system
+These groups that do off campus are not connected to a central system
+each independent
+had to build trust and buy in and backlog
+user needs first
+delivered early and often as they could
+they were happy right off and on a good path
+opened up more and gave more feedback
+Partnership between Stanford OIA + Aten
+was an agile process
+They are agile, not in the buzzword sense
+Agile is a communication framework
+to get in alignment is the goal
+the 4 values
+1. individuals and interactions over processes and tools
+2. working software over comprehensive docs
+3. client collaboration over negotiation
+4. responding to change
+Really though
+1. Talk to each other 
+2. Don't just plan it, build it!
+3. Work with one another
+4. Be ready to pivot
+get to a product ASAP and get it in front of users
+Agile sprint ceremonies: planning, standup, review, retrospective
+they used to do internal retrospective, with this process is the first time they did customer facing
+Agile because they worked on it, found what worked for them
+the platform they built: 
+browsing opportunities was key goal
+immediately find what they are looking for
+Drupal makes it easy to define a content type
+CTA up and to the right makes it easy to find and draw more people to apply
+Applying for opportunities
+had to have a review and approval process
+pull in other student info, like records and GPA, etc
+MAIS data
+made checklists page
+Steps change often
+people can give feedback on each step
+Results, 2,200 applications in year one
+they think it is better than last year, but that data is not available
+increased engagement, 
+over 30 units using this for in country and international opportunites
+even more collaboration
+
+https://twitter.com/McDwayne/status/982352604737892353
+
+
+
+[If it Ain’t Broke: How to tell if your website needs a full rebuild or a focused fix](https://drupalcamp.stanford.edu/if-it-ain-t-broke-how-tell-if-your-website-needs-full-rebuild-or-focused-fix)
+[annestefanyk](https://twitter.com/eskimoYogi)
+
+Only 3 main points
+You have to have a website
+Your website has other costs than time and money
+Opportunity costs
+switching costs
+reality: tech moves very fast
+apple watch example
+What does that mean?
+Responsive
+mobile optimized
+fast load times
+mobile fundamentally different than the desktop
+Google loves good content laid out well
+when is it a good time for a focused fix vs rebuild
+they offer help at Kanopi to plot best path forward
+POP Quiz!
+Do you clearly understand your audience and their decision making journey
+1, 2 ,3, 4?
+How hard is there to make decisions in your org?
+Any pressing events, deadlines that require this refreshed site?
+so you currently have capacity for a rebuild (funds, staff time, opportunity costs?
+how old is your website technology?
+Is your site responsive?
+Add up the score
+Low: rebuild
+Mid range: need more data
+High: focused fix time
+Reality - smart strategy & strong technical foundation leads to optimal website health
+Swoop and Poop - done all the work, then Sr. Team member is not involved, but comes in and poops on the whole process, then leave.
+need to have SMART goals
+website should help achieve your mission
+helps get stakeholders on the same page
+How optimal is your user experience?  
+Do your homework! 
+analytics, heat maps, surveys, interviews, user testing
+take the time to do it right
+Also need to have a need for speed
+
+
+
+https://twitter.com/McDwayne/status/982371313313460224
+
+https://twitter.com/jmosmith/status/982374680647495680
+
+
+[resist: Open Source, Open Data, and the Government](https://drupalcamp.stanford.edu/resist-open-source-open-data-and-government)
+[Jordon Koplowicz](https://twitter.com/koplowicznsons)
+
+Vital Signs
+12 different agencies
+bay area metro
+taking all the data an presenting as visualization
+was easy to convence them to be open
+Open Source Government
+been done for a long time, but adoption never been better
+whitehouse.gov is something we brag about for opensource
+many, many government agencies and divisions and universities using it
+sfgov.org, many agencies within the cities and counties
+central department of technologies does point to open source
+UC system using starter kit all OSS, Drupal
+DATA
+government open data
+data.gov
+datasf.org
+standford open data: SNAP, Opendata, EarthWorks, Open Policing
+Socrata
+seedme.org
+How does this help resist?
+open data means the truth is still out there
+we can still make our own conclusions empower citizens
+give people the power to play with data
+OSS: we are stronger together
+also contributing back
+whitehouse petition platform
+18f: US Web Design standards on github
+Vital Signs: Tableau Public module
+SF using drupal themes DAHLIA and SFCOIT
+What do I do now
+1 Use OSS - larger user base helps
+2 Contribute back - share a fork
+revolves arouns how you are giving people permission to use your IP
+3 Use open data - be vocal about it.  Only way to communicate is to let people know you are using it.  Very rewarding to the people workng on this
+4 Publish your data - publish or perish is still a problem but there are solutions
+
+http://exy.gy/egRl
+
+
+https://twitter.com/McDwayne/status/982711709457526784

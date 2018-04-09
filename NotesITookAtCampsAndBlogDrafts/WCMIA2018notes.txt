@@ -1,0 +1,122 @@
+WCMIA notes
+
+OH NOES!!!!!!!
+SO FAR BEHIND THE BALL!
+
+Speaker Dinner:
+
+https://twitter.com/dimensionmedia/status/974824750169186306
+
+After Speaker Dinner:
+https://twitter.com/McDwayne/status/974855320987209728
+
+Lunch Day 1:
+
+https://twitter.com/webdevstudios/status/975040112005394432
+
+
+#####Happiness Bar
+wp-cli install, pawning off someone for strategy, and password woes (plug for LastPass)
+
+https://twitter.com/McDwayne/status/975010740242468865
+
+###Sessions
+
+[It’s ALIVE! How I built the Wapuu Bot using Javascript, Slack and the WP API](https://2018.miami.wordcamp.org/session/how-i-built-the-wapuu-bot-using-javascript-slack-and-the-wp-api/)
+[Rick Tuttle]()
+
+Japan 2009
+created
+then coffee wapuu, michelle schulp
+cafecitowapu twitter account
+slackbot
+slack app, send a recieve mesaages between endpoint
+spanglish 'no es facil'
+WCMia site feeds this slack
+can search @wapuu find ____
+returns values
+pulled WC schedule from the website
+mongoDB for a caching layer
+more fun to assign him a personality instead of just a pile of code
+Wapuu is a 'Bot user' in this case
+also a bot user app that can reply directly or mention in ambient content
+Natural language processing is hard, lot of exceptions
+schedule data from WP (npm request-promise)
+fetch from wp-json/wp/v2/sessions
+cache schedule data (formatted JSON) in MongoDB for quicker/easier retrieval
+App used monk from Automattic
+WP is really becoming a content repository
+finds mentions and posts
+likes serving up coffee
+load of api and other resources/services used in slides
+one of the hardest things is getting started.  
+
+
+https://twitter.com/Carla_Rivera/status/975056667460227072
+
+
+[15 in 15 – The Story of WordPress](https://2018.miami.wordcamp.org/session/15-in-15-the-story-of-wordpress/)
+[John James Jacoby]()
+JJJ
+
+B2
+Sourceforge code there but maintainers gone in 2003
+Original wp.org was just ugggggly
+slowly got better over time
+dashboard was primitive
+no theme support
+adoption of 1.5 started growing
+Dashboard area in WP 2, blue was introduced
+post rows manage
+meta boxes
+no visual editors, precursor to post preview
+custom field metadata exposed first time
+if we cound re-write WP it would be like BBPress - ma.tt
+2.5 first real Admin redesign
+this is when some people first took WP seriously
+2.7 revisions nitrdcused
+still Kubrick in there
+WP 3.0 Post editor, inwrtos to 2010 theme
+3.2 'my account' is JJJ's fvorite things' in WP
+
+
+https://twitter.com/wordcampmiami/status/975060096089841666
+
+
+
+On Building Community From Twitter to #IRL
+Raquel Landefeld
+
+We hide behind social media
+WHat are motives
+what is the purpose? 
+connecting with people is what it is all about
+not collecting business cards
+intentional connecting and human relations building
+make friends by being friends
+shift focus to create relationships not just grow business
+
+
+https://twitter.com/PamAnnMarketing/status/975067210921185280
+
+https://twitter.com/McDwayne/status/975066967072739328
+
+
+[How To Get Involved in Open Source Communities](https://2018.miami.wordcamp.org/session/how-to-get-involved-in-open-source-communities/)
+[Karla Campos](https://2018.miami.wordcamp.org/speakers/#wcorg-speaker-karla-campos)
+
+Wanted to build craigslist
+found Joomla
+got a job as marketing director Telemundo using OSS
+May the course be with you.
+Why?
+Helping Others
+Creating amazing things
+popularity - for sure if people know about it, it helps
+community - she didn't know anyone in Miami, WP took her in
+business 
+fun
+
+
+
+https://twitter.com/Pastelitocr/status/975071608342765571

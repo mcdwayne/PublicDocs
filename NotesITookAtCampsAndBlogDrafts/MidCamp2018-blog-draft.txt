@@ -1,12 +1,74 @@
-MidCamp 2018
+MidCamp 2018: Chicago in the bitter cold and warmth of community
+
+Chicago has a special place in my heart. It is the 'Mecca' of improv theater. It is the heart of the Midwest, where I originate. But I thin I feel a special connection to the community there since it is where I gave my first ever talk back in 2016 at MidCamp and became a camp organizer for MidCamp 2017. I was happy to come back to the [DePaul University](https://offices.depaul.edu/student-centers/Pages/default.aspx) campus for [MidCamp 2018](https://www.midcamp.org/)
+ 
+This year I again stepped up and co-organized, taking on more responsibility, agreeing to help [Avi](https://twitter.com/ajschwab) with social media posting and emails. We scheduled an awful lot of these and it was a lot of work, but I learned a great deal along the way around social media automation, so personally it was well worth it.  Also, the camp was a success!  We gathered together to keep making Drupal happen!  Lot to talk about so let's get it moving!  
+
+https://twitter.com/AugustAsh/status/972156648776192000
 
 
+###Food And Fun
+Thursday morning was load in for the event and trainings.  We had some conference coffee and someone brought donuts.  There was a lot to do, but we got people people set up, into their classes and we had an informal sprint day with about 10 people in the room.  
 
+https://twitter.com/midwestcamp/status/971803825202958336
+
+
+https://twitter.com/mmarz9/status/971779069091172352
+
+
+Lunch was actually quite great, but no pictures exist that I can find.  Instead of a catered boxed lunch or sad buffet line, we got $10 vouchers to use in the DePaul Student Center's Cafeteria system, which had plenty of options for all.  I had the best 'hot and spicy tofu' on top of a hearty salad and still came in well under budget.  So good.  
+
+##### Opening Social 
+
+After a very full first day we had the chance to gather, right down the street at [McGee's Tavern](http://www.bar1events.com/mcgees/).  It was awesome to see my Drupal family gather for a drink and some food.  Thanks to [New Belgium](https://www.midcamp.org/sponsor/new-belgium-brewing) for sponsoring with some free beer.  I am not a big beer fan but their [Juicy Haze](http://www.newbelgium.com/beer/voodoo-ranger-juicy-haze-ipa) is actually quite tasty and refreshing.  It was a great social to officially kick off camp.  
+
+https://twitter.com/midwestcamp/status/971905150158802945
+
+
+#####Friday
+
+There is a line in ["The Coffee Song"](https://youtu.be/H3MqmV47Lq8) about 'No tea or tomato juice, You'll see no potato juice' This was true of this camp.  Though we did imbibe some fermented potato juice at some of the after events.  Coffee and water were all that were served, but I was A-OK with that.  Coffee is the fuel we turn into Drupal after all.  
+
+Lunch was again a $10 voucher for the cafeteria and again I feasted on tofu and salad.  Others made different but just as valid choices.
+
+https://twitter.com/bricomedy/status/972186806149111808
+
+
+#####Game Night
+
+Friday night brought with it amazing tacos from a local food truck (Name to be filled in later when I remember it or someone comments on it) and board games!  I got to play a modified version of [Zombie Dice](http://www.sjgames.com/dice/zombiedice/) which eliminated the red dice, as we could not find them.  This does not make for a good game.  I also played [Dixit](https://boardgamegeek.com/boardgame/39856/dixit) for the first time.  Very interesting rule set and just fantastic illustrations.  I think anyone would have a good time just looking at the cards and not worrying about the gameplay.  If you ever find a copy of this again, spend some time just looking at it.  Totally worth it.  
+
+https://twitter.com/allisonmanley/status/972279840673067008
+
+
+#####Saturday 
+More of the same coffee and lunch was the same thing.
+Not exactly lunch, but here is a picture of [Kevin Thull's](https://twitter.com/kevinjthull) food form the same day
+
+https://twitter.com/kevinjthull/status/972476205197938693
+
+
+#####After Party
+
+We traveled a few blocks in the cold at the end of Saturday to [Derby Bar & Grill](http://www.derbychicago.com/) which had hummus and pretzels and mustard galore as well as alternatives for those who don't want all plant based.  Again the awesome New Belgium was there for the free beer and Platform.sh stepped up to sponsor this too.  All in all, a great night.  
+
+https://twitter.com/Crell/status/972629936698781696
+
+
+A large percentage of us, lead by the amazing [J.D. Flynn](https://twitter.com/JDDoesDev) marched a few blocks to [Shoes Pub](http://shoespubchicago.com/) to sing some DrupalKaraoke together.  It was an amazing time and great way to end the camp celebrations.  I witnessed while I was there the finest group rendition of [Piano Man](https://youtu.be/gxEPV4kolz0) I have every seen in my life.  The entire place for a few minutes was one voice, arm in arm.  It was a perfect moment.  
+
+https://twitter.com/McDwayne/status/972682995256709121
+
+
+###Sessions
+
+Quick note:  Due to scheduling issues, I am not doing a round of recaps on these sessions, just pushing raw notes.  I do plan to revisit this in the future and recap each section.  Thanks for the patience for now.  
 
 [Keynote Session: What's So Open About Open Source?](https://www.midcamp.org/topic/keynote-session-whats-so-open-about-open-source)
 [Chris Rooney](https://www.midcamp.org/topic/keynote-session-whats-so-open-about-open-source)
 
 
+Raw Notes:
 Tells us his rules, what to expect
 Talk on Diversity
 Last year a lot of people felt they were under attack
@@ -106,18 +168,14 @@ Atlassian survey
 over half wanted to learn more about their colleagues backgrounds
 5 accountability challenges
 
-
-
-
-
 https://twitter.com/lesmana/status/972133075273572353
 
-https://twitter.com/McDwayne/status/972134017872154624
-
-https://twitter.com/midwestcamp/status/972136452925554690
 
 
+[RFPs: How to get what you want](https://www.midcamp.org/topic/rfps-how-get-what-you-want)
+[Allison Manley](https://twitter.com/allisonmanley)
 
+Raw Notes:  
 At Higher Ed conference talked to person who didn't know where to start
 she talked he through it and thought others would benefit
 Sales is like dating.  Need tof ind the right partner
@@ -233,9 +291,9 @@ https://twitter.com/McDwayne/status/972193696614637569
 
 
 [Managing Community Conflict in Drupal and Beyond](https://www.midcamp.org/topic/managing-community-conflict-drupal-and-beyond)
-[George DeMet]()
+[George DeMet](https://twitter.com/gdemet)
 
-
+Raw Notes:
 Defining conflict
 can be positive or negative
 benefits
@@ -297,6 +355,9 @@ https://twitter.com/McDwayne/status/972234380528799749
 [OOP - The Pokemon Journey](https://www.midcamp.org/topic/oop-pokemon-journey)
 [Fatima Khalid](https://twitter.com/sugaroverflow)
 
+This talk is amazing!  If you have ever wondered "What is this OOP all about?" then stop wondering and [go watch this talk!](https://www.youtube.com/watch?v=MZceawxNIZA)
+
+Raw Notes:
 Write a modular reusable and flexible codbase that is easily extended
 Pokemon Journey
 pick pikachu
@@ -385,7 +446,8 @@ https://twitter.com/McDwayne/status/972493237142413312
 [Too many cooks! Supporting augmented teams without getting salty](https://www.midcamp.org/topic/too-many-cooks-supporting-augmented-teams-without-getting-salty)
 [Stephanie El-Hajj](https://twitter.com/stephelhajj)
 
-Salty - to be upset or bitter, often used to express feeling left out or frustration when things don't go your way
+Raw Notes:
+Defined: Salty - to be upset or bitter, often used to express feeling left out or frustration when things don't go your way
 Augmented teams are when 2 or more existing teams come together as one for a project
 cultivating healthy teams going agile are other topics she talks about
 Drupal has many companies with distributed teams like Amazee, which makes things a bit early
@@ -456,6 +518,7 @@ https://twitter.com/McDwayne/status/972508184626782212
 [Hot JAMS(tack): Lessons from Building a Music Discovery App with Drupal and React](https://www.midcamp.org/topic/hot-jamstack-lessons-building-music-discovery-app-drupal-and-react)
 [Brian Perry](https://twitter.com/bricomedy)
 
+Raw Notes:
 was listening to a podcast 
 they had a spreadsheet with a lot of data
 At the time decoupled was very stressed
@@ -485,30 +548,27 @@ if you publish file->publish to web .check. republish on update
 real tme access to a public URL data
 migrate, more like Mi-great!
 
-
-
 https://twitter.com/deliriousguy/status/972574778757443587
 
-https://twitter.com/McDwayne/status/972575619992178688
 
-https://twitter.com/deliriousguy/status/972582298779570176
+#####My Talk
 
-[Time Flies - Become the Pilot!](https://www.midcamp.org/topic/time-flies-become-pilot)
-[Rugved Arte, Veena Panicker]()
+[Nobody wants a website. They want results!](https://www.midcamp.org/topic/nobody-wants-website-they-want-results)
 
-quality of the task vs how much time it will take.  
-Eisenhower Matrix
-was in the book highly effective habits of people
-				Urgent   Non Urgent
-important
-not imoprtant
-do
-decide
-delegate
-delete
-don't confuse quadrant for for things that are joyful but do seem like time wasters
+I always see room for improvement, but I got a great reaction from this talk and it turned into a group conversation as I was hoping.  Thanks for all that came out!
+
+https://twitter.com/deliriousguy/status/972156293380280323
 
 
+#####Sprints Day
 
+I am so happy to be part of the community that makes Drupal.  Even though I have no pull requests for core or any other badges, helping others contribute has been amazing!  Special thanks to the [Drud team](https://www.drud.com/) for leading the new contributor session.  All in all about 40 people came out to sprint and make Drupal better.  
 
-adam@bigtunainteractive.com
+https://twitter.com/midwestcamp/status/972897810998841345
+
+###Wrapping up
+
+Lot of very awesome plant based options for meals and the wondrous Chicago area Drupal community made this trip amazing.  I came back tired and glad ot get back some of my mental space, as I am sure the [other organizers](https://www.midcamp.org/organizers) did as well.  If you are reading this far and are all like "I want to help organize a camp" then I say Do It!  It is very rewarding and you learn a lot in the process.  
+MidCamp will always have a special place in my heart and I can't wait for next year! 
+
+https://twitter.com/midwestcamp/status/973313698705133568

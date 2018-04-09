@@ -1,5 +1,7 @@
 ## Session Slides And Such
 
+[WP-CLI: Don’t Fear The Command Line][3] 
+
 [Nobody Wants A Website. They Want Results!][27]
 
 [Discovery, Discovery, Discovery, Discovery! The Most Important Part of the Project][28]
@@ -17,8 +19,6 @@
 [WCDenver Git Workshop Slides](https://docs.google.com/presentation/d/1wB13-6htJmlhI_ELjavE0ty5lKOhxlseAHCAH1Xvuak/edit#slide=id.g23c5a455c0_0_410)
 
 [We Are All Making This Up, Improv Lessons For Developers][12] 
-
-[WP-CLI: Don’t Fear The Command Line][3] 
 
 [WP-CLI Workshop](https://goo.gl/cCYav8)
 
@@ -41,7 +41,7 @@ Email: 1dwayne . mcdaniel [at] gmail . com
 
  [1]: https://www.mcdwayne.com/so-you-want-to-speak-at-a-camp-yes-please/
  [2]: https://docs.google.com/presentation/d/1feg8QgI84Yp-rPtnbc3YcK28KWMGc7zF3X6IBvoNMBE/edit?usp=sharing
- [3]: https://www.mcdwayne.com/wp-cli-wp-yes-you-can-aka-dont-fear-the-command-line/
+ [3]: https://www.mcdwayne.com/wp-cli
  [4]: https://docs.google.com/presentation/d/1Cm2APSKkMW4r7-NauRqbF2I7n-YmVqKF5LD6kaE_wAA/edit#slide=id.g1d3c3fa4cf_0_0
  [5]: https://github.com/mcdwayne/mcdwayne-wp-cli-demos/blob/master/wp-cli-demo-script-for-iThemes.sh
  [6]: https://www.youtube.com/watch?v=VKASRQTuFjs

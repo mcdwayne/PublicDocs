@@ -1,0 +1,178 @@
+WordCamp Miami: Gators, Good Community and why is it so cold inside every building
+
+For the first time ever I traveled to the [Magic City](https://en.wikipedia.org/wiki/Miami).  Having been to many other cities in the Sunshine State, I was looking forward to being at one of the largest of the WordCamps and see my WPLife family there.  What followed was a few days of blazing sunshine, amazing adventures and a few sad notes.  All in all though I am glad I traveled to the [FIU Campus](https://www.fiu.edu/) to attend [WordCamp Miami 2018](https://2018.miami.wordcamp.org).
+
+###Food and Fun
+
+Arriving a day or so early, I got to visit with my community family and had so many good times.  The highlight of all of this was my invitation from [Carole](https://twitter.com/CaroleOlinger) and [Alain](https://twitter.com/schlessera) to go on a Fan Boat tour of the Everglades.  I had some reservations about this but was very relieved they had found a very legit and overall friendly to the animals native amarican owned and operated [Buffalo Tiger Airboat Tours](Buffalotigerairboattours.com) who offered no 'gator wrassling' (real thing offered by some of these outfits) or other such shenanigans.  Seeing alligators and getting to ask our guide all sorts of questions around their habitat and behaviour was such an amazing experience.  Also huge props to [Marc B](https://twitter.com/MarcBenzak) for driving and giving us all a lift back.
+
+https://twitter.com/CaroleOlinger/status/974657370050658305
+
+#####Pre-Camp Meetup (Cancelled)
+
+There was a shadow that hung over the camp and that was the tragedy of the pedestrian bridge collapse.  I wanted to mention it here and show reverence for the folks who are still in shock and suffering from this event.  [Here is a link](http://cbs12.com/news/local/pedestrian-bridge-collapses-at-fiu-in-miami) to a story about what happened.  
+Out of respect, the organizers cancelled the pre-event meetup that was scheduled.  I applaud this decision and think it showed grace.  
+
+Some of us still met for a small dinner and discussion. It was good to be around like minded people that night and we all reflected on how lucky we all were to have our health and our community.  
+
+#####Friday
+
+Friday I got to go visit the Pantheon co-working space at [WeWork in Miami](https://www.wework.com/buildings/brickell-city-centre--miami--FL).  It was awesome to get to hang out with my amazing co-worker [Lizzie](https://twitter.com/LizzieYarbrough), who I rarely get to see in person.  This is one of the main issues with remote teams overall, some of the best people in the world you only see online most of the time.  
+
+#####Speaker Dinner
+
+Friday night brought us back together to mentally ramp up for a full, full weekend.  The speakers, volunteers and organizers got together at [Dave and Busters](https://www.daveandbusters.com/) at the [Dolphin Mall](https://www.shopdolphinmall.com/).  Not a lot of plant based food options at D&B, but the mall had [Cilantro Fresh Mexican](https://www.shopdolphinmall.com/dining/cilantro_fresh_mex), which is the only place in the whole mall that had a 'Vegetarians Welcome' sign up.  I just said "I'm vegan" when ordering and they were happy and accommodating about it.  Back at D&B we got to play all manner of games and connect over quite a few libations.  I was a touch sad when we had to roll out and go our separate ways to prep for the next day.  
+
+https://twitter.com/dimensionmedia/status/974824750169186306
+
+Well, I wasn't so sad, some of us went the same way for one more night cap before bed.  I had this amazing cherry barleywine at [MIA Brauhaus](http://www.mia.beer/).  I was sad when I had to go home from there though.  
+
+https://twitter.com/McDwayne/status/974855320987209728
+
+#####Saturday
+
+Coffee, coffee, coffee!  I love my coffee in the morning and it was OK at Miami.  Lunch had a vegan wrap and BBQ options.  I was super happy to get sweet potatoes and corn as well.  I love me some sweet potatoes.  
+
+https://twitter.com/webdevstudios/status/975040112005394432
+
+#####After Party
+
+Right across campus, after a very full Saturday we went to the [on-campus Chili's](https://2018.miami.wordcamp.org/saturday-party/).  I was a tad hesitant about this, but $3.00 drink specials all evening and a really robust option for us plant based food lovers in form of a toco bar with veggie burger chunks, beans and rice with all the trimmings.  In another room there were pool tables and some light karaoke happenings going on.  There was also a massive patio with iguanas in a small pond below.  Really a great time
+
+https://twitter.com/pat_ramsey/status/975149367828123648
+
+Some of us found a WCKaraoke party as well afterward
+
+https://twitter.com/modmatt/status/975203999208132608
+
+#####Sunday
+
+Coffee was coffee, but there were also bagels.  Good ones too.  
+Lunch was a touch of a let down for me as all options included meat or cheese.  They were also all bean based, which for me is not an issue, but I am aware some people have legume allergies.  Fortunately fellow plant enthusiast [Matt Clancy](https://twitter.com/modmatt) ordered some tasty but not at all spicy Chinese food from [Ho Wah](https://www.howahfl.com/).  I completely understand accessibility to food is not the cheapest option and a lot of budget went into the literal 20 pounds of shwag I got, having options for any followers of the strict versions of any of these [religious practices](https://en.wikipedia.org/wiki/Vegetarianism_and_religion) would be good as well.  
+
+#####Happiness Bar
+
+While not a session and some people would argue does not fit into Food and Fun, I wanted to call out the awesome experience I got by participating in the Happiness Bar.  This is one of the most rewarding parts of any camp.  People come in with real problems and they leave with, in best case, real answers.  In the worst case they leave knowing how to better look for answers.  I was super happy to help one person with WP-CLI.  They really wanted to get it working locally and thanks to the fact they were already using [Local by Flywheel](https://local.getflywheel.com/) we get them to a working terminal in less than a minute.  It was a proud moment.  
+
+https://twitter.com/McDwayne/status/975010740242468865
+
+###Sessions
+
+Quick note: Wow this was a very busy camp.  So busy, that I only got to get to a handful of sessions and they were all a bit shorter than I was used to. As a result I think only these four have enough notes to post.   
+
+[It’s ALIVE! How I built the Wapuu Bot using Javascript, Slack and the WP API](https://2018.miami.wordcamp.org/session/how-i-built-the-wapuu-bot-using-javascript-slack-and-the-wp-api/)
+[Rick Tuttle](https://twitter.com/ricktuttle)
+
+Everyone loves Wapuu.  I don't think this is too arguable. The little, normally yellow unofficial mascot of the WordPress community is pretty well recognized and inoffensively cute.  But do you [know the backstory?](https://wapu.us/wapuu-history-origin/)  It is a fascinating read.  Rick took this lovable critter and turned it, with the help of [Michelle Schulp](https://twitter.com/marktimemedia) made a slack bot that could provide value to the WCMIA community with real time updates and responses when people interacted with it in channel.  Very cool stuff.  I didn't take a ton of notes on the implementation details but that is what WordPress.tv is all about!  
+
+Japan 2009
+created
+then coffee wapuu thank to Michelle Schulp's design
+[cafecitowapuu twitter](https://twitter.com/cafecitowapuu) account was born
+slackbot
+slack app, send a recieve mesaages between endpoint
+spanglish 'no es facil'
+WCMia site feeds this slack
+can search @wapuu find ____
+returns values
+pulled WC schedule from the website
+mongoDB for a caching layer
+more fun to assign him a personality instead of just a pile of code
+Wapuu is a 'Bot user' in this case
+also a bot user app that can reply directly or mention in ambient content
+Natural language processing is hard, lot of exceptions
+schedule data from WP (npm request-promise)
+fetch from wp-json/wp/v2/sessions
+cache schedule data (formatted JSON) in MongoDB for quicker/easier retrieval
+App used monk from Automattic
+WP is really becoming a content repository
+finds mentions and posts
+likes serving up coffee
+load of api and other resources/services used in slides
+one of the hardest things is getting started  
+
+https://twitter.com/Carla_Rivera/status/975056667460227072
+
+
+[15 in 15 – The Story of WordPress](https://2018.miami.wordcamp.org/session/15-in-15-the-story-of-wordpress/)
+[John James Jacoby](https://twitter.com/JJJ)
+
+When you only have 15 minutes to give the entire history of a 15 year old project, you are going to leave a few details out.  It was very interesting to hear what he left in though.  He claimed there is a longer version of this talk, but I can't find it on WordPress.tv at this point in time.  Basically 'it's ugly' - 'it's less ugly' - 'now it's blueish' - 'the post editor works' - 'admin works'.  Of course he said it far mor charmingly than I could.  
+
+B2
+Sourceforge code there but maintainers gone in 2003
+Original wp.org was just ugly (very ugly)
+slowly got better over time
+dashboard was primitive
+no theme support
+adoption of 1.5 started growing
+Dashboard area in WP 2, blue was introduced
+post rows manage
+meta boxes
+no visual editors, precursor to post preview
+custom field metadata exposed first time
+if we cound re-write WP it would be like BBPress - ma.tt
+2.5 first real Admin redesign
+this is when some people first took WP seriously
+2.7 revisions nitrdcused
+still Kubrick in there
+WP 3.0 Post editor, inwrtos to 2010 theme
+3.2 'my account' is JJJ's fvorite things' in WP
+
+
+https://twitter.com/wordcampmiami/status/975060096089841666
+
+
+
+[On Building Community From Twitter to IRL](https://2018.miami.wordcamp.org/session/on-building-community-from-twitter-to-irl/)
+[Raquel Landefeld](https://twitter.com/raqueLandefeld)
+
+Raquel is one of the best persons I have ever met, especially with regards to community building.  I hold this concept pretty near and dear to my heart.  It is always a pleasure to see her present as well.  I loved her very straightforward advice, which I captured pretty poorly below given that I was hustling pretty quick between sessions and other duties that day. 
+
+We hide behind social media
+What are motives?
+what is the purpose? 
+connecting with people is what it is all about
+not collecting business cards
+intentional connecting and human relations building
+make friends by being friends
+shift focus to create relationships not just grow business
+
+https://twitter.com/PamAnnMarketing/status/975067210921185280
+
+
+[How To Get Involved in Open Source Communities](https://2018.miami.wordcamp.org/session/how-to-get-involved-in-open-source-communities/)
+[Karla Campos](https://twitter.com/SocialMediaSass)
+
+I had not ever met Karla before, which I think is a symptom of never getting to go to Miami before.  I felt an instant kinship with her, even though we didn't get to interact too much.  I could tell from her talk we shared a lot of the same values around what we are doing here.  Making the world better one commit and one conversation at a time.  She had a lightning talk, so not a ton of notes, but for sure a great rallying point at the camp that spurned a few good conversations.  Worth a watch once the recording is public.   
+
+Wanted to build craigslist
+found Joomla
+got a job as marketing director Telemundo using OSS
+May the course be with you.
+Why?
+Helping Others
+Creating amazing things
+popularity - for sure if people know about it, it helps
+community - she didn't know anyone in Miami, WP took her in
+business 
+fun
+
+https://twitter.com/Pastelitocr/status/975071608342765571
+
+
+#####My Session
+
+[WP-CLI: Don’t Fear The Command Line](https://2018.miami.wordcamp.org/session/wp-cli-dont-fear-the-command-line/)
+
+I have given a version of this talk a few times in 2017, but this year I stepped up my game a bit and built in a couple magic tricks.  The first trick was I got through all 83 slides in under 25 minutes.  The second was building a 'racing script' that build a pretty neat looking demo site in well under a minute, 24 to 39 seconds depending on variables i have no control over like wire speed and such.  [Matt Mullenweg](https://twitter.com/photomatt) himself snuck into the back of the room and I was super honored he mentioned my talk during his Q&A later in the day.  I was also very happy to introduce a bunch of people to the `scaffold block` command for the first time.  Such an amazing tool and it is in such a good position to help us well into the future.   
+
+https://twitter.com/WordPressRebel/status/975093676853678083
+
+
+###Wrapping up
+
+WordCamp Miami is one of the largest camps.  One of the reasons it is so large is the number of children in attendance at [Kids Camp](https://2018.miami.wordcamp.org/kids/).  I didn't participate in this and only am mentioning it here in my conclusion.  It is one of the most inspirational parts of the whole darn camp.  The literal future of the project and the internet itself rests in the hands of these kids and kids just like them, who are learning how to build plugins and manipulate JS.  It is very exciting to know that we are not about to 'age out' as a project.  
+
+Miami was hot and there was a lot going on.  Not sure I captured the event wholly here and that was never my intent.  Will I be back for WCMIA 2019?  Time will tell.  
+

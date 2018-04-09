@@ -1,0 +1,229 @@
+Stanford DrupalCamp: The first time I have ever seen it rain in Palo Alto and a shorter camp than usual
+
+I was super excited to be able to once again go to a camp close enough to SF that I didn't have to take an airplane.  Not to say I don't love flying and SFO and all, but there is a niceness to being able to get in a car and when I exit to be where I am going.  This is especially true when going somewhere as beautiful as the Stanford campus. FOr the second half of this event, weather was perfect as you could hope for, but day one had a little rain come our way.  But even though it was a tad grey outside, it was bright, dry and warm inside as the Stanford and area Drupal community came together for a day and a half of sessions and conversations at [Stanford Drupal Camp 2018](https://drupalcamp.stanford.edu/).
+
+https://twitter.com/SUWebServices/status/982432196693704704
+
+
+###Food and Fun
+
+Since this event started in the afternoon on Friday, there was no morning coffee or lunch provided.  Fortunately for me, the camp takes place at the fully stocked and staffed College of Law, so getting some caffeine and some grub was pretty simple. I didn't even have to go outside.  Soon after we started, catering set up some coffee for us and it was OK.  I'll rate it as pretty standard conference coffee.  
+
+https://twitter.com/McDwayne/status/982334223863365632
+
+#####Happy Hour
+
+The camp organizers tried something new this year and rather than a single afterparty on the second day, they had a smaller happy hour each evening immediately following the last session of each day.  We had chips and salsas and wine and beer and other goodies.  But the real joy of this was having a chance to say goodbye to folks and have those hallway conversations that you were unable to have while sessions were rolling along.  The other very nice thing is it was very welcoming to everyone to just swing through on their way out, even if they could only just stop by for a minute or two.  No one had to have too long of a night or had to move their car to participate.  We even had a little background music pumping, not too loud, but definitely gave the room atmosphere.    
+
+#####Day 2
+
+We, the sponsors and catering folks, arrived early on Saturday morning to find that facilities had failed to get the building unlocked.  While it was fun to hang out outside on a beautiful morning, it did make us a bit rushed to grab our coffee and, for those who partook, pastries that were offered before the first session of the day kicked off.  I opted for green tea.
+
+#####Lunch 
+
+While a free event, we were still given a free lunch.  Pretty typical sandwich fare for a camp with chips and apples to round it out, plus the leftover pastries.  I opted to take a quick stroll around campus to soak up the beautiful day and recover from giving back to back sessions in the morning.  I ended up getting a nice little bowl of tofu and eggplant over in the main student center.  I also got to sit outside for a little bit when I returned and before the afternoon sessions kicked back up.  
+
+https://twitter.com/SUWebServices/status/982691582154489856
+
+
+#####Happy Hour Day 2
+
+See Happy Hour above.  
+
+Unfortunately no tweets of this event exist that I can find.  So, here is a tweet about the awesome chips I discovered as a result of this event, [Garden Of Eatin's Red Hot Blues](http://www.gardenofeatin.com/product/?product=1066&category=694).  For sure buying these if I see them on a shelf.  
+
+https://twitter.com/acappel22/status/972591183062061056
+
+
+###Sessions
+
+#####Opening Remarks:
+
+This is the 9th year of this event. They explained the logic of the event was to have a Friday and Saturday camp so Stanford workers could more easily attend day one and the general community could more easily attend day two.  The sessions schedule reflected this with more of a focus on Stanford specific content opening day.  
+
+https://twitter.com/SUWebServices/status/982349718326935552
+
+
+[Keynote: Stanford Off-Campus Learning Opportunities (SOLO)](https://drupalcamp.stanford.edu/keynote-stanford-campus-learning-opportunities-solo)
+[Pauline Larmaraud](https://profiles.stanford.edu/pauline-larmaraud)
+[jcrespo](https://twitter.com/jscrespo)
+
+One of the challenges that most universities face, as well as large scale enterprises with many autonomous parts, is reinvention of the wheel by each division or department.  In fact, one of the main reasons Stanford DrupalCamp exists in the first place is to give the Drupal users and excuse to talk to one another and learn what other departments are doing.  It does not need to be this way though.  If you build a better system and evangelize it correctly in the ecosystem, then you can unite everyone and empower them with better tools.  While I was not sure what this talk would be about when I first sat down, I was very grateful to hear a case study of exactly such a new and more useful system being built and spread throughout the Stanford organization.  It was proof positive that we can collaborate and use free and open source software to make our world better.
+
+Raw Notes:
+Off Campus study is good,
+study abroad is very healthy and helps do things you can't do on campus
+each department though was working alone
+Siloed from other design and reinventing the wheel every year
+listened to stakeholders, really listened
+what they really needed was an application management system
+These groups that do off campus are not connected to a central system
+each independent
+had to build trust and buy in and backlog
+user needs first
+delivered early and often as they could
+they were happy right off and on a good path
+opened up more and gave more feedback
+Partnership between Stanford OIA + Aten
+was an agile process
+They are agile, not in the buzzword sense
+Agile is a communication framework
+to get in alignment is the goal
+the 4 values
+1. individuals and interactions over processes and tools
+2. working software over comprehensive docs
+3. client collaboration over negotiation
+4. responding to change
+Really though
+1. Talk to each other 
+2. Don't just plan it, build it!
+3. Work with one another
+4. Be ready to pivot
+get to a product ASAP and get it in front of users
+Agile sprint ceremonies: planning, standup, review, retrospective
+they used to do internal retrospective, with this process is the first time they did customer facing
+Agile because they worked on it, found what worked for them
+the platform they built: 
+browsing opportunities was key goal
+immediately find what they are looking for
+Drupal makes it easy to define a content type
+CTA up and to the right makes it easy to find and draw more people to apply
+Applying for opportunities
+had to have a review and approval process
+pull in other student info, like records and GPA, etc
+MAIS data
+made checklists page
+Steps change often
+people can give feedback on each step
+Results, 2,200 applications in year one
+they think it is better than last year, but that data is not available
+increased engagement, 
+over 30 units using this for in country and international opportunites
+even more collaboration
+
+https://twitter.com/McDwayne/status/982352604737892353
+
+
+
+[If it Ain’t Broke: How to tell if your website needs a full rebuild or a focused fix](https://drupalcamp.stanford.edu/if-it-ain-t-broke-how-tell-if-your-website-needs-full-rebuild-or-focused-fix)
+[annestefanyk](https://twitter.com/eskimoYogi)
+
+I will always admit that I don't work at an agency nor am I a professional site developer.  However, I end up getting asked a lot by people outside the space questions about their website as if I did have such a role.  This session armed me with a great approach to helping those people who ask 'how should I fix my website?'  It is hard to know if a site needs some tweaks or if it is time for a whole hog rewrite.  now, with a handfull of questions I feel I can better steer people, at a high level, toward an appropriate answer.  
+
+Raw Notes:
+Only 3 main points
+You have to have a website
+Your website has other costs than time and money
+Opportunity costs
+switching costs
+reality: tech moves very fast
+apple watch example
+What does that mean?
+Responsive
+mobile optimized
+fast load times
+mobile fundamentally different than the desktop
+Google loves good content laid out well
+when is it a good time for a focused fix vs rebuild
+they offer help at Kanopi to plot best path forward
+POP Quiz!
+Do you clearly understand your audience and their decision making journey
+1, 2 ,3, 4?
+How hard is there to make decisions in your org?
+Any pressing events, deadlines that require this refreshed site?
+so you currently have capacity for a rebuild (funds, staff time, opportunity costs?
+how old is your website technology?
+Is your site responsive?
+Add up the score
+Low: rebuild
+Mid range: need more data
+High: focused fix time
+Reality - smart strategy & strong technical foundation leads to optimal website health
+Swoop and Poop - done all the work, then Sr. Team member is not involved, but comes in and poops on the whole process, then leave.
+need to have SMART goals
+website should help achieve your mission
+helps get stakeholders on the same page
+How optimal is your user experience?  
+Do your homework! 
+analytics, heat maps, surveys, interviews, user testing
+take the time to do it right
+Also need to have a need for speed
+
+https://twitter.com/jmosmith/status/982374680647495680
+
+
+[resist: Open Source, Open Data, and the Government](https://drupalcamp.stanford.edu/resist-open-source-open-data-and-government)
+[Jordon Koplowicz](https://twitter.com/koplowicznsons)
+
+If you know me at all, you wil know that I love and belive in information being free and moving fast.  I think free and open source software is a major component of this and it is why I do what I do for a living.  This talk was the perfect marriage of new data sets to explore and play with and fundamentals about why this is important stuff.  Highly recommend going through his slides for all the links.  
+
+Raw Notes:
+Vital Signs project at Stanford
+12 different agencies
+bay area metro
+taking all the data an presenting as visualization
+was easy to convence them to be open
+Open Source Government
+been done for a long time, but adoption never been better
+whitehouse.gov is something we brag about for opensource
+many, many government agencies and divisions and universities using it
+sfgov.org, many agencies within the cities and counties
+central department of technologies does point to open source
+UC system using starter kit all OSS, Drupal
+DATA
+government open data
+data.gov
+datasf.org
+standford open data: SNAP, Opendata, EarthWorks, Open Policing
+Socrata
+seedme.org
+How does this help resist?
+open data means the truth is still out there
+we can still make our own conclusions empower citizens
+give people the power to play with data
+OSS: we are stronger together
+also contributing back
+whitehouse petition platform
+18f: US Web Design standards on github
+Vital Signs: Tableau Public module
+SF using drupal themes DAHLIA and SFCOIT
+What do I do now
+1 Use OSS - larger user base helps
+2 Contribute back - share a fork
+revolves arouns how you are giving people permission to use your IP
+3 Use open data - be vocal about it.  Only way to communicate is to let people know you are using it.  Very rewarding to the people workng on this
+4 Publish your data - publish or perish is still a problem but there are solutions
+Slides: http://exy.gy/egRl
+
+
+https://twitter.com/McDwayne/status/982711709457526784
+
+
+#####My Sessions
+
+Stanford selected 3 of my talks this year.  
+
+1 [So you want to speak at a camp? Yes please!](https://www.mcdwayne.com/so-you-want-to-speak-at-a-camp-yes-please/)
+
+I gotta admit, when the time came to start this talk there were only 2 people in the room, which reminded me of The Evaporators song [Half Empty Halls](https://youtu.be/MqHjslqEQZo).  More people showed up but we all had a sit down conversation and I was very pleased with how it went overall.  Both those people who were there at the start said they knew they were for sure going to be giving a talk moving ahead.  Made me feel really good.  
+
+2 [Let’s Learn Git. No Excuses!](https://www.mcdwayne.com/lets-learn-git-no-more-excuses/)
+
+While I didn't get extra time for it, I tried my best to teach Git as a workshop instead of ust a talk.  There is a LOT to Git and impossible to cover it all.  Feedback was great and helpful this time and I know one person at least got a better understanding of the basic ideas.  I think Git boils down to forward in time, backwards in time, parallel universes and conversations before a merge.  Even one person walking away with a better grasp, 
+
+3 [Nobody Wants A Website. They Want Results!](https://www.mcdwayne.com/nobody-wants-a-website/)
+
+I really, really enjoy giving this talk.  My favorite part is the Q&A, which I have converted into a group conversation section.  So much learning and great examples from the crowd, including one person who had their intake form mechanized to help people qualify themselves before any human needed to get involved from her company.  So many good points made by the attendees, I was proud to be part of the discussion.  
+
+https://twitter.com/jmosmith/status/982683094514778112
+
+
+###Wrapping Up
+
+Stanford is the birthplace of so much innovation.  The very first host to host connection ever between machines [was between UCLA and Stanford](https://gizmodo.com/the-first-internet-message-ever-sent-was-lo-1597681715).  The first [autonomous vehicles were proposed here](https://web.stanford.edu/~learnest/les/cart.html).  Stanford gave us the [Augmentation Research Center ](https://en.wikipedia.org/wiki/Augmentation_Research_Center) which gave us the [Mother of All Demos](https://youtu.be/yJDv-zdhzMY).  
+While it might not be the first Stanford DrupalCamp, it was an awesome one.  I can't wait for next year's event!  
+
+https://twitter.com/alyssa_briggs/status/982770168878084096
+
+
+

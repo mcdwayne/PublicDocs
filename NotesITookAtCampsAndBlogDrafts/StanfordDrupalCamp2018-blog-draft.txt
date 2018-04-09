@@ -230,6 +230,6 @@ https://twitter.com/alyssa_briggs/status/982770168878084096
 Quick final note about this post:
 As of today I am using a new content deployment process leveraging CLI and my Dev and Test environments on Pantheon.  If you are interested in how I am doing this, for this post the command I ran was: 
 
-curl https://raw.githubusercontent.com/mcdwayne/PublicDocs/master/NotesITookAtCampsAndBlogDrafts/StanfordDrupalCamp2018-blog-draft.txt | sed -n '1!p' | terminus wp mcdwaynedotcom.live -- post create --post_author='dwayne' --post_title='Stanford DrupalCamp: The first time I have ever seen it rain in Palo Alto and a shorter camp than usual' --post_name='StandfordDrupalCamp2018' --count=1 -
+curl https://raw.githubusercontent.com/mcdwayne/PublicDocs/master/NotesITookAtCampsAndBlogDrafts/StanfordDrupalCamp2018-blog-draft.txt | sed -n '1!p' | terminus wp mcdwaynedotcom.live -- post create --post_author=1 --post_title='Stanford DrupalCamp: The first time I have ever seen it rain in Palo Alto and a shorter camp than usual' --post_name='StandfordDrupalCamp2018' --count=1 --post_status=publish -
 
 Still early version, hope to have this automated from a push to github auto rebuilds the content and in future hope to build some testing for content and then make all this work with Gutenberg.  Currently I am relying on markdown editor, which is a tad out of date, but early testing is promising for Gutenberg, not ready for showing my work there yet.  

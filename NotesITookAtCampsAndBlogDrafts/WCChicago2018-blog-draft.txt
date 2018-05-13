@@ -1,0 +1,500 @@
+WC Chicago 2018: In the cold shadow of their tallest building and finding out their Chinatown is small
+
+For the second time in 2018 I get to go to ['the windy city'](https://en.wikipedia.org/wiki/Windy_City_(nickname)), which in my experience isn't the most accurate name.  It could be I am biased because I live in the wind tunnel that is downtown San Francisco, where the Mediterranean climate causes [severe wind gusts every afternoon before sundown](https://boardsportscalifornia.com/understanding-san-francisco-bay-area-weather-the-wind-beneath-our-wings/), the likes of which I personally have not experienced in The Second City.  At least it wasn't as cold as the [last time I was in town](https://www.mcdwayne.com/2018/03/22/midcamp-2018/)
+
+I got in town a full day earlier than I needed to, but got to catch up with old friends, see [some improv](https://www.ioimprov.com/) and have some super tasty vegan grub at the heartiest diner in town, [the Chicago Diner](http://www.veggiediner.com/). So good.  I also got to wander around Chinatown for a little bit, seeing my favorite thing in a large city: [The Chinatown Gates](https://goo.gl/EisuF6).
+
+Of course, this was not all a personal trip.  The real reason I had returned was for rejoicing with my WPLife family for [WordCamp Chicago 2018](https://2018.chicago.wordcamp.org/)
+
+
+###Food and Fun
+
+#####Speaker Dinner
+
+Friday night we gathered together, speaker, sponsor, organizer and volunteer alike to rejoice in the kicking off of camp officially at [Jefferson Tap & Grille](https://www.jeffersontap.com/).  It is always an amazing experience to get a preview of what other people are going to present.  There is clearly an excitement in everyone's voice and a chance for people new to speaking to seek advice.  The food was OK, I ended up with a hummus sandwich and fries all night.  
+
+Totally not our party in this tweet, but not too far off from what went down:
+
+https://twitter.com/ITAbuzz/status/517454001512906753
+
+
+#####Saturday
+
+Breakfast was served!  Not just coffee and tea, but fruit and more candy than you could/should eat.  Some other sponsors brought doughnuts and bagels as well
+
+https://twitter.com/T_Rave/status/990639530968518656
+
+Lunch on day one was one of my favorite options for catering, [Chipotle](https://www.chipotle.com/). I think their quality is OK, but I love the fact that there was a whole vegan section set out and boy oh boy were the options plentiful! More black beans and [Sofritas](https://www.chipotle.com/sofritas) than any conference could have eaten and all the corn salsa I could pile up.  If you are an organizer reading this, a taco bar is a great way to include all dietary restrictions and still serve the meatiest eaters.  
+
+no actual tweet of lunch, but this is what we were dealing with
+
+https://twitter.com/ThatMixedGuy93/status/812480345555763201
+
+For dinner before the official party some of us got to talking about ["The Impossible Burger"](https://www.impossiblefoods.com/burger/) and burgers in general, so with [Joe](https://twitter.com/JosephHHoward) leading the way, we went over to [Umami Burger](https://www.umamiburger.com/locations/il/chicago/) and chowed the heck down.  With a full stomach we set off to meet the rest of the campers.
+
+#####After Party:
+
+If you would have said I would have had as much fun as I had playing ping pong, I would not have believed you.  We went to [AceBounce Ping Pong Bar](http://www.acebounce.com/ping-pong-parties) and had a magnificent time of fellowship and friendly competition. It was a cash bar but the appetizers were free flowing and the ping pong was free on 4 reserved tables!  I will take this arrangement over too many or not enough drink tickets any day of the year.  
+
+https://twitter.com/davidneedham/status/990443127214395392
+
+
+https://twitter.com/readyshipco/status/990395102651670538
+
+
+And yes, there was WCKaraoke in full effect.  Special shout out to my buddy [Doug](https://twitter.com/dsdobrzynski), from the Drupal world, who introduced us to the DJs here t [Blue Frog's Local 22](http://local22chicago.com/). It was truly a night where it didn't matter if you had been at WordCamp or not, we all treated each person as if they were part of the WPLife community!  
+
+https://twitter.com/davidneedham/status/990443127214395392
+
+#####Sunday
+
+More coffee, more snacks and a lot more candy
+
+https://twitter.com/GreenGeeks/status/990268300813889537
+
+We were on our own for lunch, so I got to go to one of my favorite chains, which I really wish we would get in San Francisco, [Native Foods](http://www.nativefoods.com/).  The best vegan bulgogi tacos I know about. 
+
+
+###Sessions 
+
+[Digital Therapy](https://2018.chicago.wordcamp.org/session/digital-therapy-beyond-project-management-managing-client-emotions/)
+[Ellie Saldana](https://2018.chicago.wordcamp.org/speakers/#wcorg-speaker-ellie-saldana)
+
+If there is one thing I wish all people got better at, it is emotional intelligence.  If people can empathize with one another, so many issues are cleared right up.  Instead of fighting and forcing our own way, we have the option to listen and relate to their position and find a path forward.  It sounds overly simple and optimistic, but it is a truth that keeps shining forth in brilliant talks like this one.  Make sure the people you are talking with know that you are hearing them and for sure take the time to make sure they feel heard.  We will all do a lot better if we all embrace this idea.  
+
+Raw Notes:
+Story about client who was afraid of getting fired from her role because spikes/lulls in traffic
+she helped her realize that was seasonal and normal
+saves her a lot of issues
+Bringing emotional intelligence into the digital experience
+Why? Clients feel unheard. Looking for validation
+Clients don't feel ownership over the digital sphere of their business
+how:
+Pick up the phone and smile
+be transparent, even if you are at fault
+dig deeper into understanding client frustrations
+help clients understand the process
+You don't always have to say yes
+a strong client relationship makes it easier
+Don't just day no, NO but..., NO because...
+Give clients a win when you can
+not all clients are created equal
+remember what worked last time might not work this time
+your last experiences with them does not mean next one will be the same
+Few different kinds of clients
+Lone Decision Makers
+client is empowered to make decisions on their own
+Answers To A Higher Authority
+have to report up a chain
+accountable to others
+Often times not the person qualified to run a site
+need to help them look competent to their management
+THE COMMITTEE
+Hardest one to her
+multiple contacts all with different points of view
+need help coming to consensus
+lot of active listening needed
+client needs to do homework to find out that is actually important to the org
+they need a unified vision to get the help they need
+Conclusion:
+Engage the client
+Listen actively
+Problem solve collectively
+
+https://twitter.com/McDwayne/status/990232082784968704
+
+
+
+[Data Science and Web Development](https://2018.chicago.wordcamp.org/session/data-science-and-web-development/)
+[Joshua Alexander](https://twitter.com/Jalexanderphd)
+
+Data science is a buzz word for sure but this emerging field is still pretty young.  Let's not forget that our current output of data is roughly [2.5 quintillion bytes a day](http://www.iflscience.com/technology/how-much-data-does-the-world-generate-every-minute/). This number is only going up.  There has never been this much data to parse.  This talk, rather than give the market-y spin on why data science is good, we rooted in the practical aspects of the fact this requires both math skills and computer languages different than those we use ofr web development.  The awesome part about skills is they can be learned over time. No one is born with a skill.  If you want to learn it and become a top data scientist, then get to it! 
+
+
+Raw Notes:
+What is Data Science
+Short answer: Mine data to Make better business decisoins
+Very indemand
+Full stack $88K
+Data Science closer to $118K
+does require math and most people all like
+Math is Mental Abuse to Humans (not really)
+math is not bad
+just enough to make the machine do the math
+Additional skills
+JS, Python, SQL, C++, C, Scala - for algebraic equations and covariance and contra-variance
+R - OSS stats software and language, SAS, Julia
+What do we do with it all?
+Case studies
+Scenario 1: try and predict sales based on time on day and weather patterns in common industries
+Scenario 2 - (Missed it)
+You need to do anything that requires data and math operations. The programming end of things you need to be able to make decisions
+
+
+https://twitter.com/McDwayne/status/990241545575108608
+
+
+
+[WooCommerce Success](https://2018.chicago.wordcamp.org/session/woocommerce-success/)
+[Patrick Elward](https://twitter.com/chiwebmgmt)
+
+I am fascinated by WooCommerce from a number of perspectives.  One of the angles I had not really thought fully about is the logistical overhead that mandatorily comes with actually running an ecommerce store of any kind.  Even if you are doing all drop shipping, there is a cost and a management overhead you have to take on.  This talk is an absolute must see for anyone in the world thinking about starting an online store of any kind.  So much practical advice, learned from actually doing this in the wild.  For instance, I would have never guessed the most expensive part of mailing fish was the water weight. 
+
+
+Raw Notes:
+I got in a little...
+Someone has o take ownership
+Many of the tasks you hav with other ecommerce is same with Woo
+but Woo is arguably easier
+Store owners
+Who has an online store now
+financial commitments tt operations
+Review, review, review
+How much budget?  10-15% of annual sales is realistic expenditure for eccomerce operations (not ads, just logistics and such)
+Shopping cart vs Woo
+Key e-commerce tasks to be discussed before starting
+tax levels, ownership.....
+Product Management Success
+What thy have to sell, right now!
+how to display these on the site
+many 'Product Import' plugins available
+how to organize by attribute
+setup tags and keywords for sorting
+Go through product with the customer and weigh everything
+sizes and weights are super expensive if we get it wrong
+attribute in Woo lets you assign this easily
+Photos must be realistic
+it is how the client will judge the product they receive
+Reviews matter
+they MUST be monitored though
+Inventory management is a challenge as well
+How to handle 'out of stock'
+hide product or display Out of Stock
+who receives 'low inventory trigger' and what is that threshold
+Drop shipping and custom labels, look into SaaS solutions for that
+"Does it save my warehouse money or can we do it cheaper ourselves?" 
+Shipping management
+Fedex, etc...
+3 main ways to get shipping costs
+per total weight (most common)
+Make sure you are only shipping places you want to ship
+or charge more
+Prelaunch comments
+ALWAYS check on mobile devices
+ongoing support and maintenance
+Common mistakes
+budget not realistic
+
+
+https://twitter.com/McDwayne/status/990254542301298689
+
+
+
+	
+[Erasing the Stigma: Mental Health and Tech](https://2018.chicago.wordcamp.org/session/erasing-the-stigma-mental-health-and-tech/)
+[JD Flynn](https://twitter.com/JDDoesDev)
+
+I am proud to call JD a friend.  I have known him mostly from the Drupal community, as he is a co-organizer of [Midcamp](https://www.midcamp.org/).  but more recently I have come to call him brother in the struggle to get everyone to try going to Karaoke events.  In Chicago, he leads the charge finer than anyone I have ever seen lead it, rallying everyone and making sure that all are invited and feel included.  
+In addition to this amazing talent, JD is one of the braver speakers I have known, standing up and speaking truth about something that carries a pretty hefty stigma, mental health issues.  He is up front and truthful about what he has gone through and is living proof that help exists and with the right support you can do anything!  We are very fortunate in our FOSS space that there is a lot of people who want to see everyone else succeed and are here to support each other.  The only way we are going to get over the stigma is to have these conversations and admit we are not broken or bad people, we are unwell, or sick, like breaking a leg or getting cancer.  Just as real and needing medical attention just the same.  Talk with people you trust about this subject in a supportive way and you will be amazed how many other people feel the same way. 
+
+Raw Notes:
+Has mental illness, 
+Most costly health concern right now
+lot of stigma
+Why should this be important? 
+Suffering in silence and denial 
+afraid of admitted it it would make it more real
+Thought was perfect health until doctor said otherwise
+people
+Major depression - every day for at least 2 weeks
+very wide range of incarnation
+Anxiety disorder - fear of daily activities
+PTSD - failure to recover after an experience 
+a phycologist explained it
+RAM vs hard disk
+short term and long term memory
+RAM is fast and HardDisk is slow
+PTSD something stuck in RAM and trigger makes them relive the trauma
+I accepted something was wrong - THE HARDEST PART
+then got treatment
+your first therapist will not likely be your last
+must find one that works with you and communicates with your style
+got involved in community (band, OSS, etc)
+got to be comfortable that not everyone is OK talking about this
+Before treatment, thought only crazy people sought help
+felt like would mess up everything he touched
+was easy to get into a downward spiral
+paranoid, afraid of social situations, isolated was self imposed
+Misunderstood, thought he as angry when he was just anxious
+in a wedding standing up, trying not to screw it up
+people thought he was being mean
+How has treatment affected him?
+the symptoms have not completely vanished but gotten better
+lizard brain is still there
+lot more comfortable in social situations
+I'm not/We're not alone
+Why Tech and mental illness?
+tech specifically affected 
+increased IQ linked to more mental issues (studies suggest)
+You would never tell someone in a wheelchair to 'get over it'
+but we socially do this to mental issues all the time
+need to be stronger than fear!
+Do you think an employer would have negative consequences after talking wiht them about your mental health, most people that yes
+as of 2015 17.9% of all US Adults had some form of mental issues
+We are afraid to talk about mental health
+it is a stigma
+afraid honesty has negative consequences
+Afraid of getting sent to HR
+Why should a workplace care?  
+Impact on performance, job insecurity
+HR does not want to hear about it
+We should fight ignorance with information and knowledge
+Get the OSMI handbook
+In OSS, 50% of survey respondents said they had some form of mental illness
+we are people together
+not 1s and 0s
+we are people
+we are not damaged, we are sick
+1-800-therapist
+psychology today has a search
+look for someone who can help, not just tossing meds out
+
+https://twitter.com/hhinkhouse/status/990265408824446977
+
+
+[90 Days to Live: Finding Your Place in the WordPress Community](https://2018.chicago.wordcamp.org/session/90-days-to-live-finding-your-place-in-the-wordpress-community/)
+[Joe A. Simpson Jr.](https://twitter.com/joesimpsonjr)
+
+You want to hear about an inspirational story?  Go watch this talk.  Going from almost dead to thriving is the central plot of this session that left me wanting to embrace the WP community even more.  It is one of those talks I want to show at a meetup where new people have been wondering if there is a path for them as community members and if it is worth it.  It is worth it.  Keep believing!  
+
+Raw Notes:
+Was just getting into WP converting a site
+then had a heart attack
+still many health issues
+been uphill climb
+Reboot, Level up, and give back
+the community has helped immensely
+so how did he get involved?
+Story of his brother's print services business
+terrible theme and bad site
+fixed it with WP
+learned about the supportive community
+Joined it
+went to all the meetups he could find
+LA, 
+Orange County = women in WP meetup
+they film all the meetups
+Alex Vasquez actually handed him a mic and told him 
+WCUS is super valuable as well
+can watch remote
+Volunteered at LA WordCamp, whole new perspective
+lot goes into
+one night 10:47 pm, driving back from a meetup
+though: Why don't I make a meetup?
+Santa Clarita Valley Meetup was born
+slack is also good way to get involved
+WordPress.tv
+He want sot put on a WordCamp Santa Clarita
+Live as if you were to die tomorrow
+learn as if you are going to live forever
+
+
+https://twitter.com/McDwayne/status/990324220205944832
+
+
+
+[Meta and Schema: Defining the Content about your Content](https://2018.chicago.wordcamp.org/session/meta-and-schema-defining-the-content-about-your-content/)
+[Jim Birch](https://twitter.com/thejimbirch)
+
+Do you like whirlwind, two fisted, no holds barred, data filled sessions that have almost too much information shoved in your face?  I love them.  I wish every talk I went to I learned anywhere close to as much information as Jim presented.  I will admit I started playing with a couple of the resources he introduced me to and might have missed part of what he was presenting in my notes.  If you think you have meta nailed down, good on ya, but still, check this thing out.  I am betting you will find a new tool or trick in here somewhere.  And for those who have never thought about meta or schema before, prepare to have a new world view opened to you.  
+
+Raw Notes:
+How do we look to others? 
+How does content look to others?
+what you do for google is good for all the other services
+TL/R Specs and validators
+w3c HTML 5.2 specs
+WATWG Meta Extensions
+Open Graph
+Twitter cards
+schema.org
+Meta, from the greek, prefix, concept 
+like card catalogues
+full time gig back in the early days of libraries
+computerize
+Dynix, early but popular
+Enter the W3C defining 5.2 spec
+4.2 docs about Document Metadata
+6 things
+- head element
+- title only one
+- base tag, element to set the base for something
+- link, link to other resources 
+- style - embed information in the doc for styling
+- meta - for everything not the previous 5
+all name value pairs, only in the head of the doc
+name=> value(content)
+There are defined metatags in the spec
+author, application-name, description, etc
+pragma directives language construct that specifies compiler and other technical information
+Other Metadata names
+WHATWG
+list all that have been applied for and their extensions
+You can make your own metadata you define on your own
+no one would know it was there but you, but you can do some stuff like priority of search engine
+Unicorn from W3C
+see how good of a coder you are? 
+pass/fail for 
+https://validator.w3.org/unicorn/
+Validation
+Google meta tag validator for things it understands
+title, googlebot, refresh
+that is it for google, one document, that is all
+Open Graph Protocol
+Let's webpage to become object
+required fields
+title, type, image, url
+Types:
+ music, video, book, etc
+FB has a debugger - important to use for FB to re-scrape content
+pinterest validator
+LinkedIn - using random variable at the end of url to force them to refresh
+(?hfhfsh)
+twitter card
+rich photos and such
+summary
+summary large image
+player card
+app card
+they also have a validator
+How to implement in WP?
+Yeast SEO plugin
+add meta and fills in some things for you
+can but in Open Graph tags
+same with twitter cards
+Theme itself can use logic to use image via php code
+Schema
+Started by google, Open source
+way to put structured data on sites, in email messages and beyond!
+schema.org
+goes on for days
+drill down into most of them
+Most popular are creative works
+can implement a few different ways
+inline was first and popular
+JSON-LD
+What does Google care about?
+Google Search Gallery Page
+https://developers.google.com/search/docs/guides/search-gallery
+How? Yoast of course
+Schema Plugin
+JDFlynn made a tool to generate the needed JSON
+again, theme can use logic to suss this out
+Test and Verify
+Google to test
+
+https://twitter.com/tomkepler/status/990626432094220288
+
+
+[Developing for Gutenberg – Converting a shortcode to a block!](https://2018.chicago.wordcamp.org/session/developing-for-gutenberg-converting-a-shortcode-to-a-block/)
+[Jeremy Josey](https://twitter.com/jeremyjosey)
+
+I went to this thinking, 'don't we have a shortcode block, is this just a talk about using the shortcode block?'.  Well, turns out yes, there is a [shortcode block solution](https://www.getgutenberg.io/documentation/content/shortcodes/) but when you step back and look at it, this is sort of like writing in Spanish for your website for a Chinese speaking audience and hoping the translation plugin keeps up and is ultra stable.  Writing a plugin to properly leverage the concept of blocks will give overall better performance, stability and ultimately supportability.  Fortunately there are an emerging number of resources to help you do this.  If you have a plugin, get that thing converted today!  
+
+Raw Notes:
+prerec: HTML, CSS, React, CLI
+It's OK to get lost
+you will have to go over this again and again
+Learn JS Deeply
+Customizer and Gutenberg are the result
+JS API driven interfaces are the future of the web
+Gutenberg
+what it is
+demo of it
+block is an abstract term to define units of markup
+goal today, convert a CTA shortcode to a Gutenberg block
+do you really have to?  No.......but,
+there is a shortcode wrapper block
+but you should!
+First, install Gutenberg
+have NODE.JS
+install create-gutenberg-block
+npm install global (see his slides)
+will spend most of the time int he source mostly in the sub-block.js file
+npm start in right folder
+Enqueue block JS in the main plugin file
+.... (code)
+define category for block
+.... (code)
+Edit function
+meat and potatoes of the block
+.... (code)
+
+
+https://twitter.com/crisconinja/status/990633394106191872
+
+
+
+[Plugins vs Themes. Functionality vs Format.](https://2018.chicago.wordcamp.org/session/plugins-vs-themes-functionality-vs-format/)
+[Austin Adamson](https://twitter.com/austin_be_nerdy)
+
+This is one of those topics that on the surface is easy, but the more you dig the cloudier it gets.  Especially when most tutorials and code snippets say to just toss functionality into the functions.php file.  What should a theme really be doing and what are the lines?  Again, it sounds simple, but if you changed your custom theme right now could you say with a straight face that no functionality would be affected?  Austin shows us a path to that kind of a world through some pretty rock solid examples and analogies.  This was his first talk and I have a great feeling he is going to be one of the better speakers out there as he dials in his style because the content is great!  
+
+Inherited an old site
+When activated new theme
+all office staff and content just vanished
+oh no
+put so much functionality in themes
+realized he had been doing same thing
+plugins and themes do different things for a reason
+what is supposed to do what?
+building a house
+start with a frame and a foundation
+the utilities (water, lights)
+lastly we paint
+we live there for a while
+repaint the walls
+didn't have to call the electrician or bulldoze the whole thing
+but we do this with websites all the time
+WP core is frame of the house, 
+plugins are utilities
+and theme is the paint
+repainting is a new theme
+should be just that easy
+what is even core?
+file structure from WP.org
+functionality should not be in themes
+example
+AgentPress Pro theme, $99
+when you get theme, must download a free plugin that gives functionality
+registering custom post types, should be in plugin, in agent plus plugin
+metaboxes, 
+gravity forms, output CSS yes/no
+turn it off, don't overwrite gravity forms style
+wpmeetup plugin
+forces big red button
+can't turn it off, hard to override
+theme controls presentation of content
+plugin controls functionality
+
+https://twitter.com/McDwayne/status/990682463193174016
+
+
+
+#####My Session
+
+[Let’s Learn Git. No Excuses!](https://www.mcdwayne.com/lets-learn-git-no-more-excuses/)
+
+I was super grateful to get to present on Git, really one of my favorite subjects.  The crowd was awesome and I got to explain one of the more important things we should all be using.  One thing I did a little different this time and feel like I need to do better at for all my talks, is giving a clear 'do this next', also called a Call To Action (CTA).  I did this in the follow up tweet, pointing people to [Try Git](https://try.github.io) using Github's awesome demo site.  In fact, if you have not done that tutorial yet, even if you use git already, give it a whirl. 
+
+https://twitter.com/jeffpaul/status/990311854701506560
+
+
+###Wrapping Up
+
+I love Chicago.  If it didn't get snow or down to −27 °F sometimes, I would consider it as a place to possibly spend even more time.  But the warmth of the WordPress and the Drupal communities there is so worm, that when I do go it never feels that cold.  I might well go back once more this year for [WordCamp for Publishers: Chicago Edition](https://2018-chicago.publishers.wordcamp.org/) but that is still undetermined.  I hope I do, since that would let me experience the place in full summer swing. Otherwise I am going to for sure count on being in Chicago at least for [WordCamp Chicago 2019! *](https://2019.chicago.wordcamp.org/) 
+
+* yes I know this link does not work yet.  
+
+
+https://twitter.com/YepItsSal/status/990328905839120386

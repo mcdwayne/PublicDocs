@@ -1,0 +1,253 @@
+DrupalCon 2018
+
+
+General:
+
+https://twitter.com/IxtlanDesign/status/983428341175934983
+
+https://twitter.com/minneapolisdan/status/983369792148078593
+
+https://twitter.com/dasjo/status/983310624145985537
+
+https://twitter.com/hrodrig/status/984102830519799808
+
+
+Night I got here:
+
+https://twitter.com/McDwayne/status/983137015934963712
+
+
+
+
+
+Training:
+
+good, magic stuff, powerful
+
+https://twitter.com/newtoid/status/983355196347748353
+
+
+Partner Day:
+
+https://twitter.com/outlandishjosh/status/983372994717380608
+
+
+Pre-Note
+
+https://twitter.com/tacopotze/status/983703432673484800
+
+https://twitter.com/tinyredflowers/status/983698790870847488
+
+https://twitter.com/baddysonja/status/983697140974276608
+
+Driesnote intro:
+
+https://twitter.com/MeganSanicki
+
+https://twitter.com/MarcDrummond/status/983706364387225601
+
+Steve Persch's intro:
+
+Driesnote:
+
+https://twitter.com/acquia/status/983713495723184131
+
+https://twitter.com/castastrophee/status/983712973335289858
+
+https://twitter.com/yandesign/status/983712885867245568
+
+https://twitter.com/Zensations/status/983711661235277824
+
+https://twitter.com/heyrobertshell/status/983710975877636096
+
+https://twitter.com/DrupalAC/status/983714515853422592
+
+https://twitter.com/ChandeepKhosa/status/983715822777634816
+
+https://twitter.com/McDwayne/status/983716164927938561
+
+https://twitter.com/KimberlyK/status/983717277978845184
+
+https://twitter.com/RAKESH_JAMES/status/983721525487587328
+
+https://twitter.com/kattekrab/status/983721458726789120
+
+https://twitter.com/Pharoh83/status/983719413550600192
+
+https://twitter.com/RickeyEarl/status/983718384780144640
+
+https://twitter.com/ljhighby/status/983723749802471424
+
+https://twitter.com/leenapaul/status/983724484401254400
+
+https://twitter.com/MadeByMarcy/status/983722875348799488
+
+https://twitter.com/KimberlyK/status/983723219910889472
+
+https://twitter.com/ChandeepKhosa/status/983723269533655042
+
+
+[Don’t trust your gut: agency operations metrics](https://events.drupal.org/nashville2018/sessions/dont-trust-your-gut)
+[Ashleigh Thevenet](https://events.drupal.org/u/ashleigh-thevenet)
+
+
+Don't Trust your gut,
+Chief operating officer at BlueSpark
+Metrics of her,
+number of hours spent with her life
+Context makes data meaningful
+Lot of spreadsheets in the talk
+https://bit.ly/2qjlDOZ
+Billable hours,
+got to understand where you are spending your time before you can optimize them for billable time
+Adapted the billable hours matrix for annual revue per role planning
+rev, profit, margin at various utilization rates
+Booked Capacity vs Capacity comparison with Monthly and Annual sales targets
+Under contract was a runway pipeline
+MEGASHEET
+https://bit.ly/2qoxJXl
+gives actuals and updated a lot
+things shift, availability. extention of contratact, act of god, etc
+sheet needs to be as fresh as possible
+values of accounts
+timelines and budgets for all current accounts
+remaining budgets
+time left
+Will my current config of team be able to complete the work they have lined up
+capacity
+how did the team perform
+how is the 
+Let's back up to the Billable Hours template
+rate and expenses
+lists out whole team individuals, roles and such
+number of hours per week
+realistic utilization planning is the goal
+Monthly 
+potenial revenue per role is the thing she cares about a lot
+helps understand when and who to hire
+expenses are import to track as well
+want to end up at 98% of realistic target
+ie 34 hours not 40 a week,
+80% utilization losing money
+MegaSheet
+All project projections
+timeline, start date and end date for each phase
+Weeks to complete,
+Contract
+fill in rates and hours for each phase
+rate x hours = contract value
+time logged, from Jira, manually pulled in
+then pulled into actuals tab
+Weekly velocity to complete, the number of hour s and weeks and how many hours per week need logge to stay on track
+Color coding will help yo a great deal at seeing things at a glance
+easy to get overwhelmed but this is needed to project revenue
+things will deviate, so you must adjust as you go
+assigned some of the work to 'unknown'
+Unknown Frontend and Unkown Backend
+makes planning more flexible
+color coding red not booked enough, green capacity, 
+blue under water, overbooked
+sometimes 4 to 5 week differentials with how days fall can be tricky
+eventually all comes down to hours though
+lets you shift projects as needed
+don't try to adjust in your head
+important to see big picture as you plan each individual part
+
+
+
+https://twitter.com/McDwayne/status/984096929708761099
+
+
+[Extending the abstract class of privilege: outcomes and lessons learned](https://events.drupal.org/nashville2018/sessions/extending-abstract-class-privilege-outcomes-and-lessons-learned)
+[Farah Sabbagh](https://twitter.com/farah_tweeted)
+[Ashraf Abed](https://twitter.com/ashabed)
+
+
+Privilege 
+Lacking access
+real story, got arrested for speeding
+that cop became an ally but every cop after had same initial reaction
+bad
+this affected his life later as had to admit he got arrested
+We all have biases
+blindly trusting our intuition in social interactions is naive
+think before you speak, reassess your initial reactions!
+Keep your bias to yourself
+Unconscious gender bias
+people assumed she knew less than she did when she started out
+took her until a job change to get out of that rut
+women tend to be assigned tasks that are less impressive
+contributes to women being overlooked for promotions
+long term impact on their career paths
+consider adopting self-selection task assignment
+trak, support and encourage female employees to work complex tasks
+don't assign women empathy-based tasks by default
+She was accused of being too social to be a real developer
+accuser had 'feelings' for her 
+she was new, didn't have tools to handle the situation
+but 'luckily' got sick and when came back he was gone
+They walked her to her car every day
+turns out the accuser had fallen apart mentally and was a threat after that
+she stayed around for too long
+BAH was a great move for her, a lot of women in tech and improved herself a lot
+wording really matters 
+women they have spoken with are just as interested in pursuing a programming career
+Female students are typically top performers
+how to extent privilege?
+-encounrage and reassure them - 
+give them homework to see if right for them before class starts
+let them see if right for them, don't penalize them for not wanting to keep going
+encourage they will fit if they want it
+strongly endorse them to key decision makers using Truthful information
+Want to help grow Drupal? 
+we put a ton of thought into patches for Drupal
+Put that much effort into helping your female colleagues 
+really lay it out clearly, it might feel like overkill but it is necessary
+employers make a lot of decisions in the wrong direction with female employees
+Older people also have this Bias
+assuming they can't learn new tech
+her dad is an accountant, even though he was performing well, they pushed him to retire based on this bias
+assuming they don't want to learn
+assume they will just be slower pace
+people are not crediting all the experience that is brought ot the table
+forgetting most technical problems have been solved before
+Racial bias
+black person early in career usually has to prove their personality doesn;t fit a preconceived notion
+to be seriously considered for tech, black grads must be well spoken, charming,
+others can get away with being quiet
+'but I don't see color'
+thats a start but it is not enough
+the objectivity ship has sailed
+too many others see color for neutrality to work
+underprivileged people have faced barriers all their lives
+evaluating a person's fit for tech truly objectively would be to give them experiences, exposure and support before evaluating them
+You can't truly test aptitude with a programming test
+posted his grads group picture on FB, got terrible racist hateful comments
+people that do see color create a really crappy environment
+There's more
+Family life - assumptions that people with use their family as an excuse to work from home or leave early
+disabilities
+assumptions that people with visible disabilities are less able to perform
+single employees are assue to be available 24/7 because they don't have things going on and they have 'no one to look after'
+Whose job is it to fix this?  
+nothing is too small - small things can make a big impact
+track, support and encourage individuals from underrepresented backgrounds
+reach beyond your inner circle
+participate in free training events such as GTD, hour of code, etc
+Encourage your employer to set up paid internships
+AT THE LEAST: RAISE AWENESS! thereby extending privilege
+ripple effect can go far -  a single top developer can impact Drupal significantly
+@webdevdeja
+what does better look like?
+Documentation initiative 
+package contrib Composer dependencies in a .zip file (like core does) (think, bad internet connections)
+auto-populate tailored documentation
+resulting in centralized docs
+D8Academy got involved
+people who never heard of Drupal dl and install and contribute
+Barrier free sprint
+step by step instructions very easy to follow for novice
+Drupal only benefits from inclusion
+
+
+https://twitter.com/McDwayne/status/984115802315083777

@@ -1,0 +1,448 @@
+WC Chicago 2018
+
+
+
+General
+
+https://twitter.com/YepItsSal/status/990328905839120386
+
+https://twitter.com/GreenGeeks/status/990268300813889537
+
+
+###Food and Fun
+
+#####Speaker Dinner
+
+
+#####Lunch:
+
+
+Umami burger with [Joe](https://twitter.com/JosephHHoward)
+
+
+#####After Party:
+
+https://twitter.com/davidneedham/status/990443127214395392
+
+[Digital Therapy](https://2018.chicago.wordcamp.org/session/digital-therapy-beyond-project-management-managing-client-emotions/)
+[Ellie Saldana](https://2018.chicago.wordcamp.org/speakers/#wcorg-speaker-ellie-saldana)
+
+Story about client who was afraid of getting fired from her role because spikes/lulls in traffic
+she helped her realize that was seasonal and normal
+saves her a lot of issues
+Bringin emotional intelligence into the digitial experience
+Why? Clients feel unheard. Looking for validatoin
+Clients don't feel ownership over the digital shrere of their business
+how:
+Pick up the phone and smile
+be transparent, even if you are at fault
+dig deeper into understanding client frustrations
+help clients understand the process
+ou don't always have to say yes
+a strong client relationship makes it easier
+Don't just day no, NO but..., NO because...
+Give clients a win when you can
+not all clients are created equal
+remember what worked last time might not work this time
+your last experiences with them does not mean next one will be the same
+Few different kinds of clients
+Lone Decision Makers
+client is empowered to make decisojs on their own
+Answers To A Higher Authority
+have to report up a chain
+accountable to others
+Oftentimes not the person qualified to run a site
+need to help them look competent to their management
+THE COMMITTEE
+Hardest one to her
+multiple contacts all with different points of view
+need help coming to consensus
+lot of active listening needed
+client needs to do homework to find out that is actually important to the org
+they need a unified vision to get the help they need
+Conclusion:
+Enge the cleint
+Listen actively
+Preblem solve collectively
+
+
+
+https://twitter.com/McDwayne/status/990232082784968704
+
+
+
+[Data Science and Web Development](https://2018.chicago.wordcamp.org/session/data-science-and-web-development/)
+[Joshua Alexander](https://twitter.com/Jalexanderphd)
+
+
+What is Data Science
+Short answer: Mine data to Make better business decisoins
+Very indemand
+Full stack $88K
+Data Science colser to $118K
+does requiremath and most people all like
+Math is Mental Abouse to Humans (not really)
+math is not bad
+just enough to make the machine do the math
+Additional skills
+JS, Pythin, SQL, C++, C, Scala - for algebric equasions and covariance and contravariance
+R - oss stats software and language, SAS, Julia
+What do we do with it all?
+Case studies
+Scenario 1: try and predict sales based on time od fay and weather patterns in common industries
+Scenario 2 - (Missed it)
+You need to do anthing that requires data and math operations. The programming end of things you need to be able to make desicions
+
+
+https://twitter.com/McDwayne/status/990241545575108608
+
+
+
+[WooCommerce Success](https://2018.chicago.wordcamp.org/session/woocommerce-success/)
+[Patrick Elward](https://twitter.com/chiwebmgmt)
+
+Someone has o take ownership
+Many of the tasks you hav with other ecommerce is same with Woo
+but Woo is arguably easier
+Store owners
+Who has an online store now
+financial commitment sot oeprsations
+Review, review, review
+How much budger?  10-15% of annual sales is realistic expendeture for eccomerce operations (not ads, just logistics and such)
+Shopping cart vs Woo
+Key e-commerce tasks to be discssed before starting
+tax levels, ownership.....
+Product Management Success
+What thy have to sell, right now!
+how to display these on the site
+many 'Product Import' plugins available
+how to organize by atribute
+setup tags and keywords for sorting
+Go through product with the customer and weigh everything
+sizes and weights are super expensive if we get it wrong
+attribute in Woo lets you assign this easily
+Photos must be realistic
+it is how the client will judge the product they receive
+Reviews matter
+they MUST be monitored though
+Inventory management is a challenge as well
+How to handle 'out of stock'
+hide product or display Out od Stock
+who recieves 'low inventory trigger' and what is that threshold
+Drop shipping and custom labels, look into SaaS solutions for that
+"Does it save my warehouse money or can we do it cheaper ourselves?" 
+Shipping management
+Fedex, etc...
+3 main ways to get shipping costs
+per total weiht (most common)
+Make sure you are only shipping places you want to ship
+or charge more
+Prelaunch comments
+ALWAYS check on mobile devile
+ongoing support and maintenance
+Common mistakes
+budget not realistic
+
+
+https://twitter.com/McDwayne/status/990254542301298689
+
+
+
+	
+[Erasing the Stigma: Mental Health and Tech](https://2018.chicago.wordcamp.org/session/erasing-the-stigma-mental-health-and-tech/)
+[JD Flynn](https://twitter.com/JDDoesDev)
+
+Raw Notes:
+Has mental illness, 
+Most costly health concern right now
+lot of stigma
+Why should this be important? 
+Suffering in silence and denial 
+afraid of admitted it it would make it more real
+Thought was perfect health until doctor said otherwise
+people
+Major depression - every day for at least 2 weeks
+very wide range of incarnation
+Anxiety disorder - fear of daily activities
+PTSD - failure to recover after an experience 
+a phycologiest explained it
+RAM vs hard disk
+short term and laong term memory
+RAM is fast and HardDisk is slow
+PTSD something stuck in RAM and trigger makes them relive the trauma
+I accepted somethign was wrong - THE HARDEST PART
+then got treatment
+your first therapist will not likely be your last
+must find one that works with you and communicates with your style
+got involved in community (band, OSS, etc)
+got to be comfortable that not everyone is OK talking about this
+Before treatment, thought only crazy people saught help
+felt like would mess up everythign he touched
+was easy to get into a downward spiral
+paranoid, afraid of social situations, isolated was self imposed
+Misunderstood, thought he as angry when he was just anxious
+in a wedding standing up, trying not to screw it up
+people thoguht he was being mean
+How has treatment affected him?
+the symptoms have not completely vanished but gotten better
+lizard brain is still there
+lot more comfortable in social situations
+I'm not/We're not alone
+Why Tech and mental illness?
+tech specifically affected 
+increased IQ linked to more mental issues (studies suggest)
+You would never tell someone in a wheelchair to 'get over it'
+but we socially do this to mental issues all the time
+need to be stronger than fear!
+Do you think an employer would have negative consequences after talking wiht them about your mental health, most people that yes
+as of 2015 17.9% of all US Adults had some form of mental issues
+We are afraid to talk about mental health
+it is a stigma
+afraid honesty has negative consequences
+Afraid of getting sent to HR
+Why should a workplace care?  
+Impact on performance, job insecurity
+HR does not want to hear about it
+We should fight ignroance with information and knowledge
+Get the OSMI handbook
+In OSS, 50% of survey respondents said they had some form of mental illness
+we are people together
+not 1s and 0s
+we are people
+we are not damaged, we are sick
+1-800-therapist
+phycology today has a search
+look for someone who can help, not just tossing meds out
+
+
+https://twitter.com/varrocreative/status/990268236007489537
+
+https://twitter.com/hhinkhouse/status/990265408824446977
+
+
+
+[90 Days to Live: Finding Your Place in the WordPress Community](https://2018.chicago.wordcamp.org/session/90-days-to-live-finding-your-place-in-the-wordpress-community/)
+[Joe A. Simpson Jr.](https://twitter.com/joesimpsonjr)
+
+Was just getting into WP converting a site
+then had a heart attack
+stil many health issues
+been uphill climb
+Reboot, Level up, and give back
+the community has helped immensely
+so how did he get involved?
+Story of his brother's print services business
+terrible theme and bad site
+fixed it with WP
+learned about the supportive community
+Joined it
+went to all the meetups he could find
+LA, 
+Orange County = women in WP meetup
+they film all the meetups
+Alex Vasquez actually handed him a mic and told him 
+WCUS is super valuable as well
+can watch remote
+Volunteered at LA WordCamp, whole new perspective
+lot goes into
+one night 10:47 pm, driving back from a meetup
+though: Why don't I make a meetup?
+Santa Clarita Valley Meetup was born
+slack is also good way to get involved
+WordPress.tv
+He want sot put on a WordCamp Santa Clarita
+Live as if you were to die tomorrow
+learn as if you are going to live forever
+
+
+https://twitter.com/McDwayne/status/990324220205944832
+
+
+
+[The Gig Economy – Saying Yes](https://2018.chicago.wordcamp.org/session/the-gig-economy-saying-yes/)
+[Matthew Christensen](https://twitter.com/the_real_mattc)
+
+First part is story of freelance
+second part is ging to be saying yes
+big clients, outside of community
+Ego
+Big CLients
+Had Capacity
+Said no a lot to other shops asking for help
+
+https://twitter.com/McDwayne/status/990609662079840258
+
+
+[Meta and Schema: Defining the Content about your Content](https://2018.chicago.wordcamp.org/session/meta-and-schema-defining-the-content-about-your-content/)
+[Jim Birch](https://twitter.com/thejimbirch)
+
+How do we look to others? 
+How does content look to others?
+what you do for google is good for all the other services
+TL/R Specs and validators
+w3c HTML 5.2 specs
+WATWG Meta Extensions
+Open Graph
+Twitter cards
+schema.org
+
+Meta, from the greek, prefix, concept 
+like card catalogues
+full time gig back in the early days of libraries
+computerize
+Dynix, early but popular
+Enter the W3C defining 5.2 spec
+4.2 docs about Document Metadata
+6 things
+- head element
+- title only one
+- base tag, element to set the base for something
+- link, link to other resources 
+- style - embed information in the doc for styling
+- meta - for everything not the previous 5
+all name value pairs, only in the head of the doc
+name=> value(content)
+There are defined metatags in the spec
+author, application-name, description, etc
+pragma directives language construct that specifies copiler and other technical information
+Other Metadata names
+WHATWG
+list all that have been applied for and their extentions
+You can make your own metadata you define on your own
+no one would know it was there but you, but you can do some stuff like priprity of search engine
+Unicorn from W3C
+see how good of a coder you are? 
+pass/fail for 
+https://validator.w3.org/unicorn/
+Validation
+Google meta tag validator for things it understands
+title, googlebot, refresh
+that is it for google, one document, that is all
+Open Graph Protocol
+Let's webpage to become object
+required fields
+title, type, image, url
+Types:
+ music, video, book, etc
+FB has a debugger - important to use for FB to re-scrape content
+pinterest validator
+LinkedIn - using random variable at the end of url to force them to refresh
+(?hfhfsh)
+twitter card
+rich photos and such
+summary
+summary large image
+player card
+app card
+they also have a validator
+How to implement in WP?
+Yeast SEO plugin
+add meta and fills in some things for you
+can but in Open Graph tags
+same with twitter cards
+Theme itself can use logic to use image via php code
+Schema
+Started by google, Open source
+way to put structured data on sites, in email messages and beyond!
+schema.org
+goes on for days
+drill down into most of them
+Most popular are creative works
+can implement a few different ways
+inline was first and popular
+JSON-LD
+What does Google care about?
+Google Search Gallery Page
+https://developers.google.com/search/docs/guides/search-gallery
+How? Yoast of course
+Schema PLugin
+JDFlynn mae a tool to generate the needed JSON
+again, theme can use logic to suss this out
+Test and Verify
+Google to test
+
+https://twitter.com/tomkepler/status/990626432094220288
+
+
+[Developing for Gutenberg – Converting a shortcode to a block!](https://2018.chicago.wordcamp.org/session/developing-for-gutenberg-converting-a-shortcode-to-a-block/)
+[Jeremy Josey](https://twitter.com/jeremyjosey)
+
+prerec: HTML, CSS, React, CLI
+It's OK to get lost
+you will have to go over this again and again
+Learn JS Deeply
+Customizer and Gutes are the result
+JS API driven interfaces are the future of the web
+Gutenberg
+what it is
+demo of it
+block is an abstract term to define units of markup
+goal today, convert a CTA shortcode to a Gutenberg block
+do you really have to?  No.......but,
+there is a shortcode wrapper block
+but you should!
+First, install Gutenberg
+have NODE.JS
+install create-gutenberg-block
+npm install global (see his slides)
+will spend most of the time int he source mostly in the sub-block.js file
+npm start in right foldder
+Enqueue block JS in the main plugin file
+.... (code)
+define category for block
+.... (code)
+Edit function
+meat and potatoes of the block
+.... (code)
+
+
+https://twitter.com/crisconinja/status/990633394106191872
+
+
+-------------
+https://twitter.com/jake0lawrence/status/990667322326159360
+
+
+
+[Plugins vs Themes. Functionality vs Format.](https://2018.chicago.wordcamp.org/session/plugins-vs-themes-functionality-vs-format/)
+[Austin Adamson](https://twitter.com/austin_be_nerdy)
+
+Inherited an old site
+When activated new theme
+all office staff and content just vanished
+oh no
+put so much functionality in themes
+realized he had been doing same thing
+plugins and themes do different things for a reason
+what is supposed to do what?
+building a house
+start with a frame and a foundation
+the utilities (water, lights)
+lastly we paint
+we live there for a while
+repaint the walls
+didn't have to call the electrician or bulldose the whole thing
+but we di this with websites all the time
+WP core is frame of the house, 
+plugins are utilities
+and theme is the paint
+repainting is a new theme
+should be just that easy
+what is even core?
+file structure from WP.org
+functionality should not be in themes
+example
+AgentPress Pro theme, $99
+when you get theme, must download a free plugin that gives functionality
+registering custom post types, should be in plugin, in agent plus plugin
+metaboxes, 
+gravity forms, output CSS yes/no
+turn it off, don't overwrite gravity forms style
+wpmeetup plugin
+forces big red button
+can't turn it off, hard to override
+theme controls presentation of content
+plugin controls functionality
+
+
+https://twitter.com/McDwayne/status/990682463193174016

@@ -1,0 +1,355 @@
+
+Opening Remarks
+
+https://twitter.com/danemorgan/status/995301767712858112
+
+
+[Keynote: Build With the Community](https://2018.stlouis.wordcamp.org/session/keynote-build-with-the-community-how-the-power-of-the-wordpress-community-helped-me-build-and-contribute-to-some-of-the-largest-projects-in-wordpress/)
+[Chris Wiegman](https://twitter.com/iqcomputing/status/995303602880237569)
+
+
+The community is big
+complex
+lot of smaller communities within
+Wordpress plugin to make my life easier
+paid to maintain websites, 
+dit it for himself
+then uploaded and successful
+really took off
+scratched someone else's itch
+Not a ton of other security at the time
+was originally the only thing there really was
+before wordfence
+go big or go home
+Release often
+great code is great
+but personal connection is best
+put all the posts out you want, but knowing someone goes so far
+Dont be afraid to say it
+use your own voice
+imposter syndrome
+Community is great
+But people do burn out
+some people give everything
+don't be afraid to ask for something back
+take donations
+be prepared to say NO!
+Know when to ask for help
+Caldera -Josh asked for help and it blew up successful this year
+Keeping up with support requests
+Don't underestimate how big community can get
+pay attention to the data
+pay attention
+TEST THINGS
+at least read your work and hire someone to read it before publishing
+New features !== a better product
+get involved!  First step is easy, meet people
+Meetups, camps, you aleady took it be being here
+Hallway track is super important
+
+
+https://twitter.com/wordcampstl/status/995302728099336193
+
+
+https://twitter.com/wordcampstl/status/995310259878195200
+
+
+[Debugging WordPress: Tips, tricks, and tools](https://2018.stlouis.wordcamp.org/session/debugging-wordpress-tips-tricks-and-tools/)
+[Joe McGill](https://twitter.com/joemcgill)
+
+BEfore you begin
+check up to date
+check other things first
+Debugging constants - part of wp-config.php
+WP_DEBUG - Display PHP errors, warnings, and noticies
+WP_DEBUG_LOG - Sav errors to log
+WP_DEBUG_DISPLAY - Hide errors from the Browser
+SCRIPT_DEBUG - will load dev versions of CSS/JS
+SAVEQUERIES - save every query along with execution time and what called it
+WP Developer Plugin
+installs a menue of tools you might find helpful
+Debug Bar - add debugging info to admin bar
+Debug Bar Console - PHP/SQL console in admin to test with
+quick dummy checks
+DEBUG BAR CRON - see stats of cron jobs
+Rewrite rules inspector - View and flush rewrites
+Log Depricated Notices - notes deplricated fucntions
+User Switching - quickly switch between multiple users
+Beta Plugin - run beta versions of WP
+Demo time!
+Debug bar
+XDebug - general use tool for PHP on local installs
+upgrades var_dump()
+adds stack traces for noticies, errors, etc.
+
+
+https://twitter.com/JessicaKMurray/status/995319995977682944
+
+
+[WordPress, The GPL, & Ethics](https://2018.stlouis.wordcamp.org/session/wordpress-the-gpl-ethics/)
+[Wolf Bishop](https://twitter.com/wptophat)
+
+Basic rules:
+Do not claim another's code as your own
+Cite original
+Do not released forked items unde r the same product name
+if you modify GPL software, it must remain GPL
+Dev edition:
+Expect the product to be forked
+accept that you are giving others permissions to redistribute your work
+Do not whine when people give away your work, that is what you signed up for
+What is forking?  
+Modifying software into a new product regardless for public or private, free or paid
+is forking Ethical?  YES! 
+Examples:
+WP - forked from B2
+WooCommerce is a fork of Jigoshop
+CMS Commander fork of ManageWO
+WP Sync DB fork of WP Migrate DB
+Pretty common process
+GPL Clubs
+a website that reditributes WP themes and plugins, usually for a monthly fee or one off purchase
+are they ethical?  Yes
+well....mostly. These operate outside the GPL do not last very long
+activate a license as they are 
+gpldl.com
+gplguru.com
+search 'gpl club'
+Pros/Cons
+cons - no support
+no auto updates
+Pros - Test premium plugins/themes on the cheap
+Cheap premium plugins//themes
+nobuda.com (sp?) only one that can autoupdate
+basically fee marketing channel (if above board)
+protecting yourself
+Truly understand the GPL
+Provide rockstar support
+fair pricing
+frequent updates are really key
+release for free and charge for auto updates and support
+His opinion:
+Forking and GPL clubs are ethical and legal
+devs who release under GPL must understand implications
+Devs should release plugins/themes for free, but charge for support and auto-updates
+End Users have a responsibility to understand the GPL
+
+
+
+https://twitter.com/JessicaKMurray/status/995335041604636673
+
+
+[GIT it under control: an introduction to GIT and code management](https://2018.stlouis.wordcamp.org/session/git-it-under-control-an-introduction-to-git-and-code-management-paul-f-gilzow/)
+[Paul F Gilzow]()
+
+Version Control System
+not necessarily software
+but git is software
+Local, Central Destributed
+local VCS
+examples dates directories and or fies
+revision control system
+advantages: cheap, simple easy to work with
+Disadvantage: collaboration can be difficult
+error prone
+can't work offline
+Central
+Subversion
+Advantage: Collaboration much easier
+Everyone knows where the lastest version is
+more control over who has access
+everyone can clearly see what everyone else is working on
+Disadvantage:
+single point of failure
+you can't commit changes if you don't have access (no offline)
+can be slow
+Destributed
+Peer to peer version
+everyone has their own complete copy of the repo and exchange patches.
+Advantages
+Collab is easy
+every clone is full copy
+you can work offline
+local changes/commits can be made, history maintained without having to share with anyone until you are ready
+common operations are fast
+permissions are lightweight
+Disadvantages
+Every clone is a full repo copy 
+does not handle bianary files well
+no built in error handling
+management permissions are lightweight
+Git advantages:
+Everything is local / the ability to work offline
+branching is easy and really really fast and easy
+disadvantage
+can be confusin
+does not impose a specific workflow
+CLI based, though not always intuative
+145 commands in git
+access control is read or notread
+Does not support empty directory
+What is GitHub? (or bitbucket, GITLab, Gogs, Gilea, etc)
+Git Basics and Terms
+everything starts with git
+GUI is available
+git --help
+branch (the noun) not the verb
+default new repo has master
+but names do not matter
+branches are unlimited
+start from a specific history in an existing branch
+Branching is BIG
+you can have your own little universe to experiment in
+freeing!
+clone
+create a copy locally and track changes against the remote
+HEAD - the current branch
+Working Tree
+The files you are working on
+Normally contains the contents of the HEAD, plus any changes you have but not committed
+there is only one working directory, if you switch branches, GIT replaces 
+Index
+where things live
+Status, tells you what is going on in the world
+add
+commit
+store all the contents of the index and a message
+how the file changed
+a reference back to the commit it came from
+an ID (hash)
+pull gets it from remote into working tree
+merge
+
+
+
+
+
+[]()
+Josepha 
+
+Mothers Day
+What are heros?
+Superheros
+Green lantern
+the hulk,
+you don't run into these people every day
+feats of strength 
+spandx
+they are rich, alien tech, magic, ect
+Academic 
+ada lovelace
+grace hopper
+mother theresa
+einstein 
+what they got in common?
+All human
+some famous because of their actions
+smart, empathetic and future minded
+much closer to us, 
+try to be as great as they are
+Her heros
+mother
+best friend's mother
+her optometrist
+but why?
+Did't know until much later didn't know they were her heros
+Her optometrist
+her willingness to change
+went back to school late in life
+got a job at chain optomologist
+she got passionate
+late in life started her own company
+Best Friends Mom
+designer
+determination 
+she knew what was best for her clients 
+and always fought to the end of the day
+to get the best middle solutions for everyone
+wholistic
+Her mother
+She can inspire people
+a teacher 
+taught esl, classroom, college
+on more than one occasion
+said her mom made them want to do better 
+changing lives
+Origin story
+Josepha only knows about WP because of her mother
+Vocal Performance Major
+went to college for singing
+Batchlors of science
+starving artist
+went home, mom was going to WordCamp
+her first WC she did not know what WP was
+people seemed into it
+5 things
+Mom's
+1. Assume no ill-will
+2. People fight for the best choice
+3. Always be punctual.  (Being late says your time is more important than theirs)
+4. Listen through anger
+when you gt mad, you get a cloud of anger fog
+body does not receive all signals right
+5. SLAY THAT INNER IMPOSTER!!!
+Josepha's 5
+1. Be Realistic about pursuing passion
+2. Change your perspective.  If you are stuck, it is just a day, do something different, 
+3. Always, Always be learning
+4. Be: Flexible, Forgiving, Fair
+Change with the times
+Remember you have to be fair
+5. Flex your people skills
+
+
+
+Lando
+David
+
+devwithlando.io
+by tandem
+based on docker
+uses idea of recipe
+code example
+lamp
+can be anything
+many recipes
+many people making these
+opens simple php info
+look at lando and 
+Why?  Because you should cause you can
+thats why
+start stop
+restart
+rebuild
+destroy
+db export
+composer out of the box
+landoexample.localtunnel.me
+
+
+
+[YAY, I’m Working Remotely… Now What?](https://2018.stlouis.wordcamp.org/session/yay-im-working-remotely-now-what-jamie-schmid/)
+[Jamie Schmid](https://twitter.com/jamieschmid)
+
+Working in a company
+Bad 
+commuting
+costs
+early morning
+not flexible
+Not so obvious good
+social interations
+leaving work behind
+company resources
+remote?
+not so obbvious bad
+working too much
+no seperation of work/life spaces
+life distractions
+difficult communication
+out of the loop
+collaboration is difficult
+timezone issues
+lazy health habits
+not leaving the house
+expenses are all on you

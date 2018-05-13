@@ -1,3 +1,4 @@
+WCSTL2018
 
 Opening Remarks
 
@@ -338,11 +339,11 @@ costs
 early morning
 not flexible
 Not so obvious good
-social interations
+social interactions
 leaving work behind
 company resources
 remote?
-not so obbvious bad
+not so obvious bad
 working too much
 no seperation of work/life spaces
 life distractions
@@ -353,3 +354,9 @@ timezone issues
 lazy health habits
 not leaving the house
 expenses are all on you
+time management
+make sure you monitor your time
+there are software tools for that
+pop ups to tell you to get back to work
+rescue time, time doctor, IDoneThis, Trello
+Daily/Weekly scrum

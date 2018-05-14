@@ -1,1 +1,53 @@
 WP-CLI-Build-Tools
+
+"Why Shipping Content with WP-CLI is Awesome"  - Matt Cromwell idea
+
+
+Building websites by script
+
+
+Why a build system
+what's in it for me?
+when build tools 
+
+
+curl https://raw.githubusercontent.com/mcdwayne/PublicDocs/master/NotesITookAtCampsAndBlogDrafts/StanfordDrupalCamp2018-blog-draft.txt | sed -n '1!p' | terminus wp mcdwaynedotcom.gutes -- post create --post_author=1 --post_title='Stanford DrupalCamp: The first time I have ever seen it rain in Palo Alto and a shorter camp than usual' --post_name='StandfordDrupalCamp2018' --count=1 --post_status=publish -
+
+
+curl https://raw.githubusercontent.com/mcdwayne/PublicDocs/master/NotesITookAtCampsAndBlogDrafts/StanfordDrupalCamp2018-blog-draft.txt | sed -n '1!p' | terminus wp mcdwaynedotcom.live -- post update 573 -
+
+
+terminus wp mcdwaynedotcom.live -- post update 573 --tags_input='Drupal, Stanford, DrupalCamp, WP-CLI'
+
+
+Test broken links
+URL changes work
+
+
+
+
+
+1. Publish content on WP page on dev-sitename.pantheonsite.com
+
+2. ping CircleCI to fire off automation script
+https://wordpress.stackexchange.com/…/rest-alert-when-new-w…
+
+3. Export post to Github
+? https://wordpress.org/plugins/wp-github-sync/
+
+4. republish to test-sitename.pantheonsite.com
+
+assuming I can store text files as I do now, with the title as first line, it would be:
+curl, 
+parse first line into variable
+chop off the top ( sed -n '1!p' )
+terminus wp-cli generate from - (STDIN)
+
+working manual push:
+curl https://raw.githubusercontent.com/…/StanfordDrupalCamp2018-… | sed -n '1!p' | terminus wp mcdwaynedotcom.test -- post create --post_author=1 --post_title='Stanford DrupalCamp: The first time I have ever seen it rain in Palo Alto and a shorter camp than usual' --post_name='StandfordDrupalCamp2018' --count=1 --post_status=publish -
+
+5. upon success ping Circle to fire off behat tests to test something like URLs resolve (Form fill? Image load?)
+
+https://www.jeffgeerling.com/…/testing-redirections-using-b… Going to need help on this part I think
+
+6. If tests pass, deploy to live-sitename

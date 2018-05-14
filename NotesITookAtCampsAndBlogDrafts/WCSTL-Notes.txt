@@ -360,3 +360,37 @@ there are software tools for that
 pop ups to tell you to get back to work
 rescue time, time doctor, IDoneThis, Trello
 Daily/Weekly scrum
+Tools are there to help you do things more efficently,
+Google is great for this stuff
+password managers
+asana
+lastpass you can safely share!
+get out of the house!!! 
+good for your mental health to get out
+
+
+
+
+[Improving WordPress Development Efficiency With Your Own Framework](https://2018.stlouis.wordcamp.org/session/improving-wordpress-development-efficiency-with-your-own-framework/)
+[Heather Acton](https://twitter.com/HeatherActon)
+
+Before frameworks undersharging
+framework helped them raise teir rates
+what is in a framework
+many things on front end
+madular building
+if 80% of clients use it, it is in the framework now
+reduce what is not used
+copy block, callout block
+text icon block 
+style premade and you can pick and choose
+very fast to implement
+slider
+Modular design
+a list apart language of modular desing
+naming convention according to blocks
+sass files and ACF layouts
+Underscores and SASSified
+Bootstrap Grid
+ACF JASON
+Slick Slider

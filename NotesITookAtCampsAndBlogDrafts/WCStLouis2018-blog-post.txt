@@ -473,6 +473,13 @@ Slick Slider
 
 https://twitter.com/nathaningram/status/995735086879436801
 
+##### My Session
+
+[WP-CLI: Don’t Fear The Command Line](https://www.mcdwayne.com/wp-cli)
+
+I love giving this session. I really like the fact that every time I give it someone in the audience has a 'oh, wow, I didn't know it could do that!' moment.  Makes me feel great sharing knowledge and explaining it in a way that engages at least some people.  This time I even got to talk about what I think I see on the horizon, where we need to start automatically testing content before a final deployment. More on that in my wrap up, but this time giving this talk was the first time I had brought this up in a public forum and the number of nodding heads suggests either I am on the right track or others at least are on board with it.  I hope to keep evolving this talk and give variations as long as I can get to camps.  
+
+https://twitter.com/wordcampstl/status/995419870828392448
 
 
 ### Wrapping Up
@@ -483,7 +490,7 @@ First, there is [postit](https://github.com/mcdwayne/postit) which has 2 tools b
 
 Second is a new [Terminus](https://pantheon.io/docs/terminus/plugins/) plugin called [WP Clone Content](https://github.com/mcdwayne/terminus-wp-clone-content) which let's you clone a post from point a to point b.   It is a work in progress that is good enough for my current workflow, but has issues, depending on how featured image was set and some other small factors like Tags which I still need to unravel.  THis was the first time I have ever even tried to extend Terminus, and man, I am not a PHP expert at all.  I can do it in bash, but 6 hours of this effort were just reading basic PHP examples again.  Again, free and open source, so please help if you think this is a good idea for a tool. 
 
-#####Why do I think WP Clone Content is a good idea for a tool?
+##### Why do I think WP Clone Content is a good idea for a tool?
 
 Basically, the future of Gutenberg and the WP 5.0 changeover is heralding in a new age when functionality and configuration are being moved back into content.  I personally believe that we are going to have to start testing content in automated ways more often and multi-environment workflows, eventually harvesting REST API calls, is going to become critical.  I don't envision a world where we are actually directly touching mysql that much anymore, the same way you don't likely touch your underlying OS kernel that much directly anymore.  This is not a final product but gave me insight into the world of how content is constructed and made it clear there is a lot more work to do in this area.  The future is bright but we have to work for it.  
 

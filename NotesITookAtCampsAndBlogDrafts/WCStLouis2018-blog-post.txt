@@ -1,0 +1,493 @@
+WordCamp St. Louis 2018: Bowling under the arch and building a something 
+
+When I was 19 years old, I drove to [Branson, MO](https://en.wikipedia.org/wiki/Branson,_Missouri) basically because I thought it sounded fun based on a [Simpson's reference](http://simpsons.wikia.com/wiki/Branson) and a desire to see some true American [camp](https://www.urbandictionary.com/define.php?term=campy), before the monoculture swallowed us whole.  On the way back I got to see [Hannibal, MO](https://en.wikipedia.org/wiki/Mark_Twain_Boyhood_Home_%26_Museum) where Mark Twain originated from.  On the way there, from the freeway, I got to see the great national civic treasure known as [The Gateway Arch](https://en.wikipedia.org/wiki/Gateway_Arch).  Twenty years later I finally made a pass back to the [Gateway to the West](https://en.wikipedia.org/wiki/St._Louis) for [WordCamp St. Louis 2018]()
+
+https://twitter.com/wordcampstl/status/995282489764696064
+
+
+### Food and the Fun
+
+##### Speaker Dinner 
+
+I landed and was immediately greeted by 88 degree weather, which was quite the jump from my lovely hometown's cold, blustery wind.  A quick drive from the airport found me at my hotel, where I had just enough time to drop bags and head on down to [Urban Chestnut Grove](http://urbanchestnut.com/location-and-hours/), a local brewpub with a wide selection and highest standards.  The food was about as middle of the southern Midwest as you can think.  I had pretzels and fries while the rest of the party feasted on charcuterie plates and deviled eggs.  It was awesome to catch up with old friends and meet some new people. It was a great way to start the weekend.  
+
+https://twitter.com/MeetKarissa/status/995161842212319232
+
+
+##### Saturday
+
+I was happy to find coffee and tea awaiting me to set up before registration.  College catering has one consistency across any campus: it's coffee is never too strong.  Lunch found a very nice twist on box lunches where I get a Mediterranean plate with lovely tabbouleh and hummus with a really great vegan oatmeal cookie.  I was super happy.  We ate scattered throughout the halls and everyone had some time to get outside and enjoy that super warm weather, which many folks remarked had come from nowhere and how it had just plum skipped over spring and got straight to summer.  
+
+https://twitter.com/wordcampstl/status/995345439045115904
+
+
+##### After Party
+
+We went bowling! At the [Tropicana Lanes](http://www.tropicanalanes.com/).  This is the largest bowling center in Missouri featuring 52 lanes.  That is a lot of bowling balls.  The food was very meat and cheese pizza based with a salad somewhere under a mountain of parmesan.  I was fortunate they got a few vegan pies from [Pi Pizzeria](http://pi-pizza.com/) with plant based 'cheeze' and, new to me [Match Meat](https://www.matchmeats.com/) which honestly tasked so much like sausage I didn't believe them at first.  We also played a few board games, but the star of the evening was in fact the bowling.  The crowd, the noise, the smells.  It was a really fun time hanging with the fine folks of St. Louis. 
+
+https://twitter.com/wordcampstl/status/995470685509242881
+
+
+https://twitter.com/wordcampstl/status/995482422111342595
+
+
+Afterwards some of us ended up finding no good karaoke options but a good late night time was had
+
+https://twitter.com/blondishnet/status/995502845939142656
+
+##### Sunday
+
+Same old coffee and tea.  I got my own lunch from the local culinary jewel [Revel Kitchen](https://www.eatrevelkitchen.com/).  Their southern style jackfruit wrap is just too good.  If you are in the area, check them out.  The black bean brownies were also solid.  
+
+
+### Sessions
+
+Opening Remarks
+
+https://twitter.com/danemorgan/status/995301767712858112
+
+
+##### Saturday Keynote
+
+[Keynote: Build With the Community](https://2018.stlouis.wordcamp.org/session/keynote-build-with-the-community-how-the-power-of-the-wordpress-community-helped-me-build-and-contribute-to-some-of-the-largest-projects-in-wordpress/)
+[Chris Wiegman](https://twitter.com/iqcomputing/status/995303602880237569)
+
+This was the first time I had gotten to hear Chris speak and that is a shame.  His no nonsense style really reflects the professionalism you would want in an airline pilot.  Matter of fact and honest.  There are a lot of ways to get involved with this community and a lot of communities within to get involved with.  I loved his advice of solving an issue you have and donating that code out into the world.  Spoilers: I did that based in part, by motivation from this keynote.  See the wrapping up section to see what I mean.  
+
+Raw Notes:
+The community is big
+complex
+lot of smaller communities within
+WordPress plugin to make my life easier
+paid to maintain websites, 
+did it for himself
+then uploaded and successful
+really took off
+scratched someone else's itch
+Not a ton of other security at the time
+was originally the only thing there really was
+before wordfence
+go big or go home
+Release often
+great code is great
+but personal connection is best
+put all the posts out you want, but knowing someone goes so far
+Dont be afraid to say it
+use your own voice
+imposter syndrome
+Community is great
+But people do burn out
+some people give everything
+don't be afraid to ask for something back
+take donations
+be prepared to say NO!
+Know when to ask for help
+Caldera -Josh asked for help and it blew up successful this year
+Keeping up with support requests
+Don't underestimate how big community can get
+pay attention to the data
+pay attention
+TEST THINGS
+at least read your work and hire someone to read it before publishing
+New features !== a better product
+get involved!  First step is easy, meet people
+Meetups, camps, you aleady took it be being here
+Hallway track is super important
+
+
+https://twitter.com/wordcampstl/status/995302728099336193
+
+
+https://twitter.com/wordcampstl/status/995310259878195200
+
+
+[Debugging WordPress: Tips, tricks, and tools](https://2018.stlouis.wordcamp.org/session/debugging-wordpress-tips-tricks-and-tools/)
+[Joe McGill](https://twitter.com/joemcgill)
+
+Debugging is hard.  Well, everything is hard if you don't use the right tools.  Joe sat us down and walked us though things he had to learn the hard way.  Some of this stuff was old hat and some of it I didn't ever see anyone ever demo before.  This is one of the kinds of talks that I think make up the heart and soul of a camp.  Folks learning basic best practices from one another and improving the way we all make code.    
+
+Raw Notes:
+BEfore you begin
+check up to date
+check other things first
+Debugging constants - part of wp-config.php
+WP_DEBUG - Display PHP errors, warnings, and noticies
+WP_DEBUG_LOG - Sav errors to log
+WP_DEBUG_DISPLAY - Hide errors from the Browser
+SCRIPT_DEBUG - will load dev versions of CSS/JS
+SAVEQUERIES - save every query along with execution time and what called it
+WP Developer Plugin
+installs a menue of tools you might find helpful
+Debug Bar - add debugging info to admin bar
+Debug Bar Console - PHP/SQL console in admin to test with
+quick dummy checks
+DEBUG BAR CRON - see stats of cron jobs
+Rewrite rules inspector - View and flush rewrites
+Log Depricated Notices - notes deplricated fucntions
+User Switching - quickly switch between multiple users
+Beta Plugin - run beta versions of WP
+Demo time!
+Debug bar
+XDebug - general use tool for PHP on local installs
+upgrades var_dump()
+adds stack traces for noticies, errors, etc.
+
+
+https://twitter.com/JessicaKMurray/status/995319995977682944
+
+
+[WordPress, The GPL, & Ethics](https://2018.stlouis.wordcamp.org/session/wordpress-the-gpl-ethics/)
+[Wolf Bishop](https://twitter.com/wptophat)
+
+For any talk about the GPL, I am already going to attend and take notes.  But Wolf was presenting on something new to me that was based on a specific reading of the GPL and something I have been turning over in my mind since that session.  That topic is the GPL clubs that have spring up.  Redistributing code in a way that some people see as abuse and others see as a blessing.  It is one of the messy parts of any democracy that some people will read things different I suppose.  Ultimately I think there is more of a market in services based companies rather than licensing.  At least that is what I am hoping is true with this whole hosting thing.  
+
+
+Raw Notes:
+Basic rules:
+Do not claim another's code as your own
+Cite original
+Do not released forked items under the same product name
+if you modify GPL software, it must remain GPL
+Dev edition:
+Expect the product to be forked
+accept that you are giving others permissions to redistribute your work
+Do not whine when people give away your work, that is what you signed up for
+What is forking?  
+Modifying software into a new product regardless for public or private, free or paid
+is forking Ethical?  YES! 
+Examples:
+WP - forked from B2
+WooCommerce is a fork of Jigoshop
+CMS Commander fork of ManageWO
+WP Sync DB fork of WP Migrate DB
+Pretty common process
+GPL Clubs
+a website that redistributes WP themes and plugins, usually for a monthly fee or one off purchase
+are they ethical?  Yes
+well....mostly. These operate outside the GPL do not last very long
+activate a license as they are 
+gpldl.com
+gplguru.com
+search 'gpl club'
+Pros/Cons
+cons - no support
+no auto updates
+Pros - Test premium plugins/themes on the cheap
+Cheap premium plugins//themes
+nobuda.com (sp?) only one that can autoupdate
+basically fee marketing channel (if above board)
+protecting yourself
+Truly understand the GPL
+Provide rock star support
+fair pricing
+frequent updates are really key
+release for free and charge for auto updates and support
+His opinion:
+Forking and GPL clubs are ethical and legal
+devs who release under GPL must understand implications
+Devs should release plugins/themes for free, but charge for support and auto-updates
+End Users have a responsibility to understand the GPL
+
+
+https://twitter.com/JessicaKMurray/status/995335041604636673
+
+
+
+[GIT it under control: an introduction to GIT and code management](https://2018.stlouis.wordcamp.org/session/git-it-under-control-an-introduction-to-git-and-code-management-paul-f-gilzow/)
+[Paul F Gilzow](https://twitter.com/gilzow)
+
+Go, git, go!  I love git.  I give [talks on git](https://www.mcdwayne.com/lets-learn-git-no-more-excuses/) as well as workshops.  Even though this session was for the complete novice, I absolutely loved it.  Paul's energy is infectious and his war stories from the field are very real.  Seeing someone get it for the first time is just amazing and we got to see Paul talk some people through points to comprehension for the first time, with a little help from some blackboard diagrams.  Go learn git deeply as you are learning anything else.  
+
+Raw Notes:
+Version Control System
+not necessarily software
+but git is software
+Local, Central, Distributed
+local VCS
+examples dates directories and or fies
+revision control system
+advantages: cheap, simple easy to work with
+Disadvantage: collaboration can be difficult
+error prone
+can't work offline
+Central
+Subversion
+Advantage: Collaboration much easier
+Everyone knows where the latest version is
+more control over who has access
+everyone can clearly see what everyone else is working on
+Disadvantage:
+single point of failure
+you can't commit changes if you don't have access (no offline)
+can be slow
+Distributed
+Peer to peer version
+everyone has their own complete copy of the repo and exchange patches.
+Advantages
+Collaboration is easy
+every clone is full copy
+you can work offline
+local changes/commits can be made, history maintained without having to share with anyone until you are ready
+common operations are fast
+permissions are lightweight
+Disadvantages
+Every clone is a full repo copy 
+does not handle binary files well
+no built in error handling
+management permissions are lightweight
+Git advantages:
+Everything is local / the ability to work offline
+branching is easy and really really fast and easy
+disadvantage
+can be confusing
+does not impose a specific workflow
+CLI based, though not always intuitive
+145 commands in git
+access control is read or notread
+Does not support empty directory
+What is GitHub? (or bitbucket, GITLab, Gogs, Gilea, etc)
+Git Basics and Terms
+everything starts with git
+GUI is available
+git --help
+branch (the noun) not the verb
+default new repo has master
+but names do not matter
+branches are unlimited
+start from a specific history in an existing branch
+Branching is BIG
+you can have your own little universe to experiment in
+freeing!
+clone
+create a copy locally and track changes against the remote
+HEAD - the current branch
+Working Tree
+The files you are working on
+Normally contains the contents of the HEAD, plus any changes you have but not committed
+there is only one working directory, if you switch branches, GIT replaces 
+Index
+where things live
+Status, tells you what is going on in the world
+add
+commit
+store all the contents of the index and a message
+how the file changed
+a reference back to the commit it came from
+an ID (hash)
+pull gets it from remote into working tree
+merge
+
+https://twitter.com/wordcampstl/status/995364194932445184
+
+
+##### Sunday Keynote 
+
+[Mothers: Our Very Own IRL Heroes](https://2018.stlouis.wordcamp.org/session/mothers-our-very-own-irl-heroes/)
+[Josepha Haden Chomphosy](https://twitter.com/JosephaHaden)
+
+I likely have told you this story if we have ever mentioned Josepha, but she is my WordPress hero.  It was at WordCamp Dayton 2016 where I first met her.  It was there that I watched her, fighting through a cold, help person after person with any manor of WP issue.  It was there that I caught a vision for a career that was based on helping people that led me to where I sit now as a Developer Advocate.  This talk tells the story of how she got to be how awesome she is and who inspired her.  Most heroes don't wear capes, but an awful lot of them answer to 'mom'.  
+
+Raw Notes:
+Mothers Day
+What are heroes?
+Superheros
+Green lantern
+the hulk,
+you don't run into these people every day
+feats of strength 
+spandex
+they are rich, alien tech, magic, ect
+Academic 
+Ada Lovelace
+Grace Hopper
+Mother Theresa
+Einstein 
+what they got in common?
+All human
+some famous because of their actions
+smart, empathetic and future minded
+much closer to us, 
+try to be as great as they are
+Her heroes
+mother
+best friend's mother
+her optometrist
+but why?
+Didn't know until much later didn't know they were her heroes
+Her optometrist
+her willingness to change
+went back to school late in life
+got a job at chain ophthalmologist
+she got passionate
+late in life started her own company
+Best Friends Mom
+designer
+determination 
+she knew what was best for her clients 
+and always fought to the end of the day
+to get the best middle solutions for everyone
+holistic
+Her mother
+She can inspire people
+a teacher 
+taught ESL, classroom, college
+on more than one occasion
+said her mom made them want to do better 
+changing lives
+Origin story
+Josepha only knows about WP because of her mother
+Vocal Performance Major
+went to college for singing
+Bachelors of science
+starving artist
+went home, mom was going to WordCamp
+her first WC she did not know what WP was
+people seemed into it
+5 things
+Mom's
+1. Assume no ill-will
+2. People fight for the best choice
+3. Always be punctual.  (Being late says your time is more important than theirs)
+4. Listen through anger
+when you gt mad, you get a cloud of anger fog
+body does not receive all signals right
+5. SLAY THAT INNER IMPOSTER!!!
+Josepha's 5
+1. Be Realistic about pursuing passion
+2. Change your perspective.  If you are stuck, it is just a day, do something different, 
+3. Always, Always be learning
+4. Be: Flexible, Forgiving, Fair
+Change with the times
+Remember you have to be fair
+5. Flex your people skills
+
+
+https://twitter.com/wordcampstl/status/995674920968507393
+
+
+
+[Local WordPress with Lando](https://2018.stlouis.wordcamp.org/session/local-wordpress-with-lando/)
+[David Needham](https://twitter.com/davidneedham)
+
+It was a real treat to hear David give this talk.  I have the extreme honor to work with him and use the same tool chain he does from time to time.  Lando is the real deal.  This is not just a local environment for WP, this is advanced Docker management with a future leaning edge.  I will admit my notes are scattered here but so much of his talk was code and demo that it would be hard to capture it all in notes anyhow.  The best way to learn is to do, and since Lando is FOSS, what are you waiting for? Get started with [Lando right now!](https://docs.devwithlando.io/)
+
+
+Raw Notes:
+devwithlando.io
+by tandem
+based on docker
+uses idea of recipe
+code example
+lamp
+can be anything
+many recipes
+many people making these
+opens simple php info
+look at lando and 
+Why?  Because you should cause you can
+thats why
+start stop
+restart
+rebuild
+destroy
+db export
+composer out of the box
+landoexample.localtunnel.me
+
+https://twitter.com/wordcampstl/status/995682593352888320
+
+
+[YAY, I’m Working Remotely… Now What?](https://2018.stlouis.wordcamp.org/session/yay-im-working-remotely-now-what-jamie-schmid/)
+[Jamie Schmid](https://twitter.com/jamieschmid)
+
+I did not join as a remote worker, but I work with an all other but me remote team in my capacity as Developer Relations.  It is easy to forget what it is like working from home, even though I have done that in a previous working life before I got into the Drupal and WP space.  This talk was a great reminder of what they are dealing with and gave me ideas on how to better support them.  Number one thing is having patience because they will not have the same chance of hallway conversations that you get working in a central office and some news just moves slower than others.  Always strive for clear communication and you can't go too far astray.    
+
+Raw Notes: 
+Working in a company
+Bad 
+commuting
+costs
+early morning
+not flexible
+Not so obvious good
+social interactions
+leaving work behind
+company resources
+remote?
+not so obvious bad
+working too much
+no separation of work/life spaces
+life distractions
+difficult communication
+out of the loop
+collaboration is difficult
+timezone issues
+lazy health habits
+not leaving the house
+expenses are all on you
+time management
+make sure you monitor your time
+there are software tools for that
+pop ups to tell you to get back to work
+rescue time, time doctor, IDoneThis, Trello
+Daily/Weekly scrum
+Tools are there to help you do things more efficiently,
+Google is great for this stuff
+password managers
+Asana
+lastpass you can safely share!
+get out of the house!!! 
+good for your mental health to get out
+
+https://twitter.com/McDwayne/status/995697475855020034
+
+
+[Improving WordPress Development Efficiency With Your Own Framework](https://2018.stlouis.wordcamp.org/session/improving-wordpress-development-efficiency-with-your-own-framework/)
+[Heather Acton](https://twitter.com/HeatherActon)
+
+Heather had a hand in my very first talk I ever gave in this industry.  Way back in 2016 when I was nervously submitting and building new slide presentations I went looking for a calculator a freelancer might use and came across her worksheet she had presented in her talk [Financial Business Planning for Freelancers](https://wordpress.tv/2015/05/08/heather-acton-financial-business-planning-for-freelancers/).  I asked if I could borrow it for use in my talk and was met with a very friendly "go for it."  I will never forget how that made me feel.  Connected.  
+This talk comes at a very interesting time, when the editor is about to change and force all our hands into design based on modular components.  It is a great thing to discover the path you are on sometimes is the one everyone else is trying to catch up to.  My notes are spotty on this talk, so I highly encourage you to go see it yourself once posted.  
+
+Raw Notes:
+Before frameworks undercharging
+framework helped them raise their rates
+what is in a framework
+many things on front end
+modular building
+if 80% of clients use it, it is in the framework now
+reduce what is not used
+copy block, callout block
+text icon block 
+style premade and you can pick and choose
+very fast to implement
+slider
+Modular design
+a list apart language of modular design
+naming convention according to blocks
+sass files and ACF layouts
+Underscores and SASSified
+Bootstrap Grid
+ACF JASON
+Slick Slider
+
+
+https://twitter.com/nathaningram/status/995735086879436801
+
+
+
+### Wrapping Up
+
+It took me about a week longer than I had originally planned to post this post.  Well, to even write this post.  Based on my little demo of the wp-cli post create script I put together for my demo, I just couldn't stop thinking about making that a real utility for myself.  So I did.  It turned into 2 parts of a project.  
+
+First, there is [postit](https://github.com/mcdwayne/postit) which has 2 tools based on how I want to run my workflow.  the command postit will create a post based on a github address, asking for the RAW.  Crude but effective.  The second is postitnow, tailored for my nutty workflow of pushing to github and then just posting the most recently used file as a new post.  I also built in a drag and drop to the terminual way to post the file from local and a featured image.  But with Basically this is a static site generator for WP posts based on markdown, but I love markdown, so that is why I made it.  Feel free to play with it and maybe help optimize if you are so inclined.
+
+Second is a new [Terminus](https://pantheon.io/docs/terminus/plugins/) plugin called [WP Clone Content](https://github.com/mcdwayne/terminus-wp-clone-content) which let's you clone a post from point a to point b.   It is a work in progress that is good enough for my current workflow, but has issues, depending on how featured image was set and some other small factors like Tags which I still need to unravel.  THis was the first time I have ever even tried to extend Terminus, and man, I am not a PHP expert at all.  I can do it in bash, but 6 hours of this effort were just reading basic PHP examples again.  Again, free and open source, so please help if you think this is a good idea for a tool. 
+
+#####Why do I think WP Clone Content is a good idea for a tool?
+
+Basically, the future of Gutenberg and the WP 5.0 changeover is heralding in a new age when functionality and configuration are being moved back into content.  I personally believe that we are going to have to start testing content in automated ways more often and multi-environment workflows, eventually harvesting REST API calls, is going to become critical.  I don't envision a world where we are actually directly touching mysql that much anymore, the same way you don't likely touch your underlying OS kernel that much directly anymore.  This is not a final product but gave me insight into the world of how content is constructed and made it clear there is a lot more work to do in this area.  The future is bright but we have to work for it.  
+
+I immediately had a good feeling about St. Louis and still do a week later.  I can't quite put my finger on it, but there is something to it. Maybe it reminds me of where I grew up a lot more than most other places I have been.  Maybe it is because it reminds me of Detroit 20 years ago, when the opportunity to build was the only thing that was in high supply.  I do know that the people are some of the nicest, most grounded and honest folks you can expect out of the Midwest.  I hope to get back before too long and spend a few more days exploring the Rome of the West, at minimum for next year's WordCamp St. Louis 2019.
+
+https://twitter.com/wordcampstl/status/995716270950580226
+

@@ -16,7 +16,7 @@ The notation is very stable and can be written in Word, Google Docs, notepad or 
 
 You can cut and paste or WP-CLI post create from a text file into Gutenberg and it will correctly transform it into beautiful HTML.  Once there, you hit one (1) button from a dropdown called 'Convert to 'blocks' and then you have every line break as it's own block. And the kicker here, is if you just paste in a URL to some media asset it can recognize, like a tweet or a public FB post or a youtube video, it will just auto form a proper block around it. 
 
-Once the 'base content' is there in blocks, well, the art of making this image here and that image there and such is actually quite fun.  In fact this post was made exactly this way and yes, there are random pictures from wikipedia throughout it to prove a point.  I did not type those on my original post with you can see over on my Github, here: <<<<<<GITHUB LINK>>>>>>
+Once the 'base content' is there in blocks, well, the art of making this image here and that image there and such is actually quite fun.  In fact this post was made exactly this way and yes, there are random pictures from wikipedia throughout it to prove a point.  I did not type those on my original post with you can see over on my Github, here: https://github.com/mcdwayne/PublicDocs/blob/master/A-Case-For-Markdown.txt
 
 ### Why not just use the 5.0 editor to write your content?   
 

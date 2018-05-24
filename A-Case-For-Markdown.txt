@@ -8,7 +8,7 @@ I am pretty darn excited about the possibilities of the WordPress 5.0 editing ex
 
 What if instead of freaking out about how to retrain our clients, we seize the opportunity to help them embrace a much cleaner path that would require almost no change in their tool chain and less than 30 minutes to master (with a cheat sheet handy of course).  
 Markdown was specifically created  as "an easy-to-read, easy-to-write plain text format, and optionally convert it to structurally valid XHTML (or HTML)"  
-Do you want to underline something?  __word__  
+Do you want to something in italics?  _word_  
 Do you want to bold something?  **word** 
 The notation is very stable and can be written in Word, Google Docs, notepad or (insert your favorite text editor here).  Hundreds of resources are available online to help you learn it and there are so many reference materials, that might be the most overwhelming part.  
 

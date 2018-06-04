@@ -4,12 +4,15 @@ How many times have you been in a situation where the client is never happy with
 Gathered from years of 'learning it the hard way' I am excited to share my knowledge with Freelancers, Agency Owners, Project Managers, Business Development professionals as well as anyone else who wants to better manage conversations.  
 Walk away from this talk with a better understanding of:
 	- Project And Sales Pipeline Strategy
-	- Uncovering Client Business Goals 
-	- Objection Handling 
+	- Uncovering Client Business Goals 	
+	- KPIs vs KPIs
 	- Managing Scope
-	- Expectation Setting For Better Support Delivery
 	
 -----------
+
+Having a process is obviously important in sales, but learning where to automate and which steps should be mechanical is tricky.  This talk delves into that discussion and shows how to leverage KPIs for better project results
+
+----
 	
 This is all stuff I think people at some level know, but as I have been told many times, no one says out loud.  I would ideally like to save folks in business positions and newer agencies and freelancers some pain by sharing what I went through to learn these points.  
 

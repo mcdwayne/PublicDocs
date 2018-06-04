@@ -1,0 +1,569 @@
+Texas Camp 2018: The blazing heat of Austin and learning much about Drupal core
+
+I occasionally get on an airplane and am freezing thanks tot he AC being cranked all the way up.  This was the case when flying to [the lone star state](https://en.wikipedia.org/wiki/Texas) and was immediately met with 
+
+
+
+General
+
+https://twitter.com/developingClair/status/1002556353553031168
+
+https://twitter.com/CodeKoalas/status/1002560158915088384
+
+https://twitter.com/_porkloin_/status/1002543220134379520
+
+
+
+##### Thursday
+
+Speaker dinner
+
+https://twitter.com/anicoto/status/1002351024752021504
+
+
+
+##### Friday
+
+Breakfast tacos
+
+https://twitter.com/c_leverington/status/1002541087146340356
+
+
+
+### Sessions
+
+##### Training Day
+
+https://twitter.com/McDwayne/status/1002205297283358720
+
+##### Friday
+
+[Keynote: Breaking the Binary: The Politics of Code and Inclusivity in Technology](https://2018.texascamp.org/happenings/keynote-breaking-the-binary-the-politics-of-code-and-inclusivity-in-technology)
+[Nikki Stevens](https://twitter.com/drnikki)
+
+Great intro from [Michael Schmid](https://twitter.com/Schnitzel)
+
+Are things the way they are now, the way they have to be?
+No
+binary does not change for instance
+code does not change
+but we used to have balanced terniary system
+nothing is inevitable or unchangeable
+can we image a different future?
+Politics 
+definitions from the crowd
+slow
+messy
+intersection of change
+manipulative
+power is exchanged
+tech work is political
+algorithm to tell who on skid row on who gets a house
+it affects real things
+internet exists in the real world
+interent is just tubes filled with cats
+we forget that this is computers made with stuff from mines
+in a system, we are all connected
+do small choices matter? yes
+vim vs emacs
+trello vs jira
+vagrant vs lando
+all the choices matter
+the foundation for inclusion is the abiity to imagine new futures
+no one knows how tech works in general populations
+does you 'user' exist
+average pilot issue
+Open demographics began last year
+gender: male/female/other
+open-demographics on github
+gender form to many more options
+small choice, huge difference
+distributed credit shatters illusions of meritocracy by showing all the labor involved
+supported by charts that show 86% male in the space
+reinfocing illusions in the system
+What's the business case?
+Diverse companies do better and make more money
+changing ideas about women
+why are we still here?
+what is the business case for not changing our hiring practices
+data show this is import to change
+what systems are we supporting with our corporate and 
+why are black women so
+things designed for white faces/skin
+not taking things like gender diversity in stats
+tech is important and impacts the world
+
+https://twitter.com/McDwayne/status/1002556315372277760
+
+
+
+[Getting closer to your customer: Using Drupal in the last mile](https://2018.texascamp.org/sessions/getting-closer-to-your-customer-using-drupal-in-the-last-mile)
+[Kelly Albrecht](https://twitter.com/KSAlbrecht)
+
+Why we are thinking this way and how to implement
+How close are you to your customers now?
+easy to push customers away if you see them as interruptions
+lot of misconceptions of what DevOps is
+people think about it terms of servers and machine
+DevOps camoe from the developer and the operations folks not communicating
+shortening the feedback loop and adding value to chain
+customer benefits
+break down the wall of confusion
+automation helps
+feedback though is critical
+narrow version of this topic and that is ok, we talk about it a lot
+want to automate to noops (no ops)
+this is short sighted
+Whole point is delivering someting of value to the customer
+think about getting everyone in loop to customer as communicative as possible
+Dev, Test, Engineers to get to mind set
+build,CI,Deploy,Operate,feedback,plan,build loop
+manager / maker schedule
+feedback comes in as tickets
+that is what the devs thought
+needs to think wider with it
+apply flow and automation ot customer feedback as well
+which new thing is more important than the other new thing
+what's new, what is, how is it?, what's next
+people lose faith based on how they misunderstand a product
+WP as a community thinks about the end customer a lot more than Drupal generally does
+What if we modified the Drupal login experience 
+Tour is un D8 core, not being promoted but very valueable
+`?tour` trigger tour trick popup
+demo
+end user feedback at the end of a tour
+get feedback quiz
+if people feel their feedback would be heard, they give it
+We need everyone's perspective to make our product as intuative as possible
+keep experimentations simple and cheap, 
+iterate to get closer to you
+
+related: https://www.drupal.org/contributor-tasks/create-tour
+
+https://twitter.com/McDwayne/status/1002617467640995840
+
+
+
+My talk
+
+https://twitter.com/davidneedham/status/1002578581019680769
+
+https://twitter.com/JoshFabean/status/1002577888418385920
+
+
+
+[a11y -- ARIA Rules: To Use Or Not To Use](https://2018.texascamp.org/sessions/a11y--aria-rules-to-use-or-not-to-use)
+[Susan LaRonde]()
+[Charles Leverington](https://twitter.com/c_leverington)
+
+
+Speaker notes are available on the slides from link
+examples of ARIA accessable approved code are freely examples
+purpose
+add functionality where semantic HTML does not
+classes and how they relate
+HTTML DOM tree JS Accessibility tree Assistive technology user
+right click inspect, look at JS events, look for accessibility tree 
+only exists since 2012
+most roles are automatically made in HTML5, leveraging semantic HTML
+roll = navigation
+no aria is better than bad ARIA
+do not overwrite existing accessibility semantics
+do not change the native semantics unless you have to
+ARIA uses KISS principal
+lot of code examples in this talk that ironically I had to strain to see from even my third row seat
+third rule of ARIA, always make sure keyboard controls are usable
+NVDA - NVAccess, free and open source
+
+
+
+https://twitter.com/McDwayne/status/1002632222384574465
+
+
+
+[The traffic fallacy](https://2018.texascamp.org/sessions/the-traffic-fallacy)
+[Sean Eddings](https://twitter.com/LastCallMedia)
+
+lives in NYC
+traffic is bad and many places are too
+but thinking while stuck in traffic
+not a ton of thought given to solving
+he researched and Houston to Katyland TX
+41 minutes to go 28 miles on average
+right now, hour and 20 minutes
+in 2004 nonprofit said 25million hours wasted
+delay would double by 2025
+about $503,620,000 lost opportunity per year
+engineers, extra lanes means more capacity
+Texas spent $2.8 billion to widen the Katy Freeway
+average time increased from 41 min to 64 minutes
+55% increase
+the amount of freeway increased the number of cars increased, ratio remained the same and actually worsened
+50 lane freeway in hong kong
+freeway engineers have the best intentions
+Need a vehicle and progress limit
+Manhatten is experiment with congestion pricing
+no go on this idea now
+Stockhom, Sweden, bunch of islands
+set up experiment, costs a $1 to enter central city
+when people saw the data after 6 months
+travel time decreased by 50%
+emissions dropped by 14-18% in inner city
+what about our industry
+Backlogs are like this, things taking forever never get done
+think, more people, get done faster
+looked at tast list and too many things assigned to single contributors
+Value was taking too long to get to the customer, and everyone was too busy
+looked at they way they managed processes
+realized they had a command and control model
+traditional management says 100% utilization of people was the key
+but if everyone is busy, delivering value with predictability is not impossible
+changed to prioritized delivering work to the customer as quickly as possible
+goal: put our good ideas into action quickly
+1. Visualize our process
+2. limit our work in progress
+3. improve as a team
+1. visualized
+moved away from tech, went to boards and paper
+high level visibility for team
+bottlenecks easier to see, respect or change
+makes hidden work apparent
+2. limit work in progress
+how many things can you really work on?
+excessive WIP heightens distractions
+marked WIP limits on board
+there is no right WIP limit for everyone
+a lower WIP is generally better
+a too high WP leaves work idle
+too low leaves people ide
+WIP limits are not rules
+take a list of work, prioritize it based on biz value
+that is your backlog
+work top to bottom
+right now thinking of tasks and breaking them in different ways so something is completed
+task that needs approval example, 
+deliverable is the thing to be evaluated but that is a new card once feedback is given
+conversation the team has on who does what
+always keep things in motion though to get to value delivered
+flow efficiency is the sum of value adding activities in relation to the throughput time
+Flow Efficiency = Value Adding Activities/throughput time
+Works because devs do not put things in To Do
+selected for dev is a parking lot
+ready to deploy is a staging area
+what stayed the same?
+Multifunctional team
+dedicated team
+queue hygiene
+daily stand ups
+retros
+what changed
+optimizing for getting a single work unit through the process as quickly as possible
+ea members attached to work
+team members pull work
+that takes a lot of autonomy
+Good to Great teams:
+set the stage
+gather data
+generate insights
+decide what to do
+clone the retro
+What did we learn?
+Start with what we have
+prioritize our work
+visualize our process
+limit WIP
+Retros are how team improves
+goal is to deliver value faster to customer
+Agile and Lean, are all about experimentation and learning.  Enjoy the trip
+
+
+
+https://twitter.com/McDwayne/status/1002656001219317760
+
+
+##### Keynote Saturday
+
+[Keynote: The Future of Drupal](https://2018.texascamp.org/happenings/keynote-the-future-of-drupal)
+[Michael Schmid](https://twitter.com/Schnitzel)
+
+We need to talk Drupal
+You taught us a lot Drupal
+collaboration
+parties
+speaking
+growing companies
+You have changed lives
+but you also changed a lot
+Drupal 8 is not the old Drupal
+Upgrading from D7->D8 is really hard
+Modules work differently
+OOP everywhere, you have to understand deeply
+so many new things to learn
+and already Drupal 9 is in discussion
+Adoption is slowed down and it is scary
+same is true for DrupalCon attendees
+no DCon Europe
+You also created physical and mental pain
+Drupal Confessions
+didn't do his due diligence and found out too late
+He is sorry for what happened
+it is gone now, but caused a lot of pain he sees now
+Had to learn composer and the CLI
+so complex now
+and now need to learn JavaScript
+and it is very different too
+and now the Security Issues
+so many hours
+is Drupal over?  
+is that our tomorrow?
+NO! it is not over
+Who is Drupal?
+If we blame Drupal, we are blaming ourselves
+we are all in there together
+The others are not sleeping
+Drupal is already powering the web
+we have a lead
+over a million sites
+5% of top Million websites are drupal
+181 governments use Drupal for sites
+So many governments decided to use this code we make
+Want to buy a car, you are likely using Drupal sites
+Lush - Drupal commerce, but because of our code
+NBC, Pfizer, etc
+Drupal is used more and more by bog and important websites
+is more market share really better?
+D.O Data Usage is voluntary
+many people disable the ping back to Drupal
+Now we have a roadmap!
+we have a plan for next
+an upgrade path
+D9 Upgrade path, as easy as 8.0 to 8,1
+will be smooth process
+Camps are happening and getting more and more important
+Camps are less intimidating than Cons
+Camps are closer to the people
+and much more affordable
+only works if businesses sponsor
+It is hard since 'what do I get back'
+small $ back, sure
+but you are making Drupal better and possible
+and send employees to participate and bring community closer
+should be sharing that knowledge internally
+lunch and learn it, share what you loved
+employees: ask to go to camps
+All the major frameworks using Symfony framework
+Drupal started that
+added complexity, but akes us all stronger
+why embracing and using other tools
+We have always done it, like jquery
+Less overall work
+brings us closer to the rest of the PHP world
+easier to hire engineers
+Composer
+We need package managers
+there is no other way
+everybody uses it
+everyone has always used package managers 
+like driving a car
+it seems impossible at first
+Secure is much more transparent
+Drupal Security is completely volunteers
+Same processes like Linux, Google, Apple, etc
+hosting companies have you covered
+JavaScript?
+Most popular tools, tops the list
+TensonFlow, React
+Stanford intro CS is in JS
+Decoupled frameworks
+this is how most large sites work now
+API first is key
+MOre dev, design, UX capabilities
+So Drupal, forefront of decoupling
+Full support for JSON-API and GraphQL
+Contenta CMS
+Angular, Elm, Ember, React, Vue
+still a hard problem, but this is getting easier
+So Dear Drupal
+Lets build the future
+Accept and embrace change from all of us
+we alwaus making it better
+but that takes investment from us all
+and if we believe 
+
+https://twitter.com/McDwayne/status/1002916530668044290
+
+
+
+[Hmm, I Didn’t know that Module Existed!](https://2018.texascamp.org/sessions/hmm-i-didnt-know-that-module-existed)
+[Fito Kahn](https://www.linkedin.com/in/fitokahn/)
+
+Drupal?!?!  
+What have I gotten myself into?
+Fear!  
+Some people on first site right now
+Overwhelming at first
+but there is hope
+there are so many modules
+and the Joy of D8 being awesome
+History of D8 75 core modules in D8
+not as many contrib modules needed
+30 core in D7
+important dates
+3982 D8 modules in 2018
+8641 D7 Modules 
+Experimental Models as well
+many in core are turned off, just need activated,
+Modules that will make life better
+- Admin Toolbar/Tool Bar Extra
+- Coffee and Coffee Extras - search in admin that is easy to use
+- Pathauto - makes URLs with tokens easy
+- SEO Checklist 0 
+- Content Moseration/Workflows - in core! 
+- multilingual support, content translation in Core - 4 modules
+- Webform - you can design your own
+- Simple Sitemap - lighter than XML sitemap
+- Slick/Slick Extras - one of many solutions for slideshows/carousel
+can be touch to configure
+- Focal Point - crop API
+- Honeypot - defer spam bots from completing forms, not as intrusive as captcha
+- Autoban (Automatic IP ban) using watchdog table
+- Scheduler
+- Paragraphs - editors control flow of content - replaces bidy field with content types you can mix and match
+- Views Reference - field conjunction with paragraphs, adds more flexibility
+- Panels/Panelizer/Display suite - create drag and drop layouts for customize looks of site
+Let's remember this is all to avoid actually touching code
+this is all just install and config, very different than hand changing views
+- settings tray - core.  Customizer for Drupal
+- Bricks
+- String overrides 
+- Statistics - in core - can slow down the site but valuable info
+- Module filter
+- Alexa - yeas integrate Alexa with a D8 site
+
+
+https://twitter.com/McDwayne/status/1002941220816064512
+
+
+
+[Archiving and Visual Regression Using Drupal 8](https://2018.texascamp.org/sessions/archiving-and-visual-regression-using-drupal-8)
+[David Stinemetze](https://twitter.com/DavidStinemetze)
+
+
+Why?  Old parts fo site don't change
+testing anyway
+add on a wayback machine element
+Module overview
+Web Page Archive module snap local or remote, triggered periodically, compare snapsops based on URL or XML sitemaps
+Snapshops can be captured on any site
+not just current instance, not just drupal, not just sites you own
+Requirements, D8
+Why?
+Learn D8, Ease of use for non-tech users
+Drupal 8 plugin ecosystem makes it easy to support additional use cases
+give back to the Drupal community
+Capture Utilities
+Drupal plugins responsible for performing captures
+uses annotation based discovery
+configurable per instance
+Captures screenshots of URLs
+uses Headless chrome and puppetier
+examples
+can also capture raw HTML
+Skeleton Capture, prototyping tool
+Web Page Test Capture Utility
+Captures web performance test results
+just capturing it now
+other proposed use cases 
+Configuration Archive Capture
+Rendered DOM capture
+Google Analytics Capture
+Security Scan Utility
+can configure easily with dropdowns
+don't want to manually capture each page, use site map
+capture stores things, storage can be an issue
+Current Project Sessions - yesterday Spot the Difference tool
+Visual Regression is all about the things human eyes easily overlook
+slider compare
+compare screenshots Heatmap
+bright red to highlight differences
+Release plan drupal.org/node/2930857
+Some remaining issues
+You can help
+needs new code, needs reviews, etc
+demo time
+in config, website archive tab
+
+
+https://twitter.com/McDwayne/status/1002977005783089152
+
+
+[Goldilocks Decoupled: What the Future Holds for Decoupled Publishing](https://2018.texascamp.org/sessions/goldilocks-decoupled-what-the-future-holds-for-decoupled-publishing)
+[Mike Minecki](https://twitter.com/mirzu)
+
+
+This is not a demo or a show and tell
+why Devs love Decoupled
+Hard choices
+are you doing stand alone or hub
+chart for this out there
+simplifies the ideas of it
+if there are other apps basically
+heart of the chart is layout and display managment
+modules, toolbar notifications, caching and performance
+end up with choices
+coupled, progressive, fully decoupled
+more JS -->
+Why do Devs love it?
+bad reasons
+new and shiny, Drupal is hard, performance, Dogfood API
+Why good
+good reasons
+Shared templates and language
+building frontend in JS is really fast and rather easy
+Static site generators are really performance
+seperation of concerns
+a lot more to a website than static markup and content
+Content routing and complexity for instance
+Decoupled pitfalls
+Snowflakes - every front end unique
+can't install stuff (like twitter cards or sitemap.xml)
+caching and routing - static site generatos don't work for bigger sites
+Progressive Decoupled - the middle way
+Cons
+Reheaded stepchild of the monoloth and JS framworks
+need deep understanding of both to build new stuff
+DX is only great if 2 teams
+Tons of Content APIs
+0 ways to render them without a dev
+44 decoupled backend listed on headlesscms.org
+that's weird
+off the reservation  - Arc publishing
+a pagebuilder
+Superdesk publisher
+lightweight source renderer
+Goldilocks
+benefits for devs
+100%JS
+Declaritive
+Editorial contrils
+Built to work with reverse proxies
+Stanradized workflows
+
+
+
+https://twitter.com/McDwayne/status/1002997776098177024
+
+
+how to fall asleep
+4 7 8 breathing
+4 in
+7 hold breath
+8 seconds you breath out
+counting down from 100 to 0
+
+
+### Wrapping Up
+
+
+
+

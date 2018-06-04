@@ -1,0 +1,595 @@
+Texas Camp 2018: The blazing heat of Austin and learning much about Drupal core
+
+I occasionally get on an airplane and am freezing thanks tot he AC being cranked all the way up.  This was the case when flying to [the lone star state](https://en.wikipedia.org/wiki/Texas) and was immediately met with 104 degree heat when they opened the doors on the ground.  To be honest, this is not my favorite kind of weather, but at least I would be indoors for the most part, since I was there for [Texas Camp 2018](https://2018.texascamp.org/). 
+
+This was the second time I have ever been to [City of the Violet Crown](https://en.wikipedia.org/wiki/Keep_Austin_Weird) or Texas at all for that matter.  The first time had literally changed my life.  It was my first Drupal event I had ever attended, [DrupalCon 2014](https://austin2014.drupal.org/). It was the event where I went from just another sales guy in a another tech job I thought was interesting to full blown community member and Drupal enthusiast.  It would be hard to understate the importance of this for my life and there is zero doubt I would not be writing this now, nor would I be even living this well, if it were not for that trip.  Tamping down crazy expectations of something that life changing, I went in like I do every camp.  What I got out of it was again some of the most memorable moments I have had in this space yet.  
+
+https://twitter.com/developingClair/status/1002556353553031168
+
+
+
+### Food and Fun
+
+##### Thursday
+
+Speaker dinner
+
+After a long, full day of training the speaker, sponsors, organizers and volunteers all got together for some Texas BBQ over at [Stiles Switch](http://www.stilesswitchbbq.com/).  It was awesome to see everyone.  The team made me feel very welcome with the food, by brining in some vegan quesadillas that really hit the spot along with some awesome veggies we all could share.  Other folks with dietary restrictions also commented on how inclusive this event was.  Not even going to mention it on the other things below, there were vegan options every singe time we were together, just as I think it should be.  
+
+https://twitter.com/anicoto/status/1002351024752021504
+
+
+
+##### Friday
+
+No coffee to be found.  I almost cried and went a walking around to try to find some.  The only coffee place I could find opened at 10:00am.  I don't know what Texas thinks coffee is for exactly or when they think it should be consumed, but this was literally a first for me and was not too pleasant a surprise.  However there were breakfast tacos.  No lunch was provided so I ended up eating the really awesome and tasty breakfast tacos all day long
+
+https://twitter.com/c_leverington/status/1002541087146340356
+
+
+There was a Friday night after party as well.  We gathered over at [4th Tap Brewing](http://4thtap.coop/), another co-op, to play some board games and try their pretty terrific brews.  I am normally not a beer drinker, but if you are in the area, drop in and see of they still have the Highland Scoundrel, a 10% ABV malty Scotch-style ale, made with peated malt smoked in-house.  Best beer I have ever tried.  
+
+https://twitter.com/c_leverington/status/1002700909816762368
+
+
+##### Saturday
+
+More breakfast tacos!  No coffee, which lead to sleepiness on my end and might have ended disastrously if not for the heroics of [David Needham](https://twitter.com/davidneedham) who brought me iced coffee.  
+We again were on our own for lunch and instead of just grabbing the free option, I ventured around the block to [Wich 'Wich](https://www.whichwich.com/) which has pretty awesome selection of subs, wraps and salads.   It was great to get to hang out with my Drupal folks over a meal.  
+The after party was a hoot, taking place not too far away from the venue at [The Local Post](http://thelocalpost.pub/) where we had more drink tickets than we knew what to do with and a terrific spread of food.  Afterwards, we found a pretty awesome karaoke spot over at [Common Interest](https://www.ciaustin.com/) and sang and sang and sang until they threw us all out at closing! At the karaoke, we got to see something that was a first for me, a trumpet player playing along with some of the singers and doing the best version of 'Georgia On My Mind' I think I have ever heard.
+
+https://twitter.com/jonpugh/status/1003116187708993537
+
+
+
+
+
+### Sessions
+
+##### Training Day
+
+[Training: Visual Regression Testing with BackstopJS](https://2018.texascamp.org/happenings/training-visual-regression-testing-with-backstopjs)
+
+I was super pumped to be able to co-present/assist with this training.  I had done so at [LoopConf](https://www.mcdwayne.com/2018/02/26/loopconf-2018/) and it was awesome.  Being able to do it here again was also good, though this time I had my own agenda.  I used the time to really wrap my head around some of the internals and how I could better use them for my workflow that I build [Postitnow](https://github.com/mcdwayne/postit) around.  Here is a video of my then current results
+
+https://www.youtube.com/watch?v=sfWvi39B7kg
+
+
+https://twitter.com/McDwayne/status/1002205297283358720
+
+
+##### Friday Keynote
+
+[Keynote: Breaking the Binary: The Politics of Code and Inclusivity in Technology](https://2018.texascamp.org/happenings/keynote-breaking-the-binary-the-politics-of-code-and-inclusivity-in-technology)
+[Nikki Stevens](https://twitter.com/drnikki)
+
+Inclusion is one of the things we like to pay lip service to a lot I think.  When Nikki showed some examples though of us getting it wrong, it was like a gut punch.  I love a good gut punch, it makes me uncomfortable but motivates me at the same time.  Like when I think about Accessibility, I always get that same feeling of 'I am not doing enough' which drives me to always make alt text at least now.  Now I am inspired to always consider 'am I being tolerant or am I being inclusive with this decision'.  They are both important but they are very, very different ideas.  I am glad to be on this journey of FOSS with so many people from so many backgrounds.  This is and excellent talk to put us in the right direction, but it is up to each and every one of us to move down this path and make tomorrow better, and more inclusive, for everyone.   
+
+Great intro from [Michael Schmid](https://twitter.com/Schnitzel)
+Are things the way they are now, the way they have to be?
+No
+binary does not change for instance
+code does not change
+but we used to have balanced ternary system
+nothing is inevitable or unchangeable
+can we image a different future?
+Politics 
+definitions from the crowd
+slow
+messy
+intersection of change
+manipulative
+power is exchanged
+tech work is political
+algorithm to tell who on skid row on who gets a house
+it affects real things
+internet exists in the real world
+internet is just tubes filled with cats
+we forget that this is computers made with stuff from mines
+in a system, we are all connected
+do small choices matter? yes
+vim vs emacs
+trello vs jira
+vagrant vs lando
+all the choices matter
+the foundation for inclusion is the ability to imagine new futures
+no one knows how tech works in general populations
+does you 'user' exist
+average pilot issue
+Open demographics began last year
+gender: male/female/other
+open-demographics on github
+gender form to many more options
+small choice, huge difference
+distributed credit shatters illusions of meritocracy by showing all the labor involved
+supported by charts that show 86% male in the space
+reinforcing illusions in the system
+What's the business case?
+Diverse companies do better and make more money
+changing ideas about women
+why are we still here?
+what is the business case for not changing our hiring practices
+data show this is import to change
+what systems are we supporting with our corporate and 
+why are black women so
+things designed for white faces/skin
+not taking things like gender diversity in stats
+tech is important and impacts the world
+
+https://twitter.com/McDwayne/status/1002556315372277760
+
+
+##### My talk
+
+[Discovery, discovery, discovery, discovery! The most important part of the project](https://2018.texascamp.org/sessions/discovery-discovery-discovery-discovery--the-most-important-part-of-the-project)
+
+I really had a great time presenting this.  Had a pretty full house and people gave me good feedback.  The more I think this stuff is common knowledge the more I am always surprised people say they have not encountered some of this stuff before.  I am about to retire this one I think, going to replace it with the best parts of a couple other talks about process and give a polished 'Follow the Process to Success' kind of a talk, but no time line on that.  Thanks to you if you came out to it or listened online.  
+
+https://twitter.com/JoshFabean/status/1002577888418385920
+
+
+[Getting closer to your customer: Using Drupal in the last mile](https://2018.texascamp.org/sessions/getting-closer-to-your-customer-using-drupal-in-the-last-mile)
+[Kelly Albrecht](https://twitter.com/KSAlbrecht)
+
+I honestly went to this talk with the thoughts of a) I think Kelly is an awesome presenter and b) What does he mean by last mile here?  I was right on the money with the first assumption, Kelly knocked it out of the park and this was a great presentation.  I was honestly surprised by the second part, having my expectations completely subverted and walking away literally pumped about a part of Drupal Core I did no know even existed.  I spend a lot of time talking the 'hows' around DevOps.  Automating and such, which is at the heart of the tech side of 'What is DevOps?'.  I don't spend almost any time thinking about or discussing the 'Why is DevOps?'.  	
+
+Why we are thinking this way and how to implement
+How close are you to your customers now?
+easy to push customers away if you see them as interruptions
+lot of misconceptions of what DevOps is
+people think about it terms of servers and machine
+DevOps came from the developer and the operations folks not communicating
+shortening the feedback loop and adding value to chain
+customer benefits
+break down the wall of confusion
+automation helps
+feedback though is critical
+narrow version of this topic and that is ok, we talk about it a lot
+want to automate to noops (no ops)
+this is short sighted
+Whole point is delivering something of value to the customer
+think about getting everyone in loop to customer as communicative as possible
+Dev, Test, Engineers to get to mind set
+build,CI,Deploy,Operate,feedback,plan,build loop
+manager / maker schedule
+feedback comes in as tickets
+that is what the devs thought
+needs to think wider with it
+apply flow and automation ot customer feedback as well
+which new thing is more important than the other new thing
+what's new, what is, how is it?, what's next
+people lose faith based on how they misunderstand a product
+WP as a community thinks about the end customer a lot more than Drupal generally does
+What if we modified the Drupal login experience 
+Tour is in D8 core, not being promoted but very valuable
+`?tour` trigger tour trick pop-up
+demo
+end user feedback at the end of a tour
+get feedback quiz
+if people feel their feedback would be heard, they give it
+We need everyone's perspective to make our product as intuative as possible
+keep experimentations simple and cheap, 
+iterate to get closer to you
+related: https://www.drupal.org/contributor-tasks/create-tour
+
+https://twitter.com/McDwayne/status/1002617467640995840
+
+
+
+[a11y -- ARIA Rules: To Use Or Not To Use](https://2018.texascamp.org/sessions/a11y--aria-rules-to-use-or-not-to-use)
+[Susan LaRonde]()
+[Charles Leverington](https://twitter.com/c_leverington)
+
+ACCESSABILITY FTW!  You know it as well as I do, this is everyone's responsibility.  As if to underscore this and literally have the universe put a face to the issue, when we went out to Karaoke on Saturday, a group of visually impaired folks were having a party and ripping the stage up with how great they were! I had an ah-ha moment of imaging any of them trying to use this site, or anything else I have touched.  These awesome people should have the best experience possible.  It is a real blessing that Drupal (and WP for that matter) make accessibility automatically OK and it does not take much to get 100% of the way there from our end as content makers and site builders.  Don't delay, make your site accessible today!
+
+Speaker notes are available on the slides from link
+examples of ARIA accessible approved code are freely examples
+purpose
+add functionality where semantic HTML does not
+classes and how they relate
+HTTML DOM tree JS Accessibility tree Assistive technology user
+right click inspect, look at JS events, look for accessibility tree 
+only exists since 2012
+most roles are automatically made in HTML5, leveraging semantic HTML
+roll = navigation
+no aria is better than bad ARIA
+do not overwrite existing accessibility semantics
+do not change the native semantics unless you have to
+ARIA uses KISS principal
+lot of code examples in this talk that ironically I had to strain to see from even my third row seat
+third rule of ARIA, always make sure keyboard controls are usable
+NVDA - NVAccess, free and open source
+
+https://twitter.com/McDwayne/status/1002632222384574465
+
+
+
+[The traffic fallacy](https://2018.texascamp.org/sessions/the-traffic-fallacy)
+[Sean Eddings](https://twitter.com/LastCallMedia)
+
+I work on a team that is in the midsts of trying to adopt a more Agile methodology for working on projects that fall outside recurring events.  Every time I see a talk about this stuff, I feel it puts me a much better place to even communicate ideas on how to apply SCRUM or Kanban with others.  This talk started with a 'where is he going with this' moment.  Then he got there and I don't think I can think about tickets in the same way ever again.  If you are struggling with tickets and your whole team being too darn busy to get anything done, this this is the talk for you and a way of thinking that will help optimize everything about functional deliverables. 
+
+lives in NYC
+traffic is bad and many places are too
+but thinking while stuck in traffic
+not a ton of thought given to solving
+he researched and Houston to Katyland TX
+41 minutes to go 28 miles on average
+right now, hour and 20 minutes
+in 2004 nonprofit said 25million hours wasted
+delay would double by 2025
+about $503,620,000 lost opportunity per year
+engineers, extra lanes means more capacity
+Texas spent $2.8 billion to widen the Katy Freeway
+average time increased from 41 min to 64 minutes
+55% increase
+the amount of freeway increased the number of cars increased, ratio remained the same and actually worsened
+50 lane freeway in hong kong
+freeway engineers have the best intentions
+Need a vehicle and progress limit
+Manhattan is experiment with congestion pricing
+no go on this idea now
+Stockholm, Sweden, bunch of islands
+set up experiment, costs a $1 to enter central city
+when people saw the data after 6 months
+travel time decreased by 50%
+emissions dropped by 14-18% in inner city
+what about our industry
+Backlogs are like this, things taking forever never get done
+think, more people, get done faster
+looked at task list and too many things assigned to single contributors
+Value was taking too long to get to the customer, and everyone was too busy
+looked at they way they managed processes
+realized they had a command and control model
+traditional management says 100% utilization of people was the key
+but if everyone is busy, delivering value with predictability is not impossible
+changed to prioritized delivering work to the customer as quickly as possible
+goal: put our good ideas into action quickly
+1. Visualize our process
+2. limit our work in progress
+3. improve as a team
+1. visualized
+moved away from tech, went to boards and paper
+high level visibility for team
+bottlenecks easier to see, respect or change
+makes hidden work apparent
+2. limit work in progress
+how many things can you really work on?
+excessive WIP heightens distractions
+marked WIP limits on board
+there is no right WIP limit for everyone
+a lower WIP is generally better
+a too high WP leaves work idle
+too low leaves people ide
+WIP limits are not rules
+take a list of work, prioritize it based on biz value
+that is your backlog
+work top to bottom
+right now thinking of tasks and breaking them in different ways so something is completed
+task that needs approval example, 
+deliverable is the thing to be evaluated but that is a new card once feedback is given
+conversation the team has on who does what
+always keep things in motion though to get to value delivered
+flow efficiency is the sum of value adding activities in relation to the throughput time
+Flow Efficiency = Value Adding Activities/throughput time
+Works because devs do not put things in To Do
+selected for dev is a parking lot
+ready to deploy is a staging area
+what stayed the same?
+Multi-functional team
+dedicated team
+queue hygiene
+daily stand ups
+retros
+what changed
+optimizing for getting a single work unit through the process as quickly as possible
+ea members attached to work
+team members pull work
+that takes a lot of autonomy
+Good to Great teams:
+set the stage
+gather data
+generate insights
+decide what to do
+clone the retro
+What did we learn?
+Start with what we have
+prioritize our work
+visualize our process
+limit WIP
+Retros are how team improves
+goal is to deliver value faster to customer
+Agile and Lean, are all about experimentation and learning.  Enjoy the trip
+
+https://twitter.com/McDwayne/status/1002656001219317760
+
+
+##### Saturday Keynote 
+
+[Keynote: The Future of Drupal](https://2018.texascamp.org/happenings/keynote-the-future-of-drupal)
+[Michael Schmid](https://twitter.com/Schnitzel)
+
+I can not overstate how good this one was.  Whatever you are doing when you read this, stop and [go watch this talk!](https://youtu.be/C3YwtfprLvk) My summary is OK for my purposes but it loses Michael's impassioned tone and the pure excitement he expresses about how we are being adopted as a community philosophy and software by governments around the globe.  I went in thinking 'oh great, another talk on how we are not growing and maybe some hand waving around some stats' and I left going 'oh yeah, I forgot that Drupal is the best expression of FOSS Internet CMS anyone has made yet.  We are doing some great stuff and we can keep making it great!'  Some version of this should be the keynote at DrupalCon Seattle. 
+
+
+We need to talk Drupal
+You taught us a lot Drupal
+collaboration
+parties
+speaking
+growing companies
+You have changed lives
+but you also changed a lot
+Drupal 8 is not the old Drupal
+Upgrading from D7->D8 is really hard
+Modules work differently
+OOP everywhere, you have to understand deeply
+so many new things to learn
+and already Drupal 9 is in discussion
+Adoption is slowed down and it is scary
+same is true for DrupalCon attendees
+no DCon Europe
+You also created physical and mental pain
+Drupal Confessions
+didn't do his due diligence and found out too late
+He is sorry for what happened
+it is gone now, but caused a lot of pain he sees now
+Had to learn composer and the CLI
+so complex now
+and now need to learn JavaScript
+and it is very different too
+and now the Security Issues
+so many hours
+is Drupal over?  
+is that our tomorrow?
+NO! it is not over
+Who is Drupal?
+If we blame Drupal, we are blaming ourselves
+we are all in there together
+The others are not sleeping
+Drupal is already powering the web
+we have a lead
+over a million sites
+5% of top Million websites are Drupal
+181 governments use Drupal for sites
+So many governments decided to use this code we make
+Want to buy a car, you are likely using Drupal sites
+Lush - Drupal commerce, but because of our code
+NBC, Pfizer, etc
+Drupal is used more and more by bog and important websites
+is more market share really better?
+D.O Data Usage is voluntary
+many people disable the ping back to Drupal
+Now we have a road map!
+we have a plan for next
+an upgrade path
+D9 Upgrade path, as easy as 8.0 to 8,1
+will be smooth process
+Camps are happening and getting more and more important
+Camps are less intimidating than Cons
+Camps are closer to the people
+and much more affordable
+only works if businesses sponsor
+It is hard since 'what do I get back'
+small $ back, sure
+but you are making Drupal better and possible
+and send employees to participate and bring community closer
+should be sharing that knowledge internally
+lunch and learn it, share what you loved
+employees: ask to go to camps
+All the major frameworks using Symfony framework
+Drupal started that
+added complexity, but makes us all stronger
+why embracing and using other tools
+We have always done it, like jquery
+Less overall work
+brings us closer to the rest of the PHP world
+easier to hire engineers
+Composer
+We need package managers
+there is no other way
+everybody uses it
+everyone has always used package managers 
+like driving a car
+it seems impossible at first
+Secure is much more transparent
+Drupal Security is completely volunteers
+Same processes like Linux, Google, Apple, etc
+hosting companies have you covered
+JavaScript?
+Most popular tools, tops the list
+TensonFlow, React
+Stanford intro CS is in JS
+Decoupled frameworks
+this is how most large sites work now
+API first is key
+MOre dev, design, UX capabilities
+So Drupal, forefront of decoupling
+Full support for JSON-API and GraphQL
+Contenta CMS
+Angular, Elm, Ember, React, Vue
+still a hard problem, but this is getting easier
+So Dear Drupal
+Lets build the future
+Accept and embrace change from all of us
+we always making it better
+but that takes investment from us all
+and if we believe 
+
+https://twitter.com/McDwayne/status/1002916530668044290
+
+
+
+[Hmm, I Didn’t know that Module Existed!](https://2018.texascamp.org/sessions/hmm-i-didnt-know-that-module-existed)
+[Fito Kahn](https://www.linkedin.com/in/fitokahn/)
+
+I started out in 2013 on Drupal 7 and have never really put it away, though I do much more WordPress stuff in my personal dev experimentation.  I thought I would go to this beginner talk to learn a little about what Drupal 8 modules were all about, especially after learning about `tour` being in core earlier in the day.  I took incomplete notes because I kept opening tabs for the modules Fito introduced me to and was just like 'wow, I didn't know about this one' with almost every feature.  With a goal of introducing the site builder to how to make very customized sites without cracking open the code even once, he made the case very well that through configuration of the modules alone, D8 can do just about anything out o the box or with a couple easily installed components.  Again, this list is incomplete, but good thing there are also [resources like this](https://www.drupal.org/docs/8/core/modules).
+
+Drupal?!?!  
+What have I gotten myself into?
+Fear!  
+Some people on first site right now
+Overwhelming at first
+but there is hope
+there are so many modules
+and the Joy of D8 being awesome
+History of D8 75 core modules in D8
+not as many contrib modules needed
+30 core in D7
+important dates
+3982 D8 modules in 2018
+8641 D7 Modules 
+Experimental Models as well
+many in core are turned off, just need activated,
+Modules that will make life better
+- Admin Toolbar/Tool Bar Extra
+- Coffee and Coffee Extras - search in admin that is easy to use
+- Pathauto - makes URLs with tokens easy
+- SEO Checklist 0 
+- Content Moseration/Workflows - in core! 
+- multilingual support, content translation in Core - 4 modules
+- Webform - you can design your own
+- Simple Sitemap - lighter than XML sitemap
+- Slick/Slick Extras - one of many solutions for slideshows/carousel
+can be touch to configure
+- Focal Point - crop API
+- Honeypot - defer spam bots from completing forms, not as intrusive as captcha
+- Autoban (Automatic IP ban) using watchdog table
+- Scheduler
+- Paragraphs - editors control flow of content - replaces bidy field with content types you can mix and match
+- Views Reference - field conjunction with paragraphs, adds more flexibility
+- Panels/Panelizer/Display suite - create drag and drop layouts for customize looks of site
+Let's remember this is all to avoid actually touching code
+this is all just install and config, very different than hand changing views
+- settings tray - core.  Customizer for Drupal
+- Bricks
+- String overrides 
+- Statistics - in core - can slow down the site but valuable info
+- Module filter
+- Alexa - yeas integrate Alexa with a D8 site
+
+
+https://twitter.com/McDwayne/status/1002941220816064512
+
+
+
+[Archiving and Visual Regression Using Drupal 8](https://2018.texascamp.org/sessions/archiving-and-visual-regression-using-drupal-8)
+[David Stinemetze](https://twitter.com/DavidStinemetze)
+
+David was so impassioned about this idea, I just had to see this in action!  Going in I was not 100% sure what to expect from this.  The idea, as he had described it to me, seemed logical but I wasn't sure about how it did it nor did I really get an idea of why you would even do this.  Leaving the session, I was blown away by the quality of what they are building and sharing with the community.  Leveraging the beautiful solution of BackstopJS, we get a solid path for backups, archiving and automatic testing that I had not thought of before.  It is well worth watching just for David's enthusiasm.  
+
+
+Old parts of site don't change
+testing anyway
+add on a wayback machine element
+Module overview
+Web Page Archive module snap local or remote, triggered periodically, compare snapsops based on URL or XML sitemaps
+Snapshops can be captured on any site
+not just current instance, not just drupal, not just sites you own
+Requirements, D8
+Why?
+Learn D8, Ease of use for non-tech users
+Drupal 8 plugin ecosystem makes it easy to support additional use cases
+give back to the Drupal community
+Capture Utilities
+Drupal plugins responsible for performing captures
+uses annotation based discovery
+configurable per instance
+Captures screenshots of URLs
+uses Headless chrome and puppetier
+examples
+can also capture raw HTML
+Skeleton Capture, prototyping tool
+Web Page Test Capture Utility
+Captures web performance test results
+just capturing it now
+other proposed use cases 
+Configuration Archive Capture
+Rendered DOM capture
+Google Analytics Capture
+Security Scan Utility
+can configure easily with dropdowns
+don't want to manually capture each page, use site map
+capture stores things, storage can be an issue
+Current Project Sessions - yesterday Spot the Difference tool
+Visual Regression is all about the things human eyes easily overlook
+slider compare
+compare screenshots Heatmap
+bright red to highlight differences
+Release plan drupal.org/node/2930857
+Some remaining issues
+You can help
+needs new code, needs reviews, etc
+demo time
+in config, website archive tab
+
+
+https://twitter.com/McDwayne/status/1002977005783089152
+
+
+
+[Goldilocks Decoupled: What the Future Holds for Decoupled Publishing](https://2018.texascamp.org/sessions/goldilocks-decoupled-what-the-future-holds-for-decoupled-publishing)
+[Mike Minecki](https://twitter.com/mirzu)
+
+I hear decoupled being talked about a lot and I am certainly one who has seen it as not only a better way to think about building for multiple end user system.  Mike reminded us all that this is not a panacea for all our issues and there are a lot of disadvantages for decoupled systems if the team is too small, the use case requires a lot of the CMS solved services or other things that a REST API can not do well yet.  Even though this was towards the end of the camp, the conversation that flowed from the end of the presentation was lively and I didn't capture that effectively.  If this sparks an interest, go listen to the conversation [from the recording](https://youtu.be/JgjuftqV--8).
+
+This is not a demo or a show and tell
+why Devs love Decoupled
+Hard choices
+are you doing stand alone or hub
+chart for this out there
+simplifies the ideas of it
+if there are other apps basically
+heart of the chart is layout and display management
+modules, toolbar notifications, caching and performance
+end up with choices
+coupled, progressive, fully decoupled
+more JS -->
+Why do Devs love it?
+bad reasons
+new and shiny, Drupal is hard, performance, Dogfood API
+Why good
+good reasons
+Shared templates and language
+building frontend in JS is really fast and rather easy
+Static site generators are really performance
+separation of concerns
+a lot more to a website than static markup and content
+Content routing and complexity for instance
+Decoupled pitfalls
+Snowflakes - every front end unique
+can't install stuff (like twitter cards or sitemap.xml)
+caching and routing - static site generators don't work for bigger sites
+Progressive Decoupled - the middle way
+Cons
+Redheaded stepchild of the monoloth and JS framworks
+need deep understanding of both to build new stuff
+DX is only great if 2 teams
+Tons of Content APIs
+0 ways to render them without a dev
+44 decoupled backend listed on headlesscms.org
+that's weird
+off the reservation  - Arc publishing
+a pagebuilder
+Superdesk publisher
+lightweight source renderer
+Goldilocks
+benefits for devs
+100%JS
+Declarative
+Editorial controls
+Built to work with reverse proxies
+Standardized workflows
+
+https://twitter.com/McDwayne/status/1002997776098177024
+
+
+### Wrapping Up
+
+It was an intense few days for me.  Some personal stuff happened, like it often does, that distracted me a bit.  Very fortunately for me I was far from alone and had my Pantheor and Drupaler family members there to help me get back on track.  This event also re-sparked an honest curiosity about what this D8 thing can even do.  Time to get exploring now for sure.  I know I will be digging into a few things more deeply and don't be surprised if you hear me talking about `tour` sometime very soon at a DrupalCamp, as a BOF if nothing else.  Also, I didn't have the chance to see it live, but for sure check out the session about [Drupal's Layout Builder](https://www.youtube.com/watch?v=DFNlsaW1XSo&index=31&t=0s&list=PLHvSm1Lpji2QokZMh3h9IBojYH3i1r_Fq) that I am pretty keen on as well.  So many good ideas, hard to fit it all in one blog post. 
+I do hope I get to go back to Austin again in the future, but man I sue hope it is not nearly as hot when I got back.  If nothing else, I hope to return for a future Texas Drupal Camp!  
+
+
+
+
+https://twitter.com/_porkloin_/status/1002543220134379520

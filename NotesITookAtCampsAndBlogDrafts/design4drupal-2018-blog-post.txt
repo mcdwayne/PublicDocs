@@ -1,0 +1,768 @@
+Design4Drupal 2018: Views from the top floor and walking further than we needed to while a good time was still had  
+
+I always consider [The Olde Towne](https://en.wikipedia.org/wiki/Boston_nicknames) one of the iconic American cities.  By this I mean that if I go to [Serbia](https://www.mcdwayne.com/2018/06/19/wceu-2018/) or [Iceland](https://www.mcdwayne.com/2017/03/01/dcnlights/) and talk about cities in the US, people always know San Francisco, New York, LA and Boston.  They have a picture in their heads, and with good reason, of some of the oldest buildings, some of the [oldest bars](https://www.thrillist.com/drink/boston/union-oyster-house-jacob-wirth-amrheins-are-some-of-the-oldest-bars-in-boston) and some of the [more famous landmarks](https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_Boston) in this country.  It was quite an honor to go be part of the magic of old bean town as I accepted the invitation to speak at [Design4Drupal 2018](https://www.design4drupal.org/session-schedule). 
+
+
+### Food and Fun 
+
+##### Wednesday
+
+Coffee and snacks and tea were still being set up when I first arrived.  But when I finally was able to get some coffee it was actually pretty good for college catering.  I think that because there was an open Starbucks in the building they knew they should step up their game.  Lunch time rolled around and us special meals folks were treated extremely well.  I had a pretty amazing 'Cobb' salad with beets and avocado.  Even the afternoon snacks had a vegan section what was more than just fruit.  
+
+https://twitter.com/McDwayne/status/1012011397696376832
+
+There was no official party or goings on on the first night.  This let me catch up with some of my favorite Drupal community members who also didn't have official other plans.  We found a BBQ joint with a reasonable set of veg options and a great mixologist on staff, [The Smoke Shop](http://www.thesmokeshopbbq.com/).    
+
+https://twitter.com/McDwayne/status/1012115806094872577
+
+
+##### Thursday 
+
+Very much a repeat of the previous day.  Again huge props to the organizing team who really looked out for us with dietary restrictions.  Very notable fact, the catering thought that small whole cakes would be a good decision for some reason as snack.  I got a good chuckle out of that.  
+
+https://twitter.com/McDwayne/status/1012402457236865026
+
+
+##### After Party
+
+We gathered at [Meadhall](https://themeadhall.com/) in Cambridge for a very fun evening of snacks and beverages and fellowship as a community.  No tweets that actually showed the party and the venue in full swing can be found, so here is a sample tweet about the venue.
+
+https://twitter.com/KDemergian/status/891043660527267840
+
+
+Yes, we also found some time to do DrupalKaraoke.  THanks to the good people of [Courtside](http://courtside.wixsite.com/karaoke) for letting us celebrate [area man's](https://www.theonion.com/tag/area-man) birthday with y'all.
+
+https://twitter.com/McDwayne/status/1012516967415275521
+
+
+##### Friday
+
+Friday was Sprints and Training Day.   We had coffee and snacks abounding and lunch even offered up vegan pizza and a pretty healthy salad option. 
+
+
+
+### Sessions
+
+
+Opening Remarks
+
+https://twitter.com/Salman_Jaffery/status/1011969612496371713
+
+
+
+[10 Vital Lessons For Running A Successful Digital Agency](https://www.design4drupal.org/sessions/uxproject-strategy/10-vital-lessons-running-successful-digital-agency)
+[MaryAnn Pfeiffer](https://twitter.com/108degreesmktg)
+
+MaryAnn is the kind of shop owner I hope other shop owners are paying attention and learning from.  This talk is a no-nonsense look at very practical aspects of running a business.  I really loved her approach of laying out the advice, then explaining how she came be believe this and the data behind it.  I highly recommend this one if you are running a business of any kind.  
+
+Raw Notes:
+Her 4th year here
+goal is to help save you some time and effort and void mistakes she has learned the hard way
+not a coder, pre-internet marketing
+marketing communications
+personal intro and polling audience
+1. Begin with the end in mind 
+lawyers are better on the way in than on the way out
+making sure you get paid for your work and work is not stolen
+keep things professional
+she learned from a client she had been working with for years
+her work was stolen by an advisory board, went to court
+2 years
+another client who had signed a contract
+only took 2 months to get paid
+another client wanted to change the contract too much
+had to say no
+all had to say Attorney and they backed off
+even her mom needs to sign a contract if she wanted work
+2. Friends can be clients but they are customers first in that case
+Specific lens of friendship is bad for business
+Clients can make really good friends though
+as long as professional lens is there
+3. Think long term
+don't just take any project that comes along
+you will regret taking bad fits into your portfolio
+strapped for cash, will take about anything
+Client relationship is a 2 way street
+4. Brainpower should cost money
+don't give free consulting advice
+your knowledge and time are real assets 
+been doing this 17 years
+for first 10 years did a lot of unpaid consulting time
+now has a 'pick your brain' paid consulting
+written report or other deliverable around advice
+5. Realize there is strength in numbers
+invest in financial tools and advisors to grow your business
+She hired a person to handle finances and accountant much smoother
+6. Be a work in progress.  
+Sooner you start documenting and process management the better
+project manager came in and had no idea how to start
+all process was in people's heads, not written down
+took weeks to document
+had to define the processes
+7. business is business 
+No one is a one person shop
+we all have to use outside vendors 
+choose those vendors wisely
+seemed easy to just get friends and 'down the street' convenient
+but not always a fit
+now she has stable of vendors who are trusted and provide real value
+referrals must be because of business fit
+8. No I in Team
+working with partners who can keep your relationship secure
+had a server fail, hosting company
+known them for year, bad luck run on his part
+multi day outage
+80% of her sites were down
+headache and really should have been end of business event
+she was prioritized as a client but still the end clients wanted to migrate hosts
+but they all still trusted her
+chose Pantheon cause we care
+Fiery hoops and made sure the clients were satisfied
+(Great job Roxanne!)
+9. Transparency leads to trust
+clients depend on you but you depend on them
+must help each other get better
+took her a while to be really transparent 
+tough position to be in if you agree to do work you don't know how to do
+instead figuring out if can do, otherwise refer them
+want them to be a happy client so they trust long term for things they are competent
+10. Every little thing, going to be alright
+can't force them to jump though
+can be frustrating, you have to just let it go
+business is not personal and you need to let go of ego
+
+https://twitter.com/McDwayne/status/1011974617030889472
+
+
+##### Wednesday Keynote 
+
+[The Building Blocks Of The Indie Web](https://www.design4drupal.org/sessions/keynote/building-blocks-indie-web)
+[Jeremy Keith](https://twitter.com/adactio)
+
+I didn't go into this talk expecting it to be as technical as it was, but wow I am very glad I went in with an open mind.  I left with a much better understanding of what is even possible around owning your own content and how it all fits to make a better overall internet.  It is not the responsibility of large corporations to protect your content and privacy, it is yours.  Things like OAtuh and 'rel me' might seem like technical novelties, but what they represent, if embraced, mean a much freer internet where a content creator decides on when and how their content is used in a more meaningful way than using FB, Twitter, etc, could ever allow.  This is also a very entertaining talk in my opinion with some of the better thought through slides I have seen in a while.  They don't work stand alone but amplify his talk when he is going through them.  
+
+Raw Notes:
+indieweb.org
+Owning your content going forward
+Ideally Capitalism good
+bell curve distribution
+in theory it could be economically good 
+if a level playing field
+Rich get richer and poor get poorer due to feedback loops
+Internet explorer
+wants to see many browsers competing on features
+dodged a bullet
+routed around it, like networks
+hub and spoke
+airports still use this, old telephone
+single point of failure
+ARPANET
+well connected nodes distributed network
+still possible for network to work even if one goes away
+military background survive nuclear attack
+but really people working on it thought
+nuclear weapons with hub and spoke
+reduced the possibility 
+shared with the Russians
+no top down and nodes can add in as needed
+no permissions on the WWW to create a new URL or link
+no planned structure
+wild crawling mess
+walled gardens - Compuserve and AOL
+the web Won!
+wanted free open
+but returned to walled gardens like Facebook, Twitter, etc
+FB is media company in the world but we make all the content for them
+the better the network 
+the first person who had a fax machine had a completely useless device
+before FB it was a singular social 
+basically pushed us back to the hub and spoke model
+hypothetical, an election
+single point of failure
+like WP and Drupal are popular and get attacked more
+temping target, large attack vector
+Why?
+Convenience is driving it 
+trade control for this convenience
+they now control your content
+the movement tries to balance that
+indieweb, you should have your own website
+longevity
+MySpace
+link rot is a fact of life
+comes back to the architecture of the web
+proposal to hypertext conference in 1991
+rejected
+2 directional links
+one directional links 
+but 2 direction isn't that hard
+link rel= 
+href
+rel stands for relationship
+works on a as well
+a rel=
+a rel=me
+but that does not make 2 direction though right?
+spec element on profile links 
+kind of 2 directional 
+relme auth
+piggyback OAuth 
+can sign in to a service using your own website
+why would you even do this?
+authentication is the hardest point of an API
+micropub - incoming post requests
+you can use anyone else's interface that conforms to this standard
+quill
+ownyourgram
+ownyourswarm
+PESOS
+publishing elsewhere send to own site
+but POSSE is better
+Post own send somewhere else
+using ITTT for ths
+Webmention another W3C standard
+brid.gy is a service on these things
+monitoring responses and can ping you and push to you by authenticating
+can do comment but also do interesting things with the data
+facepile
+plugins available
+works for Drupal as well
+but why?  why this?
+Dri.es/tag/open-web
+should all be different whys
+but it is about control of our media
+but this is all about tech
+but that is not what indieweb is about
+it is about design principals
+indieweb.org/principles
+have to have fun!
+emoji included
+your site is your playground
+the original motto of the World Wide Web was: "let's share what we know."
+
+https://twitter.com/McDwayne/status/1012019709880033281
+
+
+
+[How Technical Should A Drupal PM Be?](https://www.design4drupal.org/sessions/uxproject-strategy/how-technical-should-drupal-pm-be)
+[Matthew O'Bryant](https://twitter.com/matthew_obryant)
+
+I do a fair amount of thinking about Project Management since I talk to so many people who work on projects.  I also see that as an appealing career path to be honest, as it is something that gets things done and in an ideal world, unites folks for the better.  Matthew does a pretty good job of reality checking anyone that might be approaching this field lightly.  He systematically walked through terms and concepts that PMs of any skill level should be mastering and at least familiar with.  The final answer of "how technical" is ultimately "it depends", as with so many other things in life.  However, knowing more and continually learning is certainly a good approach no matter what.   
+
+
+Raw Notes:
+Long history of CS sales and technical background around sales and marketing
+bought a home loan automation, learned coding and architecture
+Dreamweaver, ASP
+20 years of this stuff
+Digital Project Manager
+success 
+I think in 1's and 0's but I speak English
+Does it even matter
+Main  role is
+hit deadlines
+manage a budget
+resource coordination
+quality control
+client satisfaction
+Answer is yes, it matters
+carpenter using a hammer vs making a blueprint
+actual answers, it depends, on quality of the project 
+small sites maybe less important
+even some medium, depends on what you need to integrate, maybe great contrib modules
+maybe less to explain
+maybe more technical
+support SLA
+Endurance vs Stress test
+eCommerce
+more complex you need to have a better technical understanding and be able to translate it
+knowing terminology
+adding content
+basic HTML and CSS editing
+Basic understanding of Views
+intermediate skills
+paragraphs, pathauto
+admin toolbar
+many more
+know your basic contrib modules
+Drupal permissions
+views config
+commerce features attributes
+so you can have the conversation with the clients
+version control for Configuration Management
+Module configurations
+more advanced things
+know git
+ACESSABILITY IS KEY
+W3C WCAG 2.0
+Perceivable Information and UI
+Operable User Interface and Navigation
+Understandable Information & UI
+Robust content and reliable interpretation
+Peer code review
+Cross Browser Testing
+Performance Testing
+Security and Penetrative Testing
+Google Analytics
+Google Tag Manager
+Heat Mapping Tools
+LOT OF STUFF
+improve your skills
+Build your own website
+
+
+https://twitter.com/McDwayne/status/1012058406373511168
+
+
+
+[Storybook: An Interactive Pattern Library for Your Decoupled Applications](https://www.design4drupal.org/sessions/uivisual-design/storybook-interactive-pattern-library-your-decoupled-applications)
+[Brian Perry](https://twitter.com/bricomedy)
+
+Brian is an excellent presenter and this talk is a continuation of an idea I first heard him discuss at [Midcamp](https://www.mcdwayne.com/2018/03/22/midcamp-2018/).  Now, I will always caveat that front end stuff always seems a little out of my wheelhouse, as I don't really touch that side of things in my day to day.  However, this adds a bit of magic show element to any of these talks where I just get to be impressed a thing is possible without fully grasping how it does it's thing.  'Knobs', for instance, seems like a completely logical tool anyone would want to use for making fast changes when prototyping or developing but I can't point to a single thing on my agenda to have a reason to dive into it at the moment.  Still, I am very grateful to get to attend these talks and expand my knowledge base around this area.  You never know what tomorrow will bring or when I am going to need to need this stuff.  It was a very good demo.  
+
+
+Raw Notes:
+Atomic design approach
+Atoms -> molecules ->Organisms -> Templates -> Pages
+build components and prototype them
+integrate with Drupal in interesting ways
+test things before you integrate fully
+can be Twig
+Examples:
+Artsy.net
+on github as well
+website in github
+bulk is in React
+slide shows, galleries, ect
+reaction is the folder you want
+Another example
+Uber React-Vis
+visual storybook focused on components for visualization
+JSX add on
+knobs
+Adding Storybook to a project
+npx create-react-app my-app
+cd my-app
+npx -P @storybook/cli getstorybook
+npm run storybook
+starts a localhost instance site
+going to be pretty bare bones but that is scaffolding
+Individual story files
+config.js file
+iterates through options and pull in what you want
+example story: Album
+Music discovery app
+Row with an album cover, name, render method to render JSX
+select album function
+src/componets/Album.stories.js
+import React
+import {storiesOf}
+import { Album }
+import { AlbumList }
+CODE EXAMPLES 
+Album story
+Addon: Actions
+Can see a lot of things 
+log the actions and functions
+with Knobs you can fiddle with things in real time to experiment before committing
+Lot of demo!
+List View story
+Combine all this with Puppeteer to test all the things
+deploying is straightforward as well
+build to a .out directory 
+or NPM script
+and can post that anywhere with static JS bundles
+Drupal and Pattern Lab?
+style guide guide, gatsby edition
+the storefront in the workshop
+really is a dev tool
+
+https://twitter.com/McDwayne/status/1012335370338557952
+
+
+
+[5 Essential Lessons You Can Learn From Art History](https://www.design4drupal.org/sessions/uivisual-design/5-essential-lessons-you-can-learn-art-history)
+[Jennifer Smith](https://twitter.com/jsmithers)
+
+I'll admit it, I didn't fully read the session description before I got there and thought we were going to be looking at classical architecture, painting and sculpture from all throughout history.  Instead we started in 1900 and I quickly got acquainted with the importance of [The Bauhaus](https://en.wikipedia.org/wiki/Bauhaus) and [Swiss Design](https://99designs.com/blog/design-history-movements/swiss-design/) and how we can all benefit in our daily choices from embracing simplicity over needless ornate embellishments.  I also learned how to quickly apply the Golden Ratio to a layout without a lot of hassle, which I am going to start leveraging as design choices pop up.  TL;DR - centering is the lazy way to show you don't know about design, so stop centering everything and flat is better than drop shadows.  
+
+
+Raw Notes:
+There is design in everything
+If you follow best practices
+looks more professional
+takes stress away
+impresses others
+don't make your company look bad
+10 minute art history
+Early 1900's
+could go back further but this is modern era
+Emphasis on tech 
+manufacturing process and function
+style subordinated to purpose
+Electricity comes around
+have to design things to use it
+like fans and such Peter Behars
+tea kettle
+unified appearances
+glass walls was a super big innovation
+reason behind every component and decision
+Van de Velde
+trained as a painter
+served as an architect, designer, teacher
+jewelry and other common things
+furniture
+first real silverware sets
+art to industry as well
+German Association of Craftsmen
+form determined by function
+elimination of all ornament
+elevated functional aesthetic
+1918 war ends and design things ramp up in post war
+1919 Bauhaus school
+to this day still think German Engineering is good because of this
+free to people who qualified, school just for designers
+building for a soft machine, humans
+Bauhaus became a philosophy
+eliminate elements that do not matter
+form follows function
+everything is designed 
+make design accessible, avoid overloading and over stylizing
+Craigslist is EVERYTHING at once, Google is one thing, done well
+1933 Nazis killed the Bauhaus
+1940's Swiss Design 
+after exit from Germany, kind of makes sense
+not specific to Swiss, but international style
+flair for design forever there though
+international typographic style
+this is used by all large corporations now
+Used Asymmetric layout
+and GRIDS FOR EVERYTHING!
+sans-serif
+Flush left, ragged right
+preference for photos over illustration
+Dieter Rams, less is more
+record player
+Braun juicer
+inspired by that juicer, Apples products in the 90s
+10 principals list 
+Less is more!
+don't give the user more than they ask for
+focus on needs not distractions
+fierce reduction of elements
+United vs American Airlines apps
+United has a lot of unneeded parts when you first look
+new flat design is actually just the swiss style
+shiny is not needed
+Windows 10 no rounded corners, grid
+LingsCars.com best site about what not to do with design
+how to eliminate unneeded objects?
+Do you really need this in a box (boarders are a sign of weakness)
+Does this need a drop shadow (most likely no)
+Does it help to have this in 3D
+does the gradient convey more information?
+BWI is actually on the right path
+but there is a video on their desktop site that takes a lot of space
+mobile apps are cleaner
+Using mind maps, helps figure out what is important before design work begins
+don't give people sloppy stuff
+Eye pattern testing showed no real difference between serif and sans-serif
+on-screen considerations
+Xheiht 65% of the Cap height
+strong counters
+do not use Script or Cursive
+use a typographic grid
+Always adhere to type ramp
+visually 2X the size so people can see the import stuff
+Rule of thirds
+Golden ratio
+Fibonacci sequence based on rabbit research
+very replicated in nature
+multiple by 1.62 for a perfect pleasing size rectangle
+helps to not center everything
+PhiMatrix
+can overlay Golden Ratio on your screen over anything
+and break down proportions as needed, repeatedly
+Google Materials
+https://design.google/
+
+https://twitter.com/McDwayne/status/1012352641001836549
+
+
+
+##### Thursday Keynote
+
+[Exploring the New Drupal Front-end with JavaScript](https://www.design4drupal.org/sessions/keynote/exploring-new-drupal-front-end-javascript)
+[Dries](https://twitter.com/Dries)
+
+I always love a good [Driesnote](https://twitter.com/search?f=tweets&q=%23driesnote) and was a bit curious how this would stack up.  A visibly more relaxed Dries, in front of a smaller crowd than DrupalCon brings, really had a conversation with us and introduced several members of the audience to the history of Drupal for the first time.  More importantly than our past, it was great to hear an impassioned view of the future and what that can look like.  Not too dissimilar from WordPress, the take away for me is embracing JavaScript on the presentation layer is not optional anymore, so it is up to us to make sure our testing frameworks and APIs are up for it.  Especially in a world where every new dev is at least learning JS basics, it is going to make adopting Drupal even easier int he future and will let us draw from a much larger pool of devs to grow the community.  
+
+
+Raw Notes:
+History of JS, Drupal, API-First, JavaScript-driven Drupal admin interface
+Brief history of JS across the stack
+JS was invented in 10 days
+Brendan Eich wrote the first JS version
+in the beginning everyone thought it was amateurs
+JS was not cool at first
+XML
+asynchronous JS
+lead to AJAX
+then frameworks like JQuery, dojo, mootools prototype
+adopted by Drupal, first CMS to use JQuery
+put it on the map
+2008, Chrome build JS engine V8
+10 years ago, they were very future looking
+10x performance improvement over internet explorer with V8
+2010, twitter made unprecedented move, 
+implemented new API server for everything/everyone
+Moved the rendering to the user's browser
+model is common now, but this was a first
+over capacity whale showed that this initially did not do well
+time to first interaction was pretty poor
+had to download a lot of things
+in 2012 partial rollback of rendering back to the server
+AIRBNB made the code very reusable
+JS word right now, Babel, nightwatch
+tooling has really evolved
+History of Drupal
+message board for his friends
+registered dorp, means village
+typo to drop.org, happy accident
+thought up public name for code, 30 seconds. Thought of Drupal
+Google and Mobile had no real existence
+1 our of 40 sites on the internet use Drupal
+14 million visits to drupal.org per year
+reinvented ourselves many times
+each morning we are born again, what we do today matters most
+slow start on D8 after release
+but getting better
+51% increase in D8 adoption last year
+REST API first initiative
+Drupal's REST support is pretty good, rich and mature
+user logging/reg, media, 
+JSON API and GraphQL
+pretty robust, moving them into core
+pretty close
+maybe in 8.6
+more and more companies designing API first
+Chupachups UK, Warner Music, teach.org many, many others
+people at sea using Drupal locally and syncing once back at shore
+integrate with anything including other Drupal sites
+NewBalance is ideal use of both traditional and decoupled
+Working on JS-driven Drupal admin interface
+Drupal's own UI is still not JS first/forward
+could be more interactive and better if we do embrace it
+Drupal needs cutting edge experience
+Trying to replace a single page, they identified 6 steps
+1. stabilize the JSON API module, pretty close
+2. Improve our JS testing infrastructure
+3. Create designs for the administration UI
+4. Allow contrib modules to use React or Twig 
+no big bang swap of whole UI, introduce more dynamic incrementally
+not everything needs React, but want it when you do
+5. Implementing missing web services APIs
+like permissions, found gaps in coverage
+Admin areas have some things that are only in that use case
+6. Make the React UI extensible and configurable
+Good news, this benefits EVERY decoupled builds
+why should we care?
+used to be you made a site and just left it alone
+now people live in the frameworks like Drupal, always changing
+Drupal is no longer the Drupal you used to know
+it continues to evolve all the time
+slides at [https://dri.es](https://dri.es)
+
+https://twitter.com/thejimbirch/status/1012393320109232130
+
+
+https://twitter.com/108degreesMktg/status/1012381513084792832
+
+
+
+[Iterative UX: Find It Cambridge Case Study](https://www.design4drupal.org/sessions/case-studypanel/iterative-ux-find-it-cambridge-case-study)
+[Benjamin Melançon](https://twitter.com/mlncn)
+
+I was very curious on this talk what a [Find It Cambridge](https://www.finditcambridge.org/) even was. Turns out it is a resource that can greatly help any community better organize it's events and resources.  Benjamin is just the nicest guy as well, which never hurts a presentation. For instance he deferred to team members in the room who had worked on this this project with him for various sections, making it seem like their whole team was up there presenting and he was just a player in the larger picture.  I have heard too many talks where this would not have happened, even though the team is literally in the room.  It encourages me to think about these sort of opportunities to involve others in my sessions.  I don't actually think my notes on this one are that good, as I had a few distractions in this one, so this is a case study I would encourage you to just [watch for yourself on youtube](https://www.youtube.com/watch?v=XjRO2OTt-5o) thanks to the hard work of [Kevin Thull](https://twitter.com/kevinjthull)    
+
+
+Raw Notes:
+must have a budget
+an ongoing budget if not a large one
+Research
+iterate on what someone else has built
+what another website does 
+issue is they want Google/FB/other expensive commercial site
+find something similar to what you want to build and use the elements that work well
+Sommerville pub was there to help them figure out what worked well
+research showed more info was expected from a .org vs a .gov
+that is changing in Mass thanks to mass.gov!
+Resource Portal Interviews
+Students from the school of public health reached out as part of a project to research with them and provide analysis
+Testing other sites
+You need content, you can not design without content
+Google sheets originally,
+then another content store was used
+compare to other sites
+see how buttons work well there
+a wireframe allows us to experience design while implementing quickly in dev
+Best 7 letters when talking to a designer or Developer
+HTML
+CSS
+discontinuous Improvement
+have to break and improve things
+Go where your users are
+use IE if they still use it at your user's facilities
+visualize everything
+visual maps
+Lessons learned from user testing
+there were many
+not including 141 programs that forgot to check themselves as All Ages
+water play parks
+seasonality or weather dependent results
+more use cases
+curated lists of things
+
+https://twitter.com/McDwayne/status/1012422077062709250
+
+
+[Building a better page builder with Bootstrap Paragraphs](https://www.design4drupal.org/sessions/site-building/building-better-page-builder-bootstrap-paragraphs-0)
+[Jim Birch](https://twitter.com/thejimbirch)
+
+Going to be very honest here.  I originally went to see this because I wanted to support Jim giving the last session of the camp.  I always love his talks but going in I had a fear my mind would wander and my notes would be pretty spotty.  However, this is actually a really interesting area, even though front end.  Jim's presentation skills are second to none and his raw passion about this subject matter is infectious.  At it's core this is a talk about [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) and how to make everything reusable.  This is a great lesson for anyone, not just front end folks.  
+
+
+Raw Notes:
+Why?
+Different widths for different content elements
+better typography
+wanting images
+structured content
+ability to add semantic markup
+easy to administer
+slide things around
+Bootstrap framework - HTML and JS pre-configured
+powers about 25% of the web as a front end
+mobile first and responsive
+Create grid markup and readable
+documentation 
+standardization helps
+on-boarding is easier
+Customizable
+completely
+mixins for adding existing styles to semantic html
+best practices for small/lo budget projects
+get 80% there when you start
+Open Source - MIT license
+If already using Paragraphs
+how many times have you repeated yourself
+but a litttttle bit differently
+install this modules and start exploring right ow
+Strategy - create a module to give you want you need
+create base templates and CSS that could be included with any Bootstrap include
+harness the power of Entity Reference Revisions fields to neat Paragraphs
+Have global width and color options
+Inspiration - Les and David Needham's great presentation using Paragraphs
+they came out with idea of paragraphs as content paragraphs and layout paragraphs
+and ponies
+Global settings
+Every paragraph should gave widths and backgrounds
+list/text
+widths
+tiny/narrow/medium/wide/full
+background colors
+empty classes follow the standards for bootstrap conventions
+Content bundles
+layout bundles
+image includes a link field
+blank
+embed JS or connect to mailchimp, Pardot, Eloqua, etc.
+Drupal Blocks - render them in line with the other paragraphs
+not everything works though
+copy and extend for custom blocks
+Views paragraph bundles, reference field, lets yo put a view into a paragraph, even with an argument
+Columns
+up to 6 pieces of content
+distributes equally
+two uneven columns 1/4s and 1/3s
+3 uneven columns, it gets messy but possibilities are wide
+column wrapper
+another layer 
+carousel for those that like them
+images and text, just no other carousel inside a carousel
+slide interval speed settings
+Accordion
+collapsible
+Modal - 4 fields - title, body, footer
+Tabs like the accordion
+tabs and accordions in a tab
+2 Submodules
+contact and webform
+Contact form let's you reference the content form entity
+add new or use existing contact form
+Webform, same thing but for Webform module
+using Block element modifier markup
+BEM
+Markup - div.paragraph
+modifiers
+Twig - width example
+Drupal asset libraries to apply styles
+theme has hierarchy to the modules
+module libraries folder
+custom blocks
+add fields
+dropping in setting default
+make your own content fields 
+manage display
+Working globally
+mostly config and a couple templates
+packaged up in a module
+thought was 'how can this be reusable?'
+does not want to rebuild again and again
+create a module structure
+Drupal console has a command that magically does this
+add templates and CSS and JS
+configure in the .libraries file
+export the config
+Just delete the UUIDs 
+Rename field_ to your own machine to avoid future collisions
+if needed, add function to override template in .module
+Bootstrap Pages module
+article content type and an author and a landing page
+meta tags and schema.org, optimized images, responsive, precofigured URLS
+taxonomy 
+views
+use frameworks to save time and be more productive
+this is his attempt to do this
+also can use this approach for any other framework
+make it reusable
+
+https://twitter.com/McDwayne/status/1012435031627878400
+
+
+
+##### My Sessions
+
+[Nobody Wants a Website. They Want Results!](https://www.design4drupal.org/sessions/site-building/nobody-wants-website-they-want-results)
+
+[Discovery, discovery, discovery, discovery!](https://www.design4drupal.org/sessions/site-building/discovery-discovery-discovery-discovery)
+
+I got to talk at MIT!  This is pretty exciting to me.  I not only got to deliver 2 talks at this camp, which is cool into itself, but I also got to give two related talks that are part of a larger set of topics, which is the sales/project process.  With 'Nobody Wants a Website' I focus on the qualification process and uncovering KPIs or at least what is measurable early.  I got to follow that up a day later with 'Discovery, discovery, discovery, discovery!' and dig into what I think of as the most important part of the whole process.  It was a really great feeling to give this 'cycle' of talks and I am guessing this is how Matthew Barney feels whenever they show all of [Cremaster Cycle](https://en.wikipedia.org/wiki/The_Cremaster_Cycle) at once.  
+
+https://twitter.com/108degreesMktg/status/1012404654687358978
+
+
+
+##### Sprints Day:
+
+I always love a contribution day.  The community coming together to make the project happen and evolve the state of things.  I was very happy to get a chance to wrap my head around the [Tour module](https://www.drupal.org/docs/8/api/tour-api/overview), specifically the notion of leveraging routes and attributes.  This is one of the more overlooked aspects of Core in my opinion and I look forward to being able to better get a grip on how to contribute back to the [project moving ahead](https://www.drupal.org/project/drupal/issues/2044399)
+
+https://twitter.com/McDwayne/status/1012704698250301443
+
+
+### Wrapping Up
+
+I always will like Boston for the history, for the warm people if it is warm outside and for the pretty awesome Drupal community based out there.  I am actually going to be headed back that way in the near future for [another event](https://2018.boston.wordcamp.org/).  I am already looking forward to next year when I might again get a chance to speak at MIT in the shadow of the offices for the [W3C](https://www.w3.org/), [Stallman](https://stallman.org/) and [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) at Design4Drupal 2019!
+
+
+https://twitter.com/Isovera/status/1012077358440837120

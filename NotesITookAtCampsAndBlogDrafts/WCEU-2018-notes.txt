@@ -1,0 +1,765 @@
+
+Gelato and Espresso with folks the night I arrived:
+
+https://twitter.com/McDwayne/status/1006606104086925312
+
+
+Lunch at the GoDaddy office
+
+https://twitter.com/bi0xid/status/1006861380056702976
+
+
+Vegan/Veg dinner:
+
+Rayka
+https://twitter.com/akshatc/status/1006981211779104772
+
+
+
+Contributor Day:
+
+https://twitter.com/BenVaassen/status/1007162482841063425
+
+https://twitter.com/DjevaLoperka/status/1007162965206937600
+
+https://twitter.com/JenBlogs4U/status/1007164693528498177
+
+
+Lunch - contrib day
+https://twitter.com/wputasic/status/1007251141862797313
+
+
+Friday:
+
+breakfast
+https://twitter.com/telmott/status/1007539846854971393
+
+
+Rain Cabs
+
+https://twitter.com/fernandot/status/1007705561536892929
+
+https://twitter.com/artdecotech/status/1007653514754035717
+
+
+
+
+Ping Pong:  
+
+https://twitter.com/yoramvandevelde/status/1007731650376142850
+
+https://twitter.com/SavviiDE/status/1007675531758919680
+
+https://twitter.com/fernandot/status/1007705561536892929
+
+WCKAraoke:
+
+https://twitter.com/DjevaLoperka/status/1007720523755814914
+
+
+
+Saturday:
+
+Lunch
+
+https://twitter.com/APredic/status/1008297725081866240
+
+
+Dinner:
+
+https://twitter.com/davidneedham/status/1008040060493500416
+
+
+After party:
+
+https://twitter.com/wputasic/status/1008436727080521728
+
+https://twitter.com/apsolut/status/1008341004481695744
+
+https://twitter.com/Mrfoxtalbot/status/1008165349425139712
+
+https://twitter.com/mor10/status/1008165938993225728
+
+https://twitter.com/alvarogois/status/1008158719195181056
+
+https://twitter.com/2ndKauBoy/status/1008130886641045505
+
+https://twitter.com/buki_zvani_pera/status/1008127174690377728
+
+https://twitter.com/design_33/status/1008124086000783360
+
+https://twitter.com/laurentvergnaud/status/1008120996015099905
+
+https://twitter.com/FlipKeijzer/status/1008112382378434562
+
+https://twitter.com/ifyouwillit/status/1008083667627851776
+
+https://twitter.com/jdevalk/status/1008079646586560512
+
+https://twitter.com/YouTooCanBeGuru/status/1008055143739166720
+
+
+Sunday tour:
+
+https://twitter.com/mpmike/status/1008354328598536192
+
+https://twitter.com/YouTooCanBeGuru/status/1008079416654811137
+
+
+Sunday Dinner:
+
+https://twitter.com/McDwayne/status/1008422772408799232
+
+### Sessions
+
+[JavaScript APIs in WordPress](https://2018.europe.wordcamp.org/session/javascript-apis-in-wordpress/)
+[Adam Silverstein](https://twitter.com/roundearth)
+
+Really about functions and utilities and 
+On github.com/adamsilverstein/wceu2018
+Ma.tt told us to embrace JS deeply
+Deeply = learning frameworks and build systems
+Hello WP JS
+RestAPI and Gutes, 
+hello window.wp global where JS features live
+the wp name space
+in console
+lot of objects to play with
+objects tools 
+docs are coming, workng on it
+demo code
+editor
+ads.txt plugin
+more code, see github
+text to rich code editor
+wp.media
+you can customize the media editor
+very complex, not good docs
+tips
+github.com/ericandrewlewis/wp-media-javascript-guide
+plugin
+attachment-taxonomies
+from Felix
+wp-heartbeat
+periodic data transmission between client and server
+runs at regular pace
+data back and forth on schedule from multiple apps
+very well documents
+some hosts disable heartbeat due to server stress
+import category of posts
+2 main event, send and tick
+5 seconds heartbeat is near enough real time for updates in a progress bar
+wp.customize
+customizer api
+xwp/wp-customize-featured-content-demo
+very well documented, start with the handbook
+wp.ajax
+workhorse in WP
+wp.api
+client helper library for REST API
+post.set();
+post.save();
+wp.apiRequest
+wp.utils.WordCounter
+wp.sanatize
+wp.a11y - speaks to screenreaders, important to JS heavy sites, annouce events to screenreads
+WP NPM packages
+npmjs.com/org/wordpress
+gutenberg is making packages 
+github.com/  
+wp.hooks
+lightweight and efficient EventManager for JS
+Gutenberg hooks
+pretty OK docs right now
+github repo is good, but all falling out of date
+wp.plugins
+fill slots with custom components
+wp.data
+manage and interact with state
+wp.element
+similar to DOM construction and HTML
+slew of tools in JS and APIs
+NPM lets us build for WP and out of WP and in Gutes and out of Gutes
+Q&A - When will it be merged?
+A: April, don't know what year... :D
+learn the chrome debugger
+
+
+https://twitter.com/pawelmadeja/status/1007535334337515521
+
+
+https://twitter.com/McDwayne/status/1007541684429869057
+
+
+
+[When to use the API](https://2018.europe.wordcamp.org/session/when-to-use-the-api/)
+[Sean Blakeley](https://twitter.com/SeanBlakeley)
+
+
+Pragmatic
+SCRUM based, 12 years or so in WP
+API use in existing projects
+today?
+Why: what: when
+tomorrow?
+Why use it?
+Devs and for the WP project
+prior to the REST API WP was a monolithic block box
+APi let us move data in and out of system, liberated data
+so we can integrate with other services and systems
+innovators delima
+smaller software projects are going to disrupt and dominance means slow to change to react
+WP needs to challenge it's own dominance, REST API and Gutenberg do this
+what is it?
+API is like a power socket in the wall
+not useful into something is plugged in
+translation of what we want to another audience
+imagine sports company
+want to use WP to make content
+also want to ingest news feeds
+select and publish some with summary and contextualizing
+performance overhead is too much for WP directly
+build a content API and do not change the WP layer
+API delivery system
+simpler architecture
+start up wanting to show details of swimming pools
+public queryable API
+elastic search
+WP as the GUI, the real work done by alternative storage system
+Existing systems
+Fairfax and HumanMade case study
+presenting integrating experimenting
+PIE
+plugin Site In Numbers
+Personalization
+chunking into zones
+push and pull into the JS layer
+Using the Rest API to integrate into systems
+sage ecosystem case study
+advice service
+Experimenting
+Ionic app - run by WP site
+WP as a game engine??
+football matches
+interconnectivity of objects
+time and how it persists in the virtual world
+Gutes: As we have moved into modular chunks, 
+POst and Pages are black boxes
+display or not
+Gutes splits content into discreet blocks
+Performance
+transients as a way to store data
+a-sync transients by 10UP
+Tomorrow: 
+start integrating with other services that was not possible before
+
+
+
+https://twitter.com/tomcchute/status/1007552580325699585
+
+
+https://twitter.com/pragmaticweb/status/1007550776313511936
+
+
+[Content security policies: a whole new way of securing your website that no one knows about](https://2018.europe.wordcamp.org/session/content-security-policies-a-whole-new-way-of-securing-your-website-that-no-one-knows-about/)
+[Miriam Schwab](https://twitter.com/miriamschwab)
+
+
+Either going to love this or sleep through it
+WP Garage
+Strattic
+most attacks XSS 
+Cross Site Scripting
+Load their code in your browser
+once in that state, has access to your storage, dom, cookies
+persistant Originate in the DB - comment injection
+reflected: originates in the victim's request - bad link
+DOM-Based - everything on the browser side
+OWASP top 10
+XSS the user is the victim, not the application
+session hijacking/cookie theft, account takeover,redirects, unwanted ads, 
+browsealooud
+a11y extention in the UK and EU mostly
+line of script to use
+hack library and turned into crypto mining
+CrytpoJacking
+user resources
+CoinHive
+a cryptominer for your site
+slower devices
+100% CPU, etc
+55% of orgs affected
+weatherfor.us
+How do we protect ourselves and users?
+CSP constant security policies
+just say what the good stuff is and what you want to load
+very few people using it now
+not included in the whitelist, does not load
+CSP Syntax
+Directives
+Strings specifying type of resources
+content-security-policy: default-src 'self' https:;
+only allow https assets
+script-src 'self' https://www.google-analytics.com
+font-src
+never
+unsafe inline
+unsafe eval
+script-src 'unsafe-inline' 'unsafe-eval'
+Nonce or Hashes more secure way to do it
+upgrade-insecure-requests
+subresource integrity - SRI
+hashing to allow only when properly matching
+don't use
+x-xss, x-frame, 
+how to add this in?
+Server level headers, 
+a functions
+meta tag - can't be used with everything
+also htaccess
+header information and how content securit
+keycdn has a tool
+CSP evaluator from google
+SOPHOS security haders
+WP plugins Security Headers
+https headers
+SRI plugin
+Report URI - tools for generating headers
+telerik fiddler - only one that can read site and tell what need to add to security policy
+adoption, 23,690 out of top Million sites
+another way to test - script, plug into console
+
+https://twitter.com/McDwayne/status/1007564865421144064
+
+https://twitter.com/roscabgdn/status/1007567707150127104
+
+
+
+Keynote:
+
+[Keynote and Q&A with Matt Mullenweg](https://2018.europe.wordcamp.org/session/matt-on-wordpress/)
+[Matt Mullenweg](https://twitter.com/photomatt)
+
+https://twitter.com/WCEurope/status/1007597290876538885
+
+https://twitter.com/YouTooCanBeGuru/status/1007598763660185601
+
+https://twitter.com/9seeds/status/1007598966429634561
+
+https://twitter.com/theCoreLabs/status/1007598390040031232
+
+https://twitter.com/davidneedham/status/1007597133581770753
+
+
+https://twitter.com/aaronjorbin/status/1007602819732516864
+
+
+
+[Staying Healthy In the Digital Space](https://2018.europe.wordcamp.org/session/staying-healthy-in-the-digital-space/)
+[Christina Varro](https://twitter.com/varrocreative)
+
+
+Eye strain
+improper computer use
+can be resis just working
+20-20-20 rule
+overhead fe not good
+positon the screen position
+late night work
+insomnia
+anxiety
+artificial blue light from monitor dirupts 
+wear blu-blockers
+avoid looking at screens for 2-3 hours before bed
+turn down all lights 1-2 hours before bed
+expose yourself to bright lights in the daytime
+anxiety
+take a break
+meditation
+make an effort to connect to a person in person
+Set boundries between work and personal
+back pain and wrist pain
+Sitting is more dangerous than smoking
+More you sit, the more your blood stops flowing
+Syand up every 30 minutes
+spend 15 mmuntes per hour standing
+drink water
+exercise
+invest your office set up
+learn to sit properly
+
+
+https://twitter.com/itswpshoutout/status/1007611577716092928
+
+https://twitter.com/lausacco/status/1007612479554408449
+
+
+[Easing the anxious mind: dealing with anxiety in the workplace](https://2018.europe.wordcamp.org/session/easing-the-axious-mind-dealing-with-anxiety-in-the-workplace/)
+[Laura Nelson](https://twitter.com/laura_nelson_)
+
+Generalized anxiety disorder she manages
+define anxiety
+often banded around as worry or stress
+anxiety is a constant 
+1. Keep a diary
+a worry journal
+in real time
+rank them and 'n/10' score
+exhausting stuff
+2. Make plans and stick to routine
+hard as a freelancer 
+give yourself time to think about things
+3. talk about it
+it can be hard at first
+You are not alone
+60 Million people in the EU suffer from anxiety
+4. Be kind to yourself?
+give yourself a break
+what's a resonable adjustment
+1. Work starts when they get there, start later
+2. Keep a nice working environment
+3. promote a healthy work-life balance
+4. listen
+
+
+            
+https://twitter.com/pragmaticweb/status/1007613727573708800
+
+
+
+[WordPress and Inclusive Design](https://2018.europe.wordcamp.org/session/wordpress-and-inclusive-design/)
+[John Maeda](https://twitter.com/johnmaeda)
+
+inclusivity is hard since it requires change
+pushing our limits
+fashion always pushes limits
+design pushes you to think differently
+forces interaction by questioning how it is supposed to be
+wapuu silloette  - some anger but creator loves it since people are using it
+without change we only have death
+wants to start an Automattic design award focused on experience
+issue with design in tech - shallow design
+engineer and dev, does not work, refix it until it does work
+too tired to make it usable
+too tired to make it feel good
+spray design on it
+trying hard to make it look not bad
+deep design is not like rocket science, it is 4 things
+discovering the problem
+hypthesize how to fix
+deliver the solution
+listen and look at how people use it
+we love shipping it, we do not like the feedback
+we are very focused on delivery
+in deep design must spend time on listening and discovering the problem
+hypothesize
+all about creative, not about the money
+but after a while, should he worry about the money
+got his MBA
+found that it is important to understand the money
+Apple control ov aluminum and proces
+not many alluminum 
+ability to bend wood
+teaforte tea bag vs green tea in traditional bag
+analagy for our modern day
+FOSS vs Free but I will spy on you
+best way to enhance that core service is the experience
+eveyone copies what is better, like the iPhone x clones
+we are in less than 5% of the world thst unfrtppt
+
+
+
+https://twitter.com/i_cirkovic/status/1007625859417694208
+
+https://twitter.com/colmtroy/status/10076318506706247680
+
+
+
+
+[Intro to Drupal (for WP folks)](https://2018.europe.wordcamp.org/session/intro-to-drupal-for-wp-folks/)
+[David Needham](https://twitter.com/davidneedham)
+
+
+HIs origin story
+in a class, a professor made them write a CMS
+then said "That is why you don't write your own, now use an OSS one"
+everyone else chose WP, he was encouraged to use Drupal
+he got involved in the community
+volunteering is very important
+What is Drupal?
+Dries in Belgium created one fo the first social networks
+a website where friends could share things like photos
+he open sources it and that is what Drupal came from
+6% of the top 10K websites
+that is where it excels, at the top
+over 1Million devs and growing
+Drupal.org
+Free as in beer
+free as in speech
+free as in puppies
+A website also requires feeding and care
+D8 is object oriented
+Symfony PHP framework
+known as being hard to learn, but standardized now
+but a professional PHP from a different project can learn it faster
+small business owner at a camp hiring Drupal experience
+but since D8 move, as long as they know OOP PHP they can work there
+A new person with no Drupal background made a core commit on first atttempt since he knew PHP OOP
+Drupal is modular
+the ecosystem is different, no commercial modules
+no ongoing support contract around the modules
+Also means less fragmentations
+OSS from the Drupal community means all the code back to D.O
+Drupal is themable, 
+extremely customizable
+down to a per piece of content basis
+box of legos, makes it harder to approach
+built in data structure, specific content and field calls
+meta around that
+very good for data analysis or connecting to multiple applications
+Structured content
+core, very key to how it all works
+build your own data structures
+and access/roles is built in
+staff directory example
+Chicago Park District example
+facilities - name, type, photos, address, photos, hours
+data created elsewhere and pulled in
+editors also editing
+pushed out to a few other places
+Views 
+kinda ugly interface to be honest
+but configurable in any ways to display anything
+slideshow, sidebar footer, whatever
+block display
+custom admin tables
+Hong King Trade Development Council
+using Views to build a dynamic front page on their site
+Drupalcal to meet the community
+free Drupal training online too
+experiencing like a different country
+see the world a little bit different
+advocating checking out other communities and out of your comfort zone
+in conclusion, the website for his class
+it ended up doing very well and 
+had a fully functional ecommerce store for fake things
+not here to convert you
+motivation is to show that we are similar
+more alike than different
+grown together
+Drupal had content types: WP Post Types
+Drupal query building: WP has this too actually from Plugins
+Gutenberg is also being thought of in Drupal form a different philosophical point
+but get out there and learn
+Davidneedham.me/wceu2018
+
+
+https://twitter.com/WCEurope/status/1007879273838010369
+
+https://twitter.com/kenda_x/status/1007883763525804032
+
+https://twitter.com/YoastKarin/status/1007883492196257792
+
+https://twitter.com/KrishaWeb/status/1007884182993981440
+
+https://twitter.com/WebDevLaw/status/1007887143224700935
+
+
+
+[Origins of Design Inspiration](https://2018.europe.wordcamp.org/session/origins-of-design-inspiration/)
+[Simon Cooke](https://twitter.com/SiCooke23)
+
+
+bob dykan quote
+Finding something,
+like inspiration was a think
+Egyptions thought it was a spirit
+Greek throught ti was something that followed you around, genius
+map of the mind in modern times
+looked at Design theories
+many ways to bubble up ideas to the top
+at Pragmatic they use "desing thinking"
+David Kelly thought leader around this
+5 sections
+Empathy
+Define
+Ideate   <----where we will spend most time in this talk
+Prototype
+Test
+things start with rough sketches
+digitize and 
+mussli (SP?) mewsly?
+mindmapping input in new chrome windows
+ideation is brainstorming
+input and output
+I don't believe the value of brainstorming is the ideas gneratied
+value lies in the shared perspective of the people who participated (paraphrase)
+Tim Sheiner of Salesforce
+Lot of tools availble, may be equal, but some can be more inspirational
+The Process:
+Start with our own habits
+Daily Adventures
+change it up, do something different, introduce simple change to change frame of mind
+drink something different, new coffee shop, take a different path
+Rythme, normally about timing
+creatives are creative peaks 7-11am AND 4-9pm 
+ideation meeting, don't do it at 2:00pm
+Daniel H Pink book "When" on mood swings supports this theory
+that curve is split in 2
+morinng spike is hyper focused state of mind
+most ah-ha moments though are in the evening peak 4-9pm
+creative minds need time to chill out, less pressure 
+brains get to wander and connect the dots of all experiences recently
+that is where creativity really happens
+Influence is the past major point of ideation for him
+Influence = inspiration
+they are equal
+transformed in equal quantity
+digital environment
+physical world
+community
+digital - screenshots of phone, lot of visual and written content
+very much influencing him
+other digital content, blog posts, httpster.com, 
+WOGD - high quality content
+http://womenofgraphicdesign.org/
+jotting a lot of notes at night
+in morning then process it
+podcasts and audiobooks
+Physical world up next
+fun, slides and stuff
+should feel comfortable in your working space
+but can not comete with volume of written data on digital
+but different
+experience as much as you can of the physical world
+community, there are the people around you
+friends, family, co-wokers, Campers
+recap:
+Tools - find the ones that work for you
+Process - tweak a few habits and find a rhythm
+Influence -  influence = inspiration
+challenge, help someone find inspiration in you and find inspiration in them
+
+
+https://twitter.com/pragmaticweb/status/1007896046381535232
+
+https://twitter.com/WCEurope/status/1007897589193330688
+
+https://twitter.com/WCEurope/status/1007901996236574720
+
+https://twitter.com/wearerequired/status/1007902838423420928
+
+
+
+[Anatomy of a block: Gutenberg design patterns](https://2018.europe.wordcamp.org/session/anatomy-of-a-block-gutenburg-design-patterns/)
+[Tammie Lister]()
+
+
+Not a technical talk
+about the ideas behind design of Gutenberg
+basically everything is a block
+all we should hav to learn is how the blocks work, then we will know all of it
+roots of it, sketch of it
+basically based on the whole experience of WP
+blueprints (shws a design sketch of the thing)
+element bar
+sidebar blueprint
+status, revisions, all the things you expect with WP
+adding block
+shared and reused blocks
+walkes through nexted block and other blocks
+blueprint of a standard block
+bar, menu, and arrows
+sidebar can be moved and placed as you prefer
+Doc sidebar is same as in block sidebar, always there
+primary and secondary action
+toolbar has primary actions
+things it should not function without it
+secondary are anything else
+tranformations
+any block can become any other kind of block
+work moving tranform into one place
+Unselected placeholders
+selected and with content
+unselected but contains content
+hoverstate
+basic anatomy of a block
+example
+Gallery block
+much closer to true WYSIWYG
+every bock should give a preview
+and show you what to do intuitively
+Blocks should adapt
+blocks usable on all devices
+Where should blocks live?  Plugins so they can be reused!
+leave the themes alone
+Direct manipulation
+receive immediate feedback
+expected user experience
+Block Styles
+editor block
+when should you build a block?
+there are also other ways to do it
+potential ideas are boundless
+making content with not much or
+Tips - new user experience guide
+a bti of a story
+thanks for all the contributions
+
+
+
+https://twitter.com/michielheijmans/status/1007961452387491841
+
+https://twitter.com/raisonco/status/1007959514165989376
+
+https://twitter.com/TheBrigitteEdit/status/1007957892434186240
+
+
+
+[Beyond Gutenberg](https://2018.europe.wordcamp.org/session/beyond-gutenberg/)
+[Matías Ventura](https://twitter.com/matias_ventura)
+
+how the things have been made and how it is going is goal of talk
+30 releases in one year
+200+ contributors
+3000+ code merges
+how to bring a blocked based experience without fragmenting the community and content
+took a while to arrive at blocks
+pricipals
+oblitimize for the user
+content first
+no lock-in
+incremental developer
+Semantic web
+since WP inception this is central
+block editing is concern of maniplating content but not for display it
+HTML as the format
+page as the privelidged entity and more meaningful experience
+lift up and manipulate blocks
+slightly higher order HTML
+we are using native HTML tool manipulate content
+block attributes
+demo time
+mainthing since last time he talked is calumns block
+markdown FTW
+reusable blocks
+scales up
+seeing a lot of plugins creating blocks
+needs testing help with
+nested blocks
+templates
+layouts and 
+child blocks
+API tools to allow mixtures of blocks and templates
+reusable layout units
+locking templates is new as well
+experience new page mock up from Mel Choyce
+
+
+
+https://twitter.com/itswpshoutout/status/1007974014286028800
+
+https://twitter.com/WCEurope/status/1007972584988839936
+
+https://twitter.com/WCEurope/status/1007970631713992704
+

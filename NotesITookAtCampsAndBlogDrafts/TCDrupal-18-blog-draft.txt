@@ -1,0 +1,753 @@
+Twin Cities Drupal 2018: Exactly right weather and learning that a turn of a corner means a very different neighborhood experience in Minneapolis
+
+
+It might not sound intuitive, and I think this might sound like an advertisement, but I think I get some of my best work done inside the [United Lounges](https://www.united.com/web/en-US/content/travel/airport/lounge/access.aspx) at [SFO](https://www.flysfo.com/), including the vast majority of this post actually.  There are these back cubical co-working spots that feel like a place I used to work at in Oakland when I was first figuring out the Bay Area.  A place that forced a good work ethic because you definitely did not want to lip down further on the rungs of quality of labor choices.  And the fluorescence flicker is at a temp that raises your anxiety just enough that you fall into quicker rhythm while hacking at something or writing something up.  I was getting a lot of work done on a Wednesday morning as I was about to fly out to the [Mini Apple](https://en.wikipedia.org/wiki/Minneapolis) for [Twin Cities Drupal Camp 2018](https://2018.tcdrupal.org/).
+
+https://twitter.com/drupalassoc/status/1004388784560136194
+
+
+"There are only seasons in the cities," my Lyft driver stated dryly as we left the airport and ran into a traffic delay.  She let out a light sign and continued "Winter and construction."  This was not a joke, as traffic delays getting into the city made me very glad that I could get to almost everything on foot, which is my preferred mode of travel these days.  I have found walking in a city reveals more about the character than reading millions of data points.  Knowing how the lavender smells and realizing how much I have taken the wild lavender of California coastal climates for granted.  Seeing co-working/art/loft spaces that could be in any city ever next to Starbucks which are in every city ever.  I came with a different eye this time, evaluating the subtleties of one of the few cities I can say I am frequent enough that the bartenders and KJ's at the karaoke spots remember my face from last time.  It cast a wonderful under-glow to the whole trip and made me re-see how really wonderful so many people I already thought the world of really and truly are.  
+
+
+
+### Food and the Fun
+
+
+##### Wednesday Night Baseball 
+
+Just by happenstance about 12 of my amazing Pantheon teammates were in the area, which is not too surprising give than about 7 of them live there and work from our Downtown Minneapolis office.  Thanks to the wonderful and thoughtful [Tessa Kriesel](https://twitter.com/tessak22) the whole gang got to go out the ballgame and see [The Twins play the White Sox](https://youtu.be/4L4ht4DVHcQ).  It might not have been a great night for the Twins, but it was a great night for us all.  
+
+https://twitter.com/tessak22/status/1004528282811977735
+
+
+##### Speaker Dinnner
+
+I always love these things, even when I go into them a little under the weather.  Coming out of it I felt on top of the world. Hanging with the crew that put on the camp, all of them volunteers giving of themselves freely to make something bigger than any of us could accomplish alone.  [Hell's Kitchen](https://www.hellskitcheninc.com/) in downtown took very good care of us, helping us all feel full and making sure to cater to our dietary needs.  I even learned about this awesome whole repo for FOSS android stuff, [F-Droid](https://f-droid.org/en/), which I will be searching first from now on.  FOSS FTW!!!
+
+https://twitter.com/McDwayne/status/1004884632024829954
+
+
+##### Friday 
+
+Coffee was coffee enough to fight the sleepy off for the morning and a light selection of fruits and yogurts met us as we arrived.  Lunch was on our own and while it felt a tad antisocial, I did something I have never done before at a camp.  I bought groceries and made a salads for both days.  I was not the only person to choose to stay at the venue and I got to hang out with a pretty awesome crew of people, so it ended up very social after all!  
+
+https://twitter.com/Nashville_ECD/status/1004816094375415808
+
+
+##### Friday After Party
+
+Drupal and WordPress differ on a number of philosophical points, that have nothing to do with code.  Drupal Camps feel like a reason to have a sprint day and an excuse to get together and play board games, with the sessions remaining very serious and important, but secondary to those two goals.  This camp, for instance, had 2 after parties, one after each camp day.  The first of them was at one of my favorite art collective spaces I have ever visited, [The House Of Balls](http://houseofballs.com/).  This place used to be an underground punk club that transformed into something you would imagine only could exist at Burning Man, but here it is in the middle of the Midwest.  No real way to explain how this place feels, but there was DrupalKaraoke so you know it was magic.
+
+https://twitter.com/deliriousguy/status/1005274903816343552
+
+
+##### Saturday
+
+Coffee once more flowed but this time, our voices in the tea drinking community were heard and we had some lovely teas to choose as well.  Green for me please.  Lunch was again on our own and my prepped salad in a bag was the envy of the table where I sat.  Eating high fiber never tasted so good.  
+
+The Saturday After party lacked some of the flare of the Friday night fun, but it was so great to see so many people just relaxed and engaging as people, not as work colleagues or business contacts, just as humans, over great Chinese food and more board games, like [The Thing](https://boardgamegeek.com/boardgame/226634/thing-infection-outpost-31) at [Advantage Labs at Flock MPLS](https://www.flockmpls.com/).  1/2 the place felt like a recycled saw mill operation and the other felt like what happens to lawyer offices if the lawyer suddenly goes out of business.  Neither of these things are bad, especially in the context of a co-working space.  I had an early flight and did not stay until we all left, but I did get a chance to swing through [Otter's Saloon](https://otterssaloon.com/), my favorite karaoke experience [outside San Francisco](https://www.facebook.com/hashtag/punkrockandschlockkaraoke) and would feel bad if I didn't give them a shout out in this post.  
+
+https://twitter.com/TCDrupal/status/1005610926375079936
+
+
+### Sessions
+
+Opening Remarks:
+
+https://twitter.com/deliriousguy/status/1005092455144882176
+
+
+[Drupal and the Music Industry: Learning from Our Success](https://2018.tcdrupal.org/session/drupal-and-music-industry-learning-our-success)
+[Matthew Tift](https://twitter.com/matthewtift)
+
+If you really stop and think about it, case studies are literally the final output of a project.  Everything that has ever happened in every attempt to solve the issue, process improvement that resulted, new system integrated with or written along the way, should in an ideal world make it into a case study.  I love them and think they are some of the most valuable pieces of content ever produced.  A session that would discuss multiple case studies in one of my favorite industries of all time seemed like the exact right thing for me to attend.  I actually ended up seeing this session as the natural follow on to Michael Schmitt's Keynote which had happened at the previous week's [Texas Camp](https://www.mcdwayne.com/2018/06/04/texas-camp-2018/).  While Michael focused on the government use of the tools, Matthew had an arguably sexier topic of the music industry, of which he has a deep knowledge.  If you want to be able to brag about someone who everyone has heard of using Drupal for all it can do, be proud that list is as far ranging as Beyonce to Tom Petty and from Berklee School of Music to MTV.  Be proud Drupal community, we make the world sing.
+
+Raw Notes:
+A way to connect live coding and the music industry
+Who sponsors Drupal?
+You can now acknowledge who paid for you to do that piece of research and development
+not a technical session
+how the Drupal community has successfully found a niche in music industry
+Dreis published 27 posts that talk about musical acts using Drupal
+not the 'official truth record' but a trail that shows how Drupal was adopted
+MTV using Drupal in 2006, 4.3
+real developmental period with a lot of contracts
+Many other music sites Dreis did not blog about though...
+before that, let's talk about D.O redesign
+for 3 personas
+for Marketers
+non-profit, health care, Higher Ed, Media and Publishing, Government
+Here is where Drupal is successful
+used Wappalyzer to who what sites are Drupal
+so many sites are Drupal, overwhelming
+tom petty, Cardi B
+labels use Drupal, Atlantic, Nonesuch, RHINO, Warner Music, many others
+Also, Music Schools
+SO many higher ed 
+Berklee school of music, ASU, etc
+Associations
+NAMM, MTV, Classical-music.com
+MuseScore
+Good for business
+you can drop names on clients
+you can use it without caring that much about the underlying philosophy
+lot of business value we can point to via this success
+also Cause and Effect
+Standardization - across so many brands, one solid foundation
+Cooperation and working together is throughout all this
+Sony + Drupal - sponsoring multilingual work in D6
+not just building the functionality for themselves, share with the world
+not just that people are doing this, but a sense of sharing
+this marked a move to the 'serious developer' out of the hobby category back in 2009
+Sony Lessons
+Engage with the community, makes it all better
+Working with Drupal core, not against it (don't hack core)
+Fix Core too
+Developers like to get to do it right
+Went through the commits to see who else has pitched in
+Universal music was only other one - environment_libraries from 2015
+something special about the Sony case then
+Hmmmm
+Music is content and we do content management
+Most of the web does not need the complexity
+audio on the web, internationalization
+not everyone has a lot of content, maybe don;t need as much CMS
+Dries pushes this idea
+'Ambitious Digital Experiences'
+on the front of D.O
+there is a whole other level going on with this 
+a lot of people listen to music and have special relationship with it
+many people in Drupal also musicians
+Jeff Robins of Lullabot was in 'Orbit'
+A sense of Belonging
+Musicking by Christopher Small
+we like process of creating and there is something about music that makes it a good fit
+Our community likes to get together and there is a lot of music sometimes
+Drupal songs!
+Robin Hood
+taking money from the 'big evil corporations' and using it to share code with the community
+public good
+money to give things away
+Metta (kindness in sanskrit)
+
+https://twitter.com/McDwayne/status/1005106650037084160
+
+
+[Progressive Decoupling: A case study with PRI](https://2018.tcdrupal.org/session/progressive-decoupling-case-study-pri)
+[Brandon Hundt](https://twitter.com/brandonhundt2?lang=en)
+
+Having grown up and discovered NPR and PRI on my own as a teen, this organization and all the hours and hours of driving they helped he endure in the first parts of my adulthood hold a special place for me.  To hear someone working there personally thank my company for making their life better was more than heartwarming.  It was one of those moments that reinforced that I am not really working a job, I am answering a vocation.  Technically I found this a very keen piece.  If you are considering decoupling, this is a very good session to see as homework.  
+
+Raw Notes:
+50-60 RSS feeds built into views
+needed a custom platform
+Rest API was decided
+project did not go well
+4Kitchens helped them figure out custom was not the way to go
+needed a Viable platform
+New Paths Forward
+Decoupled D7 was the path after all things considered
+What they did
+started with the home page for decoupling
+RESTFul API - had to develop this for them
+Restful module, JSON compliant APIs
+read points and CRUD endpoints
+robust front end
+React to make a component library for UX
+using Storybook
+it became the favorite tool for whole team on project
+live storybook
+bit.ly/priStoryBook ~ bit.ly/priReactLessons
+Next JS Front end
+1.0 launched in April of 2018
+some advantages but also challenges
+pros: It works! The goal was met that it functioned
+40% faster overall
+In part thanks to the edge cache from @getpantheon
+Mitigated risk
+no migration!  this is big, limited budgets meant this was too time consuming
+used what they had, saved a lot of work
+also set them up for migrating to D8 at some point
+Modern framework - a dev said "I really enjoyed working on this stack"
+that is a super positive!
+stakeholders where satisfied
+Not all wine and roses
+increased support burden on a small team
+time is $$$ and cost is a real challenge
+initial thought was he would have plenty of time to rebuild the site year to year
+Prioritization is a challenge
+not really managing users at all,
+traffic is mostly not logged into anything, over 90%
+can you tell from React if logged in?  
+not really, but can get to it if they go down that path
+different direction on that now, in the works
+
+https://twitter.com/neerajskydiver/status/1005125122066386946
+
+
+
+[The Next Big Thing And Why Should I Care?](https://2018.tcdrupal.org/session/next-big-thing-and-why-should-i-care)
+[Dan Moriarty](https://twitter.com/minneapolisdan)
+
+I went into this session with no clear idea on what Dan even meant by that title.  I was delighted to be able to hear Dan quickly give a brief synopsis of the forthcoming tech and his pros and cons to it as well as a very simple 'should I care and when' judgment.  Throughly researched and well thought through, I only wish this session had been longer so we could have had a longer and deeper follow up discussion.  Hopefully Dan will keep giving this kind of talk as tech ever changes and that change keeps accelerating.  
+
+Raw Notes:
+Missed intro
+CSS grids vs Flexbox
+only have so much mental capacity or time
+Skeptic vs Cynic
+Skepticism is good in general, asks questions
+Gartner Hype Cyle
+predicting the future based on trends
+1. Voice Search
+smart speakers
+does not have one yet
+why care? 
+Smart phones
+20-25% all searches by voice
+location based search
+more and more popular
+Comscore thinks 50% of all search will be made by voice by 2020
+What should I be doing
+Have online content you can search (duh!)
+Plain spoken, natural language, understand how search is different with voice
+Easy to understand
+FAQ
+His call: Learn it now!
+2. VR and AR
+what do we mean by VR?
+360 videos
+VR 
+AR
+360 video, VRML was predecessor, for house tours
+no special devices needed
+low bar of entry
+no interactivity
+VR and Web VR
+Traditional VR using devices for an immersive experience
+Occulus Rift, Cardboard, etc
+leaving the real worlds to work within VR
+WebVR is experiencing VR within a web browser, as a progressive enhancement
+Only on special versions of browsers like Firefox Nightly
+webvr.directory 
+Augmented Reality
+overlaying real world in your device view
+Brining virtual objects into the real
+Apps like Ikea Place and Pokemon Go
+Apple AR kits
+Google called 2018 the year of AR
+My call: Dabble, still 2-3 years out from hitting web designers
+AI - what does that even mean?
+pattern recognition on a large scale
+machine learning algorithms
+machine learning
+predictive algorithms
+speech and image recognition
+chat bots
+impact to the web?  some
+tools to enhance you content
+Tools to help users
+tools to improve UX
+Tools to increase engagement
+Tools to improve efficiency
+to replace your job
+grid.io uiKit
+What to know
+Be informed about the tools exist
+Use tools like Google AI.API to construct tasks
+My call, Dabble, 3-4 years out from real tools
+4. Chatbots
+logic trees based on user input
+guide for searching/sorting
+initial interface for easy to answer questions
+NLP to understand requests
+landbot.io, as an example of a chatbot AS a website UI and a service that builds chatbots
+why?
+Users spend more time in messenger apps, less in social media
+want instant info, just by asking a bot
+Delivering info to the user
+How to use them
+Slack, FB, other applications 
+Create your own
+Landbot
+his call: Dabble now!
+5. Blockchain
+shared data and resources
+can I use it?  
+used in cryptocurrency
+could be used in financial transaction, big ticket items
+His call: ignore for a few more years
+6. AMP
+Accelerated mobile Pages
+publish mobile optimized content making loads fast
+Cached by Google
+AMP module from Lullabot
+Should be be using it?
+On article heavy content, easy to implement
+Google promoting loading web pages inside email
+not for dynamically hanging data
+does it create a walled garden??
+De we need instant loading
+His call: could know and now
+Progressive Web Apps
+PWA, alternative to native apps
+using HTML and JS 
+Dynamic like an app
+Data can be stored offline for phone or tablet
+pwa.rocks
+Should you learn?
+8. GDPR - General Data Protection Regulation
+sets rules on how companies can use your data
+site visitor may be from abroad
+His call: do it now!
+Feel good about yourself if you don't know everything.
+It's OK to not know everything!
+
+https://twitter.com/kieronbrewer/status/1005163897039486976
+
+
+[Drupal 8 Migrate: It's not rocket science...](https://2018.tcdrupal.org/session/drupal-8-migrate-its-not-rocket-science)
+[Jack Franks](https://2018.tcdrupal.org/users/franksj)
+
+Jack is an immediately likable fellow, in my opinion and his ideas and thorough understanding of migrations in general struck me as a real asset to the community as a whole.  Getting to chat with him at the speaker dinner about content deployment and how we might approach that in Drupal effectively made my head spin with the possibilities of using Migrate module for ETL.  This talk didn't exactly address my [postitnow](https://www.mcdwayne.com/2018/05/24/the-case-for-markdown/) use case but it points to at least a viable path which he is already looking down.  THis session also should get an award for best use of NASA data for any session ever delivered at a Drupal Camp.  
+
+Raw Notes:
+But we are playing with a lot of rocket/space data
+Not coving D6-D7
+Not talking about D8migrate and D7 Migrate
+Not Multi language imports 
+How does this Migration thing work anyhow?
+Source -> process -> destination
+for the most of our use cases we mean Drupal
+can also mean out of D as well
+What does it look like?
+1. Start with Source plugin, where data comes from
+2. Results of source are converted and mapped to your destination with Process plugins.  
+3. Destination determines where it ends up
+This sounds great, how do we do it?
+Migrate is in core, but you need some other things too
+Migrate_plus
+Migrate_tools
+Something that makes stuff way easier
+Migrate_devel - print source and map
+config_update - 
+how do we do it?
+Create a module. (just a .info.yml file or Drupal gm in console
+Create a config/install dir
+Ass a config file
+...
+run it
+Testing is tricky
+code is at tiny.cc/d8migrate
+Helper module
+demo
+Let's dissect a source plugin 
+sources
+screenshots and demo code
+process plugins
+using Lando locally to debug, pretty cool
+ton of plugin ids
+see if data is what it is supposed to be format
+then process and return it
+simple, most of them only do one thing
+PDF parser example
+live demo time
+custom destination plugin
+demo
+every file in every directory of the system
+sites/default/files
+export.csv
+now to the NASA data
+rovers on Mars
+machine crash...oh no!
+restart
+demo keeps going
+pulling data from NASA API
+see this data structure
+
+https://twitter.com/McDwayne/status/1005170845092843521
+
+
+[Antaeus At Work; Human Centrism in Experience Design](https://2018.tcdrupal.org/session/antaeus-work-human-centrism-experience-design)
+[Christopher Stephan](https://twitter.com/christephan)
+
+I honestly went into this session based on the misguided belief that Antaeus was a framework for design.  I am not kidding.  Working at a place called Pantheon that has internal project names like [Valhalla](https://pantheon.io/blog/inside-pantheon-valhalla-filesystem) and Styx and meeting rooms named Dionysus and Hera, it is not too strange for me to make this kind of mistake.  Also, I did not read the session description too thoroughly after learning that Christopher was from [The Nerdery](https://www.nerdery.com/) and I knew I would be in for a treat regardless of the topic.  All those points plus the exploration of Experience Design, of which I have little direct formal experience, made this one of the first ones I highlighted as a 'should attend' on my schedule.   
+I am very glad I did.  Not only did I learn another new story from the seemingly boundless  inherited tapestry of mythology, but I also gained some wonderful insight into how others have used the idea of active listening to improve all our lives.  Christopher is a wonderful presenter and I feel this is one of the more engaging sessions I have been in at any camp.  
+
+
+Antaeus at work
+got to do the work
+imagine a hammer, everything needs hits
+but need to figure out how to specifically do with it
+what do we know about Antaeus?
+not much
+Antaeus was a child of gods, Giant in Greek mythology
+used to challenge people to wrestling 
+as long as his feet were on ground, invincible
+Hercules lifted him and beat him
+His power was connection
+Human Centrism 
+humans
+the approach we take and solutions we arrive at are based on...
+serving needs
+deep empathy
+Building that base is work
+needs have to be determined
+The needs you serve have to be determined
+You can get business values, but not the list that reflects the needs of the populations served
+You don't build empathy secondhand, must be direct working relationship
+feedback won't come looking for you, well bad does sometimes, good does not
+We do research to find needs
+We do work in person to build empathy
+So that means
+You have to get up close and personal with the people you are trying to help
+you have to forget about what you want and hear what they want
+Terry Pratchett's 'first sight'
+You'll need a foundations understanding of the pressures and motivations in play
+Iteration is key
+Need to share work and accept it's problems as fuel for improvements
+That every change you make, opens the door to new potential improvements or issues
+tech is constant change, always new was to fall behind
+The needs and expectations of the people you serve is itself a moving target
+Needs of the same person at 10:00am are not the same at 3:00pm
+or first of month vs end of month
+but it is worth it
+innovation comes from observation and recognition of emergent needs
+You will find opportunities to serve your users instead of someone else's
+but let's be cautious on Best Practice, that normally means borrowing someone else's solution
+no idea how they were formed for the most part or what issue they were originally trying to solve
+Human centrism only works when we make contact with, and learn from, those we want to serve
+so why Antaeus anyhow?
+when was he strong and when was he weak?
+What does this imply about human centrism Experience Design
+What happened when we lost touch, he got squished
+so will we
+so?
+Probable Benefit Density Chart
+He made it up
+y=operating expertise | x=constituents contact
+experts
+novices
+none-> consistent
+quadrants Satisfying
+Innovation
+Experimentation
+Bootstrapping
+anyone can do usability testing
+decent usability testing just means plunking someone down and watching what they do with the thing you built
+the more consistent you make the contact, the more yor expertise grows
+the more adept at applying methods AND analyzing results, the more value you get
+avoid predictive questioning "will you..."
+"future me is an unreliable bastard"
+Like Antaeus human centrism relies on contact
+never one and done
+there is no merit badge, or cert for this
+finite shelf life on anything you learn
+true iteration means a loop of articulation and testing
+prototype just gets a conversation and data, can be a single sketch or a full fleshed out dummy site
+The moment you lose touch, you are not Human Centric
+this seems like a lot of change
+and there is ALWAYS a reason not to engage
+time line too tight
+Budget is too small
+no access to right people
+Changing course is not an option
+what happens when we don't engage
+disconnecting is a stakeholder saying you can't
+If you care about experience, you have to stay in touch.
+What an I do now and without a budget?
+Gather a pool of users, to give feedback or participate in research when needs arise
+your intentions and their intentions don't align, but you can get them in alignment
+review ticket queues, analyze it!
+look for recurring issues and requests
+then you can understand the enduring issues in the system
+start planning to conduct research and testing as basic components of every new feature and build
+make time, appropriate funds, gather resources
+just start engaging with Drupal users and do not stop...EVER!
+investing in contact will get us there
+Iterative trigger theory
+internal iterative trigger
+contextual iterative trigger - you and the stakeholders and other devs, etc
+external trigger - outside your team completely but cares about the ting you are trying to enable
+we already do this with code quite often, this is a further step to the outside
+
+
+https://twitter.com/McDwayne/status/1005190684327010306
+
+
+
+[Rediscover Google AMP: Learn to integrate AMP with your Drupal project](https://2018.tcdrupal.org/session/rediscover-google-amp-learn-integrate-amp-your-drupal-project)
+[Jason Want](https://twitter.com/jasonawant)
+
+As someone who has installed and activated the AMP plugin for WordPress and considered it for Drupal, I went into this talk with a true novice perspective.  When I left I had a new vision for how I could think about content and delivery.  Rather than HTML, what if we design with an AMP first position that, when breaks, defaults back to plain HTML.   This is a new idea in my head but the scalability implications, especially for news and updating information websites seems like it is well worth exploring.  Though Google driven, this is actually all open source at the end of the day, so there is that as well.  
+
+Raw Notes: 
+Icebreaker, literally a pic
+asks us some questions around news
+AMP
+we are not using apps anymore really
+install, use it once and then back to normal
+FB, Chrome, Amazon, etc
+using mobile for browsing
+increase in retail on mobile more and more
+pre-2016 - Fliboard
+Apple news with iOS9
+2015 AMP announced
+2016 - AMP results start appearing top story of mobile search
+FB supports IA in articles
+AMP Preview
+Apple News 2 releases with iOS10
+AMP in all search results globally
+WP - AMP'd up tens of millions of sites
+Reddit - Bing - Ebay
+SO, what is AMP?
+Open SOurce Library that provides straightforward way to create web pages and email that are compelling, smooth, and load near instantaneously
+AMP on Github
+3 core pieces
+1 AMP HTML - slightly mod HTML for performance
+2 AMP JS library
+-manage resource loading async
+-sandbox iframes
+-precalc layout of every element
+-disable slow CSS selectors
+3 Google AMP Cache
+using HTTP2
+does not serve non-valid AMP pages
+straightforward way
+basically header does it
+AMP components include their own JS
+amp-sidebar, amp-(fill in the blank)
+No External Stylesheets or inline Element Styles
+instead use inline stylesheets
+max 50kb of inline style
+but include <link> tag for fonts from some sources (limited)
+disallowed CSS
+Margin: 0
+filter: greyscale
+only GPU accelerated
+disallow regular markup, alternatives in component library
+Forms
+requires amp-form-0.1.js
+uses Ajax and more involved of a setup than normal CMS forms
+<amp-sidebar> 
+invisible sidebar to add things to
+amp carousel, specific to what it can include and individual attributes
+Amp-bind
+Like Angular - change elements with the state of a selector
+attributes can be set with this, so ecommerce possible, Ebay biggest user right now
+2017 - history again
+Triple Lift serving AMP ads
+canonical URL
+amp-install-serviceworker for PWA
+enhanced analytics
+Fast Fetch ads
+Adwords announces AMP pages for ads
+2018
+Many devs don't like AMP since 'not really' open-web
+moving to web packaging (open standard)
+AMP email
+AMP communicates AMP-based tech and web standards
+AMP Consent for GDPR
+amp-geo, dynamic geo-personalization - based on CDN POP location, low effort to get
+Google Mobile Search includes page speed as ranking factor
+roadshows
+many, many resources
+Drupal and AMP
+D8.2 AMP Module
+provides ability to enable AMP modes for content types
+provides AMP formatters
+GA, AdSense, DoubleClick, amp-pixel
+you do not get AMP components
+no sidebar
+no AMP first approach
+-> 8.3x
+AMP is not the only way
+existing solutions
+component based rendering with use of my_module.libraries.yml to minimize CSS and JS assets
+Responsive and optimized image assets
+performance audit tools (Lighthouse)
+Drupalcon session from Mike Carper Get a Perfect 100 in Google PageSpeed
+
+https://twitter.com/deliriousguy/status/1005465805948178435
+
+
+[Steering the Open Web](https://2018.tcdrupal.org/session/steering-open-web)
+[Michael Babker](https://twitter.com/mbabker)
+
+Almost as a response to the last session I attended on AMP, this talk actually had to address that question of community driven vs corporate sponsored OSS.  This is not a minor discussion point either, as this is one of the things that makes tings like Joomla and Drupal stand out among all the CMS projects in a way others wish they could claim.  While sponsored development speeds things along, there is something to the idea of a small group of dedicated developers not only solving a difficult problem and then, on their own, with no financial or material incentive outside of altruism and a spirit of human togetherness, release their work to their world for us all to share the benefits.  This is a must watch for anyone wondering what this Free and Open Source stuff is really all about.  (Hint: The Free stands for Freedom)   
+
+Raw Notes:
+Joomla Background, WP, all across the web space
+9 years in army 
+but always dabbled with HTML sites
+Part of the Joomla Association Leadership Board
+full time PHP, stopped doing talks for a couple years
+used a phrase offhandedly - Open Source Advocate
+was at Open Web Lounge at DrupalCon with WP, Joomla and Drupal there
+all about OSS
+top 3 CMS is 36% of web space
+owns 78% Web Market Space
+We are democratizing publishing
+freedom to build!  Freedom to change.  The freedom to save
+Security is a huge issue with us
+lot of nuance
+Automatic Updates - for the WP market, this is paramount, giving up some feature releases for this
+Open Source is collaboration, not competition
+Lot of security overlap between the projects
+leaders and consumers talking together at Drupalcon
+why it is important to keep it open and that is what he wants to discuss
+Sustainability in OSS
+even if OSS dies tomorrow, projects likely to keep going for a while
+Sensio labs taking care of Symfony for example
+can't rely on take, take, take, there must be a give back
+
+https://twitter.com/deliriousguy/status/1005484779062661121
+
+
+[Personal Internet Security Basics](https://2018.tcdrupal.org/session/personal-internet-security-basics)
+[Dan Ficker](https://twitter.com/deliriousguy)
+[da-Man.com](https://da-Man.com)
+
+To know Dan Ficker is to immediately like him.  I could spend a few paragraphs elaborating on that, but for the purposes of this blog, let's focus on Dan's passion for doing things the right way.  His twitter game, for example, puts mine to shame I feel and his live tweets are every bit as thorough as my notes hope to be.  In fact, for the sessions I didn't go to, but Dan did, I got great overviews of the main take aways.  That, to me, is the highest form of Twitter use, conveying a whole session down to a few comprehensible pics and point summaries that are very easy to consume.  He brought this same elevation of the form to a talk everyone should send to all their clients and friends if you care about their online security at all.  
+
+
+Raw Notes: 
+Not about how to make your company safe,
+different talk
+personal security
+Security is an aspiration, not a state
+encryption is your friend
+What is encryption anyhow?  
+Math that keeps your data private
+Internet is data packets
+much like mail, many computers are sent this along the way
+without encryption, they can read your data
+encryption is the secret code between sender and receiver
+one way encryption
+also known as hashing
+64 character is good
+process is irreversible, no way to get back to the original data
+commonly used for passwords
+Public Key Encryption
+Private and Public key
+public key can decrypt messages written with the private key
+demo/slide
+good to send encrypted data
+when is data encrypted?
+HTTPS = Encrypted
+Encryption keeps data secret between your browser and web server
+browsers often show a padlock next to the URL
+If not using HTTPS, you are sending your password unencrypted to the server
+without HTTPS, any router or computer along the path can see file resources you are requesting. with HTTPS, they only can see what server you are requesting data from
+Email can be secure, but consider it insecure in general
+HTTPS does not guarantee no one will or will not see your data, but it is a risk not to use it
+Wi-Fi,
+radio waves
+assume insecure
+public wifi is never secure
+with a password and WPA2, it is at least encrypting data between your machine and AP
+Passwords
+more common one is actually '123456'
+Traditionally
+Come up with one or a few passwords to remember 
+now ee use them for everything
+change occasional and a lot of just tack a number to the end
+password resets, clunky
+now we use hundreds of sites
+sometimes banks, very secure things
+some of these will get hacked and your passwords will get leaked out
+Now you should probably change that same password on every site
+only have a few passwords since hard to remember
+Dan once had a iOS app that had a site that he created a password for
+that password got leaked
+he got hacked, lost his netflix account to someone in Peru
+got it back, not too bad
+but could have been a lot worse
+If you give your password to a company, they might not encrypt it
+it might get hacked
+https://haveibeenpwned.com/
+better passwords
+Random with alphabet, numbers and special characters
+20+ characters long
+unique for every site and service
+no need to regularly change anymore
+impossible to remember, good thing
+password manager vault
+you remember one password 
+optionally use multiple factors as well to protect this vault of data
+Lastpass, free
+1Password, $35 year
+iCloud Keychain, included with apple devices
+KeePass, OSS
+plugins for major browsers
+offer to save any login info you put in browser
+apps for desktop too
+random password generator
+notes for storing other related account data
+multi-factor authentication
+something you know(password)
+something you have (yubikey)
+or
+something you are (fingerprint, face, DNA)
+something you have or know, easier for enemies to use
+better to use 2 factor, pass + one of the others
+2 step verification
+something you will be able to know and have
+getting a code from a message for instance
+not really multiple factor, but better than single factor
+phone numbers are not secure
+back end of a phone system is not too secure actually
+coerced customer service people may do the wrong thing
+Solutions: Don't do verification via SMS, Do it via an app on your phone
+Google, Twitter, Facebook, etc allow for it
+do need to deal with this on new devices
+Passwords that are hard to remember
+recovery questions on resets are actually a vulnerability 
+Solution, create random words that can be pronounced if need be
+store the questions and answers in password manager notes areas 
+to some extent, you have to trust: 
+your ISP
+phone company
+cloud service providers
+Trust no one!
+LastPass or 1Password, if you lose yout password to that, you are lost
+encryption means you control your destiny and security
+with great power comes great responsibility
+Keep those keys safe!
+Backups!
+have an automated backup plan for important data
+backup data on-site as well as offsite
+safe deposit boxes or something actually make sense here
+Security Now! podcast
+Steve Gibson, security researcher 
+SQRL - slick new password-less login system
+GCR.com
+
+
+https://twitter.com/McDwayne/status/1005541405597585408
+
+
+##### My Session
+
+[Nobody wants a website. They want results!](https://2018.tcdrupal.org/session/nobody-wants-website-they-want-results)
+
+After multiple attempts at this talk, I am really comfortable with it and see another evolutionary step with it to come next time I give it.  I am very grateful to the people that came out, since I learn something new every single time I give this talk due to the Q&A being a discussion that I get to facilitate rather than a 'ask the expert at the front of the room' type of deal.  I am getting better at this approach but I still find myself stealing the spotlight by adding my $0.02 when someone else might have a new point of view in mind who was just about to speak before I monologued on and on.  It's all a work in progress.   
+
+https://twitter.com/ReneMorozowich/status/1005522398555275265
+
+
+### Wrapping Up
+
+Almost every time I travel, I am grateful for the opportunity.  From Memorial Day to the end of June 2018 contained 5 trips, and TCDrupal was the final one.  I had some reservations about doing this right before WCEU, like literally the days leading up to me leaving and being home for 24 hours before taking back off to Belgrade.  But was it worth it?  100% yes, absolutely no doubt about it.  
+
+https://twitter.com/MichelleCox/status/1005099809743822848
+
+
+There are things I can't express thoroughly in the limited time I have to write, but there is something amazingly spectacular and special about the Twin Cities community.  Not just the Drupal community, but the whole place.  From it's downtown tourist attracting bright lights to the still of the fields between the freeways and no-mans-lands of industrial parks, there is a something to it all.  But the Drupal community above that is even more something.  
+
+On the way back home, I randomly got to sit next to [Karim Marucchi](https://twitter.com/karimmarucchi) on a leg of my flight.  If there is someone as in love with the ideals of open source and understanding the deep, real value in that for large scale organizations, well, I have not yet met them.  It made the flight seem too short for a change.  This community thing is amazing.  I hope it is not too long before I can yet again return to Minneapolis, and maybe again at least for TCDrupal 2018.  
+
+
+https://twitter.com/karimmarucchi/status/1005763796542132224
+
+

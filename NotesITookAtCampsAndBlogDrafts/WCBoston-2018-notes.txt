@@ -1,0 +1,657 @@
+
+
+Food and Fun
+
+Pre-camp WP friends dinner
+
+
+#####Breakfast
+
+#####Lunch
+
+#####After Party
+
+#####WCKaraoke
+
+https://twitter.com/bamadesigner/status/1020854278292877313
+
+#####Brunch
+
+#####Dinner and coffee:
+
+https://twitter.com/mpmike/status/1021173296598011904
+
+
+
+
+Opening Remarks:
+
+https://twitter.com/BrianDeConinck/status/1020656379042902017
+
+https://twitter.com/pgillooly/status/1020656343387172864
+
+
+[Keynote: The Gutenberg Journey](https://2018.boston.wordcamp.org/session/keynote/)
+[Tammie Lister](https://twitter.com/karmatosed)
+
+easy to get started but
+harder to learn fully
+the WP Way is not always what we want
+we deal with it and work around
+is coping really the way?
+It all started out with just words
+was a flat way
+now we want to publish rich content
+Blur of White story
+pre-gutenberg
+truly tells story 
+should be very easy
+Plugins 
+we are too reliant on many 
+held together with hope and tetris
+creating amazing work but hacking around blockades
+this happens to all software
+a rethink is needed from time to time
+WP was unchallenged for the longest time
+new planets being discovered in the publishing universe
+not only the obvious choice anymore
+squarespace, wix, etc biting at the heels
+not self hosted but orbitting and pulling in users
+people don't want the hassle of caring for their own WP
+Gutes is not a miricle cure
+but it is a step to push us into the future
+the foundations are the packaging
+Thinking in parts and patterns
+components - humas are great at this
+principles are the same, all pattern recognition
+Block by Block HTML editing prevents breaking whole post
+safe container for content
+once you understand how to use one block, know how to use all the blocks
+Placeholders are very critical to the system
+prompts to engage with the block
+interactive
+this allows for Templating
+less confusing experience than what is right now
+true WYSIWYG path
+direct manipulation
+change it, you see it
+we expect this now actually, we are super use to seeing this due to apps
+touch devices trained us to think this way
+we have need based options
+if want to eat soup, don't need a utility tool with lots of options
+bad experience leads to trust problems
+just doing what is needed is primary to the experience Gutenberg is striving for
+expected options
+not kitchen sink, just what most users will expect
+Safe exploration of new options, good for learning
+the delight is what we want with Gutes
+WP right now is people just coping
+move on path to people thriving with the experience
+accesible experience is good for everyone
+key to this project
+tips - welcome guide
+the little nudges are helping educate 
+editor needs to work across any device
+mobile or apps are essential
+performance is even more important on mobile
+WP can be moulded to the experience you want it to be
+extending the CMS is very key
+Gutenberg makes this more accessible
+The Journey
+3 phases
+1. Editor - the one we are in right now
+has taken longer due to the need to rebuild foundational level tings
+2. Customization - more page builders - templating
+3. Theme - not really determined
+going to be a really exciting time as we get further along
+most stats only show what has happend 
+v1.0 8/29/17 
+been 30+ releases
+3, 128 closed issues
+3,861 PRs closed
+8/6/18 v3.2 - feature complete
+bug fix and iteration now
+Travelers
+teams all across the web have joined this journey
+Many folks have shaped the direction of the project
+atomicblocks.com - new theme, set of blocks and plugins
+even on its own its a great Gutes theme
+testing and feedback been in the heart of the project
+many different resources
+booths and user testing
+helping guide the 
+10up.com/blog/user-testing-gutenberg
+the path ahead
+lot more work left for sure
+-4.9.8 Try Gutenberg Callout 
+-Feedback and iteration - all the wider feedback
+stress cases expected
+-Ready to get into core
+alpha and beta releases
+-5.0 - the thing all this phase is leading to
+then start the next phase
+a busy time for everyone in WP
+The Future
+personal views, not necessarily facts
+the theme elephant needs to be dealt with
+we will see more of a shift to styleguides
+maybe config files but not a lot more in themes
+where editor and customizer start/stop will blend
+themes create good boundaries 
+Gutenberg will get us t where we should ave gotten by now
+come join the journey
+
+
+
+
+
+
+https://twitter.com/NewYorkerLaura/status/1020657110957330434
+
+https://twitter.com/jeckman/status/1020658501775970304
+
+
+	
+[Blobs, Chunks, and Blocks: Structured Content in the Age of Gutenberg](https://2018.boston.wordcamp.org/session/blobs-chunks-and-blocks-structured-content-in-the-age-of-gutenberg/)
+[John Eckman](https://twitter.com/jeckman)
+
+Interested in the concept of structured content
+lot of great opp
+We've been here before
+Blobs
+presentational logic and structure in one blob
+makes reuse difficult, 
+but faster to create
+Chuncks 
+content broken into small structures components
+seperate prsentation and structure
+facilitate reuse
+more planning needed to execute
+in 2013, he argued WP is blobby but can be made chunky with ACF and such
+enter the Gutes
+blocks are making it easier to edit content
+but is it making us more blobby or chuncky
+mixed
+can get us to easier to develop and use
+and preserve structured content
+looking into code
+it is better than blobs of html we had before
+some structured
+hypothetical case study
+metadata vs Data
+Meta - Album- artist
+-title
+-Review - authoer
+-date
+-score
+preGutes
+WYSIWYG editr in content
+Very blobby
+no reuse
+Not Much consistancy
+very fast and simple
+don't do this
+if doind a one off post, not a bad idea though, bad for a site
+round B - could shortcode to insert Album
+structures the data slightly
+use shortcode ui
+still pretty blobby
+hard to access data inside the shortcode
+hard to track relationship of shortcode to posts using it
+better way to do this, 
+review CPT with specific post meta and taxonomy
+tempate for CPT
+more consistency 
+but what about Multiple albums in a review
+in print this is just there - review can account for multiple albums
+Round 3 (pre-gutes)
+Review and Album CPT w/relationship
+artist or label as CPT or Taxonomy
+enables reuse: Show other albums by this artist
+Editing is more complex, create album first then review it is mandatory here
+Enter the Gutenberg
+Round1 
+custom blocks for albums
+editors can but it anywhere
+but inconsistent
+but no reuse
+Better than the old blobby way?
+round 2
+Reviews CPT and Block template
+consistent layout
+some reuse of sections
+round 2b reusable, shared, saved blocks for albums
+Underneath the hood, saved blocks are just CPT with clock content
+not easy to see if they exist already
+still pretty blobby
+Round 3
+reviews and albumbs as CPT
+Album CPT could still use a block template
+set taxonomies on review based on Album CPT pull 
+decent reuse
+
+
+round 4
+Reviews and albus as CPT
+if Album does not exist, create it
+set taxon and relationships on album save enable editing a a blovk 
+Goal:
+Get the editing expereince of a blobby system where you edit the things you wwant
+preserve the structured data to beable to reuse it
+Why does it matter?
+Future proofing
+what happens when new devices get introduced and necessitates differnt combos of output
+New features
+consistancy
+single record for each object
+Enable relationships
+show other albums by this artist
+show other albumbs by category
+show other reviews of the a
+Conclusions
+block based editing can improve the experience
+closer to WYSIWYG
+more flexibility to ove things around
+Block based editing can make WP blobbly
+proper content modeling and planning are required
+
+
+
+https://twitter.com/McDwayne/status/1020723936903028738
+
+
+
+[The Basics of building a Gutenberg Block](https://2018.boston.wordcamp.org/session/the-basics-of-building-a-gutenberg-block/)
+[Amanda Giles](https://twitter.com/AmandaGilesNH)
+
+Gutes history
+Anatomy of a block
+comes with standard blocks
+save and reuse blocks
+it will soon appear
+plugin now
+WP 5.0
+4.9.8 callout
+classic editor plugin
+transition
+write your own blocks
+almost entirely in JS
+PHP is just to bring in files
+abstraction layer over React
+ES% or newer
+ES5 2009
+ES6 2015
+ES8 is the current
+they want a release a year
+ESNext is the currently being worked on version
+JSX is another compoent, JS XML-like syntax
+needs a package manager
+node, webpack, etc,
+Many Gutes Block tutorial use JSX, but not all
+this demo is in ES5
+no build step needed
+syntax differences
+example code
+Gutes handbook shows ES5 and ESNext
+build a CTA in Gutenberg
+block, background, button, etc
+on the backend, in admin, 
+5 steps to building a plugin
+1create plugin main file
+2register backend editor JS, CSS
+3register frontend CSS, JS if dynamic
+4in PHP:Register block type using register_blovk_typle()
+5 n hooked JD file, call block in editor
+steps 2,3 and 4 happen all together
+tagged to the init hook
+before we get into JS part
+comes with JS libraries as globals
+wp.blocks
+wp.editor
+wp.element
+wp.components
+wp.i18n
+wp.date
+others too
+registerBlockType()
+single JS call containing our complete block code
+General info about the block including title, icon, category, keywords
+code samples code samples
+many resources presented at the end
+
+
+
+https://twitter.com/McDwayne/status/1020738875470249984
+
+
+[Use Your WordPress Powers for Good](https://2018.boston.wordcamp.org/session/use-your-wordpress-powers-for-good/)
+[Michelle Ames](https://twitter.com/michelleames)
+
+
+We have all made bad websites
+bad clients
+made a little money
+but we have fun
+but we can do more
+we can mentor people
+introducing people to WP
+giving them advice
+that is how Michelle learned
+this is what she taught her daughter's friend
+later hired her
+maybe can't mentor
+teach classes
+nothing to a bad website
+why are you teaching other people, are they not competition
+nope, internet too vast
+she has never been in the same bid as anyone she knows
+charge more and teach people
+hold a clinic
+basically happiness bar you are running yourself
+teaching some basics, sometimes they decide they just need to hire someone
+like her 
+one a month Co-Working
+just work on won stuff in the same room
+gives you a set of resources and not working alone
+exchange ideas
+Teach someone like someone taught you
+Speak up at a meetup
+speak at a meetup
+got hacked, fixed it, hacked again, learned why, fixed it right
+tells this at meetups
+organize a meetup
+pay it forward
+Pay it back to WP
+participate in the forums
+you likely know the answers to some of the questions
+help with videos
+can share around even if not as good as WP.tv quality
+Help organize or volunteer at a WordCamp - the real heros of WordCamps
+wranglers
+Help out at the Happiness Bar
+You can just show up and help
+she had imposter syndrome 
+quickly gave way when first person asked about CSS 
+Participate in a hackathon
+What else we get from giving back?
+Friends!
+we get clients from it!
+new jobs!
+warm fuzzies
+getting started:
+meetup
+WordCamp
+go to co-working
+participate in WP Forums
+help someone else
+tweet 
+ask
+
+
+https://twitter.com/GiveWP/status/1020748714841976833
+
+
+[Subscription and Membership Based Income using WooCommerce](https://2018.boston.wordcamp.org/session/subscription-and-membership-based-income-using-woocommerce/)
+[Ross Viviano]()
+
+
+Recurring vs one time payments
+why?
+more predictable revenue stream
+some clients think easier to match their needs and expectations
+one time payment system is scarier
+what is needed
+WooCommerce!
+do need a payment gateway
+Stripe or PayPal
+paid Woo plugin called Subscriptions
+Prospress
+payment gateways are not all created easily, needs to have subscriptions built into it
+25 officially supported one
+Prospress has great docs to add to a plugin
+as a personal note, important to have multiple gateways
+install and setups
+Simple Subscriptions
+price
+expire after
+sign up
+free trial - adds time to total expire after
+sale price
+default subscriptions
+viable subscriptions
+similar to variable products
+add atributes to that subscription
+recurring donations for a nonprofit
+1 month-6 month-yearly
+create variations from attributes
+that makes 3 different subscription products
+editing monthly subscription, drop downs
+multiple variations possible
+the possibilities are very extensive
+customers can change per
+if customer has more control inspires more confidence
+status of the subscription and sub number and other meta
+was as bulk editor view
+lot of control over this screen
+subscription details page
+customer subscription status
+everything can be customized
+new email types
+4 new coupon types that come with subscriptions
+good for rewarding customers
+Allow switching subscriptions
+go from one plan to the other without resignup
+simple subscription 
+recurring, varying periods
+full signup fee when switching
+like shipping use case
+Memberships is another plugin
+by SkyVerge
+other plugins for this, but these are the 2 best
+why is this needed, if using Subscriptions, you don't
+but can restrict content on site based on groupings
+Groups plugin is interesting too
+length based memberships
+posts category tags
+pricing tiers tied to membership
+import/export csv - push to email marketing tools
+memberships and subscriptions integrations
+subscriptions enable recurring billing
+team them up and you can grant access to content based on subscription level
+able to use a free trial period
+memberships supports that upgrade/downgrade model
+only members of the pla
+example product: Meatball Pizza Bowl from Olive Garden
+manage section shows details of subscription 
+if accessing pages not in subscriptions, no access
+remember everything is a post, order number and sub number can't be the same
+every order is a post essentially
+there are plugins to get sequential 
+-Subscribe All The Things
+can add subscription options to non-subscription type options
+product bundles, mix and match bundles
+subscribe to a cart before checkout
+-Follow Ups
+-WooCommerce Subscription Downloads
+Teams for WooCommerce memberships
+
+
+https://twitter.com/olivegarden/status/1004032298407350277
+
+https://twitter.com/McDwayne/status/1020765288952991744
+
+
+[(Slightly) Advanced Topics In Block Development](https://2018.boston.wordcamp.org/session/slightly-advanced-topics-in-block-development/)
+[Josh Pollock](https://twitter.com/Josh412)
+
+
+How do we 
+yes this is complex to learn
+but it solves so much
+should  npm/yarn/etc?
+pros
+deendency management
+consistency
+automation
+sanity is restores
+cons
+node_module get big
+webpack
+takes code and make it into browser safe
+pros
+full featurd builder
+helps get your files compiles and bundles
+can transpile latest JS(babel) and anything else
+aslo for CSS
+cons
+hard to learn
+fast moving eco-system
+ESNext
+proc
+cont, let, arrow, 
+fethc
+async
+cons
+--
+--
+every block is becoming own packages
+npm i @wordpress/element
+using react right now
+all this stuff is put on wp Global
+wp.element
+don't have to build my own
+if you enqueue these things can do on admin
+or can nom install all these packages
+you want core to lead things on the page, have to tell webpack not to bundle this on screen
+in a WP plugin npm i -D @wordpress/name
+in React App?  npm @wordpress/name
+the webpack alias is used in Gutenberg core code
+Using Jest and Enzyme
+component testing
+Snapshot testing
+DOM testing
+a11y testing
+compares functionality snapshots to let you know when it breaks
+JSX
+yes
+easiest way into react
+Scaffolding tools for Blocks
+npx...whatever
+"I sort of understand webpack.  That's probably enough"
+wp-cli scaffold 
+wp scaffold plugin movies
+wp scaffold block movie --tile="Movie Block"
+on github:
+Create Guten Block
+GutenBlock
+react-wp-scripts
+hot module replacement
+Composing blocks
+creating blocks out of modular components
+modular building blocks - thinking in react
+more usable and more testable, only one concern
+using WP state management
+Example Checkbox Controls
+Passing data back up
+Inspector Controls
+onChange
+
+
+
+https://twitter.com/McDwayne/status/1020778095173914624
+
+https://twitter.com/fpcorso/status/1020782151309066240
+
+
+[Hiding the Pulleys and Strings](https://2018.boston.wordcamp.org/session/hiding-the-pulleys-and-strings/)
+[Jesse Friedman](https://twitter.com/professor)
+
+Personalization is not one thing
+lady brought in a giant iMac into a starbucks
+a reorder button is not cusimization
+predictive analytics and tracking and predicting actions is key
+everyone thinks only the big companies are doing
+who is visiting your site
+what is their intent
+Not everyone is there to purchase that product
+don't tie me to the thing I bought, it might not be for me
+Goals os a blog
+subscribe and comment
+share and stay
+Albuquerque journal case study
+increased ingagement just by turning on related posts
+Jetpack made this simple and automatic, reduced server load actually
+Back to blog example
+what pages visited
+did they scroll all the way dow ( mark posts as read)
+did they do a search?
+did they click any links  (categories or tag)?
+did they share?
+did they comment?
+let's take the subscribe button and change it to something perosnal
+grab the category name and sub it in to what page they landed on for subscribe button
+understand the patht he user has taken
+every tag has it's own RSS feed
+you can subscribe to any extra feeds at all
+/tag/wordpress/feed/
+add feed auto on comment forms, lets you reach back out easier
+email follow up with commenters
+akismet + manual looking at data lets you control this easier
+thanks them, recap their visit 
+give them back quick share links
+customized search page
+cusomized 404 search page
+Goals
+bring in customers
+call or Directions
+make a reservation
+they are there for hours, directions, menus, specials, reservations
+just want to get in and out of the site and server the data fast
+goal should not be to have time on the site
+Boston restaurant Pap Razzi
+he just cared anbout up to date
+but let's look at 2 usrs
+1 is 500+ miles away while closed
+2 is 10 minutes away from a location during business hours
+we should think of them differently with different goals
+level of intent
+proximity coupons
+Ecommerce sites
+search is key
+Google actually handles most search actually overall
+nice prompt if repeated visits to a type of page
+cart abandonment is an area we are focused on a lot in this market
+coupon codes are popular now
+no one uses this trick: in the email is a cookie
+you can track open rates
+if you tie a cookie to expiration date you cna better understand intent
+you can tie that to a campaign to fire off another email
+2nd 2nd chances
+Don't lose out becaue you think
+
+
+
+https://twitter.com/McDwayne/status/1021058612775608320
+
+
+Taxonomy and Controlled Vocabularies
+Controlled vocab terms
+an authoritative lsit of terms
+Simple : List/picklist
+synonym ring/ synonyms sets/search thesauri
+Name Authority files
+Taxonomies
+-heirarchical
+-faceted
+Thesauri
+Ontologies
+why?
+enables visitors to find quickly
+more accurate site search
+enables visitors to explore realted
+better UI
+better management of content
+Enhances SEO
+
+Wrapping Up
+

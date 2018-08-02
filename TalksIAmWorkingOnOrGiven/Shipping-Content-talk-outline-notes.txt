@@ -1,0 +1,91 @@
+https://docs.google.com/presentation/d/1-4rpZlwddqCRI-NX1E4qNLn0Hpe9zvvgPB6qS0_OOfs/edit?usp=sharing
+
+Shipping-Content-talk-outline-notes.txt
+
+Intro
+
+Demo: Video - talk over it
+
+	My blog
+		me in the future.  
+		Other possible use cases
+			marketing content published to yourcompany.com/blog
+			stop multitasking when creating content
+			give content managers better tools
+
+My use case
+	Write locally in Markdown 				Markdown		
+	Move to a Dev environment 				WP-CLI 	
+		transform on move					WP Markdown + Gutenberg	
+		Modify on Dev						Gutenberg				
+	Test behavioral 						Wordhat		
+	Move to Test 							WP-CLI (Terminus)		
+	Test									Backstop.js	
+	Move to	Production						WP-CLI (Terminus)
+	Automating it							Bash scripting
+
+
+
+Markdown and writing locally
+writing copy in Gutenberg is kinda hacky to type directly into, since every carriage return gives you a new block.  Also writing online in docs unless you are group collaborating has a hundred daily dreads about it. 
+	
+Once content exists however, it is a dream to move it around and pretty it up
+
+I want to make my content safely away from prying eyes on my dev server
+and I should have a way to think about images later.  
+
+Humans (me) are very error prone
+	Formatting matters
+Testing is required 
+
+
+Thinking in component parts.  
+Why? 
+1.	Writing copy 
+	What I want!
+		distraction free
+		can do it on an airplane
+		never reset my session and auto save in case of 
+		git content storage personally
+
+2. Getting from here to there
+	I '''could''' copy paste.... inelegant but effective
+		also human error prone
+	So, let's make machines do this
+		Here is a quick example of what I mean:
+					Demo the idea with `curl` and `curl -O` 	
+https://gist.githubusercontent.com/mcdwayne/75d6a1a4499f530d6cfe139cd820bbd5/raw/70c28e6bd313627ba20142189f4568e564cc8bba/gistfile1.txt
+
+		
+3.  Testing 
+
+	Behavioural
+		
+		WP-CLI lets us basically do that but also assign all the needed metadata
+		ENTER THE CLI! 
+				Quick intro for WP-CLI
+					3-4 slides at most
+				Demo of WP-CLI just posting things
+
+		Basically if you can do it by hand in steps you can make the machine do it 	
+			Space object start stop sandwich 
+			Step 1 grab machine
+			step 2 Pick up the machine
+			step 3 put down machine
+			step 4 let go of machine
+		Enter bash scripting
+			super fast to learn
+			takes no time to install
+			works on pretty much any linux server in the world
+				this makes it ultimately how a lot of automation is done as is the case of systmes like CircleCI, Travis or Jenkins.  
+			and is very, very, very well documented
+			how well
+			Open the terminal and type help
+				Ultimately this is what I learned the best in doing all of this btw
+			but that's a talk for another time
+
+
+
+3. Testing
+
+

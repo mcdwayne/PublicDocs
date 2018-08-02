@@ -1,0 +1,705 @@
+WordCamp Boston 2018: Summer is wonderful in Boston and teaching people Git is awesome
+
+For the 2nd time in 3 weeks I got to go to ["The Athens of America
+"](https://en.wikipedia.org/wiki/Boston_nicknames) and got to go there in perhaps the best time of year to go.  This time around I was met with very pleasant temperatures and pleasantly surprising light traffic.  The city was kind enough to reroute some predicted thunderstorms for us as well, though it did allow a little rain to get through.  The people were in full summer celebration mode this time around and it was a joy to be around so many cheerful folks in general.  It made for a great [WordCamp Boston 2018!](https://2018.boston.wordcamp.org/schedule/)
+
+https://twitter.com/mywebink/status/1020637822821298178
+
+
+### Food and Fun
+
+Pre-camp WP friends dinner
+
+This is one of the fee camps that I go to that does not do their speaker dinner on the night before the camp kicks off.  In fact they don't do a speaker dinner at all, they do a brunch for us, more on that later.  This left me an evening on my own, which I will admit has the potential to be a lonely time.  Very fortunately for me, one of the most thoughtful folks I am proud to call friend [Mike Demo](https://twitter.com/mpmike/status/1021173296598011904) did some groundwork and invited a number of us campers together to a dietary restriction friendly joint near the harbor and only a few minute walk from the old part of town, [Warehouse Bar & Grille](http://thewarehouseboston.com/).  A few of us found our way to a few of the [oldest bars in the United States](https://www.thrillist.com/drink/boston/union-oyster-house-jacob-wirth-amrheins-are-some-of-the-oldest-bars-in-boston) where we were treated to some amazing covers by the 'Best event band in Boston' [The Sweet Beats](http://thesweetbeatsband.com).  It was a wonderful kickoff for a wonderful weekend.  
+
+https://twitter.com/YouTooCanBeGuru/status/1020472890880417793
+
+
+##### Day 1
+
+Coffee was Starbucks, which always tastes burnt to me when served from a [Cambro](http://www.amazingeventrentals.com/product/cambro-beverage-dispenser-brown/).  Fortunately they had some solid tea choices as well for my caffeine fix.  While en general trying to reduce carb intake, the sesame bagels, one of many pastry and fruit options present, called out to me.  It was a pretty good fuel for a very busy morning of setup, greetings and Happiness Bar fun. 
+
+Lunch was a bag lunch. I had a pretty tasty and spicy red pepper hummus wrap from the university catering with some chips and an apple.  No tweets I can find show the camp eating together in the big auditorium where it was served, but it was a beautiful sight.  Instead here is a tweet that features one of our afternoon snack options.  
+
+https://twitter.com/ThePinkPuck/status/1020760641899048961
+
+
+##### After Party
+
+As in the previous year's event, which I was also [lucky enough to attend](https://www.mcdwayne.com/2017/07/24/wcbos-2017/), we adjourned immediately after the last session down the road to the [White Horse Tavern](https://www.tripadvisor.com/Restaurant_Review-g60745-d1008274-Reviews-White_Horse_Tavern-Boston_Massachusetts.html).  Having limited plant based options I did a quick side trip with fellow herbivore and local history expert [John Eckman](https://twitter.com/jeckman) down a few blocks to [Whole Heart Provisions](https://www.wholeheartprovisions.com/). The place knocked my socks off with their inventive flavor profiles and killer (but kind to animals) crispy brussel sprouts.  Back at the White Horse, we got to enjoy a summer evening out on their back patio and even indulge in a few rounds of corn hole, which just so happened to feature [Rachel Cherry's](https://twitter.com/bamadesigner) favorite football team.  
+
+https://twitter.com/bamadesigner/status/1020807111209410560
+
+##### WCKaraoke
+
+Not only did we go back to [Limelight Stage and Studios][http://www.limelightboston.com/] for some karaoke fun, but we got to see some of our favorite local regulars while there.  For some folks there, it was their first time to ever go out and experience the magic that is the [empty orchestra](https://en.wikipedia.org/wiki/Karaoke).  Some folks who had been passive observers in the past got up and sang for the first time and some folks did old favorites that delighted the whole [izakaya](https://en.wikipedia.org/wiki/Izakaya).  I really do love the energy of this place and I would rank it above [Otter's Saloon](https://otterssaloon.com) as my favorite non-San Francisco karaoke spot if they carried soda water.  Still, with such a large turnout from the camp, the experience will rank as one of my favorites. 
+
+https://twitter.com/bamadesigner/status/1020854278292877313
+
+
+##### Speaker Brunch / Day 2
+
+The second day of the event kicked off by the speakers and sponsors and volunteers gathering back at the White Horse for what I would accurately describe as a simple but pretty OK breakfast buffet and really stellar coffee.  I hesitate to call it a true brunch because the bar was not open during our special event and no mimosas, the defining beverage of brunch, could not be had.  It was still really good since it featured one of my favorite foods of all time, fried breakfast potatoes.  Waking up fully by catching up with some old colleagues and meeting some new folks was a real treat and put us all in a great mood for the second day of camp.  Huge props to [Cory Maass](https://twitter.com/corymaass) for kindly giving me a ride to the camp afterwards.
+
+https://twitter.com/McDwayne/status/1021048094576775175
+
+
+##### Dinner and coffee:
+
+Since Day 2 is a little more than half the day, no lunch is provided. Just a snack break with pastries and more coffee and tea.  This meant that by the closing remarks many of us were famished.  Again, Mike Demo gets some praise from me for putting forth an option that could meet my diet, [Blaze Pizza](https://twitter.com/BlazePizza).  This 'Subway for fast fired pizza' type establishment not only wins in my book for having great ingredients, but also for having a terrific social media manager that engaged our tweeting and has a great sense of humor.  We finished our meal with a trip next door to get some coffee at [Blue State Coffee](https://bluestatecoffee.com/).  It was terrific to squeeze a few last moments with my WordPress family before heading off to the airport to return home to my beloved SF after what felt like a blur of a trip.  
+
+https://twitter.com/mpmike/status/1021173296598011904
+
+
+### Sessions
+
+Opening Remarks:
+
+https://twitter.com/pgillooly/status/1020656343387172864
+
+
+##### Keynote
+[The Gutenberg Journey](https://2018.boston.wordcamp.org/session/keynote/)
+[Tammie Lister](https://twitter.com/karmatosed)
+
+Even with my going to as many sessions as I have about the WordPress 5.0 editor, AKA Gutenberg, and having just heard her give a [highly related talk](https://2018.europe.wordcamp.org/session/anatomy-of-a-block-gutenburg-design-patterns/) back at [WordCamp Europe](https://www.mcdwayne.com/2018/06/19/wceu-2018/).  This time Tammie gave a much more broad appeal talk about the why of Gutenberg with some great updates on the project's status and less about the individual features.  I walked away with a lot of optimism for what comes next as far as the end user experience.
+
+
+Raw Notes:
+easy to get started but
+harder to learn fully
+the WP Way is not always what we want
+we deal with it and work around
+is coping really the way?
+It all started out with just words
+was a flat way
+now we want to publish rich content
+Blur of White story
+pre-Gutenberg
+truly tells story 
+should be very easy
+Plugins 
+we are too reliant on many 
+held together with hope and Tetris
+creating amazing work but hacking around blockades
+this happens to all software
+a rethink is needed from time to time
+WP was unchallenged for the longest time
+new planets being discovered in the publishing universe
+not only the obvious choice anymore
+SquareSpace, Wix, etc biting at the heels
+not self hosted but orbiting and pulling in users
+people don't want the hassle of caring for their own WP
+Gutes is not a miracle cure
+but it is a step to push us into the future
+the foundations are the packaging
+Thinking in parts and patterns
+components - humans are great at this
+principles are the same, all pattern recognition
+Block by Block HTML editing prevents breaking whole post
+safe container for content
+once you understand how to use one block, know how to use all the blocks
+Placeholders are very critical to the system
+prompts to engage with the block
+interactive
+this allows for templating
+less confusing experience than what is right now
+true WYSIWYG path
+direct manipulation
+change it, you see it
+we expect this now actually, we are super use to seeing this due to apps
+touch devices trained us to think this way
+we have need based options
+if want to eat soup, don't need a utility tool with lots of options
+bad experience leads to trust problems
+just doing what is needed is primary to the experience Gutenberg is striving for
+expected options
+not kitchen sink, just what most users will expect
+Safe exploration of new options, good for learning
+the delight is what we want with Gutes
+WP right now is people just coping
+move on path to people thriving with the experience
+accessible experience is good for everyone
+key to this project
+tips - welcome guide
+the little nudges are helping educate 
+editor needs to work across any device
+mobile or apps are essential
+performance is even more important on mobile
+WP can be molded to the experience you want it to be
+extending the CMS is very key
+Gutenberg makes this more accessible
+The Journey
+3 phases
+1. Editor - the one we are in right now
+has taken longer due to the need to rebuild foundational level tings
+2. Customization - more page builders - templating
+3. Theme - not really determined
+going to be a really exciting time as we get further along
+most stats only show what has happened 
+v1.0 8/29/17 
+been 30+ releases
+3, 128 closed issues
+3,861 PRs closed
+8/6/18 v3.2 - feature complete
+bug fix and iteration now
+Travelers
+teams all across the web have joined this journey
+Many folks have shaped the direction of the project
+atomicblocks.com - new theme, set of blocks and plugins
+even on its own its a great Gutes theme
+testing and feedback been in the heart of the project
+many different resources
+booths and user testing
+helping guide the 
+10up.com/blog/user-testing-Gutenberg
+the path ahead
+lot more work left for sure
+-4.9.8 Try Gutenberg callout 
+-Feedback and iteration - all the wider feedback
+stress cases expected
+-Ready to get into core
+alpha and beta releases
+-5.0 - the thing all this phase is leading to
+then start the next phase
+a busy time for everyone in WP
+The Future
+personal views, not necessarily facts
+the theme elephant needs to be dealt with
+we will see more of a shift to style guides
+maybe config files but not a lot more in themes
+where editor and customizer start/stop will blend
+themes create good boundaries 
+Gutenberg will get us t where we should ave gotten by now
+come join the journey
+
+https://twitter.com/NewYorkerLaura/status/1020657110957330434
+
+	
+[Blobs, Chunks, and Blocks: Structured Content in the Age of Gutenberg](https://2018.boston.wordcamp.org/session/blobs-chunks-and-blocks-structured-content-in-the-age-of-gutenberg/)
+[John Eckman](https://twitter.com/jeckman)
+
+Whenever I get to tell my favorite stories, [John and The Southern V](https://twitter.com/McDwayne/status/937411987109220352) always is on that list.  A really down to earth and selfless guy who just happens to have a ton of experience running a super successful agency that donates a lot of open source code and furthers the projects in the process.  Still, even knowing him as I do, I have never seen him talk about a technical matter and in fact I have not seen him give a session since I started this project of publishing my notes about what I see.  This talk was a brilliant use of the case study model to explore multiple ways to solve an issue while discussing the wider implications of these lower level decisions.  As someone who does not think a terrible lot about taxonomies and re-usability of components in general, this was a wonderful exploration of how someone should be thinking about it.  
+
+
+Raw Notes:
+Interested in the concept of structured content
+lot of great opp
+We've been here before
+Blobs
+presentational logic and structure in one blob
+makes reuse difficult, 
+but faster to create
+Chunks 
+content broken into small structures components
+separate presentation and structure
+facilitate reuse
+more planning needed to execute
+in 2013, he argued WP is blobby but can be made chunky with ACF and such
+enter the Gutes
+blocks are making it easier to edit content
+but is it making us more blobby or chunky
+mixed
+can get us to easier to develop and use
+and preserve structured content
+looking into code
+it is better than blobs of html we had before
+some structured
+hypothetical case study
+Metadata vs Data
+Meta - Album- artist
+-title
+-Review - author
+-date
+-score
+preGutes
+WYSIWYG editor in content
+Very blobby
+no reuse
+Not much consistency
+very fast and simple
+don't do this
+if doing a one off post, not a bad idea though, bad for a site
+round B - could shortcode to insert Album
+structures the data slightly
+use shortcode UI
+still pretty blobby
+hard to access data inside the shortcode
+hard to track relationship of shortcode to posts using it
+better way to do this, 
+review CPT with specific post meta and taxonomy
+template for CPT
+more consistency 
+but what about Multiple albums in a review
+in print this is just there - review can account for multiple albums
+Round 3 (pre-Gutes)
+Review and Album CPT w/relationship
+artist or label as CPT or Taxonomy
+enables reuse: Show other albums by this artist
+Editing is more complex, create album first then review it is mandatory here
+Enter the Gutenberg
+Round 1 
+custom blocks for albums
+editors can but it anywhere
+but inconsistent
+but no reuse
+Better than the old blobby way?
+round 2
+Reviews CPT and Block template
+consistent layout
+some reuse of sections
+round 2b reusable, shared, saved blocks for albums
+Underneath the hood, saved blocks are just CPT with clock content
+not easy to see if they exist already
+still pretty blobby
+Round 3
+reviews and albums as CPT
+Album CPT could still use a block template
+set taxonomies on review based on Album CPT pull 
+decent reuse
+round 4
+Reviews and albums as CPT
+if Album does not exist, create it
+set taxonomy and relationships on album save enable editing a a blovk 
+Goal:
+Get the editing experience of a blobby system where you edit the things you want
+preserve the structured data to be able to reuse it
+Why does it matter?
+Future proofing
+what happens when new devices get introduced and necessitates different combos of output
+New features
+consistency
+single record for each object
+Enable relationships
+show other albums by this artist
+show other albums by category
+show other reviews of the a
+Conclusions
+block based editing can improve the experience
+closer to WYSIWYG
+more flexibility to move things around
+Block based editing can make WP blobby
+proper content modeling and planning are required
+
+
+https://twitter.com/McDwayne/status/1020723936903028738
+
+
+
+[The Basics of building a Gutenberg Block](https://2018.boston.wordcamp.org/session/the-basics-of-building-a-gutenberg-block/)
+[Amanda Giles](https://twitter.com/AmandaGilesNH)
+
+Given that the theme of so many of the sessions this year slanted toward the WordPress 5.0 editor, project Gutenberg, I decided to embrace it and sit through some sessions that I knew would be over my head technically.  This talk, while all topics I had sat through before, actually brought a few concepts together in my head rather nicely.  Amanda's code examples, all in ES5, which needs no build step, made a little more sense to me and I am starting to grasp these concepts, even without having learned JavaScript deeply.  I still have yet to actually do anything with this knowledge other than write about it and discuss conceptually with my peers but I do hope to get to explore coding something in the not too distant future for [the Gutes](https://twitter.com/thegutes).  
+
+
+Raw Notes:
+Gutes history
+Anatomy of a block
+comes with standard blocks
+save and reuse blocks
+it will soon appear
+plugin now
+WP 5.0
+4.9.8 callout
+classic editor plugin
+transition
+write your own blocks
+almost entirely in JS
+PHP is just to bring in files
+abstraction layer over React
+ES% or newer
+ES5 2009
+ES6 2015
+ES8 is the current
+they want a release a year
+ESNext is the currently being worked on version
+JSX is another component, JS XML-like syntax
+needs a package manager
+node, webpack, etc,
+Many Gutes Block tutorial use JSX, but not all
+this demo is in ES5
+no build step needed
+syntax differences
+example code
+Gutes handbook shows ES5 and ESNext
+build a CTA in Gutenberg
+block, background, button, etc
+on the backend, in admin, 
+5 steps to building a plugin
+1 create plugin main file
+2 register backend editor JS, CSS
+3 register frontend CSS, JS if dynamic
+4 in PHP:Register block type using register_blovk_typle()
+5 n hooked JD file, call block in editor
+steps 2,3 and 4 happen all together
+tagged to the init hook
+before we get into JS part
+comes with JS libraries as globals
+wp.blocks
+wp.editor
+wp.element
+wp.components
+wp.i18n
+wp.date
+others too
+registerBlockType()
+single JS call containing our complete block code
+General info about the block including title, icon, category, keywords
+code samples code samples
+many resources presented at the end
+
+https://twitter.com/McDwayne/status/1020738875470249984
+
+
+
+[Use Your WordPress Powers for Good](https://2018.boston.wordcamp.org/session/use-your-wordpress-powers-for-good/)
+[Michelle Ames](https://twitter.com/michelleames)
+
+Michelle is one of the nicest folks I know and her passion for teaching people how to WordPress is pretty inspiring.  She speaks a less technical jargon in her talks and makes the subject of 'how do I get started or advance in this stuff' extremely approachable.  Getting into the weeds of the code and technical matters is great, once you are ready to receive that, but this talk was really geared toward folks who are on their way there and are not sure how to get down that path on their own.  The short answer is there is no reason you need to do it on your own!  That is the raw power of our community.  There are hundreds, maybe thousands of people ready to answer any and all WordPress or industry related question so we all win together.  If you are down the path already, make sure you are remembering to help those who are not as far along the path of the WordPress way.  
+
+Raw Notes:
+We have all made bad websites
+bad clients
+made a little money
+but we have fun
+but we can do more
+we can mentor people
+introducing people to WP
+giving them advice
+that is how Michelle learned
+this is what she taught her daughter's friend
+later hired her
+maybe can't mentor
+teach classes
+nothing to a bad website
+why are you teaching other people, are they not competition
+nope, internet too vast
+she has never been in the same bid as anyone she knows
+charge more and teach people
+hold a clinic
+basically happiness bar you are running yourself
+teaching some basics, sometimes they decide they just need to hire someone
+like her 
+one a month Co-Working
+just work on won stuff in the same room
+gives you a set of resources and not working alone
+exchange ideas
+Teach someone like someone taught you
+Speak up at a meetup
+speak at a meetup
+got hacked, fixed it, hacked again, learned why, fixed it right
+tells this at meetups
+organize a meetup
+pay it forward
+Pay it back to WP
+participate in the forums
+you likely know the answers to some of the questions
+help with videos
+can share around even if not as good as WP.tv quality
+Help organize or volunteer at a WordCamp - the real heroes of WordCamps
+wranglers
+Help out at the Happiness Bar
+You can just show up and help
+she had impostor syndrome 
+quickly gave way when first person asked about CSS 
+Participate in a hack-a-thon
+What else we get from giving back?
+Friends!
+we get clients from it!
+new jobs!
+warm fuzzies
+getting started:
+meetup
+WordCamp
+go to co-working
+participate in WP Forums
+help someone else
+tweet 
+ask
+
+
+https://twitter.com/GiveWP/status/1020748714841976833
+
+
+[Subscription and Membership Based Income using WooCommerce](https://2018.boston.wordcamp.org/session/subscription-and-membership-based-income-using-woocommerce/)
+[Ross Viviano](https://2018.boston.wordcamp.org/speaker/ross-viviano/)
+
+Lately I have been getting more and more interested in the inner workings of Woo.  While I knew it *could* be possible to have a subscription and content behind sign up, I was very fuzzy on how that *actually* would work.  Ross lifted the veil on this and I have a much better handle on this topic now, which I am super thankful for.  A good WordCamp session is worth reading a hundred docs, and for me at least, I retain much more.  
+
+Raw Notes:
+Recurring vs one time payments
+why?
+more predictable revenue stream
+some clients think easier to match their needs and expectations
+one time payment system is scarier
+what is needed
+WooCommerce!
+do need a payment gateway
+Stripe or PayPal
+paid Woo plugin called Subscriptions
+Prospress
+payment gateways are not all created easily, needs to have subscriptions built into it
+25 officially supported one
+Prospress has great docs to add to a plugin
+as a personal note, important to have multiple gateways
+install and setups
+Simple Subscriptions
+price
+expire after
+sign up
+free trial - adds time to total expire after
+sale price
+default subscriptions
+viable subscriptions
+similar to variable products
+add attributes to that subscription
+recurring donations for a nonprofit
+1 month-6 month-yearly
+create variations from attributes
+that makes 3 different subscription products
+editing monthly subscription, drop downs
+multiple variations possible
+the possibilities are very extensive
+customers can change per
+if customer has more control inspires more confidence
+status of the subscription and sub number and other meta
+was as bulk editor view
+lot of control over this screen
+subscription details page
+customer subscription status
+everything can be customized
+new email types
+4 new coupon types that come with subscriptions
+good for rewarding customers
+Allow switching subscriptions
+go from one plan to the other without re-sign up
+simple subscription 
+recurring, varying periods
+full sign up fee when switching
+like shipping use case
+Memberships is another plugin
+by SkyVerge
+other plugins for this, but these are the 2 best
+why is this needed, if using Subscriptions, you don't
+but can restrict content on site based on groupings
+Groups plugin is interesting too
+length based memberships
+posts category tags
+pricing tiers tied to membership
+import/export CSV - push to email marketing tools
+memberships and subscriptions integrations
+subscriptions enable recurring billing
+team them up and you can grant access to content based on subscription level
+able to use a free trial period
+memberships supports that upgrade/downgrade model
+only members of the level
+example product: Meatball Pizza Bowl from Olive Garden
+manage section shows details of subscription 
+if accessing pages not in subscriptions, no access
+remember everything is a post, order number and sub number can't be the same
+every order is a post essentially
+there are plugins to get sequential 
+-Subscribe All The Things
+can add subscription options to non-subscription type options
+product bundles, mix and match bundles
+subscribe to a cart before checkout
+-Follow Ups
+-WooCommerce Subscription Downloads
+Teams for WooCommerce memberships
+
+Just for reference here is the mentioned Meatball Pizza Bowl:
+
+https://twitter.com/olivegarden/status/1004032298407350277
+
+
+https://twitter.com/McDwayne/status/1020765288952991744
+
+
+[(Slightly) Advanced Topics In Block Development](https://2018.boston.wordcamp.org/session/slightly-advanced-topics-in-block-development/)
+[Josh Pollock](https://twitter.com/Josh412)
+
+When Josh gives a talk, I do my dang best to keep up but I am so far beneath his technical prowess that I don't actually absorb all that much while in the session.  However, once I sit and think about it and reread my notes and think about it in context, I think these talks are a major driver of my development as a technical person.  Josh is also a truly great thought leader around how things can be implemented in a sustainable and scalable way.  He thinks in terms of 'beyond WordPress' and how to interact with the entire rest of the internet and that is exactly the kind of thinking that is going to make sure WP stays relevant long into the future.  
+
+
+Raw Notes:
+How do we 
+yes this is complex to learn
+but it solves so much
+should  npm/yarn/etc?
+pros
+dependency management
+consistency
+automation
+sanity is restores
+cons
+node_module get big
+webpack
+takes code and make it into browser safe
+pros
+full featured builder
+helps get your files compiles and bundles
+can transpile latest JS(babel) and anything else
+also for CSS
+cons
+hard to learn
+fast moving eco-system
+ESNext
+proc
+cont, let, arrow, 
+fetch
+async
+cons
+--
+--
+every block is becoming own packages
+npm i @wordpress/element
+using react right now
+all this stuff is put on wp Global
+wp.element
+don't have to build my own
+if you enqueue these things can do on admin
+or can npm install all these packages
+you want core to lead things on the page, have to tell webpack not to bundle this on screen
+in a WP plugin npm i -D @wordpress/name
+in React App?  npm @wordpress/name
+the webpack alias is used in Gutenberg core code
+Using Jest and Enzyme
+component testing
+Snapshot testing
+DOM testing
+a11y testing
+compares functionality snapshots to let you know when it breaks
+JSX
+yes
+easiest way into react
+Scaffolding tools for Blocks
+npx...whatever
+"I sort of understand webpack.  That's probably enough" - Josh Pollock
+wp-cli scaffold 
+wp scaffold plugin movies
+wp scaffold block movie --tile="Movie Block"
+on github:
+Create Gutenberg Block
+GutenBlock
+react-wp-scripts
+hot module replacement
+Composing blocks
+creating blocks out of modular components
+modular building blocks - thinking in react
+more usable and more testable, only one concern
+using WP state management
+Example 'Checkbox Controls'
+Passing data back up
+Inspector Controls
+onChange
+
+https://twitter.com/fpcorso/status/1020782151309066240
+
+
+
+[Hiding the Pulleys and Strings](https://2018.boston.wordcamp.org/session/hiding-the-pulleys-and-strings/)
+[Jesse Friedman](https://twitter.com/professor)
+
+I went into this talk without reading the description based on the fact that I see all the PH CMSes I am involved with as 'glorified string manipulation' at its heart (credit to fellow Pantheor Ronan Dowling for the paraphrase).  Also based on the fact that Jesse's twitter handle is @professor, so I knew I would learn a lot.  I sat down and was met with something different than I had imagined but something very valuable.  I hear a lot about personalization but this talk maybe the best definition of the subject, complete with actionable examples, I have every heard of.  If you are interested in Personalization, make sure to check this one out when it hits WordPress.tv!
+
+Raw Notes:
+Personalization is not one thing
+lady brought in a giant iMac into a Starbucks
+a reorder button is not customization
+predictive analytics and tracking and predicting actions is key
+everyone thinks only the big companies are doing
+who is visiting your site
+what is their intent
+Not everyone is there to purchase that product
+don't tie me to the thing I bought, it might not be for me
+Goals of a blog
+subscribe and comment
+share and stay
+Albuquerque journal case study
+increased engagement just by turning on related posts
+Jetpack made this simple and automatic, reduced server load actually
+Back to blog example
+what pages visited
+did they scroll all the way down ( mark posts as read)
+did they do a search?
+did they click any links (categories or tag)?
+did they share?
+did they comment?
+let's take the subscribe button and change it to something personal
+grab the category name and sub it in to what page they landed on for subscribe button
+understand the path the user has taken
+every tag has it's own RSS feed
+you can subscribe to any tag feeds 
+/tag/<actualtag>/feed/
+add feed auto on comment forms, lets you reach back out easier
+email follow up with commentators
+akismet + manual looking at data lets you control this easier
+thanks them, recap their visit 
+give them back quick share links
+customized search page
+customized 404 search page
+Goals
+bring in customers
+call or Directions
+make a reservation
+they are there for hours, directions, menus, specials, reservations
+just want to get in and out of the site and server the data fast
+goal should not be to have time on the site
+Boston restaurant Pop Razzi
+he just cared about up to date
+but let's look at 2 users
+1 is 500+ miles away while closed
+2 is 10 minutes away from a location during business hours
+we should think of them differently with different goals
+level of intent
+proximity coupons
+Ecommerce sites
+search is key
+Google actually handles most search actually overall
+nice prompt if repeated visits to a type of page
+cart abandonment is an area we are focused on a lot in this market
+coupon codes are popular now
+no one uses this trick: in the email is a cookie
+you can track open rates
+if you tie a cookie to expiration date you can better understand intent
+you can tie that to a campaign to fire off another email
+2nd 2nd chances
+(I had to go at this point due to setting up for my workshop)
+
+
+https://twitter.com/McDwayne/status/1021058612775608320
+
+
+
+
+##### My Session
+
+[Let’s learn Git. No more excuses.](https://2018.boston.wordcamp.org/session/lets-learn-git-no-more-excuses/)
+
+When I first heard that I was going to be able to teach a Git workshop at this event, I honestly thought maybe 12 or at most like 15 people would show up and roll up their sleeves.  About 50 people showed up.  As with every other time I have presented this subject there were people who needed a little more encouragement than others to actually embrace the command line and 'force-of-will' their way through this rapid fire curriculum.  I was kind of astonished that I saw very few people drop out, which I think mostly was to attend another session that started half way through this workshop spot.  
+
+I want to take a second to say the thing that most blew my mind about this experience was the willingness of folks to help their neighbors through the rough spots.  I had not asked for, not prepared any assistants for this class (see opening paragraph of this section).  Without the dedication of a few specific people who just dropped everything and helped monitor the room and give personal attention to a students that were, in some cases, on the verge of giving up a few times, I don't think this would have gone nearly as well.  This is the very heart of our community.  Paying forward the help we all got along the way to stand as tall as we do.  In my overexcited mental state wrapping up the class and answering lingering questions from attendees, I did not record the names of my special 2 helpers and can not cite them by twitter handle or, shamefully, by any of their monikers, but your efforts will never be forgotten as long as I can recall this event.  Thank you to you if you are reading this. You know who you are.   
+
+https://twitter.com/NewYorkerLaura/status/1021067733809713152
+
+
+##### Happiness Bar
+
+There are few joys greater in my mind than helping a person understand the path forward on a problem.  This is the fun of working a [Happiness Bar](https://2016.jacksonville.wordcamp.org/what-is-the-happiness-bar/) shift.  From basic CSS modification to how to go about selecting the right theme to how to default your homepage to be a static page, I was pleased as punch to get to answer any and all questions.  I even got to have a great discussion with [Dave Ryan](https://twitter.com/0aveRyan) about the differences between shared hosting and isolated container architectures along with some other community members.  I know I have said it before, but if you do find yourself at or near a WordCamp in the future, sign up for a shift or just go hang out for a bit.  I think you would be surprised how much you can learn.   
+
+https://twitter.com/McDwayne/status/1020690967542759425
+
+
+### Wrapping Up
+
+I want to call out one person who didn't get a mention otherwise in this post and that is [Mr. Rich Hill](https://twitter.com/RichHill73).  I don't want to steal his thunder, but he is working on some content that I got to participate in that I think will very much help further many a community conversation.  I know it helped me gain some valuable perspective. He is one of the folks giving his all to try and solve a real need with his mind mapping based solution.  
+
+Boston is really one of my favorite cities and so many good things happened on this trip, that even with the lengthy report I am still leaving off many details which I will treasure forever.  The community is beautiful in what is truly a [City on a Hill
+](https://en.wikipedia.org/wiki/Boston_nicknames) with so much rich history and forward looking innovation.  I can't wait to return and reunite with my New England compatriots, hopefully, at a minimum for [WordCamp Boston 2019](https://2019.boston.wordcamp.org)
+
+
+https://twitter.com/michelleames/status/1020371726973177856
+
+
+https://twitter.com/ronnieburt/status/1020793990772396032
+

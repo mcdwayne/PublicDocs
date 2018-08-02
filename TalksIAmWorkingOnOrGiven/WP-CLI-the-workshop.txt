@@ -1,0 +1,53 @@
+WP-CLI Workshop
+3 hours
+
+Hour 1			
+introductions  0:15
+Concepts and installing 0:45
+working time - 1:00
+
+Break/continue working time - 1:10 minutes
+Hour 2
+Using the WP-CLI
+Core
+Search-replace
+Themes
+Post
+Menus
+Plugins
+Users
+DB
+Scaffold 
+
+
+Hour 3
+Extending the WP-CLI
+
+
+
+WP-CLI -- BUILDING YOUR OWN COMMANDS
+
+Reference:
+https://make.wordpress.org/cli/handbook/commands-cookbook/
+
+
+Add scaffold package command to WP-CLI to the 
+wp package install https://github.com/wp-cli/scaffold-package-command#installing
+`wp package install git@github.com:wp-cli/scaffold-package-command.git`
+NOTE: If fails, can do same form https address and that works
+
+
+Lando start (starts Lando)
+
+lando wp scaffold package mcdwayne/php-version
+"
+echo 'Current PHP version : ' . phpversion(). ' \n ';
+"
+
+it puts it here (in the docker container):
+var/www/.wp-cli/packages/local/mcdwayne/hello-world
+
+to SSH into your Docker container if using Lando:
+$docker exec -it mcdwaynedotcom_appserver_1 /bin/bash
+
+

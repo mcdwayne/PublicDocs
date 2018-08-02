@@ -1,0 +1,263 @@
+WordCamp Denver 2018: In which I learned a lot while preparing to teach something and I talked very fast 
+
+Somehow [City of the Plains
+](http://got.net/~landauer/lists/CityOf.html) feels relatively local to me, even though it is 2 full hours in the air to get to and from this high altitude city.  Compared to placed like [Belgrade](https://www.mcdwayne.com/2018/06/19/wceu-2018/) or Boston(https://www.mcdwayne.com/2018/07/02/design4drupal-2018/) that is basically no real travel time.  There are also a lot of similarities between my part of California and that part of Colorado, with all the natural history and airport way outside the downtown area.  I was not there for the [great outdoors](https://en.wikipedia.org/wiki/The_Great_Outdoors_(film)) or to sneak into the [Underground Music Festival](https://www.undergroundmusicshowcase.com/).  I got to return to this gem of the west to rejoice with my fellow WordPress community together in person at [WordCamp Denver 2018](https://2018.denver.wordcamp.org/)
+
+https://twitter.com/stickergiant/status/1023300226700869632
+
+
+SLide feedback:
+summary of main pints and where to social media me
+
+
+# Speaker Dinner
+
+https://twitter.com/mpmike/status/1023029129237561344
+
+https://twitter.com/McDwayne/status/1023025331358248960
+
+https://twitter.com/WordCampDenver/status/1023022608030343168
+
+
+Breakfast
+
+Lunch
+
+https://twitter.com/WordCampDenver/status/1023286893692088320
+
+https://twitter.com/McDwayne/status/1023285260748873733
+
+
+
+Stickers
+
+https://twitter.com/StudioSimpatico/status/1023303064868937729
+
+https://twitter.com/StudioSimpatico/status/1023301208570617856
+
+https://twitter.com/WNFRHC/status/1023300826113040384
+
+https://twitter.com/scottdeluzio/status/1023300384503226368
+
+
+
+
+After party
+
+WCKaraoke
+
+
+
+Opening remarks:
+
+https://twitter.com/WordCampDenver/status/1023241379835568129
+
+
+
+[Who’s Afraid of the Big Bad Loop?](https://2018.denver.wordcamp.org/session/whos-afraid-of-the-big-bad-loop/)
+[Chris Reynolds](https://twitter.com/jazzs3quence)
+
+Issue is the loop make it sound like a magic black box
+What is it?
+codex definition.  HUh?
+wat?
+If have posts : whole have posts : the_post
+if ( have_posts())
+knock knock, do you have posts?
+simple conditional that returns if there are posts, 0 or 1
+keep going while it returns true
+what are we doing
+the_post - sets up the current post
+think through all 'the' functions
+the_ID, the_title, ect
+the_posts makes all those work
+setup_postdata( $post );
+what does it al mean?
+the magic
+DB interactions
+/?s=whosis chris reynolds
+SQL querry
+s post status publish
+combine all these things
+/?s=rynolds&post_type=wcb_speaker
+query = new WP_Query([
+'s' => 'reynolds';
+---
+---
+---
+]);
+And even more combining and complex searches and refinements
+arrays can even be passed in
+---MISSED SOME STUFF DUE TO EMAIL ACCOUNT HACKING ATTEMPT***********
+using querys
+used queryposts
+national park service different pats of the help cernter differtn parts of site
+s3q.uswcden2018-searchform
+take taxonomy term and add to the search form so only search in taxonomy
+in this case Museum management
+get_posts
+diff between this and wp_query
+get_post returns: big array of post objects
+dump out a quey, you get a whole bunch more stuff, array of post is way tat the bottom
+it will tell you the sql qerry it used to find the posts
+you can debug the querry itself
+beneath that is array of post objects
+doing the same things in general but 
+query_posts (don't use it!)
+set up the posts but does something
+codex say don't use it
+it overrides the main query
+manipulates the posts you are in, that is bad
+Slides:  s3q.uswcden2018-loop
+
+
+
+
+
+https://twitter.com/CopperGordon/status/1023268282416226304
+
+https://twitter.com/Mike_Selander/status/1023267967058898944
+
+
+
+
+[The Basics of Building a WooCommerce Website](https://2018.denver.wordcamp.org/session/the-basics-of-building-a-woocommerce-website/)
+[Jamie Schmid](https://twitter.com/jamieschmid)
+
+Intro to WooCommerce talk, her first one
+plan, things she ran into people were not execting
+also, general order of seting things up out of the box
+Start with planning
+Your product, types and attributes
+your requirements, POS, sropship, billing, accounting 
+payment processing
+shipping and tax
+sitemap
+products, not all products the same, what is different
+Reqs, do they have brick and mortar? Need POS? 
+a surprise later is expensive
+coming from etsy or Shopify or what?
+can it be imported at all?  is it easy, almost never. 
+Payment processing
+check the requirements, do you need a backup (yes)
+company paypal, stripe, authorize.net, si this determined?
+PCI compliance? this is hard for some hosts
+Shipping and Tax.  
+ask the client to map the whole shipping process
+figure out the rules with them
+shipping rules, scenarios are import to walk through
+Site Mapping, super important
+terms and conditions
+return policy, they absolutely need this
+sizing chart
+product pages
+Now we get to Build it!  If we have all the above info, this is ready to start
+The Woo Wizard is actually really helpful to get going from scratch
+demo time!
+Jetpack and TaxJar
+wants to drill into payment gateways
+don't process on your site if you can help it
+
+https://twitter.com/jamieschmid/status/1023320572220981248
+https://twitter.com/jamieschmid/status/1023321109096103936
+
+https://twitter.com/McDwayne/status/1023305746987900928
+
+
+
+
+[My Website Is Live, Now What Do I Do With It?](https://2018.denver.wordcamp.org/session/my-website-is-live-now-what-do-i-do-with-it/)
+[Michele Butcher-Jones](https://twitter.com/Michele_Butcher)
+
+when you inherit a site, they are clueless a lot
+Expect them not to know and have to explain these peices
+Hosting and FTP info
+logging in for the first time
+what plugins are there and why?
+whats in the media folder
+what is a post vs a page, people will ask!
+What theme?
+always use a child theme
+'it's what makes it pretty' when explaining to clueless client
+blog
+update the site as soon as information changes
+security for your sites
+update! Update! UPDATE!!!
+security plugins
+regular checkups
+always make backups
+off server backups
+without doing this, you can(will) get hacked
+lose traffic and interest if not updated 
+
+
+
+https://twitter.com/redcrew/status/1023322028508696586
+
+https://twitter.com/ed_narvaez/status/1023323671371243520
+
+
+[Keynote: Why Community is More Important than Networking]()
+[Angela Bowman]()
+
+her history, working wiht Nonprofits
+learned some CSS
+then learned about CSS
+started on WP on v2.0
+outside the box thinking
+alone, didn't know anyone else doing this
+meetup group of graphic designers
+pivoted her life
+partners and supporters
+possibilities grow so much more
+learned dos and don't together with Bethany Siegler
+started teaching classes together to learn 
+first wordcamp in 2010
+WP is bigger on the inside
+her first talk soon thereafter
+camps are not just about free shirts
+also about stickers and such
+people put a lot of hope into WordPress
+got to learn from each other
+build relationships, it is why we are here
+don't begin conversations with what do you do?
+something different
+asking what they do outside of their job
+how can I help you vs what can you do to me
+You never know how you are going to affect other people
+
+
+
+https://twitter.com/BFTrick/status/1023340498822385665
+
+https://twitter.com/ed_narvaez/status/1023337542966423553
+
+https://twitter.com/SiteLock/status/1023339894075211776
+
+
+##### My Sessions
+
+[]()
+
+I ended up talking really, really fast.  Jamming the same amount of information into half the time it took me to give the same talk last time certainly interjected a lot of energy into the thing.  It was fantastic to have a pretty big room reverberating that energy back to me.  I loved all the feedback I got afterward and it was super awesome to meet so many new people.  I hope I can give this talk a few more times before it evolves into another form. Thanks to all that came out!  
+
+https://twitter.com/jessigurr/status/1023244983183134720
+
+
+[]()
+
+Giving workshops is fun, but I would put it as a bigger challenge overall than a talk.  Both definitely take preparation and time and a lot of mental energy, but in a general lecture style WordCamp session you rarely stop and help someone try to figure out to debug a composer issue. I hope people got a lot out of it and I was thrilled to do it, but wow, I sitting and writing this later the same day I delivered it, I think I need to put many hours into a revamp before I submitted for a 3 hour workshop on this subject again.  I also thought that I might just require everyone to install [Lando](https://docs.devwithlando.io/) before we started so we would all have the same issues in the same environments. Still, very glad I got the opportunity to learn as much as I did while doing this and hope others found it useful as well.  
+
+
+
+
+
+### Wrapping Up
+
+Denver is an interesting town in a lot of ways. 
+
+
+
+https://twitter.com/jgamet/status/1023250148565155841
+
+https://twitter.com/aarondevandry/status/1023250140725882880

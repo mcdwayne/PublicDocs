@@ -1,0 +1,260 @@
+WordCamp Denver 2018: In which I learned a lot while preparing to teach something and I talked very fast 
+
+Somehow [City of the Plains
+](http://got.net/~landauer/lists/CityOf.html) feels relatively local to me, even though it is 2 full hours in the air to get to and from this high altitude city.  Compared to placed like [Belgrade](https://www.mcdwayne.com/2018/06/19/wceu-2018/) or Boston(https://www.mcdwayne.com/2018/07/02/design4drupal-2018/) that is basically no real travel time.  There are also a lot of similarities between my part of California and that part of Colorado, with all the natural history and airport way outside the downtown area.  I was not there for the [great outdoors](https://en.wikipedia.org/wiki/The_Great_Outdoors_(film)) or to sneak into the [Underground Music Festival](https://www.undergroundmusicshowcase.com/).  I got to return to this gem of the west to rejoice with my fellow WordPress community together in person at [WordCamp Denver 2018](https://2018.denver.wordcamp.org/)
+
+https://twitter.com/stickergiant/status/1023300226700869632
+
+### Food and Fun
+
+##### Speaker Dinner
+
+No WordCamp would be complete without the speakers, sponsors and organizers getting together for a little celebration for making the whole thing happen.  We are all volunteers in this, even those of us who are paid by companies to represent those companies, we still are giving up our weekends and nights and mental energy to make sure the camps happen.  It takes a lot of work to organize one of these things, so having a special event where we just celebrate that fact is always a positive experience.  This time around we went up to [Blackbird Public House](https://www.blackbirdpublichouse.com/) for some pizza and craft beverages.  Such a great time was had an a new hashtag was born!  
+
+https://twitter.com/McDwayne/status/1023025331358248960
+
+
+https://twitter.com/mpmike/status/1023029129237561344
+
+##### Day 1 
+
+This camp has a notably later start time, with registration not even starting until 9:00 am, a full hour later than most camps.  This meant I could sleep a touch longer and enjoy some coffee before I left the hotel.  I gotta say this time around the percolated stuff the volunteers made was superior to the hotel coffee, not an often repeated feat.  Candy and snacks flowed throughout the day, thanks in part to the GreenGeeks crew bringing more candy than is healthy for a conference 5 times the size of this one. Lunch was OK.  Sandwiches and chips and such.  
+
+https://twitter.com/McDwayne/status/1023285260748873733
+
+
+##### Sticker Giant's World Record Sticker Ball
+
+[Sticker Giant](https://www.stickergiant.com/) not only supported this camp by donating lots of awesome stickers, which they do for many a camp, but this time they rolled out the big one!  They hold the [Guinness World Record](http://www.guinnessworldrecords.com/) for the [Largest Ball of Stickers ever!](http://www.guinnessworldrecords.com/news/2017/11/video-worlds-largest-sticker-ball-rolls-into-the-record-books-502156).  Coming into the environments at around 231lbs we got to add to it at the event in what was on the schedule as a [Goofy Activity](https://2018.denver.wordcamp.org/).  People had a blast adding a whole new layer devoted to the WordPress space.  It was a treat to get to help make a record even better.  
+
+https://twitter.com/scottdeluzio/status/1023300384503226368
+
+
+https://twitter.com/StudioSimpatico/status/1023301208570617856
+
+
+##### Dinner and After Party
+
+There has been a noticeable increase in the last couple years of plant based food fans or at least people willing to give it a whirl.  Every time I have gone to Denver since making the switch myself, I have been encouraged to go to [Watercourse Foods](https://www.watercoursefoods.com/) and now I know why.  Some of the best prepared and thought through 100% vegan cuisine I have yet to experience.  Some of us gathered for a pre-party meal to make sure we had a full stomach before heading to the after party and drinking the wonderful concoctions brewed up by the fine folks at [Fermaentra Tap Room](http://www.fermaentra.com/home/).  Nothing against their beers, but the real star of their menu had to be the kombucha.  Several folks who have never tried it before and folks like me who were so-so on the beverage, were utterly delighted by this bright, refreshing citrusy goodness that they poured.  Good job for selecting this sopt and great job to the brewers!  Just to not it down, an attempt at WCKaraoke was made over at [Ogden Street South](https://www.ogdenstsouth.com/), but the evening got away from us before we could make a real collective go of it.
+
+https://twitter.com/ggschrisw/status/1023367286550343681
+
+
+https://twitter.com/CopperGordon/status/1023395830886227968
+
+
+##### Day 2
+
+The second day was all Workshops.  A portion of the previous day's attendees returned to learn things like SEO and WP-CLI (which I was teaching, more on that later).  We were met with coffee and pretty great breakfast burritos, which is one of my favorite breakfast options.  The vegan option had corn and mushrooms and I think broccoli.  Lunch was pizza.  One of the nice things about pizza is that unless you put cheese on it, it can easily be plant based.  Unfortunately no tweets exist of either of these offerings I can find, so here is a generic picture of the day with a mention of the food.
+
+https://twitter.com/BFTrick/status/1023591176966795265
+
+
+
+### Sessions
+
+##### Opening remarks
+
+https://twitter.com/WordCampDenver/status/1023241379835568129
+
+
+[Who’s Afraid of the Big Bad Loop?](https://2018.denver.wordcamp.org/session/whos-afraid-of-the-big-bad-loop/)
+[Chris Reynolds](https://twitter.com/jazzs3quence)
+
+I'll admit it.  I have never understood The Loop for exactly the same reasons it took Chris so long to wrap his head around it: The name makes it sound like a magic black box.  At some point with magic, you have to throw your hands in the air and just say "I can't explain it, it just works."  We, however, are doing computer **science**! Chris' slides were not just informative and broke down The Loop better than I have seen in a talk yet, but they were also hilarious.  Using knock knock jokes to explain 'if ( have_posts )' will be burned into my memory forever.  I can honestly say this was a talk that pulled me over a line of understanding and I will be forever grateful to Chris.  
+
+Raw Notes:
+Issue is the loop make it sound like a magic black box
+What is it?
+codex definition.  HUh?
+wat?
+If have posts : whole have posts : the_post
+if ( have_posts())
+knock knock, do you have posts?
+simple conditional that returns if there are posts, 0 or 1
+keep going while it returns true
+what are we doing
+the_post - sets up the current post
+think through all 'the' functions
+the_ID, the_title, ect
+the_posts makes all those work
+setup_postdata( $post );
+what does it al mean?
+the magic
+DB interactions
+/?s=whosis chris reynolds
+SQL query
+s post status publish
+combine all these things
+/?s=rynolds&post_type=wcb_speaker
+query = new WP_Query([
+'s' => 'reynolds';
+code missing
+]);
+And even more combining and complex searches and refinements
+arrays can even be passed in
+((-MISSED SOME STUFF DUE TO EMAIL ACCOUNT HACKING ATTEMPT---All good now))
+using queries
+used query_posts
+national park service different pats of the help center different parts of site
+s3q.uswcden2018-searchform
+take taxonomy term and add to the search form so only search in taxonomy
+in this case Museum management
+get_posts
+difference between this and wp_query
+get_post returns: big array of post objects
+dump out a query, you get a whole bunch more stuff, array of post is way tat the bottom
+it will tell you the SQL query it used to find the posts
+you can debug the query itself
+beneath that is array of post objects
+doing the same things in general but 
+query_posts (don't use it!)
+set up the posts but does something
+codex say don't use it
+it overrides the main query
+manipulates the posts you are in, that is bad
+Slides:  s3q.uswcden2018-loop
+
+https://twitter.com/Mike_Selander/status/1023267967058898944
+
+
+
+[The Basics of Building a WooCommerce Website](https://2018.denver.wordcamp.org/session/the-basics-of-building-a-woocommerce-website/)
+[Jamie Schmid](https://twitter.com/jamieschmid)
+
+I love hearing Jamie present. She presents a ton of data and I always walk away with new perspective on at least a few points.  This talk met that expectation and I now know that you always, always, always want to have a backup payment processor already fully thought through from the start.  I honestly went in with an attitude that "Paypal is good enough for me" and left saying, "Well, let's make sure I test Stripe....".  Also her quick point on having a client walk you all the way through multiple packaging and shipping scenario is huge.  As a small time online store owner, I would never have thought to make a plan for x items vs x+1 items but those shipping conditions matter and will cost a lot of time to figure out after the project is delivered.  
+
+
+Raw Notes:
+Intro to WooCommerce talk, her first one
+plan, things she ran into people were not expecting
+also, general order of setting things up out of the box
+Start with planning
+Your product, types and attributes
+your requirements, POS, billing, accounting 
+payment processing
+shipping and tax
+sitemap
+products, not all products the same, what is different
+Reqs, do they have brick and mortar? Need POS? 
+a surprise later is expensive
+coming from etsy or Shopify or what?
+can it be imported at all?  is it easy, almost never. 
+Payment processing
+check the requirements, do you need a backup (yes)
+company PayPal, stripe, authorize.net, si this determined?
+PCI compliance? this is hard for some hosts
+Shipping and Tax.  
+ask the client to map the whole shipping process
+figure out the rules with them
+shipping rules, scenarios are import to walk through
+Site Mapping, super important
+terms and conditions
+return policy, they absolutely need this
+sizing chart
+product pages
+Now we get to Build it!  If we have all the above info, this is ready to start
+The Woo Wizard is actually really helpful to get going from scratch
+demo time!
+Jetpack and TaxJar
+wants to drill into payment gateways
+don't process on your site if you can help it
+
+https://twitter.com/McDwayne/status/1023305746987900928
+
+
+
+[My Website Is Live, Now What Do I Do With It?](https://2018.denver.wordcamp.org/session/my-website-is-live-now-what-do-i-do-with-it/)
+[Michele Butcher-Jones](https://twitter.com/Michele_Butcher)
+
+Sometimes you wish someone would just sit you down and tell you what the deal is.  Like, what you need to know to be successful and what mistakes you can easily avoid if you see warning signs.  Michele did exactly this to a room full of freelancers and agency folk at camp.  I love this kind of straight talk.  No fluff, no 'touchy feely' sentiment, just solid advice, learned the hard way by successfully doing this stuff over a career.  This is one of the talks I can point to when people ask me what makes FOSS different than other ways of going about software: We stand up and tell the world exactly how to do it better and never hide what we learned [under a bushel](https://en.wikipedia.org/wiki/Lamp_under_a_bushel).  We gotta let it shine! 
+
+Raw Notes:
+when you inherit a site, they are clueless a lot
+Expect them not to know and have to explain these pieces
+Hosting and FTP info
+logging in for the first time
+what plugins are there and why?
+whats in the media folder
+what is a post vs a page, people will ask!
+What theme?
+always use a child theme
+'it's what makes it pretty' when explaining to clueless client
+blog
+update the site as soon as information changes
+security for your sites
+update! Update! UPDATE!!!
+security plugins
+regular checkups
+always make backups
+off server backups
+without doing this, you can(will) get hacked
+lose traffic and interest if not updated 
+
+https://twitter.com/redcrew/status/1023322028508696586
+
+
+[Keynote: Why Community is More Important than Networking](https://2018.denver.wordcamp.org/session/keynote/)
+[Angela Bowman](https://twitter.com/askwpgirl)
+
+A Keynote at the end of the day?  Yes, that is what they did and I applaud them for it!  I love the idea that we can learn all day long and then, before we go our separate ways to get ready for the after party or back to our families, we can get in one place and be on the same page with one big, well presented idea.  And boy howdy, was this well presented.  Angela took us on a journey and I think illustrated to a lot of folks that no one is born and expert in WP, or anything else.  We all learn from and are encouraged by the people around us, so let's get to it and start encouraging more people. Let's connect more.  Let's stop asking 'what do you do?' and start asking 'what do you love?'.  We have so much knowledge to share and so much to learn.  Only together can we keep advancing and growing.
+
+
+Raw Notes:
+(I got in a little late thanks to cleaning up the sponsor booth)
+her history, working with Nonprofits
+learned some CSS
+then learned about CSS
+started on WP on v2.0
+outside the box thinking
+alone, didn't know anyone else doing this
+meetup group of graphic designers
+pivoted her life
+partners and supporters
+possibilities grow so much more
+learned dos and don't together with Bethany Siegler
+started teaching classes together to learn 
+first WordCamp in 2010
+WP is bigger on the inside
+her first talk soon thereafter
+camps are not just about free shirts
+also about stickers and such
+people put a lot of hope into WordPress
+got to learn from each other
+build relationships, it is why we are here
+don't begin conversations with what do you do?
+something different
+asking what they do outside of their job
+how can I help you vs what can you do to me
+You never know how you are going to affect other people
+
+https://twitter.com/ed_narvaez/status/1023337542966423553
+
+
+##### My Sessions
+
+[Nobody wants a website. They want results!](https://2018.denver.wordcamp.org/session/nobody-wants-a-website-they-want-results/)
+
+I ended up talking really, really fast.  Jamming the same amount of information into half the time it took me to give the same talk last time certainly interjected a lot of energy into the thing.  It was fantastic to have a pretty big room reverberating that energy back to me.  I loved all the feedback I got afterward and it was super awesome to meet so many new people.  I hope I can give this talk a few more times before it evolves into another form. Thanks to all that came out!  
+
+https://twitter.com/jessigurr/status/1023244983183134720
+
+
+[WP-CLI – Don’t Fear The Command Line](https://2018.denver.wordcamp.org/)
+
+Giving workshops is fun, but I would put it as a bigger challenge overall than a talk.  Both definitely take preparation and time and a lot of mental energy, but in a general lecture style WordCamp session you rarely stop and help someone try to figure out to debug a composer issue. I hope people got a lot out of it and I was thrilled to do it, but wow, I sitting and writing this later the same day I delivered it, I think I need to put many hours into a revamp before I submitted for a 3 hour workshop on this subject again.  I also thought that I might just require everyone to install [Lando](https://docs.devwithlando.io/) before we started so we would all have the same issues in the same environments. Still, very glad I got the opportunity to learn as much as I did while doing this and hope others found it useful as well.  
+
+
+https://twitter.com/BFTrick/status/1023598238471876609
+
+
+### Wrapping Up
+
+Denver is an interesting town in a lot of ways to me, but the real joy is the community.  Being a shorter camp and the fact that I was there solo meant I saw far fewer talks than I normally do, but wow, those hallways conversations that I did not take notes on for public consumption taught me a whole lot.  Speaking to people about what they are passionate about and helping to further some of their thoughts around this market and various technology points.  I always learn so much.  I think that if WordCamp.org was an accredited university I would have a Masters by now.  
+I am already looking forward to the next time I get to go to Denver for any reason, and though it is a full year out I am already looking forward to an even bigger and better WordCamp Denver 2019!  
+
+https://twitter.com/jgamet/status/1023250148565155841
+
+
+https://twitter.com/aarondevandry/status/1023250140725882880
+

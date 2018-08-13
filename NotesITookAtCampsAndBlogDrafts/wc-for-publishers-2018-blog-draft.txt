@@ -482,7 +482,7 @@ Let's make the editorial process as important as the site itself
 Define the workflow
 wireframing, whiteboards, anything. Document it and understand what you are really doing
 WP lets you have granular user roles, so define what you need
-(https://codex.wordpress.org/Roles_and_Capabilities)
+hint https://codex.wordpress.org/Roles_and_Capabilities
 WP roles vs real roles, not all map 1:1 
 how do you pay? Set the parameters per user
 automatically calculate things

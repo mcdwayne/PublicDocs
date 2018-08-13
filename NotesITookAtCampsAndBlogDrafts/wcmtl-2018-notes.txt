@@ -1,0 +1,386 @@
+General
+
+https://twitter.com/wordcampmtl/status/1028714380505083909
+
+
+
+Speaker Dinner
+
+https://twitter.com/bluehost/status/1028093649391943681
+
+Lunch:
+
+##### After Party
+
+https://twitter.com/speedyrails/status/1028683044587294726
+
+
+
+Sessions
+
+
+[Go With the Flow: Boost Your Efficiency With a Development Workflow](https://2018.montreal.wordcamp.org/session/go-with-the-flow/)
+[Ann Cascarano](https://twitter.com/redrambles)
+
+
+
+came in late
+level up talk
+You need a local
+you need a safe space
+mess aorund 
+code editor
+atom, sublime
+Command line
+install tools 
+node, git
+WP-CLI
+all the commands
+git
+code history
+protect the integrity of the history of your project
+very light and fast
+video game save point methodology
+git is not github
+Staging site
+must mirror production env
+another backup
+recovery strategy
+managed and unmanaged all allow this workflow idea
+might just be easier in managed
+
+
+
+https://twitter.com/zoonini/status/1028328052516966401
+
+https://twitter.com/McDwayne/status/1028328991277699073
+
+
+[Bridging the Gap between Designers & Developers](https://2018.montreal.wordcamp.org/session/bridging-the-gap-between-designers-developers/)
+[Mehgan Dove](https://twitter.com/mdovedesign)
+
+
+Designers, 
+learn some development
+if you are handing over things and not care how it is implemented
+and don't know what is hard or complex and don't care
+you are going to hae a bad time
+Devs, 
+have some respect for your designeers work and skill
+Handover in layers
+Design s not arbitrary
+show some respect
+layouts are hierarchical in so many ways
+Devs should not have ot guess or recreate things in photoshop
+communicate!
+provide layers!
+use guidelines and agree 
+
+
+
+https://twitter.com/McDwayne/status/1028358981025181696
+
+
+[Made you Look: Eye-Catching Web Design Trends]()
+[ELANA RUDICK]
+
+Design 
+lookingat yogurt
+universal-love.com
+colors and bold
+pantone of the year
+Ultra Violet its bold 2018
+neon colors 
+have to have a lot fo contrast
+have to see neon colors 
+https://www.pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2018
+high contrast, 
+trickels down into everything
+epicurrence
+bold colors again sunet patterns
+full screen websites
+lot of monocromatic
+Be honest
+this is possibly scary
+if you want to add a pop of color, just add a bringht pop
+one or 2 neon color 
+otherwise rainbow vomit everywhere
+adobe color wheel, helps make complementary colors
+another is brandcolors.net
+color codes for influental brands
+different colors 
+webaim.com
+color pallets must work, don't get too far without sorting it
+kook.co.uk
+illustration styles, more individuals and texurized
+clients 
+Amazoniafont.com
+multidicipline project
+created illustrations and font to bring endangered animals to light
+anastrumpf.com.br
+illustration over photo
+striking typography
+goodortunestl.com
+very striking 
+core77.com
+creative typography, funky
+monochomatic again
+typekit.com
+fontsinuse.com
+typewolf.com
+finisweetuse.com
+food typography
+look around and grab inspiration everywhere
+in the real world
+the-dots.com
+objects and elements in play with the typography
+behance.com
+glitch
+deconstructed type
+not new, but will show up on the web more
+broken grids and freeform
+no defined grid
+designmuseum.dk/en
+www.springsummer.gucci.com
+before thinking about breaking the gri, remember why the grid is good
+why are you doing it?
+define a strong grid so broken shows
+negative space
+helloheco.com
+concise vs wordy
+see copy first
+way interact with the 
+microanimations
+particle background
+little JS gradient effect, very light, not heavy
+adds a little somthing
+optimo.com
+lecafenoirstudio.com
+She is not a wizard
+wpsniffer
+thats how she knows what is using WP
+and the themes used
+bonlook.com
+glitchy and not perfect, but fun
+augmented reality
+minialmist photography
+What story are you telling
+where are you guiding them,
+what is the journey
+whats next
+more cusomized shopping approaches
+Anything goes right now though
+no 2 sites are alike
+if it works if it does not they won't notice (ha)
+
+
+https://twitter.com/MDoveDesign/status/1028370615454117888
+
+[How to Format Your Text to Help Your Readers](https://2018.montreal.wordcamp.org/session/how-to-format-your-text-to-help-your-readers/)
+[FRANCESCA MARANO](https://twitter.com/FrancescaMarano)
+
+History lessons
+March 12, 1989 Sir Tim
+makes proposal for HTML
+1993 publishes stadards
+10/1/1997
+Jakob Nielsen "How Users Read on the Web"
+Summary: they don't
+they scan picking out individual words and sentences
+Wall of text loses everyone
+HTML is not a programming language is markup
+structure of a page
+semantically - elements themselves describe the content
+Know the basic tags
+p
+blockquote
+ol
+ul
+li
+H1 - H6 and accessibility
+Don't use H1 on the page or post, that is reserved for the page title
+important for SEO and Ally
+having H4 without an H2 is actually really bad
+Help all readers
+think older readers
+Formatting in wordpress
+Gutenberg is coming
+1/2 the room never heard it was coming
+Tour of the editor and Admin
+Bold and Italics
+not for pretty
+for emphasis
+Alignment is important
+stick with left alignment unless Hebrew or other langguage with RtL
+
+
+
+https://twitter.com/wordcampmtl/status/1028636328718753792
+
+
+
+
+[Your First Headless WordPress Project with ReactJS and GraphQL](https://2018.montreal.wordcamp.org/session/your-first-headless-wordpress-project-with-reactjs-and-graphql/)
+[ÉTIENNE BÉLANGER](https://twitter.com/ebeldev)
+
+Old fashion, desktop to web
+how CMS works
+responsive design
+Tons of things that need to hook to the backend to get data
+Advantages of decoupled
+separate content and presentation
+generate unique user experience
+make your content available to mobile apps, kiosks, VR and anything else
+REST API
+/Retreive post
+media/"id"
+users/"id"
+/catagories/"ID"
+Dangers
+overfetching - getting too much data for the UI
+Underfetching
+GraphQL
+a query language for the API
+retreive only thee needed data
+RESAPI - Post endpoint/ users EP/categories EP
+GraphQL is one call that grabs those pieces
+Query
+mutation
+subscriptions
+Server
+Custom
+Graph.cool
+self hosted GraphQL
+WordExpress
+Framework for WP apps (server+client)
+wp-graphql
+plugin!! 
+Client
+Relay from FB
+Apollo-client
+Apollo-boost = no setup, cache, manage local and server data
+you can extent wp-graphql plugin
+retreive data
+reactjs setup
+NodeJS
+in CLI create-react-app ig
+create project
+install packages
+demo
+demo demo
+
+
+
+https://twitter.com/McDwayne/status/1028648998301822979
+
+
+
+[A Buddhist Guide to WordPress Development](https://2018.montreal.wordcamp.org/session/a-buddhist-guide-to-wordpress-development/)
+[JER CLARKE](https://twitter.com/jerclarke)
+
+Buddism and Jer
+Pn Pali and theravada
+very diverse religion, lots of sects
+school of the elders, sri lanka, thailand
+root of secular ones
+Vipassana
+sources for secular buddhism
+Contracted with Mahayana, greater vehicle, a diverse branch in china and Japan
+FYI: Words here ar in Pali not sanskrit
+Religion or Philosophy
+both metaphysical and pragmatic
+most teachings apply directly to material life
+its an ancient science, got some things right
+Ancient indian comology is weird and a bit crazy, metephircally can teach a lot though
+Buhhism is a series of very useful lists
+Quick mediatation, anapanasati breathing meditation
+breath in
+breath out
+just be 
+5 minutes exercise
+Impermanane
+lacking
+essential
+anicca impermanence
+whatever is subject to origination is subject to cessation
+everything changes and we are all going to die
+everything we have is borrowed, death or WP updates will take it all away
+Dukkha
+Stress
+often translated as suffering and pain and dissatisfaction
+nothing lives up to our hopes, so everything brings disappointment and stress
+unpleasant things are dukkha because we can't avoid them
+pleasant thinggs are dukkha because we can't hold onto them
+Anatta
+Lack of essential self
+Three features of every CMS, PLugin and Theme
+Impermanent: Won't last forever
+Unsatisfying: Guaranteed to disappoint
+essense-free: Just a bunch of code
+accept these things and let them go!
+Cause of stress is clinging to our expectations
+when we try to control the world, we suffer pointlessly
+the 'second arrow' is the one we shoot ourselves
+cycle of clinging and disappointment
+when we imaging WP won't challenge us that is makes us crazy
+End of stress is freedom from clinging
+if we accept things we are free from dissapointment 
+Wisdom, Virtue, Mindfulness
+8fold path
+Kamma truth cause and effect
+really meands actions
+kammic fruition are effects of your karma
+intention is key, as long as we know our intentions are truely good we can live with peace of mind
+Samsara WO
+Rebirth WP
+We are reborn when we return to old themes, plugins and code
+we inherit the decisions of our past selves, good or bad
+learn from challenges you've passed on to yourself
+wee clearly how your current decisions will determine your future
+Sati
+mindfullness
+check the logs
+being aware of yourself and body and mind in each step
+Samadhi
+mediation
+Samadhi means concentration as well as meditation
+set aside time jsut fro this training
+meditate on wholesome states to develop altered states
+like any skill, regular focused practice is how we get better
+Metta
+lovingkindness
+metta - kindness
+Panna wisdom
+all expereinces created in our mind
+accept things as they are, let go of what is painful
+clear concience and open heart
+be mindful
+mediate as much as you can and it all gets easier
+insighttimer app
+
+https://twitter.com/sashmograph/status/1028666365903872000
+
+
+
+[WooCommerce Troubleshooting Basics](https://2018.montreal.wordcamp.org/session/woocommerce-troubleshooting-basics/)
+[SARAH RENNICK](https://twitter.com/fevered)
+
+internet wizard
+Quest goal
+learn Woo troublswhooting
+to acquire more tools to fix allt he things
+fell confident when troubleshooting
+Backup and Staging 
+Backups - important, fall back point
+Google is your guide
+google error and descritption of the problem
+sometimes githib 
+sometimes WP codex
+sometimes stackoverflow
+reproducing the issue
+scenario 1 pending payment orders with Stripe
+looking at what screen they can see
+test by doing the action yourself
+reading a bit of the docs revealed the expected behaviors had changed
+simple as a setting was blocking their issues
+

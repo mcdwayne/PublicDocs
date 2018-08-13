@@ -1,0 +1,783 @@
+WordCamp for Publishers 2018: Chicago - Seeing the city in a new light and saying goodbye to an old friend
+
+For a third time I got to return to [Great Commercial Tree](https://en.wikipedia.org/wiki/List_of_nicknames_for_Chicago) in 2018.  The [first time](https://www.mcdwayne.com/2018/03/22/midcamp-2018/) it was 20F degrees outside but a great time was had and the second time it was pretty nice but it was early in Chicago's amazing festival season.  This time the weather cooperated exceptionally well and the days, while humid, inspired a population to embrace a summer at its peak and relax a lot of the expected hustle bustle the metropolis normally brings to mind.  I was not there for a festival exactly, but I did have a festive time celebrating the publishing world embracing the [Open Internet](https://indieweb.org/) as we gathered for [WordCamp for Publishers 2018: Chicago](https://2018-chicago.publishers.wordcamp.org/).
+
+https://twitter.com/tysonbird/status/1027194964042829824
+
+I had attended the previous year's event in [Denver](https://www.mcdwayne.com/2017/08/21/wordcamp-for-publishers/) and kinda knew what to expect but given this is the only WordCamp that moves around the country, I actually found this as (word that means novel and exciting but a bit intimidating and tiring) a new wordcamp.  Unlike the previous year, I did not go to give workshop or lecture, but instead to volunteer, support, learn and connect with folks working on a problem set I find utterly fascinating: publishing.  Specifically, the process of creating content, publishing that content publicly and then managing the platforms we build to share that content.  Given that this is the only single vertical official WordCamp it offers a rare perspective into a limited but very serious set of issues in a space.  The other places I have felt this focus on common issues have included [WPCampus](https://wpcampus.org/) and [WooConf](http://wooconf.com/). Both have strikingly similar looks and feels as a WordCamp, but are unsanctioned by [Central.WordCamp.org](https://central.WordCamp.org).  Having the official support and legitimacy of the WordCamp name brand I think adds a weight the organizers could not achieve otherwise, a claim I am going to support with the caliber of the participants as substantial evidence.   
+
+
+
+### Food and Fun
+
+##### Speaker dinner:
+
+While I was not a speaker, I still got to attend the Speaker/Sponsor dinner as a sponsor and volunteer.  We descended on [Pink Taco](http://www.pinktaco.com/) which was of top quality.  I couldn't help but notice the website layout looked rather familiar, like an off the shelf use of [tentyseventeen](https://wordpress.org/themes/twentyseventeen/).  I m not sure if this played a part in the venue selection but it surely didn't hurt.  One of the speakers even referenced the site in her talk in the following days.
+
+https://twitter.com/wcpublishers/status/1026998621437341698
+
+
+This is also the part with the bit of sad news.  If you have read tales of my [other](https://www.mcdwayne.com/2018/05/03/wcchicago-2018/) [jaunts](https://www.mcdwayne.com/2017/05/03/wordcamp-chicago-2017/) [to Chicago](https://www.mcdwayne.com/2017/04/03/midcamp-chicago/), it is unmistakable that my go to Karaoke spot had become [Blue Frog's Local 22](http://local22chicago.com/).  While on my way to Pink Taco, my path lead me directly past the now shuttered building.  Yes, it has closed down and we have lost one of the finest karaoke spots I have experienced.  If you have ever sang with me there, I am grateful we had the chance to make those memories.  And special thanks to my friend [Doug](https://twitter.com/dsdobrzynski) who had alerted me to this when it was shutting down, so the blow didn't come as nearly a devastating shock as it could have been.  Still was a blow though. 
+
+https://twitter.com/McDwayne/status/858148596159574016
+
+
+##### Wednesday 
+
+There are few other cities, even in America, that inspire one to eat and overeat as much as Chicago.  This tradition was respected by the organizers and the awesome team at [Setka Editor](https://setka.io/) who supplied us with a literal 'wall of donuts' to go with our 'university catered coffee', which I have written enough about not to comment further on herein.
+
+https://twitter.com/SetkaEditor/status/1027188423285780480
+
+
+Lunch was pretty OK and the organizing team did an outstanding job of meeting any and all dietary restrictions and specifications.  Day one lunch was a box lunch with the standard sandwich, chips, fruit and cookie.  This is in no way a slight against our organizers, but I am starting to wonder why catering companies feel mushy, grilled eggplant, pretty low in protein, is a suitable ingredient in wraps.  Fresh grilled eggplant can be a delight but that is not what ends up in our hands at scale.  Still, thankful for the plant based options.
+
+https://twitter.com/McDwayne/status/1027253277451276288
+
+
+##### Architectural Boat Tour
+
+Not even going to lie, one of the reasons I had been looking forward to this particular WordCamp was the extra curricular activity plan. We all received a ticket for a tour of the Chicago river in our welcome bags. The welcome bag is a tradition I hope more camps adopt and for those that do like [WCPHX](https://www.mcdwayne.com/2018/02/20/wordcamp-phoenix-2018/) one of the little things that as an attendee I appreciate.  We boarded the [CHICAGO’S FIRST LADY](https://www.architecture.org/tours/detail/chicago-architecture-foundation-center-river-cruise-aboard-chicagos-first-lady-cruises/) and an extremely knowledgeable and enthusiastic volunteer guide from the [Chicago Architectural Foundation](http://www.architecture.org/) told us the history  of not just the buildings that soared above us but of the river walk and the river itself. My neck felt a bit strained by the end as I craned it upwards to check out the varied and unique architecture collage that is metro Chicago.  I honestly have to say this was my second favorite group outing at any camp ever, and the number one experience in the US, only tailing the Golden Loop and Northern Light expeditions [I experienced in Iceland](https://www.mcdwayne.com/2017/03/01/dcnlights/).  If you have never taken one of these 90 minute boat tours, I would recommend them, especially the evening ones.  
+
+https://twitter.com/crazyjaco/status/1027393052904759296
+
+
+https://twitter.com/ballabio/status/1027365162389524480
+
+
+##### After the boat
+
+Being in such an historic district of the metropolis, some of the party went to watch fireworks and another faction of revelers ventured to a couple of the old town's more historic, albeit for different reasons, local establishments featuring libations.  
+
+https://twitter.com/mauteri/status/1027396109231169536
+
+
+https://twitter.com/McDwayne/status/1027407295456727040
+
+
+###### Day 2
+
+After the first day had left me non-enthused by the lunch option, I decided to order myself some of my favorite local vegan grub from [Native Foods](https://nativefoods.com/).  This turned out to be folly on my end as the second day's provided lunch was a very hearty middle eastern option with loads and loads of falafel, hummus and other plant based delights.  I think my biggest take away is that I might start inquiring about the lunch options ahead of ordering 'a la carte' again.  
+
+https://twitter.com/alleyco/status/1027609575103623168
+
+
+After Party
+
+Before we gathered for our after party festivities at the end of the sessions, a few of us gathered in for one of my new favorite rituals arranged around a hashtag, '#wpvegan', or 'Vegans who WP' as my colleague and friend [John Eckman](https://twitter.com/jeckman/) coined it.  We converged on one of the greatest hallmarks of plant based food in the midwest [The Chicago Diner](http://www.veggiediner.com/) to have the best non-dairy milkshakes I think humanity has ever concocted and the heartiest Ruben sandwiches that you can feel good about eating but still guilty for the calorie bomb that it is.  Of all the tribal rituals to whose origins I born witness, this small but rapidly expanding band might bring me the most glee.  
+
+https://twitter.com/McDwayne/status/1027719508369264641
+
+
+The festivities that happened at [Broken Shaker](https://freehandhotels.com/chicago/broken-shaker/) were just as great as any other occurrence that had happened at the camp.  There was a terrific punch served from a giant silver bowl behind a bar that looked like it would have been at home in a pirate captain's grand hall. A candle lit bookcase adorned a corner that again felt like a ship's study moreso than it felt like an upscale hotel in Chicago.  
+
+https://twitter.com/wcpublishers/status/1027730734696542209
+
+
+
+Before we know it we found the hour late and the draw of WCKaraoke alluring enough to venture to [Brando's Speakeasy](https://brandoschicago.com/).  Many other karaoke fans, a bachelorette party and at least one other convention of folks also found their way there by the time we arrived, but through persistence and the sweet, fast talking of [Daniel](https://twitter.com/emaildano) we found our chance to sing a few times, dancing the night away as we went.
+  
+https://twitter.com/McDwayne/status/1027670070632357890
+
+
+
+### Sessions
+
+
+##### Opening remarks
+
+https://twitter.com/jeckman/status/1027194058765201408
+
+	
+[“Decisions, not Options” in the Age of Gutenberg](https://2018-chicago.publishers.wordcamp.org/session/decisions-not-options-in-the-age-of-gutenberg/) 
+[Chris Van Patten](https://twitter.com/chrisvanpatten)
+
+With the reality of the changeover of WP content editor advancing on us relentlessly, it is becoming more critical to have sessions like this.  Understanding the 'why' of Gutenberg is, on some level as technologists, critical to the understanding the 'how' of the editor.  Many of the decisions being made right now by the core team are being made with the deliberate attempt to shield users from having to think much beyond presented configuration choices. While that might sound counter to the open source nature of 'run the software as you see fit' the GPL promotes, I actually think it makes a lot of sense given the extendable nature of the pallet of blocks and there is nothing from extending blocks yourself.  This is a great talk for anyone new to Gutenberg but who is old hat at traditional publishing.   
+
+Raw Notes:
+The WordPress way 
+We got used to it
+stuff that worked will keep working but new is coming
+You ain't use to this stuff
+think carefully
+Philosophy
+Design for the Majority
+Out of the box should just work
+Striving for Simplicity
+Decisions, not options
+Guidelines, not rules
+Think carefully about control belongs
+think carefully about control should exist
+Support most essential options, no more
+make decisions that let your users feel they have options
+Good we are playing with it now
+Block action menu
+this is new, no equivalent in TinyMCE
+What is the common actions? 
+for features or functionality that change the block relevant to the context
+Duplicate adds to the page
+The block canvas
+for first time, can see the placeholders inline in the editor
+was kinda popular with tiny views, but that was a nightmare
+rich text content
+Block Inspector
+Can be a challenge, can become overwhelming quick
+instinct is to shove everything into the inspector
+first and foremost, want smart defaults
+Document Inspector
+things that were once better as doc settings are better as block settings
+Plugin sidebar
+new and not a ton of use cases right now
+splashy/giphy pick list of images
+interface for choosing a thing is obvious
+maybe Yoast might have their own plugin sidebar, possibly
+Easy access from the top menu bar
+-----(slack thing)
+some issues for him
+Plugin Sidebar vs Block Canvas
+where should we really be inserting content
+blocks inside blocks?
+So, use Gutenberg core controls where possible
+Gutenberg is the forms API we always wanted
+core control style standards now
+Don't fall back to metaboxes
+will not be a great experience
+Options in code don't have to be options in UI
+Gutenberg HIG
+officially opinionated
+
+https://twitter.com/thejimbirch/status/1027206421719527424
+
+	
+[Taking What Back, and from Whom?: Imagined Communities and the Role of WordPress in the Future of the Open Web](https://2018-chicago.publishers.wordcamp.org/session/taking-what-back-and-from-whom-imagined-communities-and-the-role-of-wordpress-in-the-future-of-the-open-web/)
+[John Eckman](https://twitter.com/jeckman)
+
+John is really a great speaker.  He at once sounds authoritative and honest in a almost folksy way that invites curiosity rather than reverent or blind acceptance.  He is a wealth of information on what is going on in this space and is eager to share where he obtained his know how.  I really appreciated his wrap up, reminding us as long as we are serving others, not just people like us, we are surely going to find a path forward.  
+
+Raw Notes:
+came in late
+Open web
+indieweb
+decentralized web, internet archive
+"build the web we want and the one we deserve"
+are those the same thing??
+bringing together a world that end sup magical (paraphrase)
+Coalition for better ads
+initial better ads standards
+gathering worst kinds of ads, what is wrong is presented first
+AMP and what do we do with it?
+it is an open standard and one John supports
+Data protections - GDPR, we are behind the ball in the US 
+nothing in GDPR sounds like nothing new, it is what we should have been doing
+Rather than thinking about getting better data
+Role of WP in the Future
+WP is imagined (not imaginary)
+the community is too
+Mor10 ethics of web design is the thing to watch!
+Immanuel Kant quote maxim
+Democratize Publishing - thinking about ethics, very good thing to be thinking about
+Free and OSS in letter and spirit
+using the bill of rights
+freedom 0 was added last, but it is the most important building block so it got inserted as 0
+Better News https://betternews.org/
+Ethical path to better systems
+Open protocols
+distributor plugin from 10UP
+Accessibility as a pervasive feature
+we allowed ourselves to move away form accessibility vs web 1.0
+Project VRM (from Harvard)
+Ethical Design Manifesto 
+Inclusivity is also a core principal! 
+Stop thinking about how we serve people like us
+serve others
+Recode/Decode Ma.tt
+
+https://twitter.com/andymci/status/1027236116167045122
+
+
+[Reader revenue and the (less) open web: What happens when we all have paywalls](https://2018-chicago.publishers.wordcamp.org/session/reader-revenue-and-the-less-open-web-what-happens-when-we-all-have-paywalls/) 
+[Eric Ulken](https://twitter.com/eulken)
+
+I am very glad this talk happened int he order it did for the day.  It gave a context and a history for someone like me, peripheral at best to this level of publishing.  This back story to how we got to where we are right now with pay walls and walled gardens was extraordinarily helpful in framing all the rest of the conversations I heard while I was there.  It also filled me with a great hope that we are nowhere near a final, baked solution for this and the greatest innovations are most likely yet to come.  We must have courage and start thinking beyond what got us here and invent new ways to engage that makes sure news and critical, timely information is not just the purview of elite and/or self selecting.  
+
+Raw Notes:
+he has worked at the big papers
+"Information only wants to be free if someone, somewhere pays for it"
+For a while we forgot about the homepage and SEO
+forgot the customers were coming through the front door
+Paywall 1.0
+rude and crude
+since then have improves
+front door wanes, then grew again
+people became accustomed to paying for content
+Paywall 2.0
+2011 at the Times
+An elegant way to extract revenue from your heaviest users without killing audience reach or ad revenue
+Meter does something else, publishers brought needs into alignment
+putting users in center of what we do
+Problem solved..no so fast
+some numbers
+average publisher
+50% tile
+only 2% convert
+9th 
+the very best performing sites converted .96% of time, per month
+over time NYT 3.5 million, 130 Unique, 2.7% subscriber rate
+Boston Globe 95K 5M unique, 1.9% SR
+Star Tribune 55K 7M unique, 0.8% SR
+A crude segmentation tool
+10 free articles vs 5 free
+stop seeing more casual users and conversions drop
+try before you buy is stretched beyond recognition
+What happed when all have paywalls?
+moving that direction...
+Who uses the Incognito window a lot?
+Have you ever tried to cancel?
+CA law to let people cancel online if buy online
+also sneaky introductory pricing
+Subscription Hell, the paywall backlash
+the openness continuum
+open to closed
+contrib model - sub only products
+public media - the Athletic, The TImes UK
+some in between like WSJ and Meters
+Contributions alone are not going to solve the issues
+60% want access to local news
+40% notice a lot of interesting, useful articles
+31% want to support local journalism
+Well, there are a lot of good ways to support as a reader
+should publishers care to cove this?  
+imaginary papers
+100 users a month
+1/2 are fly-bys
+2 subscribers
+those 2 are die hard and account for a lot of page views
+48 are 'in the funnel' 
+what business runs off of 2% of users supporting the whole group
+philanthropy is maybe one, but no business really runs this way
+but if can get a little money from more people
+2 subscribers = $20
+but add 8 low cost products + 2 subs = $36
+with cannibalizations
+who's working on what?
+Smarter segmentation by pricing - Google
+Bundles - Apple/texture
+Micropayments: laterpay, civil
+COntributions, News Revenue Hub/ INN
+Also lenfest, shorenstein Center, American Press Institute, Public Radio Bizlab
+This is not easy stuff, but there are a lot of people working on this front
+What can you do?  
+Listen to your audiences
+Understand their range or goals and motivations
+think beyond subscriptions
+experiment
+share what you learn
+Remember not every will pay money but might contribute in other ways
+
+
+https://twitter.com/dannysanchez/status/1027266910709342210
+
+
+
+[Why Paywalls Are Good for the Open Web](https://2018-chicago.publishers.wordcamp.org/session/why-paywalls-are-good-for-the-open-web/)
+[Nick Johnson](https://twitter.com/nmj)
+
+I am not one to willing pay for content that often.  It took me until Netflix released [ Marvel's The Punisher](https://en.wikipedia.org/wiki/The_Punisher_(TV_series)) series before I even did a Netflix trial.  The was ultimately was not the content itself I ended up paying for, but instead the service that delivered me an HD version, on demand with subtitles, that I could watch without any fear of DMCA notice or shady asset loading that other methods risked.  We, especially in America, are very used to paying for services.  Modifying the conversation away from a guilt trip that 'you must pay for content or content won't exist' into one of 'look at all the amazing things we can give you for such an incredibly low price point' might be key to dramatically better results.  
+
+
+Raw Notes:
+Coming from it as a software developer, nit a journalist
+what is the Open Web
+Year of the Open Web was 2017, but it keeps going
+yearofopen.org
+single underlying principle connecting all these ideas: an open web is a web for and by all its users, not select gatekeepers and governments
+Buzzfeed disagreed
+Google and FB are going to have to fix the paywall issue that is bad for Open Web, otherwise only 2-5% of people will get quality news
+Ad rev in publishing are not meeting the need for content producers
+FB revered policy on closed content this year
+Google said: Ads alone can no longer pay for journalism
+Buzzfeed in march said a paywall for Buzzfeed might make sense
+What are pain points? 
+2008 was a bad year
+decades ago new medium like Radio and TV challenged
+internet was a mixed bag
+CL and FB killed the classified
+Digital ad revenues aren't making up for print ad revenue losses
+many who are still struggling when making the jump
+ad revenues have plummeted
+eat enough carrots, you turn orange
+too much of a good thing is bad
+case in point, advertising!  
+in context it is fine, but shoved in your face adverse reaction
+advertising is out of context if not relevant or if it is invasive
+online ad engagement is down
+7% user engagement in 1997
+2012 - 0.1%
+people learn to overlook online ads
+Let's shift it
+let the journalism drive the cart
+subscription economy is here!
+different types of experiments going on
+----distraction
+is what we have bringing back people
+Vehicle crash coordinator
+content generation is already open source
+anyone can gather news
+Many people would rather pay for someone to set up WP than set it up themselves
+shift off of content to the service
+makes more sense for paywall for the service
+News reporting should not feel guilty for content paywall, not really what 
+How do paywalls and open web work together?
+It makes sense that business should monetize core business
+paywall also brings a responsibility with it for journalists
+shift in perspective that makes us want to make more valuable things
+will people pay?
+many people will
+case study: what would you be willing to pay?
+gave options but only showed one price at a time
+$3, $6 and $10
+5.06% for the $6, highest but not by much more than $3 4.94%
+we need journalism to exist
+connected created government abuses without good local reporting
+tax rates higher, more corruptions
+Ask.  It hurts if you don't
+a bible and a newspaper in every house, a good school in very district -  all studies and appreciated as they merit - are the principal support of virtue, morality and civil liberty
+
+
+https://twitter.com/thejimbirch/status/1027274603519987712
+
+
+[Meta and Schema: Defining the Content about your Content](https://2018-chicago.publishers.wordcamp.org/session/meta-and-schema-defining-the-content-about-your-content/)
+[Jim Birch](https://twitter.com/thejimbirch)
+
+Not going to lie here, I didn't really take new notes.  The next section is verbatim notes from another time I heard this talk.  The only new addition, other than some reworked slides, was the inclusion of [Speakable](https://webmasters.googleblog.com/2018/07/hey-google-whats-latest-news.html), which is an assistive A11y standard to do with screen readers (at least how I understand it).  
+
+Do you like whirlwind, two fisted, no holds barred, data filled sessions that have almost too much information shoved in your face?  I love them.  I wish every talk I went to I learned anywhere close to as much information as Jim presented.  I will admit I started playing with a couple of the resources he introduced me to and might have missed part of what he was presenting in my notes.  If you think you have meta nailed down, good on ya, but still, check this thing out.  I am betting you will find a new tool or trick in here somewhere.  And for those who have never thought about meta or schema before, prepare to have a new world view opened to you.  
+
+Raw Notes:
+How do we look to others? 
+How does content look to others?
+what you do for Google is good for all the other services
+TL/R Specs and validators
+w3c HTML 5.2 specs
+WATWG Meta Extensions
+Open Graph
+Twitter cards
+schema.org
+Meta, from the Greek, prefix, concept 
+like card catalogs
+full time gig back in the early days of libraries
+computerize
+Dynix, early but popular
+Enter the W3C defining 5.2 spec
+4.2 docs about Document Metadata
+6 things
+- head element
+- title only one
+- base tag, element to set the base for something
+- link, link to other resources 
+- style - embed information in the doc for styling
+- meta - for everything not the previous 5
+all name value pairs, only in the head of the doc
+name=> value(content)
+There are defined metatags in the spec
+author, application-name, description, etc
+pragma directives language construct that specifies compiler and other technical information
+Other Metadata names
+WHATWG
+list all that have been applied for and their extensions
+You can make your own metadata you define on your own
+no one would know it was there but you, but you can do some stuff like priority of search engine
+Unicorn from W3C
+see how good of a coder you are? 
+pass/fail for 
+https://validator.w3.org/unicorn/
+Validation
+Google meta tag validator for things it understands
+title, googlebot, refresh
+that is it for google, one document, that is all
+Open Graph Protocol
+Let's webpage to become object
+required fields
+title, type, image, url
+Types:
+ music, video, book, etc
+FB has a debugger - important to use for FB to re-scrape content
+pinterest validator
+LinkedIn - using random variable at the end of url to force them to refresh
+(?hfhfsh)
+twitter card
+rich photos and such
+summary
+summary large image
+player card
+app card
+they also have a validator
+How to implement in WP?
+Yeast SEO plugin
+add meta and fills in some things for you
+can but in Open Graph tags
+same with twitter cards
+Theme itself can use logic to use image via php code
+Schema
+Started by google, Open source
+way to put structured data on sites, in email messages and beyond!
+schema.org
+goes on for days
+drill down into most of them
+Most popular are creative works
+can implement a few different ways
+inline was first and popular
+JSON-LD
+What does Google care about?
+Google Search Gallery Page
+https://developers.google.com/search/docs/guides/search-gallery
+How? Yoast of course
+Schema Plugin
+JDFlynn made a tool to generate the needed JSON
+again, theme can use logic to suss this out
+Test and Verify
+Google to test
+
+https://twitter.com/tomkepler/status/990626432094220288
+
+
+
+[How to Stop Editing in Google Docs (and Other Tidbits to Help You Find the Right Editorial Workflow)](https://2018-chicago.publishers.wordcamp.org/session/how-to-stop-editing-in-google-docs-and-other-tidbits-to-help-you-find-the-right-editorial-workflow/)
+[Jodie Riccelli](https://twitter.com/Jodie_Riccelli)
+[Shayda Torabi](https://twitter.com/shaptora)
+
+I am a little obsessed with aspects of content deployment recently.  I went into this talk very eager to hear how their ideals around the process of going from copywriting to deployed content.  What I left with was a set of questions and the desire to have a conversation around tool chains.  IN a nutshell, their proposed solution to a complex editorial workflow would draw all the disparate pieces into a seamless administrative experience leveraging a single needed WP login.  This is a bit at odds with my gut feeling that we should be instead moving towards a world where WP is only the CMS and editing and content creation is not something native nor even dependent on the underlying storage and dissemination platform.  There is a lot of room here for needed debate and I am more than glad to have such wonderful peers in this space to have this conversation.  
+
+Raw Notes:
+We are up to 31.4% of the web
+14.7% of the top 100 sites
+just growing
+empowering people to write their own stories
+more interconnected with other systems and we need to react to that
+Teams are spread out
+Frankenstein solutions, all sorts of pieces shoved together without any real planning
+People inherit solutions, having to act out what they are giving
+how to pic and figure out better tools
+Current solutions do exist
+publishpress and editflow
+but they are locked in and still honestly a little kludged together
+licensing models vary wildly
+How Viacom, Campbell's and Microsoft use WP
+bending the tools to how they want to use it
+content is king.  Needs to be done fast and accurate
+collaborate and redlining and costs and access are easier with Google docs
+Using 3rd party systems to create content and recreate in WP
+Copy/Paste is not even easy
+Multiple languages
+approval process is not just one and done
+better control of advertisement placing within content
+At WebDev they are making tools to solve this
+met with client, heard all their issues and made a tool
+streamline the admin editor to make it do what they need and only what they need
+easy to show sign off and queuing
+tablet vs mobile view editing
+theoretical and then they started building this idea out
+What do we need to consider to make this real?
+Let's make the editorial process as important as the site itself
+Define the workflow
+wireframing, whiteboards, anything. Document it and understand what you are really doing
+WP lets you have granular user roles, so define what you need
+(https://codex.wordpress.org/Roles_and_Capabilities)
+WP roles vs real roles, not all map 1:1 
+how do you pay? Set the parameters per user
+automatically calculate things
+content, where does that come from and what is what?
+conceptualize into a user interface 
+dashboard with rolling task list
+Editorial calendar
+might be in Google calendar or evernote or a whiteboard
+assignment due date, color coordination, other ways to visually organize it
+We need tools to be reactive to events/changes
+Assignments - giving people items to do and converse about it
+fluid is the goal, if you are jumping from platform to platform- not good
+First draft - WP shines here already, editor is already in place
+Fact Checking, making sure we have the right information
+WP edits with comments and color coordination in a single screen vs platform switching
+Media is essential
+(sirfrankie_)
+how to manage it and store it is vital to any content system
+challenge was 3rd party media service overseas
+get media onto the site in real time
+video and photos and syncing with a site
+why are we using 'backdoor methods' instead we could leverage WP directly
+make it easy to A/B test, social previews in the dashboard
+how do we actually edit in WP and make this happen?
+track edits within the docs
+go back to original writer for further edits
+once editors approve do not ship yet
+go through your process and QA your post
+visual testing, accessibility testing
+social media testing
+process of QA that you are confident with anything you are posting
+throughout the process never left WordPress
+think about adding and editing content as much as we think about web design.  
+Don't settle. 
+Demand more from your CMS
+
+https://twitter.com/jannafromwpe/status/1027576868910845954
+
+
+
+[The Narrow Path for Local News](https://2018-chicago.publishers.wordcamp.org/session/the-narrow-path-for-local-news/)
+[Austin Smith](https://twitter.com/netaustin)
+
+My biggest take away from this talk was that we actually need to be innovating more and taking bigger risks with what we think the medium of web publishing can do.  THe most telling moments were his screenshots and analysis of multiple sites on how much real estate is devoted to ads vs subscriptions vs content.  For an industry that strives to make money from anything but ads, it was shocking what a tiny fraction of the screen and in how inconspicuously subscription and membership promotions are handled on so many sites.  I have not been aware, nor ever had I heard anyone say 'The Netflix model' before, but I am seeing it everywhere now where the majority of the screen is devoted to conversion to subscriptions.  Strange as it sounds, newspapers have a lot to learn from the online movie business.  
+
+Raw Notes:
+What is the most unethical thing you ever did as a developer
+he posted on HackerNews mentioned that 
+Jared Kushner requested Austin to delete articles
+innocent article, but this story of deleting it went crazy
+Realized he should not have done this
+don't delete articles, just append
+WordPress does not allow this
+Back to local news
+Issues around president saying 'press is the enemy of the people'
+Press is not an enemy should be more important than open web
+we need First Amendment protections to do our work
+The Times and New Yorker are just as guilty of leaking or selling user data
+Slow websites and walled gardens or society with no journalism
+Slow internet any day, we absolutely need journalism
+ads are what slowed us down
+ad tech made the market need a whole layer that slows things down
+Recreating same story, is that serving the good
+maybe not
+If it doesn't make money or attract attention, don't do it
+simplify to just if it don't make money, don't 
+if we can break out of the 
+local papers need to engage the user's ideas
+engaging eyeballs is a little weird
+we need to engage the whole brain
+revenue strategy should be clear from user experience
+Hypothesis
+News products that do not serve display ads will convert more readers to paying customers than those that do not
+not logged in, visiting, fractional bit of real estate to promote their subscriptions
+better on some sites
+Netflix model comparison
+harder to extract value from old news vs old TV shows
+Digital news brands must exit the attention rabbit hole and become a valuable part of a healthy routine
+Marketing healthy lifestyles 
+Whole Foods and gyms and such are selling the benefit, not the fear they will not exist
+your weakest product will define whole business of products are synchronized
+			| low equity | high equity
+High scale  |			 |
+low scale	|			 | 
+
+Public traded and equity owned
+NPR Civil
+Noting Good
+Many independent news orgs, newspapers owned very wealthy people
+Consolidations are happening a lot
+billionaires are doing good things and very bad things
+
+
+https://twitter.com/mauteri/status/1027593329792442368
+
+
+
+[A faster open web: Why speed matters and how to get there](https://2018-chicago.publishers.wordcamp.org/session/a-faster-open-web-why-speed-matters-and-how-to-get-there/) 
+[Barb Palser](https://twitter.com/barb_palser)
+
+"speed is, for lack of a better word, good" is a phrase I could easily imagine being said during the outpouring of fact and interpretation of tooling from a very knowledgeable expert on such things.  Google does have some of the sharpest minds and more interesting tools based on more data than has ever been amassed by any single body in human history.  There underlies this all of this something I hesitate now to call 'assumed correctness' of it's interpretation, but don't know how else to express.  The moment that sat with me and the one that I have been pondering, especially in the light of the next speaker, came from a question around AMP for Email.  An audience member asked if this pretty terrific sounding premise of 'email content that updates upon open' would work on other systems like Outlook or the like.  This was met with a pause, as of the thought of it had not been realistically entertained in the talking points and an admission that 'it would need to be on platform to real the effects, at least for now'.  While I myself and my company rely on gmail, the necessity to do so to claim benefit from a new tech left me a tad uneasy, especially in light of the underlying theme of the conference and was stated, the talk itself, the open web.  
+
+
+Raw Notes:
+Not really a talk about AMP
+Taking back the Open Web
+A challenge we are facing internally 
+Pinterest improved landing page engagement for second difference 15% 
+Financial Times 5% engagement change for every second of site speed
+0.7% revenue impact for every 100MS
+We get it!  
+But at scale, no we do not, the HTTP Archive tells us so
+median mobile site is heavier than the median desktop site
+median mobile page weight inches up
+over 2MB is average size of a WP site
+huge range in WP, long tail
+not to say hard to build fast, but not nearly as hard to build slow one
+First COntentful Paint
+any visible content
+people with WP sites are performing well 1/2 as often as other sites
+Onload (Page finish leading) 67% with WP is slow vs 44.3% with other tools
+Fun with Perf tools
+Lighthouse - code and performance audits
+Chrome UX Report (CrUX)
+how real users are experiencing the web
+real user data 
+top 4MM origins on the web
+launched October 2017
+used chrome browser data
+PageSpeed Insights (PSI)
+So What? 
+Track real user experience over time for any site 
+developers.google.com/web
+Looked at 7 sites and made a comparison using these tools
+most OK to Good, one really bad
+unless you have unique content or sticky users, pretty obvious who is going to overall do worst
+Sluggish pages are not a mystery
+images, Code Bloat, Blocking script
+Yes, courage!
+Must embrace and talk to customers about this stuff
+Speed is the FT's most valuable feature for monetization
+assigning value to it, it is very important
+Over months and years, must think about customer lifetime value
+not just conversions 
+putting it in $ instead of % will get stakeholder attention
+Ecosystem forces at work
+You are an ecosystem force!
+We in the room build and run these sites
+If Speed was a requirement from the early days, would be a different internet
+Your site is awesome - most sites are awesome - Consumers, Advertisers and publishers choose the open web
+Well lit paths
+should be easier to build and maintain over time
+non-website technical owner should benefit as well
+Enter AMP
+open web is more encumbered with no end in site
+can change vs we do change, different things
+time for the open web to take a step forward
+fast and engaging and monetizing as the best walled garden
+progressing fat but lot of confusion around it as well
+moves fast so likely not everyone up to speed
+OSS, super fast and smooth loads
+used by 56MM domains globally
+surfaced to consumers by top search and social platforms
+Features to news hundreds of third party integrators
+rapidly evolving
+AMP for email
+email as amp docs
+keep content up to date
+AMP for Gmail in dev preview
+AMP Stories, open for devs now
+building for Gutenberg now
+AMP and WP have been dialing this in, Native AMP mode v1.0beta is here
+Themes and plugins are coming 
+
+https://twitter.com/McDwayne/status/1027624104164245504
+
+
+[Why we ditched AMP, and other UX choices we made for launching](https://2018-chicago.publishers.wordcamp.org/session/why-we-ditched-amp-and-other-ux-choices-we-made-for-launching-membership/) membership 
+[Brian Boyer](https://twitter.com/brianboyer)
+
+There are few talks I see that define a conversation for me as sharply as this one did in the ongoing pro/anti AMP discussion in the FOSS community.  Not only did I leave with a much clearer feeling of what AMP lacked from a functionality perspective, I also have never heard such a 'no holds barred' criticism of the players who caused the need for the existence of AMP.  In a talk that I am very positive will never make it to WordPress.tv, due to some R rated language at times, I can only hope someone out there caught the livestream and will make it available to the rest of the world.  I have never been more convinced that people need to think more critically about this subject of 'my site' vs 'my AMP implementation' and what that really  means for an open web.  
+
+
+Raw Notes:
+Intro, lot of work in media, for profit but mission driven organization
+Journalism should be like a church
+shared system of beliefs
+People pay because they want us to exist
+out business model is love
+1. Reader
+2. Subscriber
+3. Member
+but it is not that easy
+Love happens when your audience identifies with your point of view
+journalism is not objective, we choose what to write and not to write
+but the stories themselves are more Objective written
+we expect the work to speak for itself
+with that into
+the title
+One thing was they needed a donation form
+explicit on point of view
+if you love it too give us money
+implicit messaging sets the mood
+Denverite, the Denver site!
+Navigation is more than way finding
+it's the list of things you care about
+not so obvious it is implicit list of our priorities
+Chicago Tribute example
+phenomena not unique to Journalism, but endemic in it
+homes and cranes vs Real Estate and Construction
+Point of view of Denverite: We're geeks like you
+best place to ask someone to do something is at the end of the content
+Newsletter - You're like us, get more stuff like this...
+submit vs sign up
+popups vs natural feeling box at end of an article
+newsletter - must know - need to know - fun to know
+we generally suck at hierarchical layout to our news sites as far as making sense of the whole day
+wall of information effect
+no one has really cracked the issue yet
+newsletters are easier to express take on the day in a clean 'top to bottom' fashion
+Newsletter is not an accessory for the website, website is an accessory for the newsletter!
+Powerful tool for readers
+We got a lotta subscribers
+if you're already one, we're wasting our pixels
+if we know you are a subscriber, prompt to be member
+member only events and promote higher levels
+Nobody ever wants to log into your news site  EVER!
+For them, they use links in Newsletters and cookie that
+MailChimp UUID to look them up
+simple API calls to fetch user data
+not all the dots connect all the time
+but that is OK
+just gotta cover the big use cases
+First real issue on why they ditched amp
+1. We need mote control over UX than AMP allows
+2. Building and testing multiple code bases is awful
+3. Their site is really, really fast
+lightweight WordPress setup
+We got over our FOMP
+Fear Of Missing Pageviews
+AMP is not the open web
+slow and creepy 
+leaving the solution to Google does not fix our problems
+we must do that
+
+https://twitter.com/crazyjaco/status/1027647418328915968
+
+	
+[Press, Publish, React: Rebuilding TechCrunch](https://2018-chicago.publishers.wordcamp.org/session/press-publish-react/)
+[Mike Selander](https://twitter.com/mike_selander?lang=en) 
+[Libby Barker](https://2018-chicago.publishers.wordcamp.org/speakers/#wcorg-speaker-libby-barker)
+
+Oh man, do I love a case study.  And this was a great one.  I have to admit, by this time in the event, my note taking skills had started too fade a tad bit as I found myself engrossed in what was being said and needed to concentrate on it in the moment to comprehend what I was hearing in real time.  The imagery conjured by their description really felt like you were on an actual journey and not just dryly contemplating another set of 'user experiences'.  Islands and rivers factored prominently. Things I have learned about the drawbacks to decoupled solutions again reared their head confirming yet again the need for the CMS and it's functionality that we have come to depend on online.  This is going to be a great one to watch for any developer embarking on a serious use of a decoupled architecture project moving ahead.  
+
+They were brought on early to redevelop their platform
+Wanted an ambitious big plan
+decoupled WP application
+cornerstone of their workflow
+By decoupling they keep WP but lose front end dev issues
+the approach
+Goals of site was more interactive than ever
+Decided on React on WP
+WP meant all the admin side did not change
+serves almost the entire site
+user interaction is better and faster with React
+slightly different 
+Semi decoupled
+River experience
+Wanted to deliver a single page application feel for the whole site
+river of content, endless scroll to discover content
+works same on categories or in homepage
+presented couple of challenges
+how do you effectively navigate through?
+clicking on story brings through to another river feel
+Ads and analytics were important
+strategic user engagement
+React constraints
+Proprietary ads system enforces by owners of TechCrunch
+Library to deliver as as expected by React
+Traditional is monolithic and 
+React and View both rely on WebPack, reload without actually going back to server
+ReactWP script, extend for any WebPack application
+changed on_enqueue as WP needs it to exist
+RESTPLAIN
+self documenting endpoints
+Very easy o use, gives you all info needed as new endpoints discovered
+React oEmbed container 
+gracefully handle 
+giving credit to the team
+
+https://twitter.com/McDwayne/status/1027652258362810368
+
+
+### Wrapping Up
+
+There was a contributor day on Friday and I do feel a bit of remorse, or at least FOMO for missing such an event.  Perhaps even I would go so far as to label it regret, as it would have been a great day for the [WP Marketing community](https://make.wordpress.org/marketing) to further progress some topics.  I didn't skip out without a firm cause though.  I had to travel on Friday to Montreal, for [WordCamp Montreal 2018](https://2018.montreal.wordcamp.org/), but that is a tale for another post.
+
+I really do love Chicago.  From the recessed buildings, that allow the streets to feel less cavernous than it's eastern contemporary cities, to the river that never stops flowing as if reflecting the energy of the inhabitants its banks. As I gaze at my calendar for the rest of the year, I don't see her on my itinerary again, but I know that it will not all that much lunger before I once again visit this Metropolis of the Midwest.

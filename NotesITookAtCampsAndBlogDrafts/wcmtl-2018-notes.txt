@@ -15,6 +15,11 @@ Lunch:
 https://twitter.com/speedyrails/status/1028683044587294726
 
 
+Cupcakes:
+
+https://twitter.com/bluehost/status/1028742729763893249
+
+
 
 Sessions
 
@@ -383,4 +388,12 @@ looking at what screen they can see
 test by doing the action yourself
 reading a bit of the docs revealed the expected behaviors had changed
 simple as a setting was blocking their issues
+scenario 2, country not displaying orders
+quick google after replicating scenario
+congrats you are now a Level 1 internet wizard
+slay bugs
 
+
+
+
+https://twitter.com/McDwayne/status/1028720568441491457

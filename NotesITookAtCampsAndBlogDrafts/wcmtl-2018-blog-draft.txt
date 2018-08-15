@@ -1,0 +1,461 @@
+WordCamp Montreal 2018: A city as beautiful as I remember it and connecting things.  
+
+["Mount Royal"](https://en.wikipedia.org/wiki/Name_of_Montreal) is a pretty amazing place in the summer when the temp is a very comfortable 26 deg C/ 80 deg F and not too humid.  The days are long and the people are in a celebratory mood, getting to lose the [toques](https://en.wikipedia.org/wiki/Toque) and [parkas](https://nationalpost.com/pmn/entertainment-pmn/dave-thomas-on-challenge-of-reviving-sctvs-beer-swilling-hosers-bob-and-doug) in favor of a rainbow of colors and light fabrics. THe streets convert to what feels like a giant festival atmosphere with European like sidewalk cafes lined with coffee and wine drinkers along any major avenue.  And the background of the river and mountains made every view from practically any vantage completely picturesque.  These were the conditions that met me as I flew from [Chicago](https://www.mcdwayne.com/2018/08/13/wc-for-publishers-2018-chicago/) for the 10th anniversary edition of [WordCamp Montreal 2018](https://2018.montreal.wordcamp.org/schedule/)
+
+https://twitter.com/McDwayne/status/1028051361156489216
+
+
+https://twitter.com/wordcampmtl/status/1028696323808276486
+
+
+## Food and Fun
+
+### Speaker Dinner
+
+What would a WordCamp be without a Speaker/Sponsor dinner?  We gathered down a half closed street, behind a tarped off fence that hid [Kafein](http://kafein.ca/Info) making it feel less like a cafe and more like a private club with a giant patio that extended well past the front of the store.  Here we had some light food options which included very decadent vegan brownies.  The staff was downlight delightful and made us all feel at home.  It was such a treat to see folks from this community that I never get to see in the US and it set the mood for everything that followed.  
+
+https://twitter.com/bluehost/status/1028093649391943681
+
+
+### Saturday
+
+Aside from New York City, Montreal is the town [renowned for their bagel](https://thetakeout.com/why-the-montreal-bagel-is-the-superior-bagel-1798260390).  There is a bit of a [rivalry](https://www.huffingtonpost.com/2014/05/02/montreal-bagels_n_5247880.html).  As if to participate in this fray, the organizers brought in a giant bag of bagels each day for us to sate our hunger for two full days of sessions.  The coffee and tea service, which were excellent and a notch above most catered options I have sampled, were accompanied by various [spa water options](https://en.wikipedia.org/wiki/Infusion#Examples) with strawberries, mint, lemon and cucumber.  Orange juice was also served.  
+
+https://twitter.com/wordcampmtl/status/1028714380505083909
+
+
+Lunch was sandwiches and salads.  The vegetarian and vegan lines were separate and that made me happy since my line was much shorter.  Still, everyone got fed and many a good conversation was had.  
+
+https://twitter.com/McDwayne/status/1028328309975855104
+
+
+
+### After Party
+
+The plant based food fans of Montreal joined me for some of the best vegan fast food on earth at [La Panthere Verde](http://thegreenpanther.com/) which boasts 6 locations now. Best non-animal [poutine](https://en.wikipedia.org/wiki/Poutine) I have had yet.  I love being part of this.  Next time you see me, ask me about the WPVegan hashtag.
+
+https://twitter.com/McDwayne/status/1028415810329628672
+
+
+We would have likely returned to the same spot we went to for the [2017 camp](https://www.mcdwayne.com/2017/08/13/wordcamp-montreal/) but that place had a fire in an apartment above and was not in operations at the time.  Instead we went to a funky cafe/bar [Cafe Osmo](https://www.cafeosmo.org/) which felt to me like a place intended to be something rather futuristic in the mid seventies.  It had a lovely patio and a slanted glass window.  It was a blast to get to hang out with the WordPress community here and talk about everything from the weather to content strategy and everything in between.  It also was an ideal location for further revelries, which included some WCKaraoke for sure.  
+
+
+https://twitter.com/speedyrails/status/1028683044587294726
+
+
+https://twitter.com/dejanmmarkovic/status/1028484200104513542
+
+
+### Sunday
+
+More bagels and coffee and [peanut butter with the bear on it](http://www.kraftcanada.com/brands/kraft-peanut-butter) met us on the morning of the second day.  The previous night meant there was a slower rush as people filtered into the hall, but we were in full swing by the time sessions fired up.  Lunch was pizza.  I am again thankful for the plant based options, but given that I was in the hometown of my other favorite Canadian based vegan fast food chain, [Copper Branch](https://copperbranch.ca/) so I decided to indulge there with some of the best tempeh BBQ I know about. 
+
+https://twitter.com/hover/status/1028673737669799936
+
+
+The afternoon snack break brought with it a very special snack, the 10th anniversary celebratory cupcakes!  
+
+https://twitter.com/bluehost/status/1028742729763893249
+
+
+## Sessions
+
+
+[Go With the Flow: Boost Your Efficiency With a Development Workflow](https://2018.montreal.wordcamp.org/session/go-with-the-flow/)
+[Ann Cascarano](https://twitter.com/redrambles)
+
+There are some basic things that you will need to know as a new developer.  One of the greatest strengths of WordCamps is that someone will literally sit you down and tell you these things.  These are peer reviewed thought leaders in their field who care that the free and open internet gets built in better, more accessible ways, for free, mostly on the weekends.  This talk is a pretty great one for anyone who wants to technically advance from novice.  
+
+RAW NOTES:
+(came in late)
+level up talk
+You need a local
+you need a safe space
+mess around 
+code editor
+atom, sublime
+Command line
+install tools 
+node, git
+WP-CLI
+all the commands
+git
+code history
+protect the integrity of the history of your project
+very light and fast
+video game save point methodology
+git is not github
+Staging site
+must mirror production environment
+another backup
+recovery strategy
+managed and unmanaged all allow this workflow idea
+might just be easier in managed
+
+https://twitter.com/zoonini/status/1028328052516966401
+
+
+[Bridging the Gap between Designers & Developers](https://2018.montreal.wordcamp.org/session/bridging-the-gap-between-designers-developers/)
+[Mehgan Dove](https://twitter.com/mdovedesign)
+
+I did not see some of this talk.  But what I saw reminded me of everything I know about DevOps being more about tightening the communications feedback loop.  We need to start trying to learn a more common language, especially in an age of more rapidly expanding tool chains and their inevitable acronyms that make the jargon unparseable.  I am grateful for this talk because having the conversation about having better conversations is a conversation we need to have.  When we think about interpersonal communications, especially within organizations, having better defined channels and processes in place should make for more efficient workflows. 
+
+Raw Notes: 
+Designers, 
+learn some development
+if you are handing over things and not care how it is implemented
+and don't know what is hard or complex and don't care
+you are going to have a bad time
+Devs, 
+have some respect for your designers work and skill
+Handover in layers
+Design s not arbitrary
+show some respect
+layouts are hierarchical in so many ways
+Devs should not have to guess or recreate things in Photoshop
+communicate!
+provide layers!
+use guidelines and agree 
+
+https://twitter.com/McDwayne/status/1028358981025181696
+
+
+[Made you Look: Eye-Catching Web Design Trends](https://2018.montreal.wordcamp.org/session/made-you-look-eye-catching-web-design-trends/)
+[ELANA RUDICK](https://twitter.com/designisyummy)
+
+There are talks where I learn something and it seems like I am the last to know it.  This time it was the concept of [Pantone Color Of The Year](https://www.pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2018) that I had a wow reaction to and everyone else was like, 'yep'.  For that moment alone this was a great talk, but the fast pacing and just example after example and idea after idea was just entertainingly engaging.  The sites she shared are all over the map on style, but it made me keenly aware of micro animations, which I see all over on sites now.  Thanks [Mandela Effect](https://knowyourmeme.com/memes/the-mandela-effect). 
+
+
+
+RAW NOTES:
+Design 
+looking at yogurt
+universal-love.com
+colors and bold
+Pantone of the year
+Ultra Violet its bold 2018
+neon colors 
+have to have a lot fo contrast
+have to see neon colors 
+https://www.pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2018
+high contrast, 
+trickles down into everything
+https://www.epicurrence.com/
+bold colors again sunet patterns
+full screen websites
+lot of monochromatic
+Be honest
+this is possibly scary
+if you want to add a pop of color, just add a bringht pop
+one or 2 neon color 
+otherwise rainbow vomit everywhere
+adobe color wheel, helps make complementary colors
+another is brandcolors.net
+color codes for influential brands
+different colors 
+color pallets must work, don't get too far without sorting it
+illustration styles, more individuals and textured
+clients 
+Amazoniafont.com
+multidicipline project
+created illustrations and font to bring endangered animals to light
+anastrumpf.com.br
+illustration over photo
+striking typography
+http://goodfortunestl.com/
+very striking 
+core77.com
+creative typography, funky
+monochromatic again
+typekit.com
+fontsinuse.com
+typewolf.com
+finisweetuse.com
+food typography
+look around and grab inspiration everywhere
+in the real world
+the-dots.com
+objects and elements in play with the typography
+behance.com
+glitch
+deconstructed type
+not new, but will show up on the web more
+broken grids and free form
+no defined grid
+designmuseum.dk/en
+www.springsummer.gucci.com
+before thinking about breaking the grid, remember why the grid is good
+why are you doing it?
+define a strong grid so broken shows
+negative space
+helloheco.com
+concise vs wordy
+see copy first
+way interact with the 
+micro animations
+particle background
+little JS gradient effect, very light, not heavy
+adds a little something
+optimo.com
+lecafenoirstudio.com
+She is not a wizard
+wpsniffer
+thats how she knows what is using WP
+and the themes used
+bonlook.com
+glitchy and not perfect, but fun
+augmented reality
+minimalist photography
+What story are you telling
+where are you guiding them,
+what is the journey
+whats next
+more customized shopping approaches
+Anything goes right now though
+no 2 sites are alike
+if it works if it does not they won't notice (ha)
+
+https://twitter.com/MDoveDesign/status/1028370615454117888
+
+
+
+[How to Format Your Text to Help Your Readers](https://2018.montreal.wordcamp.org/session/how-to-format-your-text-to-help-your-readers/)
+[FRANCESCA MARANO](https://twitter.com/FrancescaMarano)
+
+I have left a handful of talks and felt like I got the wind taken out of me.  This time, I learned that I have been doing headers wrong this entire time.  Literally the entire time.  I thought H3 and H5 were just style options and I can not even fathom what I have been doing to screen readers and the like.  Moving ahead, starting from this post I am going to be using the right headers correctly.  There were many other good points as well and it was a lovely talk.  
+
+Raw Notes:
+History lessons
+March 12, 1989 Sir Tim
+makes proposal for HTML
+1993 publishes standards
+10/1/1997
+Jakob Nielsen "How Users Read on the Web"
+Summary: they don't
+they scan picking out individual words and sentences
+Wall of text loses everyone
+HTML is not a programming language is markup
+structure of a page
+semantically - elements themselves describe the content
+Know the basic tags
+p
+blockquote
+ol
+ul
+li
+H1 - H6 and accessibility
+Don't use H1 on the page or post, that is reserved for the page title
+important for SEO and Ally
+having H4 without an H2 is actually really bad
+Help all readers
+think older readers
+Formatting in WordPress
+Gutenberg is coming
+1/2 the room never heard it was coming
+Tour of the editor and Admin
+Bold and Italics
+not for pretty
+for emphasis
+Alignment is important
+stick with left alignment unless Hebrew or other language with RtL
+
+https://twitter.com/wordcampmtl/status/1028636328718753792
+
+
+[Your First Headless WordPress Project with ReactJS and GraphQL](https://2018.montreal.wordcamp.org/session/your-first-headless-wordpress-project-with-reactjs-and-graphql/)
+[ÉTIENNE BÉLANGER](https://twitter.com/ebeldev)
+
+I am going to finally actually build a front end project one day, I know I am.  And when I do, talks like this that just in plain English explain what things like GraphQL actually do will be the reason that project will be successful.  This is a great talk for folks who are ready to roll up their sleeves and dive in.  My notes can't do code examples too well, so I opted to not even try, await this to arrive on [WordPress.tv](https://wordpress.tv/?s=Your+First+Headless+WordPress+Project+with+ReactJS+and+GraphQL).  
+
+
+Raw Notes:
+Old fashion, desktop to web
+how CMS works
+responsive design
+Tons of things that need to hook to the backend to get data
+Advantages of decoupled
+separate content and presentation
+generate unique user experience
+make your content available to mobile apps, kiosks, VR and anything else
+REST API
+/Retrieve post
+media/"id"
+users/"id"
+/categories/"ID"
+Dangers
+overfetching - getting too much data for the UI
+Underfetching
+GraphQL
+a query language for the API
+retrieve only thee needed data
+RESAPI - Post endpoint/ users EP/categories EP
+GraphQL is one call that grabs those pieces
+Query
+mutation
+subscriptions
+Server
+Custom
+Graph.cool
+self hosted GraphQL
+WordExpress
+Framework for WP apps (server+client)
+wp-graphql
+plugin!! 
+Client
+Relay from FB
+Apollo-client
+Apollo-boost = no setup, cache, manage local and server data
+you can extent wp-graphql plugin
+retreive data
+reactjs setup
+NodeJS
+in CLI create-react-app 
+create project
+install packages
+code examples
+
+
+https://twitter.com/McDwayne/status/1028648998301822979
+
+
+
+[A Buddhist Guide to WordPress Development](https://2018.montreal.wordcamp.org/session/a-buddhist-guide-to-wordpress-development/)
+[JER CLARKE](https://twitter.com/jerclarke)
+
+When I was a traveling salesman in my younger days I listened to books on CD, one of which was [*Siddhartha* by *Hermann Hesse*](https://en.wikipedia.org/wiki/Siddhartha_(novel)) and to be honest, that is the sum knowledge of what I think about when I think about Buddhism.  I really appreciated the bit of history lesson and the pacing, especially toward the end, of new concepts and ideas.  His no-nonsense slides are a valuable resource for anyone wishing to explore either Buddhism or WordPress best practices or both.  
+
+Raw Notes:
+Buddism and Jer in a talk
+Pali and theravada
+very diverse religion, lots of sects
+school of the elders, Sri Lanka, Thailand
+root of secular ones
+Vipassana
+sources for secular Buddhism
+Contracted with Mahayana, greater vehicle, a diverse branch in china and Japan
+FYI: Words here are in Pali not Sanskrit
+Religion or Philosophy
+both metaphysical and pragmatic
+most teachings apply directly to material life
+its an ancient science, got some things right
+Ancient Indian cosmology is weird and a bit crazy, metaphorically can teach a lot though
+Buddhism is a series of very useful lists
+Quick meditation, anapanasati breathing meditation
+breath in
+breath out
+just be 
+5 minutes exercise
+Impermanence
+lacking
+essential
+anicca impermanence
+whatever is subject to origination is subject to cessation
+everything changes and we are all going to die
+everything we have is borrowed, death or WP updates will take it all away
+Dukkha
+Stress
+often translated as suffering and pain and dissatisfaction
+nothing lives up to our hopes, so everything brings disappointment and stress
+unpleasant things are dukkha because we can't avoid them
+pleasant things are dukkha because we can't hold onto them
+Anatta
+Lack of essential self
+Three features of every CMS, PLugin and Theme
+Impermanent: Won't last forever
+Unsatisfying: Guaranteed to disappoint
+essence-free: Just a bunch of code
+accept these things and let them go!
+Cause of stress is clinging to our expectations
+when we try to control the world, we suffer pointlessly
+the 'second arrow' is the one we shoot ourselves
+cycle of clinging and disappointment
+when we imaging WP won't challenge us that is makes us crazy
+End of stress is freedom from clinging
+if we accept things we are free from disappointment 
+Wisdom, Virtue, Mindfulness
+8 fold path
+Kamma truth cause and effect
+really means actions
+kammic fruition are effects of your karma
+intention is key, as long as we know our intentions are truly good we can live with peace of mind
+Samsara WO
+Rebirth WP
+We are reborn when we return to old themes, plugins and code
+we inherit the decisions of our past selves, good or bad
+learn from challenges you've passed on to yourself
+wee clearly how your current decisions will determine your future
+Sati
+mindfulness
+check the logs
+being aware of yourself and body and mind in each step
+Samadhi
+mediation
+Samadhi means concentration as well as meditation
+set aside time just fro this training
+meditate on wholesome states to develop altered states
+like any skill, regular focused practice is how we get better
+Metta
+lovingkindness
+metta - kindness
+Panna wisdom
+all experiences created in our mind
+accept things as they are, let go of what is painful
+clear conscience and open heart
+be mindful
+mediate as much as you can and it all gets easier
+[insighttimer app](https://insighttimer.com/)
+
+https://twitter.com/sashmograph/status/1028666365903872000
+
+
+
+[WooCommerce Troubleshooting Basics](https://2018.montreal.wordcamp.org/session/woocommerce-troubleshooting-basics/)
+[SARAH RENNICK](https://twitter.com/fevered)
+
+I don't think there are enough support talks at camps.  They definitely exist, and I am extremely grateful to all that give them.  But I think there can be more.  Helping other people is a natural instinct for most people. The art of helping others is itself a set of skills one can achieve proficiency.  Sarah was kind enough to tell us how she does it for Prospress and WooCommerce clients at a range of skill levels themselves.  There is a lot of hope in teaching people how to find answers.  I was pretty worn out at this point in the camp, so my notes are pretty sparse on this one.  
+
+Raw Notes:
+internet wizard
+Quest goal
+learn Woo troubleshooting
+to acquire more tools to fix all the things
+fell confident when troubleshooting
+Backup and Staging 
+Backups - important, fall back point
+Google is your guide
+Google error and description of the problem
+sometimes github 
+sometimes WP codex
+sometimes stackoverflow
+reproducing the issue
+scenario 1 pending payment orders with Stripe
+looking at what screen they can see
+test by doing the action yourself
+reading a bit of the docs revealed the expected behaviors had changed
+simple as a setting was blocking their issues
+scenario 2, country not displaying orders
+quick Google after replicating scenario
+congrats you are now a Level 1 internet wizard
+slay bugs
+
+https://twitter.com/McDwayne/status/1028720568441491457
+
+
+My Session
+
+[Shipping Content With WP-CLI And Why That Is Awesome](https://2018.montreal.wordcamp.org/session/shipping-content-with-wp-cli-and-why-that-is-awesome/)
+
+I have spent a ton of mental effort on this talk and this was the first time I gave this one.  I am very proud of what I made as a result, this is the tools and workflow for [how I post content to my site.](https://www.mcdwayne.com/shipping-content-with-wp-cli-and-automated-testing-and-why-that-is-awesome/).  The largest part is [postitnow](https://github.com/mcdwayne/postitnow) and the internal modular component [the terminus wpclonecontent plugin](https://github.com/mcdwayne/terminus-wp-clone-content).  I also learned a ton about [behavioral testing](https://github.com/mcdwayne/wordhat-features-demo), [Visual Regression testing](https://github.com/ataylorme/loopconf-2018-automated-update-workshop) and am happy to share the tiny bits I know.  At the end of it I think I am making too many broad points in the talk and still feel trapped in the fear that this is a lot of 'look at me', rather than having a conversation about the differences between 'copy' and 'content' and the difference between WP as the holistic platform for editing and as an artifact repository, as we generally do with modern code and build systems.  I feel now in reflection, perhaps the general premise of 'stop overwriting the DB' is less obvious a goal then I can see it as from my vantage point. Perhaps I should articulate that more.  I am extremely grateful for the opportunity to have a career path that gave me the opportunity to go to enough sessions that I could present this.  It will be tuning this talk for [Sacramento in September](https://2018.sacramento.wordcamp.org/session/shipping-content-with-wp-cli/).  
+
+
+https://twitter.com/BobbyJoeAudet/status/1028688483555139586
+
+
+### Wrapping Up
+
+Every camp I go to a WordCamp it teaches me brand new things. Not just in the sessions, but in every facet and about so many aspects of life.  I have called San Francisco home for so long that until I started traveling this much I feel there was a perspective I was missing. A wider perspective that makes me think we have so much more in common than we are believing we do.  I would have no idea how to gather such a wide view if it were not for my community of OSS folks.  Seeing how much we really all do have in common and how much we have to learn from one other gives me hope beyond hope for what we can accomplish next.  
+
+If you do get the chance I would highly visiting Montreal in the summer.  It is seriously like being in a whole other country.  I hope I get to go back next year for [WordCamp Montreal 2019](https://2019.montreal.wordcamp.org/)
+
+
+

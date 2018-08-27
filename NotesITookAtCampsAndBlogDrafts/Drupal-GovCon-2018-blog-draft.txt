@@ -1,66 +1,90 @@
+Drupal GovCon 2018: Contemplating cicadas in the warmth of some perfect summer days
 
 
+My trip back to [The House of Mercy](https://en.wikipedia.org/wiki/Bethesda,_Maryland) landed first in Baltimore, which [one of my favorite places](https://www.mcdwayne.com/2017/10/17/wordcamp-baltimore/), though it did not give me a chance to visit the town proper, just [BWI](https://www.bwiairport.com/).  As I landed I thought I was meeting two of other [Drupal](http://kevinthull.com) [enthusiasts](https://twitter.com/bricomedy) who where going to land about the same time.  Only, they had landed at [Dulles](http://www.flydulles.com/iad/dulles-international-airport).  Fortunately this was one of a limited handful of miscommunications I experienced upon my return to our nation's capitol metro area, specifically the [Natcher Conference Center at the National Institute of Health](https://www.genome.gov/11007522/natcher-conference-center-information/) for [Drupa GovCon 2018](https://www.drupalgovcon.org/). 
 
-General
+https://twitter.com/valuebound/status/1031873463227637760
 
-https://twitter.com/adrienne_dao/status/1032729028640354304
 
 https://twitter.com/publicplan_GmbH/status/1032281063010304000
-https://twitter.com/valuebound/status/1031873463227637760
-https://twitter.com/cknebel79/status/1032295957935865857
-
 
 
 ## Food and Fun
 
-Tuesday night fun
+###Tuesday night fun
+
+Though I had missed connecting with other fliers at the airports, this was quickly remedied by a [call](https://twitter.com/DSquaredB/status/1032041897836142592) to come to dinner via twitter from some of my favorite people in the world, the Drupal community!  We gathered at [World or Beer](https://worldofbeer.com/Locations/Bethesda) which is not where you think it is.  It is behind where you think it is, as are many addresses in Bethesda.  That aside, it was a great way to kick off a wonderful week.  
 
 https://twitter.com/McDwayne/status/1032073351920005120
 
-Wednesday 
 
-lunch
+### Wednesday 
+
+Getting into the Natcher Center is an adventure in the same way dealing with the TSA is an adventure.  Many guards carrying walkie talkies and a long line of metal detector/x-ray machines. After that, a short set of questions, an ID scan and a visitor badge is printed out to be displayed the rest of the time you are on the federal property that day.  We get to repeat this feat each morning.  Not painful, but this is the only event I go to where security is this tight. 
+Coffee and teas awaited us including some sponsored iced coffee, which was super appreciated in the summer heat.  The morning whipped by and soon enough the familiar extra long lines of lunch that happen at this very well attended event emerged.  The food was Middle Eastern, with some terrific falafel and some remarkably good [baba ghanoush](https://en.wikipedia.org/wiki/Baba_ghanoush).  I wish I would have written down where it was from.  
+
+https://twitter.com/dev_meshev/status/892423522190065664
+
 
 https://twitter.com/drupalgovcon/status/1032324145676201985
 
-Opening Reception
-Join us for the opening reception at Brickside Food and Drink Wednesday, August 22nd from 4:45 to 6:45. This event is provided by our amazing Core Sponsors: Debug Academy, CivicActions, and Mobomo.
 
-Brickside Food & Drink
-4866 Cordell Avenue
-Bethesda, MD 20814
-Wednesday, August 22nd
-4:45pm to 6:45pm
+### Opening Reception
+
+Rather than a giant end of show blowout after party, GovCon chooses to do an opening reception to celebrate sooner and give us a chance to network earlier in the event.  We returned to [Brickside Food and Drink](https://bricksidebethesda.com/).  I must applaud the food selectors who made sure a vegan falafel was made available, which got immediately consumed and left piles and piles of chicken wings at the end of the night.  Perhaps a sign that the scales are tipping away from meat faster than many meal planners have anticipated.   
 
 https://twitter.com/uniongal/status/1032366166570807296
 
+
 https://twitter.com/McDwayne/status/1032383859038380032
 
-Drinks
+
+Some of us extended the evening's celebrations a tad further as well, ending with some impromtu DrupalKaraoke
 
 https://twitter.com/kevinjthull/status/1032411140247244806
 
-Thursday:
 
-Game night
+https://twitter.com/McDwayne/status/1032668524651667457
+
+
+
+### Thursday
+
+Thursday was a repeat of Wednesday with the coffee and the lines.  Traffic flowed better since it was a box lunch option this day.  I had a hummus wrap with many fresh veggies crammed inside, rounded out by local favorite [Utz chips](https://www.getutz.com/get-snacks/potato-chips/regular-chips.html).
+
+After the day of sessions, some people gathered for a Game Night.  I just wanted to note it here, I did not attend. 
+
 https://twitter.com/karolus/status/1032785421195988994
 
-Washington Monument
+Instead I got to go with many other Drupal folks to [Smoke and Barrel](https://smokeandbarreldc.com/), a location that is famed for it's super tasty vegan options and well curated whiskey selection.  Some of us ventured out to see some sights after that, including a stop by the White House with our new friend from West Africa who's giddiness over seeing this so close up was downright infectious.  We learned a lot about all the presidents that night too.  It was a night to remember.  
+
 https://twitter.com/jonpugh/status/1032848396917374981
 
 
 
-Friday:
+### Friday
+
+The morning was slower feeling as is the last day of a conference in general, but coffee perked us up and we got a picnic cookout for lunch with [Boca Burgers](http://www.kraftheinz-foodservice.com/en/productsandbrands/meats/boca/products) and some wonderfully ripe watermelon. 
+
+https://twitter.com/Gov_Dude/status/892063344781402112
+
+We were treated to some cupcakes by the fine and outstanding [Joe Crespo](https://twitter.com/jscrespo) of [ATEN Design](https://twitter.com/atendesign/).  
 
 https://twitter.com/atendesign/status/1033004228577570816
 
+After the daytime learnings on the final day, the Speaker/Sponsor dinner was held to give those of us who volunteered and organized and sponsored and did all the things needed to make a con happen a chance to unwind and connect one last time under the banner of the event.  We returned to Birckside once again and I got to show off my skills at the first few levels of ["Mike Tyson's Punch Out"](https://en.wikipedia.org/wiki/Punch-Out!!_(NES)). I admit, I completely forgot how to defeat Soda Popinski.  Some of us went out after that to some other foods at [True Foods](https://www.truefoodkitchen.com/bethesda) and out for some more fun after that.  
+
 https://twitter.com/uniongal/status/1033086045791965185
+
 
 ## Sessions
 
 [Keynote](https://www.drupalgovcon.org/2018/program/sessions/adam-bergstein-keynote)
 [Adam Bergstein](https://twitter.com/n3rdstein)
 
+We need to get organized.  Seriously.  We are at a point where we can continue to complain about the state of the world or we can actually spend the resources and time to change it.  Adam laid out a solid outline for a path forward if we really do want to make sure the community grows and evolves to make sure Drupal exists far into the future.  There is a much needed conversation around this and I applaud Adam for pushing it forward.  
+
+Raw Notes:
 Hero's journey
 Seriously impressive scale
 work not done yet
@@ -73,7 +97,7 @@ fighting the good fight
 ninja turtles overcome adversity
 inspire us
 Hero's journey
-Act 1 seperation
+Act 1 separation
 act 2 descent
 Act 3 initiation
 Act 4 return
@@ -81,7 +105,7 @@ parallel steps
 Luke Skywalker
 Promoting impact
 challenges us to find part and help
-his dreams shifted from nija turtle to helping people with tech
+his dreams shifted from ninja turtle to helping people with tech
 Looked at Drupal
 how was this possible
 The appeal was thousands of volunteers giving away work for free
@@ -89,7 +113,7 @@ giving back to make the world better
 usage drove maturity and that grew reach
 shear scale is immense
 potential is great
-small acts, when multiplied by millions of people can transform the world - howard zinn
+small acts, when multiplied by millions of people can transform the world - Howard Zinn
 not one person dong everything, which is what he previously thought
 hard at first to join the community
 even submitting a patch was a major issue for him
@@ -99,24 +123,23 @@ solving problems for ourselves can help so many other people
 reaches out to people who help him and he helps others
 makes us better and lets us provide for our families 
 contributing to something bigger
-Only those who dare to fail greatly can ever acheive greatly.  - JFK
+Only those who dare to fail greatly can ever achieve greatly.  - JFK
 Dying before going into battle
 old samurai way, any outcome is fine 
-Don't be afraid of learning in public. the journey is more important that he destination.
-kelsey Hightower
+Don't be afraid of learning in public. the journey is more important that he destination - Kelsey Hightower
 Future Drupal Community Vision
 Doing things too slow can feel like we don't care
 change is inevitable
-accept uncertainty and proceeed boldly
+accept uncertainty and proceed boldly
 continuous learning
 ongoing experiments
 We can not solve our problems with the same level of thinking that created them - Albert Einstein
 people do not spend time on things they do not see as valuable
 Aligning the needs of people
 Clarity
-Clear identiy - values and principles, code of conduct, giverance, strategic vision
+Clear identity - values and principles, code of conduct, governance, strategic vision
 Values and Principles - needs a great deal of community feedback
-new committee tha tis still in formation to focus on this
+new committee that is still in formation to focus on this
 DGW, working group
 looking for new folks
 code of conduct
@@ -131,18 +154,18 @@ confusing since not all things are applying in same way
 need to centralize efforts
 to scale and evolve we need to get much better at understanding the whole elephant
 make efforts more visible
-help people aline passions and efforts
+help people align passions and efforts
 Drupal Associations
 need legal support, guidance, training
 Community has been critical sometimes
 need to actually support this effort
-We need to have better documentation and easier onramp
+We need to have better documentation and easier on-ramp
 technical docs are a start, but docs are needed for everything
 shift from technical artifact to a useful service
 A new community site
 centralize info
 mission, vision, V&P, strategic plan
-groups and aevents
+groups and events
 on-boarding, mentoring
 multilingual
 Simplytest.me was a project that was meant to lower the barrier of entry for new folks
@@ -151,40 +174,37 @@ One important trait of high-performing teams is that they use their diversity to
 Sustainability comes from serving people inclusively
 open to those that need it the most
 Amy June joined after being a hospice nurse
-now channels that enery to help people use the web
+now channels that energy to help people use the web
 how do we do it?
 it's huge, how do we start?
 community onboarding, but also for existing members need to be able to do things in new ways
 builds trust and human connection
 local and regional cultural differences, this is associations need
-must be transpated to multiple languages
+must be transplanted to multiple languages
 Kevin Thull, very inclusive, records sessions so we can all benefit from them
 the world of knowledge he has enabled is amazing
-Creativity is the power to connect the seeminly unconnected - william plomer
+Creativity is the power to connect the seemingly unconnected - William Plomer
 Harness the creativity to foster 
 Process for advancing is messy and does not scale
 need a new group to manage this process better
 
-
-
-https://twitter.com/McDwayne/status/1032284657126203394
-
-
 https://twitter.com/TaotiCreative/status/1032287935410974720
-
-
 
 
 [Horizontal DevOps ~ Scale your team and tools across projects.](https://www.drupalgovcon.org/2018/program/sessions/horizontal-devops-scale-your-team-and-tools-across-projects)
 [Geoff St. Pierre](https://twitter.com/serundeputy)
 
+I went in expecting a talk similar to what [Kelly Albrecht](https://twitter.com/KSAlbrecht) gives on communication.  Ever since I saw his talk, what DevOps even means has shifted in my brain.  Instead was a talk on tooling and how technical debt actually costs real hours and real money when your team works on more than one project at once.  No matter how many projects, having a project folder and a [Lando](https://docs.devwithlando.io/) instance for each makes context switching as painless as possible.  
+
+
+Raw Notes:
 Horizontal is scaling across projects
 not just scaling for one project
 how do we keep people efficient and working on multiple projects?
 Common issues around losing whole days switching between silo'ed stacks
-Prevent that context switching (Gulp, vs Compas for Sass, Ruby vs PHP, etc)
+Prevent that context switching (Gulp, vs Compass for Sass, Ruby vs PHP, etc)
 no one likes to lose time across projects
-DevOoops
+DevOooops
 Don't be afraid of change
 Don't change too quickly
 Introduce change slowly and measure for effectiveness
@@ -238,33 +258,35 @@ tooling
 make sure this command is available to lando 
 terminus or platform
 Why do this?
-insreas efficiency
+increase efficiency
 make your staff more productive
 level up your devs faster
-inscrease confidence and ability to deliver on complex projects
+increase confidence and ability to deliver on complex projects
 become a revenue stream or selling point
 interject the needs for this in your projects
 advocate for DevOps
 'where are we deploying and how as we deploying?'
 Who is on the devops team?  
 EVERYONE!
-Think in interfces!
-what are the places devs and stakeholders and clinets touch
+Think in interfaces!
+what are the places devs and stakeholders and clients touch
 are you breaking it by changing how they interact?
-aim to make day to fay dev and onboarding seamless
+aim to make day to fay dev and on-boarding seamless
 Documentation is critical
 Your company, your tools and every project needs a README
 pick good partners
 who are you choosing?
 everything comes with a cost
 
-
 https://twitter.com/McDwayne/status/1032313869191073792
 
 
 
-[Healing a Broken Project]()
+[Healing a Broken Project](https://www.drupalgovcon.org/2018/program/sessions/healing-broken-project)
 [Aimee Rae Degnan](https://twitter.com/aimeeraed)
+
+As with any talk she give, Aimee brings a sense of humanity that a lot of technical talks just don't aspire to do.  I love hearing real case studies and anything drawn from hard earned life lessons.  This talk was surely that.  The best part for me came when she asked us to provide examples of how our projects are going using 'adjectives in twitter sized descriptions'.  The room felt a united sense of catharsis that they were not alone and all people have frustration points with certain projects. 
+
 
 Defining healing
 temporal characteristics of issues
@@ -281,7 +303,7 @@ what does your gut tell you?
 1 - large complex, data integration and expertise required, good project
 2 - there was a along difficulty, multiple deaths on project, data corruptions - bad sign, bleh
 couple examples from the room
-"Obstuctionist gaslighting..(room exploded in laughter could not hear rest)
+"Obstructionist gaslighting (room exploded in laughter could not hear rest)
 Understand some project anatomy
 purpose and business goals 
 scope
@@ -292,11 +314,11 @@ varying velocity based on project phase
 calibration of quality and velocity
 balace of real world scope and reaching scope
 There are ABNORMAL signs though
-tempature of the project, looka t data
+temperature of the project, look at data
 budget and schedule overage
 low client happiness
 low team morale
-things arn't being built or wrong things built
+things aren't being built or wrong things built
 unplanned impactful events (mergers, deaths)
 If you are coming in as project recovery person this is hard to deal with
 Answer the distress call
@@ -307,7 +329,7 @@ noun, assignment of a degree of urgency to wounds or illnesses to decide the ord
 to assign degrees of urgency
 what is happening RIGHT NOW
 what is the FIRST thing that happens NEXT
-- Stop all work, Continue with caution ot Keep Going
+- Stop all work, Continue with caution to Keep Going
 Revisit purpose
 Why does the project exist?
 what was the stakeholder really trying to do?
@@ -315,7 +337,7 @@ is the project purpose still relevant?
 is it time for a pivot?
 this is a big conversation with stakeholders. Sometimes the end goals get lost in the shuffle
 Review the Deliverables
-many times, tasks, requorements and priporities are set by transient people ot the project
+many times, tasks, requirements and priorities are set by transient people to the project
 some deliverables may not be relevant. This is a good time for a backlog review
 is anything defined?
 is anything built?
@@ -338,7 +360,7 @@ define which phases of the project will need attention and how much
 at this point, new estimates may not be possible
 use data to support your points
 use humanity to convey health
-Understan the stakeholders to prep the most effective method
+Understand the stakeholders to prep the most effective method
 don't cherry coat things, be supportive and positive though
 this is time for real, transparent change
 Sometimes you have to restructure the team
@@ -360,8 +382,8 @@ fine balance structure must be catered to your team. too much or too little stru
 use tools that all team member can access and understand
 Keep your eyes on the big picture!
 focused, process based on discovery
-Functional aproach to expose gaps
-end to end, as is walkthroughs of site
+Functional approach to expose gaps
+end to end, as is walk-through of site
 use Workshops and time-boxed discovery
 BEWARE discovery efforts can lead to more discovery
 time box helps
@@ -370,14 +392,14 @@ record meeting for reference. It keeps people honest and accountable
 Redefine deliverables
 Provide structure
 provide more information
-teired delivery/progressive product features
+tiered delivery/progressive product features
 perform a needs recalibration
 -must haves
 -should have
 -nice to have
 -forced
 Keep in context
-use plain english and avoid jargon!
+use plain English and avoid jargon!
 Then work and work and time passes
 but sometimes the project does not heal
 causes and responses
@@ -388,16 +410,16 @@ schedule slippage
 mismatched team
 behavioral issues
 
-
-
-
 https://twitter.com/McDwayne/status/1032327756527427586
 
 
 
 [Demystifying Composer](https://www.drupalgovcon.org/2018/program/sessions/demystifying-composer)
-[davidhernandez](@davidnarrabilis)
+[David Hernandez](https://twitter.com/davidnarrabilis)
 
+[Composer](https://getcomposer.org/) is a magical black box to me that I barely understand outside of how to copy paste the commands from other peoples' repositories.  That is much less true now than it was before I saw this talk but I have not yet done the work to really understand it.  I am admitting this because David flat out explained we are not going to 'get it' until we do that work and that is why hy has made a [tutorial repo](https://github.com/david-hernandez/composer-tutorial) available to us all to help us figure this thing out and remove the magical veil. I can't wait to dig in when schedule allows!  
+
+Raw Notes:
 Made a gihub for us
 run it step by step
 don't just read it or watch this talk
@@ -406,7 +428,7 @@ some commands are slow
 davidhernandez/composer-tutorial
 A dependency manager
 Packagist
-Drupal is the worst implemntation of composer is the issue
+Drupal is the worst implementation of composer is the issue
 not built from composer, it adapted composer to Drupal
 it is a command line tool
 no GUI
@@ -414,7 +436,7 @@ Getting started
 dependent on your CL in your terminal
 make sure you are using the right version of PHP
 run composer in the container if using Docker
-everything er do ends up in a composer.json
+everything we do ends up in a composer.json
 that is config file
 it tells composer what to do
 most important file
@@ -439,7 +461,7 @@ composer install
 run this to read the composer.json and write the composer.lock file
 writes a vendor directory (in Drupal, this can be very bad, it is actually bad)
 commands that gather data and install dependences are memory hogs!
-composer.jason = 43 lines
+composer.json = 43 lines
 composer.lock = 4300 lines
 composer require
 go get it and put it in right
@@ -447,7 +469,7 @@ composer require --dev
 adds info to require-dev section
 by default composer will download the dev dependencies section
 use --no-dev with the install command to avoid it ---
-Version Contraints
+Version Constraints
 getcomposer.org/doc/articles/versions.md
 exact 8.5.1 = 8.5.1
 wildcard 8.5.*
@@ -455,49 +477,49 @@ range >=8.5 <8.6  (be careful to make sure you are telling it right range)
 Stability contraint 8.6.x-dev = unstable (dev) branch 8.6.x (alpha, beta, stable, dev) 
 increment last digit ~8.5.0 =  8.5.0, 8.5.9
 increment last two ^8.5.0 = 8.5.x, 8.6.x, 8.7.x ect
-IN semantic versioning, first digit is a signifigant digit, it will not change this, you have to manually change this
+IN semantic versioning, first digit is a significant digit, it will not change this, you have to manually change this
 implementing versions is just adding it to the end of the command
 $composer require drupal/console:^1.0.0 --dev
 Minimum stability
 understand this one
-to composer this is the minimumstable version I will accept
+to composer this is the minimum stable version I will accept
 it is OK to get dev if I say
 dev, alpha, beta, RC, or stable
-works with version contraints
+works with version constraints
 project wide or per package
-more onstability
+more instability
 "prefer-stable": true
 prefer to download stable, but other versions can be specified
 only do dev if you force --dev
 Adding repos
 out of the box COmposer looks to packagist.org
-Drupal can be retrieved from there, ubut not themes or modules
+Drupal can be retrieved from there, but not themes or modules
 neither will pages
 need to tell it to packages.drupal.org
 Scripts
-can run pre-nistall, post-install, pre-update, post update, ect
-this stops drupal from adding to the Vendor directory
+can run pre-install, post-install, pre-update, post update, ect
+this stops Drupal from adding to the Vendor directory
 Extra
-usd for metadata
+used for metadata
 installer-paths:
 drupal/drupal and drupal/core
 complete copy of Drupal 8
-Essentally webroot
+Essentially webroot
 don't use
 Subtree split of just the /core directory
 use with scaffold
 docroot/core
 Updating is actually pretty easy
-compiser update
-somposer update drupal/console
+composer update
+composer update drupal/console
 look at your .json and .lock if this fails
 Patches
-composer does not do this by deafult
+composer does not do this by deafault
 so someone made composer-patches
 path to the patch can be a URL or local or within the project
 create-project command
 create project basically clone an existing repo, acts a a starting point
-$composer creaate-project drupa-composer/drupal-project:8.x-dev
+$composer create-project drupal-composer/drupal-project:8.x-dev
 Remember:
 Composer will not install modules for your
 this is not drush
@@ -508,14 +530,17 @@ read the messages
 it will likely tell you why something didn't work
 it can be slow
 it actually solves more issues than it causes to add vendor to git
+this is controversial 
      
-
 https://twitter.com/McDwayne/status/1032343600586215425
 
 
 [Can We Figure This Drupal Component Thing Out Already?](https://www.drupalgovcon.org/2018/program/sessions/can-we-figure-drupal-component-thing-out-already)
 [Brian Perry](https://twitter.com/bricomedy)
 [Adam Bergstein](https://twitter.com/n3rdstein)
+
+I will admit it again and again, I am not a front end expert.  But just like any other topic I don't understand I am going to keep on going to these sessions to learn more and at least be able to talk at some level of competency when I do ask questions about this from more knowledgeable sources.  I am not aware of too many more knowledgeable sources than Brian and Adam.  The other big reason I went to this talk was because there is a tacit disagreement between these two on implementation details.  However, the level of professional respect for one another overcame any negativity this disagreement might have generated.  This talk is a wonderful example of how we can disagree in the most constructive and productive ways!
+
 
 They had debate at Midcamp, turned it into a talk
 Design and implementation
@@ -524,9 +549,9 @@ making best use of reusable pieces
 ongoing conversation, might change their opinions
 how do I reuse the design assets through the web
 examples in wild
-pattern lab drupal starter kit
-Emulsify D theme
-Shila D theme
+pattern lab Drupal starter kit
+Emulsify Drupal theme
+Shila Drupal theme
 and several others
 also worth noting is DYI custom theme for this
 limitations
@@ -547,10 +572,10 @@ having aggregation in a single file with Gulp/Grunt is essential for him
 -Change management of ongoing changes
 Normalization - Atomic design
 design patters resemble db normalization
-create patterns in their mort atomic form
+create patterns in their most atomic form
 reuse as needed, DRY principle
 Really this was all intended for prototyping
-work fast and separate from actual implementaion
+work fast and separate from actual implementation
 KISS concept
 design system should define the simplest version of the ideal model it is expecting
 this should reduce the need for the design system to perform heavy/complex processing
@@ -573,7 +598,7 @@ SACSS
 Drupal/CSS/JS framework standards
 Implementation ideas!
 Process of packaging, releasing, change management
-create relases of design system
+create releases of design system
 leverage task manages like Grunt to build on CSS file and multiple JS files
 use COmposer to bring in dependencies
 Map design assets in the theme
@@ -588,7 +613,7 @@ composer require your design system
 Adam does not like to do this, leaves in Vendor directory and Drupal caches it
 Patterns are not a one to one mapping in the CMS
 Flexibility to use any pattern in any way
-provide well defined aproach to handling design system overrides
+provide well defined approach to handling design system overrides
 some patterns are not implemented in a CMS
 Pages are often just mockups and representation of pattern usage
 must use core sponsored tools
@@ -609,12 +634,15 @@ it falls down in how it structures data
 difficult to do with design systems 
 big red flags going off in Adam's head
 
-
 https://twitter.com/McDwayne/status/1032614605925900288
+
 
 [Keynote day 2](https://www.drupalgovcon.org/2018/program/sessions/deborah-bryant-keynote)
 [Deborah Bryant](https://twitter.com/debbryant)
 
+There are few companies that have the track record with Open Source that RedHat does.  And there are very few people who have the credentials Deborah Bryant has around the Open Web.  She laid out the case for a free and open internet not by reciting facts and figures, of which there are many, but instead encapsulating these into very relatable and repeatable stories.  Stories have the power to travel and be repeated for hundreds and in some cases thousands of years, as [Neil Gaiman explained](http://longnow.org/seminars/02015/jun/09/how-stories-last/).  I know I will be telling these stories of why Drupal is important and how we can advance to make the world a better place together!
+
+Raw Notes:
 Oregon open source bill
 she had to testify the bill, as it stood, was bad
 Open Source Values
@@ -627,7 +655,7 @@ she came to believe:
 The development model may be more important then the code itself
 she founded the Government Open Source Conference in 2005
 ran until 2012
-started evelvated many OSS projects
+started evaluated many OSS projects
 in 2008 OSS pops up in Washington DC more and more
 administration change
 OSFA Open Source For America
@@ -641,7 +669,7 @@ Disaster Response
 Open Streetmaps
 Human rights
 Social Good
-Hacker Bus: Teaching brazilian kids computer ethics
+Hacker Bus: Teaching Brazilian kids computer ethics
 Sri Lanka has the highest % of oss devs in the world
 Country Portal project
 elevated for economy for the country
@@ -662,17 +690,15 @@ RedHat is looking for help on this
 Documentation is a real need across all projects
 not accessible if people can't find the docs
 
-
-
 https://twitter.com/uniongal/status/1032647319550926854
-
-https://twitter.com/wdgtweet/status/1032649745913847808
-
 
 
 [Government Issue(s): Leveraging Accessibility with Usability to Serve *Really* Diverse Audiences](https://www.drupalgovcon.org/2018/program/sessions/government-issues-leveraging-accessibility-usability-serve-really-diverse)
 [Tearyne Glover](https://twitter.com/TearyneG)
 
+If any member of a community can not access public information on their government's website and as a result, not get access to services they need, then we have got to do better.  You sometimes see diversity talks that give you all sorts of reasons to feel bad and not a lot of actionable insights on how we can try and make it better.  Tearyne got up and explained how to use data to drive the conversation forward for a more inclusive internet in very demonstrable and replicate-able ways.  Understanding who is actually using your website and how they understand what is written on your website is a mandatory step int he right direction.  Only with data can we help others change their minds.  And helping the folks in charge of things like web portals change their mind is the only way we are going to advance!  
+
+Raw Notes:
 What they got wrong and what they got right
 UX front end dev for City of Dallas
 a communications specialist
@@ -686,8 +712,8 @@ She used to answer phones a lot and got swimmers ear from holder her head on the
 was hard to use headphones
 started using subtitles
 realized this was useful
-Accessability:
-Ensuring direct and indirect acess through accomidations to people with disabilaties
+Accessibility:
+Ensuring direct and indirect access through accommodations to people with disabilities
 accessibility is heavily related to universal design which aspires to create environments that are designed to be accessible to older people
 Design for All
 a philosophy targeting the use of products and designs for all people
@@ -697,7 +723,7 @@ Dallas has 12,911 employees, 9,690 are unsworn
 sworn pension contributions are 13.32% of employee pay
 2002 ERF launches first site, static
 2015 launched active employees' portal
-2017 launched retiree pportal, giving them access to their 1099-R forms online
+2017 launched retiree portal, giving them access to their 1099-R forms online
 2018 Pay stubs launched in retiree portal, giving access to pay stubs online and stopped mailing physical stubs, saved a lot of money
 You have to know your audience
 Diversity and inclusion is a good definition but what does it mean in reality
@@ -705,9 +731,9 @@ we are good at making images and some words
 but let's get beyond the fluff top level
 Dallas stats
 1.3 Million people
-33.4% native spanish speakers
+33.4% native Spanish speakers
 most employees 62.9% do not live in city limits 
-Languages in texas
+Languages in Texas
 many varied languages, need to deal with them
 COD employee ethnicity, very diverse
 and ages, she is keeping track of a retirement system, so very important
@@ -719,11 +745,11 @@ Instead of lip service, how do we serve them?
 1. build the margins in your product from the beginning
 Summer sessions, what are their concerns.
 economic
-educatonal
+educational
 language
 technical - many people only have phone access
 access
-intersectional issues you solve doing this aleiviates many issues
+intersectional issues you solve doing this alleviates many issues
 example
 image in text sliders
 obviously an accessibility no no
@@ -731,7 +757,7 @@ no alt text
 how can people see it
 or translate it
 solution: Front page panels
-new front pae slider
+new front page slider
 actual text from a node, can be swapped around
 simple HTML but shows all the same information
 username and password screen
@@ -746,9 +772,9 @@ being able to talk conversationally vs financial planning in second language ver
 They did translate modal before getting rid of it
 this solved majority of issues
 2. Identify pain points that create challenges 
-3. Design you products to offset the situations that resut from the marginalization
+3. Design you products to offset the situations that result from the marginalization
 commute times
-City Hall, street department, parks, city attourney's office can have very different experiences
+City Hall, street department, parks, city attorney's office can have very different experiences
 retirees have different needs and requirements all their own
 resulting in very different user experiences that need to be accounted for
 due to her hybrid role, has a lot of one on on experiences with members
@@ -774,9 +800,9 @@ Cost of exclusion
 counselors end up with more calls about basic knowledge that don't need human touch (data gathering)
 Members end up frustrated
 instead of resorting to the source of truth, members sometimes disseminate incorrect information among each other
-members make decions that can harm financially in the long term
+members make decisions that can harm financially in the long term
 'windfall tax' issue
-benfits of including people
+benefits of including people
 members know they have a resource always
 self service nature makes them empowered
 members generally make much better decisions fo their futures
@@ -784,32 +810,21 @@ the portal frees counselors up to service more people better
 we should hold ourselves accountable to be inclusive
 incremental changes as we learn
 
-
-
-
-
-https://twitter.com/McDwayne/status/1032675846518173696
-
 https://twitter.com/EmilyLPatterson/status/1032682438848335872
 
 
-### My Session
-
-I really love teaching people things and helping people learn concepts
-
-
-https://twitter.com/jajahulia/status/1032690995073359872
-
-
-
-[Automated Accessibility Testing]()
+[Automated Accessibility Testing](https://www.drupalgovcon.org/2018/program/sessions/automated-accessibility-testing)
 [Brian Thompson](https://twitter.com/rvtraveller26)
 
-HIs grandmother cound not see dominos
-first acessibility lesson
-would you buind a bridge that only a specific type of car can use?
+I go to a lot of talks, as evidenced by my notes repo.  So many talks I go to expose an idea but stop short of giving firm steps for what to do about this information.  This leads to a feeling that Brian described to me as "a need to go do a bunch of work to figure out what how to use the ideas presented".  He seeks to remedy this in his talks and does so by giving not just concrete examples, but giving exact commands to add to your testing scripts to accomplish the goal of testing for accessibility.  Now, instead of reading a bunch of docs and trying to figure out so many things on my own, I feel I have a new tool in my toolbox I just have yet to implement.  I wish all talks were this actionable.  
+
+Raw Notes:
+His grandmother could not really see domino later in life
+was feeling the dots to understand what she held in her hand
+this was his first accessibility lesson
+would you build a bridge that only a specific type of car can use?
 Andrea Fercia
-Accessability cases
+Accessibility cases
 blind woman sues toys R us for not being accessible and violating law
 Winn-Dixie must update website for the blind
 wet willies (bar in Florida)
@@ -821,7 +836,7 @@ how do we go about doing that?
 how much does it cost? that is what the sales people ask
 WCAG just came out 
 automated accessibility testing
-automated tools can be termpermental
+automated tools can be temperamental
 big websites take long times to test
 WAVE API
 Cool demo
@@ -858,15 +873,16 @@ docker containers for lighthouse and aXe CLI are available
 see slides for URLs
 no more chrome support in RHEL
 
-
-
 https://twitter.com/aczietlow/status/1032980628352978945
 
 
 [Keynote day 3](https://www.drupalgovcon.org/2018/program/sessions/julian-rodriguez-orihuela-keynote)
 [Julián Rodriguez Orihuela](https://twitter.com/julianrod)
 
-Argintina is great
+I honestly had not read the session description and went in rather blind to what was going to be presented.  I left the session with a pretty big sense of 'wow' at how fast and how dramatically the team rebuilding and unifying their central government's web presence is working on improving services for their customers: the citizens.  While the technical details are indeed interesting the lingering impression came from the sense of duty to their fellow Argentinians.  This was not just a case study on how things can be implemented but what these changes can mean for disenfranchised parts of the population, helping make services much more available to those who really need it the most.  Next time someone asks about a use case for Drupal that highlights how it is different than closed platforms, this talk should top your suggestions list.  
+
+Raw Notes:
+Argentina is pretty great in many ways
 G20 held there
 more than 25% of citizens in poverty
 in a journey
@@ -878,7 +894,7 @@ very sparse platforms
 experiences varied too much
 principles on how to serve citizens
 Focus on the Citizen!
-One government, don't need to know every ministry or agency, just shold act like on thing
+One government, don't need to know every ministry or agency, just should act like on thing
 We go to the citizen 
 Measure and improve - don't have to get it right the first time
 need humility to make it better
@@ -888,7 +904,7 @@ one platform for the whole government
 plan for multiple channels
 Example
 took their service guide 
-remade in drupal - put beta in the name
+remade in Drupal - put beta in the name
 wanted tog et conversation going with citizens
 migrated their own website to this new site
 Then they need to grow up
@@ -897,10 +913,10 @@ had a mandate that 1 year after started
 "All internet portals of the National Public Sector are to be developed through the General Web Portal GOB
 used the formula YMMV
 consistent strategy, similar strategy from local civic team strategy
- presidential mandate
- huge deficit
- a couple big early adopters
- scalability and security issues in current platforms
+presidential mandate
+huge deficit
+a couple big early adopters
+scalability and security issues in current platforms
 some stats
 292 gov orgs to be migrates
 2/3 of the way there
@@ -918,7 +934,7 @@ plan for 100% migrations by end of 2018
 how the heck they move so fast?
 our v1 methodology
 Migration means rewriting the stuff, not using the script to move from one place to another
-archives of news they do that but mostly it is just rewrting it elsewhere
+archives of news they do that but mostly it is just rewriting it elsewhere
 v1 is better than what had at least
 "not the best, but better"
 adjust content based on analytics - data driven
@@ -936,20 +952,17 @@ end to end services, show all transactions needed for larger life events - 'how 
 multilingual
 multi-platform
 
+https://twitter.com/nlucciola/status/1033011063720235009
  
- 
- https://twitter.com/nlucciola/status/1033011063720235009
- 
- https://twitter.com/jajahulia/status/1033010173802102784
- 
- 
- 
-[Motivate Your Agile Team with an Open Source Mentality]()
+
+[Motivate Your Agile Team with an Open Source Mentality](https://www.drupalgovcon.org/2018/program/sessions/motivate-your-agile-team-open-source-mentality)
 [Laura Lacy](https://twitter.com/laural2979)
 
+My favorite part of this talk might have some near the beginning with a modified explanation of [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) that replaced the lowest tier with WiFi and Battery Life.  Truer essentials have never been defined.  In all seriousness though, having lead many a team and going through many methodologies, Laura sharing her experiences was at the same time entertaining and highly informative.  I had not heard of the RE:WORK project yet and am looking forward to digging into that more to expand my project management vocabulary and tool set.  
 
+Raw Notes:
 What motivates people?  
-Maslow's heirarchy of needs
+Maslow's hierarchy of needs
 wifi/battery
 see tweet
 motivation 3.0
@@ -962,7 +975,7 @@ can decrease intrinsic motivation
 we begin to expect rewards and can perform worse when they arn't met
 Intrinsic
 best for creative or knowledge tasks
-examples, montessori school
+examples, Montessori school
 20% time - work on what you want
 extrinsic has a hidden cost of rewards
 "now that" rewards vs if-then rewards
@@ -979,11 +992,11 @@ affix candle to the wall so the wax doesn't drip
 functional permanence, must use the box from the tacks
 2 groups
 group 1 timing just to get a baseline
-group 2 has incentives $5 for top 25%and $20 for #1 perfoemner
-grop 2 took 3.5 minutes longer on average
+group 2 has incentives $5 for top 25%and $20 for #1 performer
+group 2 took 3.5 minutes longer on average
 Atlassian case study
-Sedex shipit days
-occur once per queater
+Fedex shipit days
+occur once per quarter
 24 hours
 must deliver something of value to customers
 innovations delivered!
@@ -993,15 +1006,15 @@ better retros
 24 hours to innovate, is like 20% time on steroids
 INtrisic motivation
 wikipedia - 27 MIllion registered users
-linux - 75% of cluod apps
+linux - 75% of cloud apps
 apache - 26% of the top 1M sites
-drupal
-firefox
-re:Work project from google
+Drupal
+Firefox
+re:Work project from Google
 1. psychological safety: can we take risks on this team without feeling insecure or embarrassed
-2. dependability: can we cound on each toher to do high quality work on time
+2. dependability: can we could on each together to do high quality work on time
 3. Structure and clarity: are goals, roles and execution plans on our team clear
-4. meaning of work: are we working on soemthing that is personally important for each of us
+4. meaning of work: are we working on something that is personally important for each of us
 5. impact of work: do we fundamentally believe that the work we're doing matters
 https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team
 Agile manifesto
@@ -1009,20 +1022,20 @@ individuals and interactions
 working software
 customer collaboration
 responding to change
-managemtn 1.0 - treating people like cogs
+management 1.0 - treating people like cogs
 servant manager
 zappos
 embracing culture
 deliver wow through service
-emrace and drive change
-create fun and litle weirdness
+embrace and drive change
+create fun and little weirdness
 be adventurous, creative and open-minded
-pursue groth learning
+pursue growth learning
 build open and honest relationships
-buils a positive team spirit
+builds a positive team spirit
 be humble
 GREAT RESULTS
-what van we do perosnally
+what van we do personally
 what keeps you up at night, what gets you up in the morning
 flow test
 motivating motivators
@@ -1033,15 +1046,45 @@ make team decisions
 involve all in gaol setting
 rotate facilitators
 team health check
-promote the cultrue
-hold space fo the room
-makng sure people know how we act together as a group
+promote the culture
+hold space of the room
+making sure people know how we act together as a group
 need to act it, live it
 get to know each other!!
 http://www.funretrospectives.com/
 
-
 https://twitter.com/dsutch/status/1033043472649990145
 
 
+### My Sessions
 
+I got to give two talks at this event.
+
+[Let's Learn Git. No More Excuses.](https://www.drupalgovcon.org/2018/program/sessions/lets-learn-git-no-more-excuses)
+
+and 
+
+[Discovery, discovery, discovery, discovery! The most import part of the project](https://www.drupalgovcon.org/2018/program/sessions/discovery-discovery-discovery-discovery-most-import-part-project)
+
+
+I really love teaching people things and helping people learn concepts.  In the case of git, I have a pretty simple goal: Let's get people over the hurdle of being afraid of the darn thing.  I got a lot of great feedback some of the participants that this helped sure up certain concepts or had indeed given them confidence that they could in fact get this stuff figured out.  
+In the case of my Discovery talk, the goal is slightly different than explaining a technical concept with a very clear correct and incorrect way to do it.  As with anything that involves the people part of a process, I am not sure there is a true right way or wrong way, only tactics and strategies that are effective or ineffective situationally.  The real value comes from the conversations that the attendees have in the Q and A and hopefully out in the hallways and the streets afterwards.  
+It was a great honor to give these talks and participate in this conference.  I learned so much giving these talks and having these conversations.  
+
+https://twitter.com/jajahulia/status/1032690995073359872
+
+
+https://twitter.com/karolus/status/1033071632695402497
+
+
+
+## Wrapping up
+
+Ultimately this conference was about us, the true owners of the republic and of the open source code. You and I.  Being in a place once decribed by [The Magnetic Fields](https://en.wikipedia.org/wiki/The_Magnetic_Fields) as ["The seat of freedom and sweet democracy"](https://www.youtube.com/watch?v=UYLLNhTiQZc
+) gives a certain pause to the normal processing of thoughts that accompany these technical conferences.  The 'why' of the event might have been on the surface a way for Government employees using Drupal to connect, similar in that regard to [Stanford's Drupal Camp](https://www.mcdwayne.com/2018/04/09/stanforddrupalcamp2018/), but the real why we are doing any of this felt better pronounced for me.  We are doing this because making an Open Web out of Open Source technology ensures a freedom that we are realizing ourselves.  Not handed to us by higher authority, but forged by the participants and constituents themselves.  Messy and loud and maddeningly slow at times, democracy of software or of our way of governance is self determination in action.  I can't wait for next year already, when we can yet again rejoice together as we reflect on our shared values and vision for a just, free and equitable society at [Drupal GovCon 2019](https://www.drupalgovcon.org/).
+
+
+https://twitter.com/adrienne_dao/status/1032729028640354304
+
+
+https://twitter.com/cknebel79/status/1032295957935865857

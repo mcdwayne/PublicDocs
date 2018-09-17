@@ -1,0 +1,548 @@
+WordCamp Sacramento 2018: Beautiful warm, knowledge filled days and very cool nights out with the WP family
+
+Once again, I did not have to fly to an event, something that happens so rarely for me I lead with it on the [blogs where it happens](https://www.mcdwayne.com/2017/09/21/wordcamp-sacramento/).  Returning to [The Big Tomato](https://www.movoto.com/guide/sacramento-ca/moving-to-sacramento/) we were met with the most idillic weather I can imagine.  Special thanks to my colleague [Alexander](https://twitter.com/PantheonAlex) who actually did the driving.  There were a number of reasons I was exited to come back: the sessions, giving my newest talk and such.  But the community coming together and watching new connections get made and making introductions that went far beyond just technical conversations is what I feel is really at the heart of my special feelings about [WordCamp Sacramento 2018](https://2018.sacramento.wordcamp.org/)
+
+https://twitter.com/sierracomcap/status/1041463778397704192
+
+
+## Food and Fun
+
+### Speaker Dinner
+
+The first official act of most camps is the getting together of the speakers and sponsors and organizers and volunteers who make the event happen.  Same as last year we returned to the pretty awesome [Hot Italian](www.hotitalian.net/) to get some pizza, drinks and a choice of gelato or sorbetto.  I had the latter as an [affogato](https://en.wikipedia.org/wiki/Affogato) with a creamy double chocolate nut cream based gelato.  It was spectacular.  The conversations were wonderful and the staff was downright awesome.  Stop by and give them some business if you are in the area, they are doing it right.  After closing this out, some of us went to enjoy the classic video games and pinball offered up at [Coin-Op](www.coinopsac.com/), the local brewcade.  Very happy to say that with the help of a pocket full of quarters and the talents of my friend [Jamie](https://twitter.com/jamieschmid) we beat [The Simpsons Arcade Game](https://youtu.be/2mI3fUfoJkY).  I played as Homer.  
+
+https://twitter.com/McDwayne/status/1040788126711480320
+
+
+### Saturday
+
+The [Sacramento Convention Center](http://www.sacramentoconventioncenter.com/) coffee is not bad.  But it is not bad in the way [Folgers](https://www.folgerscoffee.com/ "Folgers coffee website") is not a bad brand for that it is.  There was a Starbucks open for those that wanted a step up.  This event is also known for it's copious amounts of snacks.  All the sponsor tables are extra long to accommodate plastic punch bowls full of candy, energy bars, and all manor of packaged sugar.  It is pretty delightful and I never felt like I was more than a few steps away from sating any hunger pangs. 
+
+https://twitter.com/WC_Sacramento/status/789948510980321281
+
+
+### Lunch 
+
+The way the schedule works for this camp, there is only lunch on day one and they want to accommodate everyone.  They accomplish this pretty well by giving lunch tickets to get pre-selected items from food trucks they bring to the nearby park.  The lines are a bit long but the weather was absolutely gorgeous and gave us a chance to eat outside and fellowship while eating a variety of options.  I had a pretty good extra crunchy falafel on rice with a salad.  
+
+https://twitter.com/stewartsavage/status/1041045921784463360
+
+
+While the lines themselves are never anyone's favorite part of a meal service, I do want to applaud the [WordCamp Sacramento Organizing Team](https://twitter.com/WC_Sacramento) for ensuring that all food allergies and preferences would be able to be met.  This is so important in the idea of inclusion and welcoming everyone in.  Waiting a tad longer for better food is a welcome price to pay to make sure everyone can be fed.  
+
+https://twitter.com/montereypremier/status/1041049597374656512
+
+
+### Networking
+
+WordCamp Sacramento has faced the problem of the afterparty and landed squarely on the side of 'make sure everyone is safe and does not have to travel or wait around to network after the event'.  By this I mean the afterparty is a networking reception immediately following the last session and light appetizers and very delicious agua fresca was served.  Part of me really likes this approach because it encourages people to talk about their shared experience while it is happening and gives people a way to connect without the pressures to go to another location where alcohol might be a factor.  While I am a fan of drinking myself, I am very aware that not everyone thinks that way and I am glad this event is another example of their commitment to inclusiveness in [Community, which was the theme this year](https://2018.sacramento.wordcamp.org/2018/09/12/huge-thanks-to-the-wordcamp-sacramento-community-sponsors/).   
+
+https://twitter.com/SiteLock/status/1041043921701359616
+
+
+### WPVegan
+
+I never want to sound preachy, though I know I most certainly come off that way fairly often, but I get very excited about the fact that more and more people are turning up to these self organized WPVegan events.  I put up a call for dinner and several folks I had not yet met and some old friends joined in for a special treat of a meal at [Capitol Garage](http://capitolgarage.com/).  I love their tofu 'wings' and the cashew based western patty sandwich is super filling.  Also the staff was out of this world nice to us.  They were so nice that I even went back the next morning for a snack and some espresso before the day of sessions.  Thanks to all who support more sustainable and more delicious foods.
+
+https://twitter.com/purplecowtweets/status/1041148354321776641
+
+
+###WCKaraoke
+
+I honestly did not think the karaoke quality could go downhill from the [Denny's from last year](https://www.mcdwayne.com/2017/09/21/wordcamp-sacramento/), but [there we were](http://therivercitysaloon.com/).  
+
+
+### Note about the hashtags 
+
+If you are at a camp and want to make a hashtag happen, then just do it. What WCKaraoke and WPVegan has taught me this last year is that you are very rarely completely alone in your thoughts and beliefs in the WP community.  Expressing your desire to want to get together and hang out based around a common interest is a great way to include others and to meet wonderful people.  You might even get some new people excited about the things that make your excited in the process.
+
+
+### Sunday
+
+Coffee was coffee again.  No lunch was served due to the sorter, later starting schedule.  But there was an afternoon snack break planned which offered hot pretzels and brownies.  
+No tweets of this break exist that I can see, so here is a snack related one.
+
+https://twitter.com/CarmaGal/status/1041421587310829568
+
+
+## Sessions
+
+**Opening Remarks**
+
+https://twitter.com/WordPressWest/status/1040991384671416320
+
+
+
+[Leverage Linting To Be A Better Developer](https://2018.sacramento.wordcamp.org/session/leverage-linting/)
+[Matt Vanderpol](https://twitter.com/bookwyrm)
+
+As a developer, there are things that you wished someone would just sit you down and explain.  This was a shining example of just that.  This is the second time I have seen Matt speak and both times he flat out impressed me with his no-nonsense approach to just telling people the truth and hard facts of what it takes to be better at professional software development.  In a very sincere manner, he laid out what Linting is and more importantly, how you will benefit from it.  The bulk of the talk was on actual implementation details and people around me were taking a lot of notes. 
+
+Raw Notes:
+(missed first few minutes)
+Benefits of Linting
+Catch bugs
+Enforce best practices
+ensure return
+no arguments (about formatting, just focus on code quality)
+Let's look at Process Flow
+Examples
+and adding to existing project
+Resources (slides are going to be available)
+Many goals for this talk, the biggest is to be a jumping off point
+Overview
+* Edit - 
+ * Lint - 
+  * Report 
+loop
+do what works for your project, this is not the 'one true way'
+Rules are the lynch pins of the project
+formatting rules - cosmetic, spacing, indentation, etc
+code quality rules - how long should functions be, variable name standards
+the second one is harder
+Inline config
+ignore or Tweak
+* special comments
+ * by file
+ * by block
+ * by line
+``` //this is an inline comment ```
+IDEs can show your errors as you work
+rule sets are most often predefined
+indenting is that tab or spaces, that is example
+Reports show you where the problems are
+3 main things 
+Report errors
+abstraction
+warning
+Autofix is a thing, but it changes things without you
+prettier (is a program for this)
+up to you, he does not like this
+CSS/SCSS
+* stylelint - node based solution - fast (the one we will look at)
+* scss-lint
+* sass-lint
+Config file for stylelintrc.json
+JS COnfig File 
+.eslintrc
+webpack with bable to es6, es5 is shipped after minification
+extending an existing rule set
+Rules
+options to config specific rules per 
+PHP_Codesniffer
+PP ruleset
+* WordPress
+* PSR
+He would start with WP, easier to learn, 
+not parallel, different but accomplish basically same thing
+PGP Config File
+rule sets are like plugins a bit
+Errors and warnings work the same in the PHP-code-sniffer
+everything with an X can autofix in the tool
+auto add parenthesis for instance
+flag ot show the sniffs by instance and the code
+add to existing project - can be a fairly big activity
+Autofix is nice to clean up low hanging fruit
+run linter again
+then you are looking at things that need conversation and decisions
+ignore entire files?
+Ignore specific rules in file?
+Fix Everything?
+Existing - lint new code!
+if you want to exclude or ignore old code, thats OK, but going forward LINT!
+PHP_CodeSniffer
+PHPCS_videos
+sample theme is available screaming-fist
+PHPMD/PHP Depend
+Code quality measurements
+PHP Unit is the standard!
+
+https://twitter.com/McDwayne/status/1040995863558930432
+
+
+[Better Search And Beyond: An Introduction To ElasticPress](https://2018.sacramento.wordcamp.org/session/introduction-elasticpress/)
+[Vasken Hauri](https://twitter.com/vaskenhauri)
+
+Vasken and I met a few years ago and I knew that if he was presenting there would be a lot to take in.  This man is a wealth of knowledge and it is a very rare event where I get to hear him speak.  Elasticpress is something I hear about pretty often and have to speak about.  While my current employer does not support it directly, opting for [Solr], I still think it is important to understand the tools the community is using overall.  This talk is exactly the crash course I would send people if they ask me in the future.  Can't wait for this to get to wordpress.tv
+
+Raw Notes:
+What is Elasticsearch
+open source java based standalone DB and query engine based on Apache Lucene
+Designed to do queries WP can not do out of the box
+Restful API
+Relevant Results, Performant aggregation and is much more!
+Running it
+Own server with Docker
+Or get 10UPs Elasticpress tooling
+elasticpress.io
+qbox.io
+jeroku.com
+amazon has a thing
+Basic search functionality
+If you install ElasticPress and all WP Search queries run thoguh it
+but is that all you want?
+Facets
+can be used with any taxonomy (Categories, tags, or custom)
+Helps visitors focus in on content they're looking for
+great alternative to traditional keyword search
+designed to fit into your theme's stylesheets
+WooCommemrce integration
+Great for search faceting and findability (fuzzy matching, etc, helps people find stuff)
+also for searching past orders
+[demo.elasticpress.io/shop](https://demo.elasticpress.io/shop)
+`ep_integrate`
+easy to add things iteratively over time
+let's break mysql
+start with a million posts
+add a healthy sprinkling of revisions
+store some useful, queryable data in taxonomies and metadata
+query is reasonable from business logic is not good computer logic
+can blow up very quickly
+if you add one line of ep_intergrate a the top, very fast
+filtered search
+Specify meta and taxonomy fields to include in your search
+Aggregations
+Allows you to create buckets
+improves complex queries that are impossible in MySQL
+multi-site search
+pass `sites-all` and search them all
+related content 
+`ep_find_related($post_id, $return = 5)`
+Document search
+got a legacy process that involved PDF or Office docs, now that content can be searchable in WP
+Requires Ingest Attachment plugin running on the ES instance
+Other features?
+protected content: enables to index non-public data from your WP install
+Autosuggest helps searchers find what they are looking for 
+NB: this does require that visitors be able to directly access your ES cluster
+Geofencing
+filter events within a geographic range
+sort event by date
+aggregate by event types
+ep_geo
+Things to consider
+retrieving specific post from DB works fine, don't use ES for this
+not everything is faster
+ES does not do security. anyone can index anything, can delete indexes
+no native permissions
+you have to lock it down
+Debugging EP
+[wp.org/plugins/debug-bar-elasticpress](https://wordpress.org/plugins/debug-bar-elasticpress/)
+tons of plugins for this plugin
+see what is happening behind the scenes
+Advanced customization
+ep_config_mapping enables field mapping and tokenization
+ep_register_feature() lets you add own features int he same way as WooCommerce module, protected content an others
+
+https://twitter.com/ElasticPressIO/status/1041020593200521216
+
+
+[The Biggest Design Problem I’ve Confronted Is Project Management](https://2018.sacramento.wordcamp.org/session/project-management/)
+[Chris Ford](https://twitter.com/ci_chrisford)
+
+No secret that I love talks about Project Management.  As my career path pushes me further into this realm I can honestly say if it were not for talks about the PM role at [WordPress events](https://central.wordcamp.org/schedule/) and [Drupal events](https://www.drupical.com/) I would feel way more lost than I do.  Chris is a wonderful presenter.  She laid out how she went from designer to PM and how her previous experience and specialization allowed her a unique perspective that helped her better communicate with her team.  While it is easy to open a slack channel or email thread, it is not so easy to actually actively listen to what is being said and to meet people on their wavelength all the time.  A look a the basics of design is a great way to think about the basics of how a team should communicate.
+
+Raw Notes:
+Her background is not PM
+it was design
+what she learned in design helped her succeed with PM role
+Principles, processes and presentations
+Principles:
+Number 1 is Empathy
+for her this mean to actually care about people
+bedrock of design
+have a genuine interest
+be flexible
+this is an under appreciated part of Empathy
+if you 'decided' what the solution is before understanding the problem, can't be empathetic
+Communication is another key principles
+shared language
+Using asana has helped standardize language
+a project vs a task
+active listening, 
+don't just wait to talk
+clients are paying you to listen to them
+R-E-S-P-E-C-T
+had a watershed moment where she realized if someone didn't understand what she was talking about it was her fault, not their fault
+this small shift changed everything
+everyone brings something to the table
+Collaboration - we have to work with other people
+Participation
+Process - design thinking
+not showing the arrow thing
+a few been very helpful
+Define the problem
+if you don't know what you are solving you will never solve it
+observe, research
+Test Everything
+Iterate often
+things change over time and that is how it should be
+small changes
+frequent feedback
+this is key to everything
+patience
+a 5 year plan is real
+not stressed about things she has not done yet
+Visual hierarchy
+let people know what is important by showing it
+borrow/steal design ideas from other projects
+4 page checklist for Asana
+Use templates!
+
+https://twitter.com/McDwayne/status/1041066354214809600
+
+
+
+[The Benefits of Continuous Integration](https://2018.sacramento.wordcamp.org/session/continuous-integration/)
+[Andrew Taylor](https://twitter.com/ataylorme)
+
+Literally everything I know about this topic is the result of either Andrew's or [Steve Persch's](https://twitter.com/stevector) work.  In fact, in my [Postitnow](https://github.com/mcdwayne/postitnow) project is built using Andrew's example repo for BackstopJS training.  It is always a pleasure to see him speak and this is my favorite delivery so far.  This is one to watch for on wordpress.tv  
+
+Raw Notes:
+Maintaining sites is the what we are doing 
+update a site, see is it the same site,
+did this update break things?
+slide by side
+easy to miss small things, like padding issues
+world of updates and testing
+should update, but do we always check all features?
+trying to not break production
+client signs off on things once it works
+need to make sure it worked before the feature
+the ideal workflow, make change and then fully test site
+do not let bugs out
+but changes happen frequently
+And
+changing things is boring!
+manual testing kinda sucks, adds up quick, lot of time
+Make the robots do the work so we can be lazy but still have the benefits
+Tools make this easy
+WordHat, Lighthouse, Backstop
+What I want to be doing is fix what the client thinks is broken in production
+not looking for the breaks
+CI servers, Travis, CircleCI, GitLab runners
+script and defined workflow
+if you run gulp, grunt, webpack locally
+can have this done from a CI server
+VRtesting does have limits
+noise is an issue
+automated Workflow Examples exist on his github
+rigged for Pantheon, but you can mod to use any staging environment
+benefits
+reduced overhead
+we don't do manual testing every time because there is too much work
+reinvest your time to automate more things, just analyze test results over time
+consistency.  Team wide.
+gives us confidence!
+reliable communication
+git to store Jira tickets in commits
+don't untangle things and hunt for things by hand any more
+get Jira to update itself
+thinking deeper about the update process
+update and then repeat on all sites
+automating this means we can scale this
+make this run while I am focused on other things
+occasionally things break , but we know where and we fix and move on
+test on every change, automate your tests
+enforce the rules
+upfront work
+outweighed by long term benefits
+
+https://twitter.com/McDwayne/status/1041412243764596737
+
+
+[Solving Content Reuse And Syndication](https://2018.sacramento.wordcamp.org/session/solving-content-reuse-and-syndication/)
+[Jake Goldman](https://twitter.com/jakemgold)
+
+Jake gave a talk at [WordCamp for Publishers 2017](https://www.mcdwayne.com/2017/08/21/wordcamp-for-publishers/) that changed the way I thought about decoupled systems.  Jake returned with a talk that wonderfully detailed the problem set of publishers who need content distribution across multiple properties.  While the use case itself is fascinating to me, the solution, [Duplicator](https://distributorplugin.com/
+), that he and his team at [10UP](https://10up.com/) have built is just as interesting.  I guess I am just trying to say I really enjoyed this talk.    
+
+Raw Notes:
+Uber example
+blog in a network
+blogs have different editorial staffs and methodologies
+don't want to give editors world wide access
+but also want freedom per region
+if publish in one region how do we reuse content accross the newtork
+9to5 network
+electric, 9to5 Google, etc
+6 different sites across tech/lifestyle subject matter sites
+niche 
+don't want to become a generic tech crunch
+in their feed they want to highlight something from another site
+have that link directly back to the original source to cross promore
+Bloomjoy, syndication network
+work with a lot of lifestyle brands, a lot of them
+most large properties have more than one property
+Promoting content across sites
+pushing from content staging env to prod
+new content types, news releases, whole set of publications and push all at once
+challenges and opportunities for them
+editorial efficiency (UX)
+maintaining and managing copies
+SEO issues around attribution to original source that does not double count content
+meta tag - rel="canonical"
+this solves this
+Authorship & "Users"
+do you create author for Jane Doe on all the sites or just the original site
+one solution to rule them all
+2 modes to think about how to distribute
+1. push it our to all the sites
+2. pull from other content providers you can pull into your sites
+Adds "Distributor" box in your wp-admin
+Clean UI
+other concept - connection types in the tool
+sites distribute to and from other sites
+internal = inside multisite
+external = site to non-multisite site
+internal, all access is maintained based on previous settings
+for external, one authenticated connection you create
+at creation time setting rights and access levels
+Distributor MUST be installed on all sites to work this
+exposes the REST API in a novel way
+currently support regular REST API
+and the wp.com REST API - slight variation
+if you want to get fancy can make own connection types
+Drupal, AEM, Contentful
+would love to see other people build and use these
+connection to product catalog
+custom content distributor UI (Associated Press)
+RSS feeds and etc
+Body, Media, Taxonomy, Metadata
+challenges
+content - different plugins and blocks on different connections
+solutions is 'rendered' and 'raw' content body are both shared
+by default, we try to be smart about this based on what editor is where
+you as a dev can override this
+render as HTML if missing block
+Media - content with a lot of media can be very slow to copy and time out
+timeouts!
+canonical URLs in body
+solution: copy featured image,use remote images in body. Option to copy "attached" media, Hooks and Filters
+Road map: intelligently scan and update body for local assets
+smarter for things like timeout
+Taxonomy
+Different sites often classify content differently
+send all the taxonomy 
+for now hooks and filters
+road map - set 'right' taxonomy at time of send
+Metadata is the full one...
+common to say "here are related story with post ids" breaks if post order is different
+dev: Hooks and filters metadata
+Road map: add build in support for poplar plugins and solutions that rely on meta data 
+example: ACF
+tool auto checks if post type before syndicating
+fundamental, all copies get updates from original version
+content managers are forking the original
+locked by default on destination
+can unlink it and then edit
+users, replace author name with name of the site it came from with link
+auto handle meta tags
+SEO correct
+YOAST SEO assumed and compliant
+support Gutenberg (Beta right now)
+designing with extension in mind is key to all their work, seriously here
+can ignore hierarchy from a code level
+not all networks are the same
+modify content behavior
+add attribution before it goes out.
+good road map laid out, wants to get more devs looking at it
+free to use, is behind reg
+would love more feedback
+distributorplugin.com
+
+
+
+
+https://twitter.com/McDwayne/status/1041426749211340800
+
+
+[Accessibility: Beginning The Journey](https://2018.sacramento.wordcamp.org/session/accessibility/)
+[Ben Byrne](https://twitter.com/drywall)
+
+"Make your sites Accessible.  You don't have to tackle it all at once, but every little step in the right direction helps." says Ben. Every time I go to any talk about this subject area I learn at least one new thing that helps me improve my site moving ahead.  This time around I learned to never link text that simply says 'click here'.  Someone using a screen reader to just display the links from a page will get a lot of unhelpful 'click here' links they will have no idea what to do with.  Small things and incremental improvements make all the difference in the long run.  
+
+Raw Notes:
+Not full time job is focus on A11y
+but it is a full time concern
+let's clear up some expectations about who a11y is for
+issues are common and not necessarily permanent
+he does not know a real % and ow that math works, 
+maybe who is using a screen reader
+focus on the ideas
+when some people hear about a11y, they think permanent situations
+not always the care
+visual impairment
+auditory impairment
+grampa holding a baby vs autoplay
+cognitive impairment
+might be really tired or you might be a cat
+Why care?
+Humanity
+audience
+search engines
+finances
+nobody wants to limit our reach, want all users to use your site
+when working with non-profits, strings attached, if not a11y, no grant $
+withdrawn $ and government issues and lawsuits if you are dropping ball on this
+Section 508
+W3C WCAG 2.0
+levels A, AA, AAA
+needing to meet AA is largest chunk of customers
+AAA is highest standard no one feels need to get there
+2.1 is coming
+19 new things added, not revise old things
+the basics!
+not final total checklist
+Text-only
+use ALT, TITLE attributes
+[https://webaim.org/techiques/alttext/](https://webaim.org/techiques/alttext/)
+keyboard navigability
+mindful of TABINDEX
+skip-to-content link
+remember doc structure
+use semantic HTML5
+`<nav> <aside> <main>` etc
+Content
+be mindful for good A11y
+use descriptive titles, headers, and link text
+never use 'click here'
+do not reference this by position
+see sidebar at left
+we live in a responsive world, left, beneath are not guaranteed on all screens
+Media:
+no autoplay, ever!
+captions on video, audio and other non-text content
+no images of text
+in code:
+indicate language
+don't have major errors
+Gracefully handle zooming
+WAVE from WEBAIM.ORG
+Spectrum - another good tool
+simulates different colorblindness situations
+WCAG contract ratio analyzer
+other tools
+Lighthouse
+AXE (from deque systems)
+this is not a binary problem
+it is a spectrum
+journey is never complete
+Compliance is not everything
+the UX is that matters
+Every step is good
+as long as it is forward
+don't feel you have to solve everything at once.  
+
+https://twitter.com/ChrystiTovani/status/1041443789796065281
+
+
+## Wrapping Up
+
+This is my local WordCamp.  No, it is not in my hometown, but that is the truth for so many people that come to any camp, traveling from their homes and routines and loved ones to a city they do not actually live in.  They come from miles and miles around to share their knowledge and to rejoice in the community of WordPress and FOSS.  This year was a great one, with so many new people to meet and so many new things to learn.  I am so amazingly grateful for the chance to be a part of it all.  Cant wait until next year for WordCamp Sacramento 2019
+
+https://twitter.com/Wrighteous/status/1041063014076579840
+
+
+https://twitter.com/jwh1138/status/1041343552914042891
+

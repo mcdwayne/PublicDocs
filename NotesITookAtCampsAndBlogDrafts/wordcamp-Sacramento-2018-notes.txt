@@ -1,0 +1,524 @@
+wordcamp-Sacramento-2018-notes
+
+General:
+
+mariachi
+https://twitter.com/Wrighteous/status/1041063014076579840
+
+
+Speaker Dinner
+
+https://twitter.com/McDwayne/status/1040788126711480320
+
+
+Lunch:
+
+https://twitter.com/stewartsavage/status/1041045921784463360
+
+https://twitter.com/montereypremier/status/1041049597374656512
+
+
+NEtworking
+
+
+###WPVegan
+
+###WCKaraoke
+
+I honestly did not think we could go downhill from the [Denny's from last year](https://www.mcdwayne.com/2017/09/21/wordcamp-sacramento/), but [there we were](http://therivercitysaloon.com/).  
+
+
+## Sessions
+
+### Opening Remarks
+
+https://twitter.com/WordPressWest/status/1040991384671416320
+
+
+
+[Leverage Linting To Be A Better Developer](https://2018.sacramento.wordcamp.org/session/leverage-linting/)
+[Matt Vanderpol](https://twitter.com/bookwyrm)
+
+
+Benefits of Linting
+Catch bugs
+Enforce best proactices
+ensure return
+no arguments (about formatting, just focus on code quality)
+Let's look at Proces Flow
+Examples
+and adding to existing project
+Resources (slides are going to be available)
+Many goals for this talk, tu biggest is to be a jumping off point
+Overview
+* Edit - 
+ * Lint - 
+  * Report 
+loop
+do what works for your project, this is not the 'one true way'
+Rules are the lynchpins of the project
+formatting rules - cosmetic, spacing, indentation, ect
+code quality rules - how long should functions be, variable name standards
+the second one is harder
+Inline config
+ignore or Tweak
+* special comments
+ * by file
+ * by block
+ * by line
+``` //this is an inline comment ```
+IDEs can show your errors as you work
+rulesets are most often predefined
+indenting is that tab or spaces, that is example
+Reports show you where the problems are
+3 main things 
+Report errors
+abstraction
+warning
+Autofix is a thing, but it changes things without you
+prettier (is a program for this)
+up to you, he does not like this
+CSS/SCSS
+* stylelint - node based solution - fast (the one we will look at)
+* scss-lint
+* sass-lint
+Config file for stylelintrc.json
+JS COnfig File 
+.eslintrc
+webpack with bable to es6, es5 is shipped after minification
+extending an existing rule set
+Rules
+optins to config specific rules per 
+PHP_Codesniffer
+PP ruleset
+* WordPress
+* PSR
+He would start with WP, esier to learn, 
+not parallel, different but accomplish basically same thing
+PGP Config File
+rule sets are like plugins a bit
+Errors and warnings work the same in the PHP-code-sniffer
+everything with an X can autofix in the tool
+auto addd parenthasis for instance
+flag ot show the sniffs by instance and the code
+add to existing project - can be a fairly big activity
+Autofix is nice to clean up low hanging fruit
+run linter again
+then you are looking at things that need conversation and decisions
+ignore entire files?
+Ignore specific rules in file?
+Fix Everything?
+Existing - lint new code!
+if you want to explude or ignore old code, thats OK, but going forward LINT!
+PHP_CodeSniffer
+PHPCS_videos
+sample theme is available screaming-fist
+PHPMD/PHP Depend
+Code quality measurements
+PHP Unit is the standard!
+
+https://twitter.com/McDwayne/status/1040995863558930432
+
+
+[Better Search And Beyond: An Introduction To ElasticPress]()
+[Vasken Hauri]()
+
+What is Elasticsearch
+open source java based standalone DB and query engine based on Apache Lucene
+Designed to do queries WP can not do out of the box
+Restful API
+Relevant Results, Performant aggregation and si much more!
+Runing it
+Own server with Docker
+Or get 10UPs Elasticpress tooling
+elasticpress.io
+qbox.io
+jeroku.com
+amazon has a thing
+Basic search functionality
+If you install ElasticPress and all WP Search queries run thoguh it
+but is that all you want?
+Facets
+can be used with any taxonomy (Categories, tags, or custom)
+Helps visitors focus in on content they're ookingofr
+great alternative to traditional keyword search
+designed to fit into your theme's stylesheets
+WooCommemrce integration
+Great for search faceting and findability (fuzzy matching, etc, helps people find stuff)
+also for searhchng past orgers
+[demo.elasticpress.io/shop](https://demo.elasticpress.io/shop)
+``` ep_integrate ```
+easy to add things iteratively over time
+let's break mysql
+start with a million posts
+add a healthy sprinkling of revisions
+store some useful, queryable data in taxonomies and metadata
+query is reasonable from business logic is not good computer logic
+can blow up very quickly
+if you add one line of ep_intergrate a the top, very fast
+filtered search
+Specify meta and taxonomy fields to include in your search
+Aggregations
+Allows you to crarte buckets
+improves complex queries that are impossible in MySQL
+multi-site search
+pass `sites-all` and search them all
+related content 
+`ep_find_related($post_id, $return = 5)`
+Document search
+got a legacy process that involved PDF or Office docs, now that content can be searchable in WP
+Requires Ingest Attachment plugin running on the ES instance
+Other features?
+protected content: enables to index non-public data from your WP install
+Autosuggest helps searchers find what they are looking for 
+NB: this does require that visitors be able to directly access your ES cluster
+Geofencing
+filter events within a geographic range
+sort event by date
+aggregate by event types
+ep_geo
+Things to consider
+retrieving specific post from DB works fine, don't use ES for this
+not everything is faster
+ES does not do security. anyone can index anything, can delete indexes
+no native permissions
+you have to lock it down
+Debuggin ES
+[wp.org/plugins/debug-bar-elasticpress](https://wordpress.org/plugins/debug-bar-elasticpress/)
+tons of plugins for this plugin
+see what is happening behind the scenes
+Advanced customization
+ep_config_mapping enables field mapping and tokenization
+ep_register_feature() letts you add own features int he same way as WooCommerce module, protected content an others
+
+
+
+
+https://twitter.com/ElasticPressIO/status/1041020593200521216
+
+
+[The Biggest Design Problem I’ve Confronted Is Project Management](https://2018.sacramento.wordcamp.org/session/project-management/)
+[Chris Ford](https://twitter.com/ci_chrisford)
+
+Her background is not PM
+it was design
+what she learned in desing helped her succeed with PM role
+Principles, processes and presentations
+Principles:
+Number 1 is Empathy
+for her this mean to actually care about people
+bedrock of design
+have a genuine interest
+be flexible
+this is an under appreciated part of Empathy
+if you 'decided' what the solution is before understanding the probelem, can't be empathetic
+Communication is another keu principles
+shared language
+Using asana has helped standardize language
+a project vs a task
+active listening, 
+don't just wait to talk
+clients are paying you to listen to them
+R-E-S-P-E-C-T
+had a watershed moment where she realized if someone didn't understand what she was talking about it was her fault, not their fault
+this small shift changed everything
+everyone brings something to the table
+Collaboration - we have to work with other people
+Participation
+Process - design thinking
+not showing the arrow thing
+a few been very helpful
+Define the problem
+if you don't know what you are solving you will never solve it
+observe, research
+Test Everything
+Iterate often
+things change over time and that is how it should be
+small changes
+frequent feedback
+this is key to everything
+patience
+a 5 year plan is real
+not stressed about things she has not done yet
+Visual hierarchy
+let people know what is important by showing it
+borrow/steal design ideas from other projects
+4 page checklist for Asana
+Use templates!
+
+
+
+
+https://twitter.com/McDwayne/status/1041066354214809600
+
+
+
+[How To Design An Omnichannel E-Commerce Site With Payment Processing](https://2018.sacramento.wordcamp.org/session/omnichannel-ecommerce-with-payment-processing/)
+[Lisa Anderson](https://twitter.com/RemulakFrance)
+
+Things change and that is good
+sales channels
+how businesses find customers
+API ecosystsm
+devices
+Payment gateways are great
+PCI compliance walkthrough
+lower level self assessments
+level 2/3 
+hosted checkout page
+secure, mobile responsive
+card vault, tokenization
+- can you get your customer data out of the vendor's platform if you need to migrate to a new platform
+payment colutions
+reporting and storage 
+is there a transaction ID, order numer, ourchase number and you can follow the deposits
+Can you deal with all customer disputes in one portal?
+Pricing options: daily, montly, cost +, Bundled
+
+
+https://twitter.com/McDwayne/status/1041090089911115776
+
+
+
+[The Benefits of Continuous Integration](https://2018.sacramento.wordcamp.org/session/continuous-integration/)
+[Andrew Taylor](https://twitter.com/ataylorme)
+
+
+
+Maintaining sites is the what we are doing 
+update a site, see is it the same site,
+did this update break things?
+slide by side
+easy to miss small things, like padding issues
+world of updates and testing
+should update, but do we always check all features?
+trying to not break production
+client signs off on things once it works
+need to make sure it worked before the feature
+the ideal workflow, make change and then fully test site
+do not let bugs out
+but changes happen frequently
+And
+changing things is boring!
+manual testing kinda sucks, adds up quick, lot of time
+Make the robots do the work so we can be lazy but still have the benefits
+Tools make this easy
+WordHat, Lighthouse, Backstop
+What I want to be doing is fix what the cient thinks is broken in production
+not looking for the breaks
+CI servers, Travis, CircleCI, GitLab runners
+scrpt and defined workflow
+if you run gulp, grunt, webpack locally
+can have this done from a CI server
+VRtesting does have limits
+noise is an issue
+automated Workflow Examples exist on his github
+rigged for Pantheon, but you can mod to use any staging environment
+benefits
+reduced overhead
+we don't do manual testing every time because there is too much work
+reinvest your time to automate more things, just analyse test results over time
+consistency.  Team wide.
+gives us confidence!
+reliable communication
+git to store jira tickets in commits
+don't untangle things and hunt for things by hand any more
+get Jira to update itself
+thinking deeper about the update process
+update and then repeat on all sites
+automating this means we can scale this
+make this run while I am focused on other things
+occasionally things break , but we know where and we fix and move on
+test on every change, automate your tests
+enforce the rules
+upfront work
+outweighed by long term benefits
+
+
+https://twitter.com/McDwayne/status/1041412243764596737
+
+
+
+[Solving Content Reuse And Syndication](https://2018.sacramento.wordcamp.org/session/solving-content-reuse-and-syndication/)
+[Jake Goldman](https://twitter.com/jakemgold)
+
+Uber example
+blog in a network
+blogs have different editorial staffs and methodologies
+don't want to give editors world wide access
+but also want freedom per region
+if publish in one region how do we reuse content accross the newtork
+9to5 network
+electric, 9to5 google, etc
+6 different sites across tech/lifestyle subject matter sites
+niche 
+don't want to become a generic tech crunch
+in their feed they want to highlight something from another site
+have that link directly back to the original source to cross promore
+Bloomjoy, syndication network
+work with a lot of lifestyle brands, a lot of them
+most large properties have more than one property
+Promoting content across sites
+pushing from content staging env to prod
+new content types, news releases, whole set of publications and push all at once
+challenges and opportunities for them
+editorial efficiency (UX)
+maintaining and managing copies
+SEO issues around attribution to original source that does not double count content
+meta tag - rel="canonical"
+this solves this
+Authorship & "Users"
+do you create author for Jane Doe on all the sites or just the original site
+one solution to rule them all
+2 modes to think about how to distribute
+1. push it our to all the sites
+2. pull from other content providers you can pull into your sites
+Adds "Distribitor" box in your wp-admin
+Clean UI
+otehr concept - connection types in the tool
+sites distribute to and from other sites
+internal = inside multisite
+external = site to non-multisite site
+internal, all access is maintainted based on previous settings
+for external, one authenticated connection you create
+at creation time setting rights and access levels
+Distributor MUST be installed on all sites to work this
+exposes the REST API in a novel way
+currently support regular REST API
+and the wp.com REST API - slight variation
+if you want to get fancy can make own connection types
+Drupal, AEM, Contentful
+would love to see other people build and use these
+conneciton to product catalog
+custom content distributor UI (Associated Press)
+RSS feeds and etc
+Body, Media, Taxonomy, Metadata
+challenges
+content - different plugins and blocks on different connections
+solutions is 'rendered' and 'raw' content body are both shared
+by default, we try to be smart about this based on what editor is where
+you as a dev can override this
+render as HTML if missing block
+Media - content with a lot of media can be very slow to copy and time out
+timeouts!
+cna ginf URLs in body
+solutoin: copy featurd image,use remote images in body. Option to copy "attached" media, Hooks and Filters
+Roadmap: intelligently scan and update body for local assetts
+smarter for things like timeout
+Taxonomy
+Different sites often classify content differently
+send all the taxonomy 
+for now hooks and filters
+roadmap - set 'right' taxonomy at time og send
+Metadata is the ful one...
+common to say "here are related story with post ids" breaks if post order is different
+dev: Hooks and filters metadata
+Roadmap: add build in support for poplar plugins and solutions that rely on meta data 
+example: ACF
+tool auto checks if post type before syndicating
+fundamental, all copies get updates from original version
+content managers are forking the original
+locked by default on destination
+can unlink it and then edit
+users, replace author name with name of the site it came from with link
+auto handle meta tags
+SEO correct
+YOAST SEO assumed and compliant
+support Gutenberg (Beta right now)
+designing with extension in mind is key to all their work, seriously here
+can ignore hierarchy from a code level
+not all netowrks are the same
+modify content behavior
+add attribution before it goes out.
+good roadmap laid out, wants to get more devs looking at it
+free to use, is behind reg
+would love more feedback
+distributorplugin.com
+
+
+
+
+https://twitter.com/McDwayne/status/1041426749211340800
+
+
+[Accessibility: Beginning The Journey](https://2018.sacramento.wordcamp.org/session/accessibility/)
+[Ben Byrne](https://twitter.com/drywall)
+
+Not full time job is focus on A11y
+but it is a full time concern
+let's clear up some expectations about who a11y is for
+issues are common and not necessarily permanent
+he does not know a real % and ow that math works, 
+maybe who is using a screen reader
+focus on the ideas
+when some people hear about a11y, they think permanent situations
+not always the care
+visual impairment
+auditory impairment
+grampa holding a baby vs autoplay
+cognitive impairment
+might be really tired or you might be a cat
+Why care?
+Humanity
+audience
+search engines
+finances
+nobody wants to limit our reach, want all users to use your site
+when working with non-profits, strings attached, if not a11y, no grant $
+withdrawn $ and government issues and lawsuits if you are dropping ball on this
+Section 508
+W3C WCAG 2.0
+levels A, AA, AAA
+needing to meet AA is largest chunck of customers
+AAA is highest standard no one feels need to get there
+2.1 is coming
+19 new things added, not revise old things
+the basics!
+not final total checklist
+Text-only
+use ALT, TITLE attributes
+ https://webaim.org/techiques/alttext/
+keyboard navigability
+mindful of TABINDEX
+skip-to-content link
+rememebr doc structure
+use semantic HTML5
+`<nav> <aside> <main>` etc
+Content
+be mindful for good A11y
+use descriptive titles, headers, and link text
+never use 'click here'
+do not reference this by position
+see sidebar at left
+we live in a responsive world, left, beneath are not guaranteed on all screens
+Media:
+no autoplay, ever!
+captions on video, audio and other non-text content
+no images of text
+in code:
+indicate language
+dont have major errors
+Gracefully handle zooming
+WAVE from WEBAIM.ORG
+Spectrum - another good tool
+simulates different colorblindness situations
+WCAG contract ratio analyzer
+other tools
+Lighthouse
+AXE (from deque systems)
+this is not a binary problem
+it is a spectrum
+journey is never complete
+Compliance is not everything
+the UX is that matters
+Every step is good
+as long as it is forward
+don't feel you hav to solve everything at once.  
+
+https://twitter.com/ChrystiTovani/status/1041443789796065281
+
+
+## Wrapping Up
+
+This is my local WordCamp.  No, it is not in my hometown, but that is the truth for so many people that come to any camp, traveling from their homes and routines and loved ones to a city they do not actually live in.  They come from miles and miles around to share their knowledge and to rejoice in the community of WordPress and FOSS.  This year was a great one, with so many new people to meet and so many new things to learn.  I am so amazingly grateful for the chance to be a part of it all.  Cant wait until next year for WordCamp Sacramento 2019
+

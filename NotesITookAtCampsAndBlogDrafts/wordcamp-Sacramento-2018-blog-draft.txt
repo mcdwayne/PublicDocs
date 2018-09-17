@@ -537,6 +537,13 @@ don't feel you have to solve everything at once.
 https://twitter.com/ChrystiTovani/status/1041443789796065281
 
 
+### My Session
+
+[Shipping Content With WP-CLI](https://2018.sacramento.wordcamp.org/session/shipping-content-with-wp-cli/)
+
+I really had a great time giving this talk.  This is, by far, the most complex talk I have ever attempted.  I was able to refine it after presenting this back at [WordCamp Montreal](https://www.mcdwayne.com/2018/08/14/wc-montreal-2018/) earlier this year and glad I did.  I had really good conversations around this after the talk and I was delighted a couple project managers said they had new ideas to take back to their team to save valuable time.  One person mentioned they wrote down 5 terms they had not encountered before and they were going to research these as a way to improve.  It might be the last time I present this to be honest.  The star of this talk is good ol' fashioned BASH and I really have a desire to help people understand that as a topic next.  Stay tuned.  
+
+
 ## Wrapping Up
 
 This is my local WordCamp.  No, it is not in my hometown, but that is the truth for so many people that come to any camp, traveling from their homes and routines and loved ones to a city they do not actually live in.  They come from miles and miles around to share their knowledge and to rejoice in the community of WordPress and FOSS.  This year was a great one, with so many new people to meet and so many new things to learn.  I am so amazingly grateful for the chance to be a part of it all.  Cant wait until next year for WordCamp Sacramento 2019

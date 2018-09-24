@@ -1,0 +1,581 @@
+WordCamp LA 2018: A flawless Jenga game and a mariachi band 
+
+Once more I returned to [La La Land](http://got.net/~landauer/lists/CityOf.html), a city I have mixed feelings about.  There is lot of really cool stuff there.  Some of the [finest restaurants](https://la.eater.com/2017/12/29/16831500/michelin-stars-los-angeles-2017-hypothetical) and most [imaginative bars](https://www.thrillist.com/drink/los-angeles/43-la-bars-you-need-to-drink-in-before-you-die-los-angeles-drinking-bucket-list) on earth.  They also have a [rich cultural history](https://en.wikipedia.org/wiki/Culture_of_Los_Angeles) and just the loveliest [backdrop of mountains and ocean landscapes](http://www.welikela.com/sick-views-los-angeles-easy-access/) maybe anywhere in these united states.  Unfortunately this is all covered in a layer of smog and the most infuriating traffic in North America, which makes the people, well, let's leave it as 'affected by the bad parts'.   These are the main reasons I moved away all those years ago.  But I was very glad to be back for a brief stay because seeing my WordPress friends would make it all worth it as I got to go to [WordCamp Los Angeles 2018](https://2018.la.wordcamp.org/)
+
+https://twitter.com/WordCampLAX/status/1043532918495297538
+
+
+## Food and Fun
+
+### Speaker Dinner
+
+After spending almost as much time in a Lyft to get from my hotel to the restaurant as I did on the plane from [SFO](https://twitter.com/flySFO) to [Burbank](https://twitter.com/fly_BUR), I finally arrived at [Blue Cow Kitchen and Bar](https://bluecowkitchen.com/menu.html). It was awesome to be greeted by so many friendly familiar and soon to be familiar faces. If you know me at all you know I love hugs, so having so many people coming up and just giving them out freely is a happy time.  There were plenty of appetizers and drink tickets on hand as well. Afterward some of us wanted to get our pinball and [Street Fighter](https://www.youtube.com/watch?v=ZhixpUmIsKg) at [EightyTwo](http://eightytwo.la) a "A 21+ classic arcade and bar located in the Arts District of Downtown Los Angeles".  It was a wonderful first night. 
+
+https://twitter.com/McDwayne/status/1043343556159537152
+
+### Saturday.  There is a Starbucks on the ground floor of the [Cal State LA](http://www.calstatela.edu/) Student Union but we got tolerable coffee from catering services instead.  Snacks were not rolled out until the afternoon, so we were all ravenous when they wheeled out their lunch options.  Going to say it loud and proud, this organizing team made sure dietary restrictions were honored and respected and still gave me awesome schwag.  I know some camps prioritize the latter at all costs, but it is great when a balance for accessibility is achieved.  Good work! 
+
+https://twitter.com/McDwayne/status/1043577278154780672
+
+
+### WPVegan
+
+I know I am going to get to a point with this community effort where it is going to be so hum-drum that people got together to experience finely crafted plant based foods that it will not merit a mention.  But for now, I am celebrating every victory and omnivore who says "wow, I had I had no idea you could do that veggies" after finishing an amazing meal.  In the LA area, Pasadena specifically, there is a magical place called [My Vegan](https://www.yelp.com/biz/my-vegan-pasadena) that makes inexpensive and mond boggling good Thai and American foods that we could gather at for a fine meal before the after party.  Plant power!
+
+https://twitter.com/WordCampLAX/status/1043707739753668608
+
+### After Party
+
+We once again returned to the Blue Cow and I got treated really well by the staff.  It is the little things that matter in customer service and the speed and skill of their mixologists combined with those little things made sure we had a good time.  We also had face painting, giant Connect Four and [giant Jenga](https://www.youtube.com/watch?v=-r8XQSbiYzk).  I partnered with _the_ video game and board game superstar legend [Devin from BlueHost](https://www.linkedin.com/in/devinsears/) and we did not lose, instead hitting a draw as we more than doubled the size of the Jenga tower.  It was something a lot of people never saw before and made quite the spectacle.  
+
+https://twitter.com/TomOkerlund/status/1043707924374155264
+
+
+https://twitter.com/WordCampLAX/status/1043707456130568192
+
+
+The location proved hard to find for Lyft, so we made our way on foot afterward to [The Exchange](https://freehandhotels.com/los-angeles/the-exchange/) where we had even fancier things and got to know one another better.  This late night community building does have a cost and I knew the late night meant a tired morning, but honestly, I would not trade those conversations for anything.  Not just this time, but every time.  You are welcome to join us.  
+
+### Sunday
+
+More fo the same, but we got the leftover snacks, mostly granola and snack bars and pretzels, first thing in the morning, so breakfast was sweet.  It also meant we were not as ravenous when they rolled out a clone of the previous day's lunch menu.  Consistant and satisfying, I do want to applaud their catering team.  
+
+https://twitter.com/WordCampLAX/status/1043670903375245312
+
+
+Some of us went back to My Vegan again before heading out
+
+https://twitter.com/McDwayne/status/1044036575149973515
+
+
+## Sessions
+
+
+### My session
+
+[Let’s learn Git. No more excuses.](https://2018.la.wordcamp.org/session/lets-learn-git-no-more-excuses/)
+
+This went well.  I have given this enough times now that I am starting to see and understand patterns in questions and reactions from the audience.  I am giving this a few more times this year and now I want to rewrite it with these fresh learnings making it more focus on the concept and strip out a lot fo the code examples.  I'd love feedback on this if you have seen the talk or want to go through [my slides for my Git talk](https://www.mcdwayne.com/lets-learn-git-no-more-excuses/).  Feedback welcome! Thanks to all how came out.  
+
+https://twitter.com/WordCampLAX/status/1043542926389731328
+
+
+
+[7 Little Tricks In Your WordPress Settings You Might Be Missing](https://2018.la.wordcamp.org/session/7-little-tricks-in-your-wordpress-settings-you-might-be-missing/)
+[Gee Nonterah](https://twitter.com/geenonterah)
+
+We were all beginners at one point.  And if you were like me you mashed every button there was to see what it did and to better understand the menu options.  Some people are not like this and are actually scared of mashing buttons on things for fear of breaking something.  Very fortunate for all of us there are wonderful folks like Gee who patiently explain these basics.  I snuck in because, belive it or not, I have never actually methodically ever thought about the WP Admin screen settings and how new people would interpret them.  While the session was great, I think the real value was the Q&A section, which gave newcomers the chance to ask any question around this area of interest and we all learned together.  
+
+Raw Notes:
+log in
+in side, find and click
+Settings
+GNERAL under SETTINGS
+adjust site title
+adjust the tagline
+you can tweak these
+isellrubbershoes.com
+I help you walk more rubbery
+not just another WordPress site
+They is this necessary?
+We want to look professional.  
+can have the nicest design
+Membership
+uncheck the box that says `Anyone Can Register`
+You can change your date format and select YOUR time zone
+Under settings, go into "Writing"
+change default post category
+you got 10-15 seconds to help someone find something or they are gone
+Under Settings, go into "Reading"
+latest posts vs static strategy
+You can select what your permalinks look like
+helps with search engine optimization (SEO)
+
+
+https://twitter.com/WordCampLAX/status/1043573025839489024
+
+
+[The Dating Game: Understanding Price Anchoring](https://2018.la.wordcamp.org/session/the-dating-game-understanding-price-anchoring/)
+[Nathan Allotey](https://twitter.com/nathanallotey)
+
+THe first talk I ever gave at any camp was about [pricing](https://www.slideshare.net/DwayneMcDaniel/pricing-strategy-and-planning-dcco), so this topic holds a bit of a special place in my heart.  I met Nathan the night before at the Speaker Dinner and based on how awesome he seemed I had to go see how he approached this topic.  Well friends, this was one of the most entertaining and well researched talks I can recall recently.  This is going to be a 'most watched' talk after it gets to WordPress.tv.  For a tast of one of the many things that made this talk awesome: He once build a landing page with value anchoring options to get a date.  Real story.  Real results.  
+
+Raw Notes:
+Learned as a freelancer
+Envato job got access to all tutorials and he learned a lot quickly
+got MBA at University of Texas
+now he shares what he knows
+The Dating Game, been around for a while
+host and contestant on one side
+Is the show about dating?  Mystery? Couples?  What is it about?
+Shares his client on-boarding process
+email - email them back - background research - in person meeting is possible or remote - research - proposal
+client would negotiate
+client would accept and the  scope creep
+client would decline
+he was spending too much time with the client in the process and not closing
+Came across Cognitive Bias
+individuals create their 
+Your brains take shortcuts to proces complex decisions
+MIT students survey Web only $59 or web and print for $125
+68% 32% 
+web only print only 125 both 125
+15% 0% 84%
+price anchoring
+common cog bias, rely on the first piece of information
+only gauge people have for pricing is what they paid in the past
+expensive compared to what?
+I see price anchoring
+anchoring appears in romantic comedies
+all these movies introduce choice and perception
+Hitch
+a date doctor/consultant
+whole movie was about positioning
+spoiler alert, it is so old it comes on TNT
+Hitch meets a lady and his moves don't work
+he had been hurt
+got serious once choice was introduced
+his character was forced to act
+introducing choice to your pricing, helps clients make a decision in your favor
+The Steve Jobs Way
+keynote
+ipad
+$999 dropped to $499 on the day it was introduced
+gave a higher price to anchor and then lowered the price 
+Did that meeting even happen?
+Inception 
+a dream in a dream in a dream
+put ideas in people's minds
+price inception, is that a thing?
+Carola, Camry, Lexus
+A lot of websites that show 3 prices  
+contact us = a lot of zeros
+spotify
+free or premium
+[pages.xyz/type/pricing](https://www.pages.xyz/type/pricing)
+does it really work?
+Nathan Logic: "If this principle works then it should work if I try it on something obscure"
+back to the dating game
+LA trip
+true story
+built a landing page for 
+it would be great to see and hang out with Rihanna
+we can go to ryan goslings wedding
+or get something to eat
+sunday go to church
+FAQ
+position questions so your answer is yes in reply
+and it worked
+Price anchoring works and we see it all the time
+how can we apply it to our business?
+basic, plus and advanced level if you are offering service
+basic solves the core problem
+pricing to make some $
+1x || 1.5x to 2.5x || 3x to 5x
+what to make advanced?
+think about what your clients request you don't offer but end up doing anyway
+wp101.com
+offering WP tutorials for every version
+you can white label it
+anchoring the prices
+month to month or annual
+grammarly.com
+anchoring services, backups, etc
+if you are interfacing with clients, anchor those services
+original design files
+usibilityhub.com
+preference testing
+difference between customer service and customer assumption
+Always user price anchoring when giving prie
+use services which focus on increased value
+make sure it is profitable to do so
+define project scope in your contract based on the selected
+
+https://twitter.com/JenBlogs4U/status/1043603254423085056
+
+
+
+[How to start testing an existing WordPress plugin with PHPUnit](https://2018.la.wordcamp.org/session/how-to-start-testing-an-existing-wordpress-plugin-with-phpunit/)
+[BEHZOD SAIDOV](https://twitter.com/behzod)
+
+
+why?
+make sure it works
+you will have a safety net
+refactoring bcomes easy
+when bugs show up, tests can be written to ensure that these issues are exposed
+faster debugging and prevent future errors
+can provide documentation for code as well
+whaat do you need to start testing
+UNIX based OS, hard with windows, don't even try
+PHP
+MySQL
+PHPUnit testing lib
+WP test suite
+wp-cli (optional)
+multiple ways to set this up
+can take time to set this up
+Maybe use VVV
+scaffolding your test suite
+wp-cli lets you do this qucikly and in best way
+demo inside vvv
+what does it add
+phpunit.xml.dist
+bin/install-wp-tests.sh
+tests/bootstrap.php
+tests/test-sample.php
+.phpcs.xml.dist - code sniffer rules
+.travis.yml
+phpunit.xml.dist - `testsuites` is key to it all
+searches for files that start with `test-` and ends with `.php`
+bootstrap.php
+search the WP test suite and runs tha bash script
+wo_test_dir and wo_core_dir
+shows location of tests and core
+instll-wp-tests.sh
+downloas the required WP version, installs test suite
+no need to run in vvv
+important to do this on travis pipeline or the like
+what is a test?
+thest are pulic methods that prefix with test
+alternatively, you can use the @test anon
+assertions are methods 
+used to assert an actual value matches an expected value
+PHPUnit comes with a lot of assertion methods, some exmaples assertFals, AssertEquals, AssertNull
+`$this->assertEquals(4, $calculator->(2, 2))`
+integration for WP
+WP methods
+integration tests
+write to a file
+open a DB connection
+do something over a network
+DEMO, let's write some tests for our plugin
+factories let you generate things inside your code
+it is hard to start
+you need to motivate yourself
+it can seem pointless at first
+in the long term, you will see obviious benefits
+see how catching mistakes and problems
+
+https://twitter.com/WordPressRebel/status/1043630283260682246
+
+https://twitter.com/McDwayne/status/1043615102765752320
+
+[Close Your Eyes: Helping See Value in Accessibility](https://2018.la.wordcamp.org/session/close-your-eyes-helping-see-value-in-accessibility/)
+[JOE A SIMPSON JR](https://twitter.com/joesimpsonjr)
+
+
+literally cose your eyes
+he moved around
+lot of stats we hear about disability
+today we are talking about it from a designer standpoint
+are we designing for 1/5 less of our potential audience
+ignoring 20% of users
+eants to turn us into advocates
+There are no constraints ont h human mind. No walls atoung th human spirit, no barrirts to our progress except the ones we accept
+I always use the carpool lane as a solo driver
+worth the risk
+this is what we do for our designs a lot when not thinking a11y
+maybe compliance lawsuites for ADA
+eHarmony, Disney, US Dept of Education
+this is the scared straight section
+Web COntent A11y guidelines
+WCAG 1999
+updated to 2.0 in 2008, 2.1 2016
+if you take federal funds, need to meet Section 508
+almost the same as WCAG now
+"We really like the brand colors we used.  They are much more lively than darker ones" - not compliant though
+colors
+simulating color blindness example
+content is easier to see and hear when:
+color is not used as the only way of conveying info or IDing an object
+foregrowns and background color should contrast
+WebAIM color contrast checker
+contrast0ratio.com
+"We have a very lmited audience for this site and the design caters to them"
+they didn't want to make a mobile site
+content
+Headings, lists, tables and other structures in the content are marked-up properly
+semantic content struture tells the screenreader how the page is laid out
+don't use Headers out of order, created screenreader confusion
+YOASTSEO is great tool for readability as well
+avoid 'click here' or 'read more' or 'doanload'
+these are meaningless
+meaningful link text that described the content being linked to
+underlying links is so simple but very important
+bold for more impact
+don't put too much information
+img tag already says it is am image
+can be empty alt text if caption already suffices and a link
+colorblind graphs
+all same squiggly lines
+ust change shapes for each line
+Themes
+they present what we want to present to our clients
+WP Acessible-ready" themes
+an optonal stage of theme review psorcess that looks for certain things
+keyboard nav
+controls
+skip links
+forms
+headings
+AIOA compliant
+search by feature on wp.org
+only 123 A11y ready themes on wp.org
+wp Accessibilty plugin
+contact form 7
+
+
+https://twitter.com/jasonbraun/status/1043630784425340928
+
+https://twitter.com/machiellethomas/status/1043633436102029312
+
+
+
+
+[Gutenberg Q & A Panel](https://2018.la.wordcamp.org/session/gutenberg-q-a-panel/)
+[LARA SCHENCK](https://twitter.com/laras126), 
+[LEO POSTOVOIT](https://twitter.com/postphotos), 
+[ROY SIVAN](https://twitter.com/royboy789), 
+[MATT CROMWELL](https://twitter.com/learnwithmattc)
+
+why are you excited about Gutenberg
+Lara - content with a designer in mind
+Leo - the future coming together
+roy - react coming into core, huge deal
+what concerns you
+roy - data, cool array?  Not how it is saved to the DB
+will make it hard to power a ot of other things without structured data
+Leo - a lot of sites I have built will break on content alone
+unless we train people right, we might lose a lot mindshare
+Gutenberg Ramp
+Lara -  node models will take up all HD space
+Likes writing JS, but how CSS works in Gutes, removed seperation of concerns
+can be an ok place if standards are good, but bad practices are likely to sneak in
+Question:
+What about page builders?  It scares me
+Leo: Gutenberg Ramp
+the future is more wide open, think beyond the page builder and base use cases for WP
+reach out to the pagebuilder team and ask about Gutes
+Roy: difference between Gutes and page builder
+Gutes is content, page builder for layouts and around content
+right now they are different
+Pagebuilder is on the hook to work with Gutes, not you
+--distraction---
+Question: Worried about content and page structure 
+how will we interact with that data
+Roy: Structured data, (question asker using ACF)
+ACF is going to support Gutes, just released that version
+has not played with it yet
+data of Gutenberg - backwards compatibility is the crutch
+you can force it to use structured data by hijacking the DB
+Airstream use case
+Leo:
+Gutes is agnostic to CMS< this is a failing of WP core
+Lara: display in the editor to move around and configure
+
+
+https://twitter.com/WordCampLAX/status/1043896235508273157
+
+
+
+[How To Give A WordPress Presentation](https://2018.la.wordcamp.org/session/how-to-give-a-wordpress-presentation/)
+[JANSEN HENSCHEL]()
+
+3 mian points
+be prepared
+even your neorvousness 
+
+1. be preapared
+organize your  presentation
+what are the things you want stuck in their head when they leave
+what sticks out to people ae the highlight
+if at a loss
+start with main points
+take away from the presentations 3 - 5  points
+criticcal that the audience knows what will talk about
+there are 4 types of people
+begineer
+knowing how to use email to excell google docs
+some have not mastered their own phones yet
+on beginner day a few 
+corporations and non-profits like universities
+if ffor the beginner crowd
+not enough knowledge to 
+designer
+may be not the best coders even thogough greart at design
+classic design
+may not be as knowledgable 
+UX or UI better though maybe
+intermediate person
+have a website, but not much traffic going to it
+what is next stage
+business and marketing
+plan for them they know what thtey are doing
+looking for speific solutions to their problems
+Advanced 
+coding and marketing are pros
+looking for more clients
+not everyone fits into these groups perfectly. 
+general idea
+Last year was about beginner, design and intermeddiate wordpresser
+learednd but mayby forgot
+if people have take out their slides 
+lot of drawing in 
+also avoid having your slives be an exact copy of your presentations
+slides should support of what you are talking about
+or image expressing the idea
+you cn't plan for everything
+slides mess up with projectors
+do not trust anyting WiFi
+give them one forever contact
+you never know when someon ewill watch 
+you never know why they will watch
+a forever contact info you 
+don't attach it to your business
+businesses come and go
+give people all your information
+people come to conferences fot the experience of the presentation
+make your presentation seena dn heard
+something funny or interesting to set your apart
+people a thtere for information
+Even yout nervousness
+wont keep you from giving a great presneations
+Don't be nervous does not work, cause you will get nervous
+days leading up to the event 
+mac and cheesemom waid we are all supporting you
+thought it was just him mom
+then someone in community said same thing and he started to belive it
+I want to be dissapointed
+they want to see a good presentation
+you might think you will fail but that is just your nervoursness
+anti mesurment measures
+read it aloud
+to yourself out loud
+notince all the things wrong
+time dress rehearsals to adjust to time slot
+introduce yourself to establish a connectionand build comfidence
+don't let other nised derail you
+speak loudly
+to be heard
+do a sound check to establish 
+if writing a joke into it, leave a pause
+don't talk over their reactions
+you might be talking too fast or being fidgetyy
+pauses help people catch up
+don't speed through your slides
+when asked a question, repeat the question
+recordings can't hear the audience as well as you can
+loot at the audience 
+even your nervousness won't keep you from giving a great presnetation
+point 3
+tell your personal story
+you might think you don't have enough to say but why are you here?
+why do this stuff?
+the hard parts are the compelling subjects
+some people don't want to admit they got stuck on something 'simple' in retrospect
+but everyone goes through it
+hard to code at first, ut went to forums
+figured it out
+hard lessons around setting bounries at beginning
+WordPress or any community constantly needs new blood
+often he is the only kid in the room
+never think that you are alone and no one wants your knowledge
+bosun section
+write down all your thoughts
+just write down all ideas
+get everything down
+write down main points, what you learned
+number them 
+if you have a funny or vague
+if people seem confuse they stay confused
+people remember stories
+when people get stuck, your ideas can fly out
+use or lose them but just write them
+if stuck, do something you don't really like but is a chore
+free your mind when the body is working
+brings up new ideas
+even if you can't think up something new at least you did someothng productinve
+"Dealing with difficult teeamates" saple talk
+1. main point
+ 1. supporting fact
+ 2. supporting fact
+ 3. supporting fact
+2. main point
+ 1. supporting fact
+ 2. supporting fact
+ 3. supporting fact
+3. main point
+ 1. supporting fact
+ 2. supporting fact
+ 3. supporting fact
+what do you want people to remember
+be clear about your work
+understand your coworkers
+don't be afraid to ask for common decencies
+basic overarching story and main points
+the real conclusion
+
+
+
+https://twitter.com/JenBlogs4U/status/1043982882585231360
+
+
+
+[Gutenberg & Custom Applications – How do effectively build apps powered by Gutenberg](https://2018.la.wordcamp.org/session/gutenberg-custom-applications-how-do-effectively-build-apps-powered-by-gutenberg/)
+[ROY SIVAN](https://twitter.com/royboy789)
+
+Users don't care if react is there or not
+2014 at WCLAX 
+WP as an application framework
+RestAPI was in it's infancy
+no one remembers
+today, the same talk with gitenberg in place fo the WR-API
+explanation of gutes
+will come when it's ready and that will be OK
+start rant
+love and hate come in
+Well structured JSON looks like objects
+code example
+use that data everywhere
+democratze how we use the data
+iterate through your posts
+same category
+data looks structured  NO
+comments in code is structure
+but isn't that an array of data?
+no
+needs to be backwards compatible
+greatest thing and worst thing about WP
+Gutenberg Object Plugin
+built after WC San Diego
+hijacked 'save command' 
+puts into own custom table in MySQL
+<--->
+get data, put data and array of any blocks
+case study airstream
+retrolook company
+building anew site
+latlong is digital agency did work
+contracted with Roy
+WP and Woo
+Gutenberg
+GraphQL
+Headless React
+gutenberg & Woocommerce
+most of the time they are not friends, like TOm and Jerry
+no WooCommerce templates
+all react
+tweak for Woo disallowed Gutenberg
+you just have to turn it on in a deep deep buried undocuments function
+Power of react
+He built a custom upstream
+on Pantheon
+
+
+
+https://twitter.com/McDwayne/status/1043991385085341696
+
+
+
+https://twitter.com/McDwayne/status/1043991385085341696

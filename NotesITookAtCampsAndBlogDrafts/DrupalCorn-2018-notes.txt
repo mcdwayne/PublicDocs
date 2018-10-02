@@ -1,0 +1,476 @@
+DrupalCorn
+
+GENERAL
+
+## Food and Fun
+
+### Speaker Dinner
+
+We ate at [Court Avenue Restaurant & Brewing](http://www.courtavebrew.com/)
+
+https://twitter.com/CourtAveBrew/status/1026572696870641664
+
+### Game time
+
+https://twitter.com/kevinjthull/status/1045497837302296576
+
+### After Party
+
+https://twitter.com/McDwayne/status/1045817099644555265
+
+
+### Friday game time
+
+https://twitter.com/StPaulTim/status/1045900043868405763
+
+## Sessions
+
+Kicking off
+
+https://twitter.com/McDwayne/status/1045673718024990720
+
+### Friday Keynote
+
+[Learning @ Work](https://2018.drupalcorn.org/session/keynote-learning-work)
+[Tiffany Farriss](https://twitter.com/farriss)
+
+
+Raw Notes:
+What lasts? 
+What can ROman Contrete teach us
+centries old, but hol up better than modern
+Palentir - she became CEO, more than a title change
+Operational side is part of it
+allowed her to focus how they deliver
+Putting things out there and see change happen as things are shared
+Success of a company is based on people, who leave, which happens sooner than you think
+Average tenure at tech is 3 years
+how do we succeed together?
+A Sr. only hiring strategy is problematic for multiple reasons
+Everyone loves supergroups, but they do not last long
+not a strategic choice for a company
+not sustainable
+Sr. only strategy gives no advantage, then you are just a vector to getting short term teams together of rock stars
+also perpetuates inequality
+missing out on the pipeline and retention problems we already have
+diverse teams outperform uniform groups
+represent the people we are serving
+Culture, the way we do things around here"
+pattern of basic assumptions
+needs to have a lens of past experience where we understand the past
+a **learning organization** is an org skilled at creating , acquiring, tranferring knowledge and at modifying its behaviour to reflect new knowlege and insights
+Individual learning is different.
+taking individual lessons and boiling it up for long term team knowledge
+Affirm, Inform, Transform
+Iteration on how things work is super important
+this is what good journalism does for us
+Transformational leaders can see the advantages of tech changes
+Napoleon, Waterfall approach to war
+attrition warfare
+'to grind down' losses are staggering, really bad for people
+losses on both sides about equal
+one side breaks rank, they lose position and resources and then lose
+Napoleon kind of invented agile
+decisive victory, with as few resources as possible
+He invented Maneuver warfare, confuses decision making ability
+cannonballs were not standard sizes, got that solved and they got better
+faster to deploy and worked everywhere
+punch through cavalry lines and infantry as a spear, 
+made a playbook that he gave to his lieutenants 
+Napoleon had first mover advantage
+adjusted per situation
+leveled up his combined arms approach
+no new tech, just combined tihngs differently
+different mental model
+taking responsibility 2000 individual websites vs building a platform
+easier to do individual sites, you can do it in a day
+faster to set up that way
+takes a lot more complex modeling and collaboration to pull off a platform
+in cases of scale, generates efficiencies
+Drupalgeddon - solved in 5 minutes
+but greater initial investment
+must create a culture that promotes learning
+our educational system comes from Napoleon's idas in the Prussian system
+emphasize a good soldier strategy 
+obedience, duty, diligence, reading and writing and maths
+this is elevating a tactic and elevating to a strategy
+in the US system, same thing, gave rise to obedient factory workers
+works great for highly structured jobs, like manufacturing
+most of us are knowledge workers here at DrupalCorn
+Solving things that can't be solved by computers
+don't let the robots take our jobs, require critical thinking
+only some people thrive in autonomous situations 
+how do we enable people to do this
+"deeper learning" said IBM in the 80s
+National research council created charts defined:
+Cognitive, intrapersonal, interpersonal 
+Fixed vs Growth mindset
+no one controls where we start
+growth says you can learn and work hard at it
+hard work makes you smarter
+not about who you are
+Michael Jordan became the best at practice
+first in, last out, focused on fundamentals
+Company needs to demonstrate a genuine belief in human development
+open to receiving feedback and you give them training
+talk about all skills as learnable
+hire Jr. people and let people do new things
+present managers as resources for learning
+Perfect practice makes perfect
+Malcom Gladwell - don't waste your time with his book
+10,000 hour rule
+Pot Roast story
+little girl, saw mom cut ends of pot roast, asks why
+her mom didn't know why, learned from her mom, asked grandma, she didn't know, asked great-grandma, she had to to fit it in her old pan
+not all practice leads to improvement
+Nieve practice - play mindlessly
+not getting any better this way
+even 10,000 hours does not make you improve, automated ability
+Orgs don't just 'get better' takes work
+quality and quantity of practice matter
+everyday skills - arrested development - expert performance
+experts don't waste time examining small pieces, they work in patterns
+ they see things as units
+Double loop learning
+blame game a lot, smart people do not like to be wrong
+OSS is fairly used to single loop learning
+try smarter, not harder
+like Scrooge McDuck
+if leadership can't create "psychological safety", not going to build trusting teams that can succeed
+Members of a team:
+ * respect each other
+ * interested as each other as people
+ * not reject for who you are
+ * trust one another to have good intent
+manifested as:
+ * seeking and giving feedback
+ * making changes and improvements (don't stik to a bad course too long)
+ * obtaining or providing help or expertise
+ * experimenting
+ * engaging in constructive conflict or confrontation
+Deliberate practice
+creating the expert
+have to become an expert then an innovator
+important to mentor to gain even higher level of expertise
+
+
+https://twitter.com/McDwayne/status/1045677121388072961
+
+
+https://twitter.com/wylbur/status/1045679778630717440
+
+
+
+[A Introduction to Gulp](https://2018.drupalcorn.org/session/introduction-gulp)
+[Tim Erickson](https://twitter.com/StPaulTim)
+
+
+Raw Notes:
+Some people in room use it, some don't know what it is
+Goals for today: 
+* share tools
+* demystify some tools
+* have a discussion 
+* learn new things
+how he got here
+1. D7 - EN theme
+no sass, Sass with compass, Sass with Gulp
+Preprocess CSS and work with Variables
+automate CSS building from files
+didn't fully understand what was happening behind the scenes
+2. D8 - SASS or LESS with Grunt
+3. in Backdrop - Themes are very different - no sass or Less
+Gulp Watch on D7
+just want to make sure theme processes correctly (ignoring errors)
+began experimenting, SASS in Backdrop
+Wanted to use GULP in Bootstrap
+get rid of the mess
+What is Gulp?
+Toolkit that automates painful, time consuming tasks in dev around workflow, so you can stop megging around and build something
+[https://triplo.co/gulp](https://triplo.co/gulp)
+npm package
+What can you do with it?
+compile SASS...and more (missed slide)
+` npm install -g gulp`
+create
+Live Demo!
+Create package.json and composer.json
+
+	
+https://twitter.com/deliriousguy/status/1045698546941530114
+
+
+### My Session
+
+[Let's learn Git. No more excuses.](https://2018.drupalcorn.org/session/lets-learn-git-no-more-excuses)
+
+
+
+[A Drupaler's Guide To Marketing](https://2018.drupalcorn.org/session/drupalers-guide-marketing)
+[Drew Gorton](https://twitter.com/dgorton)
+
+Raw Notes:
+More money spent on websites than ads
+websites are the biggest marketing spend
+breaks down ecosystem
+wix to Drupal to Adobe
+WP used by practitioners
+Adobe is top down CMO decisions
+Drupal is getting squeezed in the middle
+google search prompting tells us there is a problem
+the sales/marketing funnel
+Awareness, interest, decision, action
+many, mnay players and moving peices of marketing
+CMS is just a tiny fraction of the landscape
+digital marketing lots of tech, many measurements
+many acronyms
+All easy,, learn 9 today
+tools to understand the rest
+CTR - Click through rate
+2000 visits/5000 impresions= 4% CTR
+CPC - Cost per CLick
+2000 visits/$1000
+$.50 PCP
+CPL Cost per lead
+$1000/80 newsletter (for example)
+CPL = $12.50
+are these good?
+It depends, need to compare to history
+compare to peers
+CAC - Customer Acquisition cost
+NNN - Net New Names
+MQL - Marketing Qualified Lead
+CLV/CLTV/LTV - Lifetime value
+S/ME - Sales/Marketing Efficiency
+	For every $ spent - how many new $ come back
+MoM - Month over Month
+"CPL is down 35% MoM" example
+There Acronyms seeems confusing at first, can take some time to parse
+but very doable
+this all makes reporting easy
+track progress over time, KPIs can improve
+Sharing things you care about does not always work
+"We typically improve our client's Cost per LEad (CPL) by 15%"
+this explains value in their terms
+very interesting is their KPI metrics
+measured things, shared insights, simplify reporting
+
+
+
+https://twitter.com/deliriousguy/status/1045737294710427649
+
+
+
+
+[Web Accessibility Training for Drupal Developers](https://2018.drupalcorn.org/session/web-accessibility-training-drupal-developers)
+[Katherine Shaw](https://twitter.com/katannshaw)
+
+Raw Notes:
+(came in a touch late)
+List of terms 
+A11y
+Sematic - signifiers between symbols
+HTML Code sniffer is the tool she uses.  Bookmarklet 
+Screenreaders are also important
+see slied for list of all these
+PEAT Photosensitivity Epilepsy 
+shows how to turn on voiceover under options on MAC
+Adin toolbar has an accessibility module
+Style Guide
+Block ARIA landmark rules
+block class
+
+
+
+[Demystifying Diversity and Inclusion](https://2018.drupalcorn.org/session/demystifying-diversity-and-inclusion)
+Presenter(s): volkswagenchick, Presenter(s): cotterpinx 
+
+
+How are things all the same, tend to get more of what you got
+but how are they different
+making an effort to respect those difference is diversity
+If we are talking about D7y in people
+look at all the attributes of a person, not just one
+more like this vs you may also like
+More like this, optimizes simliarities
+looking beyond what is most similar
+We need inclusion not just integration, or assimilation
+intersectionality
+treating people fairly means treating people with same result not same standard
+Equality vs equity vs justice
+Inclusive language - words matter
+Parent, not mother or father
+difference between sexual orientation and gender, but we are not talking on that today
+pronouns can not be assumed
+community, how do we do it?
+Start with job descriptions: watch for 'coded' language that teds to appeal to specific groups and excludes others
+think about process.  Does it give advantage to certain people
+Can you learn from it and move on
+foster inclusivity at events?
+Families, 
+neuro-diversity 
+people with disabilities
+19 year olds, what do they do?
+Call for Papers
+to have a more diverse speaker line up - you may need to invite a diverse range of speakers
+Include a Diversity and Inclusion section in the CFPs
+'lift and center their voices'
+Accessible Presentations 
+font size and weight, 
+content placement, 
+contrast, 
+slide effects, 
+visual content that needs to be described, 
+mic or not?
+inclusive body language
+Be an ally
+sharing pronouns
+DD&I slack channels in Drupal
+Local Accessibility meetups
+Volunteer at local camps, meetups, and DUGs
+
+
+
+https://twitter.com/seanedietrich/status/1045777981690580992
+
+
+### Saturday Keynote 
+
+[How to Fall in Love with Drupal Again](https://2018.drupalcorn.org/session/keynote-how-fall-love-drupal-again)
+[Matt Westgate](https://twitter.com/mettamatt)
+
+Drupal Song
+15 years of Drupal
+Lullabot founder and Tugboat and Drupalize.me
+Act 1 Falling in love with Drupal,
+Act 2 Falling out of love with Strual
+Act 3 Falling in love with Drupal again
+Core values of Drupal
+* Be Human
+* Collaborate Openly
+* Have Fun
+* Kick Ass
+Used to have World Book Encyclopedia
+year in review book annual
+one day brought a computer home and encylcopedia got dusty
+56K modem
+Yahoo was his now encyclopedia
+Saw source code and freaked out, fell into it
+ended up on [pagetutor.com](http://www.pagetutor.com/index.html)
+old school, notepad and HTML
+taught HTML at library on his own
+this is all around year 2000
+Windows98 were available Apache, PHP, MySQL
+Started a web company, Moment Design
+built his own CMS
+WYSIWYG editor, more time fixing pug than building features
+started to resent the software he made
+yahoo took him to Drupal.org next
+didn't get it at the time
+came back to it later, the more read about the Node system
+first project where he saw good documentation and modular architecture
+emailing patched back and forth
+maintainer text file, he got to be a part of it
+Met John van Dyke in the etemology
+fixed computer bugs for advancement of real bugs
+John became his first Drupal mentor
+wrote the first D book
+Threw first get together in Antwerp
+Acquia FUD
+worry Acquia was the first large commercial factory
+would they make their own closed 
+fought it,
+was just being scared, it didn't signal the end
+JS came through
+Drupal 7 changed things
+Drupal's place became the place for large scale digital experiences
+not for the hobbies small projects anymore 
+He burned out, sold his stuff and went to a monastery
+Learned to understand suffering
+come from a place of abundance
+Acquia made it easier to choose Drupal as Enterprise CMS
+yes, And... thinking leads to better collaboration
+You matter more than the cause
+Jeff Eaton's talk at DrupalCon Nashville
+it is easy to lose yourself in a good cause because you are passionate
+Drupal is people too
+Watched a lot of people, 
+Creating Healthy Culture of Expectation
+* Don't glorify death marches
+* Don't punish boundries when people exercise them
+* If you notice signs of burnout in others, help
+* Do more than Drupal 
+Life is the stuff that happens while you're waiting for moments that never come
+
+https://twitter.com/McDwayne/status/1046040115913641984
+
+
+
+[Making Search Work](https://2018.drupalcorn.org/session/making-search-work)
+[michael.smith@vml.com](https://www.linkedin.com/in/mas5d2/)
+
+
+We normally think of search as an afterthought
+need to question the need
+6 page marketing site, not real need for search
+firs ting people think of we think at Google
+everyone expects their site to be as good as Google and their 1000000 engineers
+and enormous amount of data
+Go to a site, look for careers
+cmd+f (if not there, that is not good)
+put it on the page
+next: google - vml careers
+google already does it, on small case just don't put search?
+good intuitive nav
+Can I build my site without search? - keep asking
+Spire website (natural gas)
+Natural Language Navigation
+just fake it and it suggests the best things
+What do we want to search?
+just content and titles only?
+content type audit is needed
+only search for full URLs, if no way ot get to taxonomy page, no use
+after understanding which entity types
+example 4 different indexes on a page - summary page
+search by index?  Multiple searches?
+sort by is important as well
+relevancy is score from search term, number of times it appears mostly
+Sometimes want to see recent, not relevant
+want to make sure it can be themed
+what do you want items to look like in a search result?
+Tyson food site example
+Mobile users matter, don't just think desktop
+Infrastructure
+Now we are sure we need search and know what to search
+let's Setting it up
+Strategy 1. No search
+Strategy 2. create indexes, not as fast as Solr and not as advanced at all
+no distance or location services, but it works
+Drupal.org uses DB search, set up right
+Strategy 3. Solr - best in Michael's opinion
+Apache project
+different search algorithms
+Works well with Pantheon and Acquia
+Strategy 4.  all other options, ElasticSearch, Algolia, legacy Google Search Appliance
+many more with APIs
+Search API module ties it all together
+lot of plugins for backend and front end
+servers and indexes are outside Drupal and need to set all that up
+Solr - need a service 
+again, Pantheon and Acquia have a service
+Or go find it hosted, WebSolr (+1), Searchstax, OpenSolr
+locally, you can set it up quick with Docksal
+really quick and easy setup 
+Solr schema.xml file
+it says what we can search for 
+found in the search_api.solr Drupal module
+<--distracted-->
+Views for solr environment
+delay, default is 2 minute delay before query is available once uploaded
+tab shows schema file
+after set up server, 
+select bundle - the content types
+not scanning the site every search, passing that to index, just searcing index
+
+
+https://twitter.com/McDwayne/status/1046059768627023872

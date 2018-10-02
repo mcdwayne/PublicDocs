@@ -1,0 +1,706 @@
+DrupalCorn 2018: The weather was gray and cold but the people were bright and warm
+
+I have never been to Iowa.  I thought I had driven through it, but on reflection, I think it is one of the states I had missed.  I went to their capitol city, known as ["The Hartford of the West"](https://en.wikipedia.org/wiki/Des_Moines,_Iowa) for the first time and the weather decided to just flat out not cooperate.  It was the coldest I have seen a place this year and a light mist or fine rain stayed with me from landing to take off.  Good thing I wasn't there to see the sun, instead I was greeted by the wonderful heart and soul of the Drupal community as we gathered for [DrupalCorn 2018](https://2018.drupalcorn.org/)
+
+https://twitter.com/DrupalCorn/status/1046052070493736961
+
+
+## Food and Fun
+
+### Speaker Dinner
+
+After getting settled into my hotel, I made the short walk in the cool evening air to [Court Avenue Restaurant & Brewing](http://www.courtavebrew.com/) where I was immediately greeted by so many awesome familiar faces and new faces that made me feel right at home.  It was a great way for us to get ready for event ahead.  
+
+https://twitter.com/CourtAveBrew/status/1026572696870641664
+
+
+### Game time
+
+After dinner, the Drupal community did one of the things I always expect them to do at camps, we played board games.  A wide selection was brought by a few amazing folks.  It was an amazing first night but soon enough we had to part ways as day one and the early morning start were approaching quickly.  
+
+https://twitter.com/kevinjthull/status/1045497837302296576
+
+
+### After Party
+
+After the end of the first day of sessions we came together for a meal, a few drinks and a [Cornhole Tournament](https://en.wikipedia.org/wiki/Cornhole) at [Big City Burgers and Greens](https://www.bigcityburgersandgreens.com/).  The staff was pretty friendly and they kept us well stacked with fries, veggie burgers and all the fixings, as well as a literal mountain of popcorn.  
+
+The cornhole tournament used a bracket system and there were winners for both most points and for most creative name.  While I still think my team's name, "ZETTAWITH3TEEES", based on [this XKCD comic](https://xkcd.com/1963/), should have taken first on the name competition, we didn't come in first on the points either.  Still, it was all in good, good fun.   
+
+
+https://twitter.com/McDwayne/status/1045817099644555265
+
+
+### Friday game time
+
+Yep, we played even more board games afterward.  Drupal folks love board games.  
+
+https://twitter.com/StPaulTim/status/1045900043868405763
+
+
+### Saturday night
+
+While there was no 'official' after camp events, some of us put out the word that we were going to get some very creative burgers at [Zombie Burger and Drink Lab](http://www.zombieburgershakelab.com/des-moines-downtown/) which features items like "THEY'RE COMING TO GET YOU BARBARA" - 
+'two grilled-cheese-sandwich' bun, American cheese, caramelized onion, bacon, Zombie sauce.  And my favorite: "THE NEGAN"
+vegan patty, vegan bun, vegan chipotle mayo, guacamole, caramelized onion, lettuce, tomato, red onion (vegan)
+
+https://twitter.com/ShowMeYourMumu/status/1045703387805831168
+
+
+After dinner we went and found some DrupalKaraoke.  It was awesome to sing with my community and at the stroke of midnight, the whole place sang happy birthday to me, as it was my 40th.  
+
+https://twitter.com/seanedietrich/status/1046242973170757632
+
+
+## Sessions
+
+Opening Remarks
+
+https://twitter.com/McDwayne/status/1045673718024990720
+
+### Friday Keynote
+
+[Learning @ Work](https://2018.drupalcorn.org/session/keynote-learning-work)
+[Tiffany Farriss](https://twitter.com/farriss)
+
+It is a rare session that challenges us to think about how we are approaching learning and feedback.  I really enjoyed this one because it dug at the roots of why we approach learning the way we do.  Walking away from this talk it made me appreciate just how disruptive Drupal and OSS has been and how we need to continue to look for new models to improve int he future rather than just relying on the old ways we have traditionally thought of learning and education.  
+
+Raw Notes:
+What lasts? 
+What can Roman Concrete teach us
+centuries old, but held up better than modern
+Palantir - she became CEO, more than a title change
+Operational side is part of it
+allowed her to focus how they deliver
+Putting things out there and see change happen as things are shared
+Success of a company is based on people, who leave, which happens sooner than you think
+Average tenure at tech is 3 years
+how do we succeed together?
+A Sr. only hiring strategy is problematic for multiple reasons
+Everyone loves supergroups, but they do not last long
+not a strategic choice for a company
+not sustainable
+Sr. only strategy gives no advantage, then you are just a vector to getting short term teams together of rock stars
+also perpetuates inequality
+missing out on the pipeline and retention problems we already have
+diverse teams outperform uniform groups
+represent the people we are serving
+Culture, the way we do things around here"
+pattern of basic assumptions
+needs to have a lens of past experience where we understand the past
+a **learning organization** is an org skilled at creating , acquiring, transferring knowledge and at modifying its behavior to reflect new knowledge and insights
+Individual learning is different.
+taking individual lessons and boiling it up for long term team knowledge
+Affirm, Inform, Transform
+Iteration on how things work is super important
+this is what good journalism does for us
+Transformational leaders can see the advantages of tech changes
+Napoleon, Waterfall approach to war
+attrition warfare
+'to grind down' losses are staggering, really bad for people
+losses on both sides about equal
+one side breaks rank, they lose position and resources and then lose
+Napoleon kind of invented agile
+decisive victory, with as few resources as possible
+He invented Maneuver warfare, confuses decision making ability
+cannonballs were not standard sizes, got that solved and they got better
+faster to deploy and worked everywhere
+punch through cavalry lines and infantry as a spear, 
+made a playbook that he gave to his lieutenants 
+Napoleon had first mover advantage
+adjusted per situation
+leveled up his combined arms approach
+no new tech, just combined things differently
+different mental model
+taking responsibility 2000 individual websites vs building a platform
+easier to do individual sites, you can do it in a day
+faster to set up that way
+takes a lot more complex modeling and collaboration to pull off a platform
+in cases of scale, generates efficiencies
+Drupalgeddon - solved in 5 minutes
+but greater initial investment
+must create a culture that promotes learning
+our educational system comes from Napoleon's ideas in the Prussian system
+emphasize a good soldier strategy 
+obedience, duty, diligence, reading and writing and maths
+this is elevating a tactic and elevating to a strategy
+in the US system, same thing, gave rise to obedient factory workers
+works great for highly structured jobs, like manufacturing
+most of us are knowledge workers here at DrupalCorn
+Solving things that can't be solved by computers
+don't let the robots take our jobs, require critical thinking
+only some people thrive in autonomous situations 
+how do we enable people to do this
+"deeper learning" said IBM in the 80s
+National research council created charts defined:
+Cognitive, intrapersonal, interpersonal 
+Fixed vs Growth mindset
+no one controls where we start
+growth says you can learn and work hard at it
+hard work makes you smarter
+not about who you are
+Michael Jordan became the best at practice
+first in, last out, focused on fundamentals
+Company needs to demonstrate a genuine belief in human development
+open to receiving feedback and you give them training
+talk about all skills as learnable
+hire Jr. people and let people do new things
+present managers as resources for learning
+Perfect practice makes perfect
+Malcom Gladwell - don't waste your time with his book
+10,000 hour rule
+Pot Roast story
+little girl, saw mom cut ends of pot roast, asks why
+her mom didn't know why, learned from her mom, asked grandma, she didn't know, asked great-grandma, she had to to fit it in her old pan
+not all practice leads to improvement
+Naive practice - play mindlessly
+not getting any better this way
+even 10,000 hours does not make you improve, automated ability
+Orgs don't just 'get better' takes work
+quality and quantity of practice matter
+everyday skills - arrested development - expert performance
+experts don't waste time examining small pieces, they work in patterns
+ they see things as units
+Double loop learning
+blame game a lot, smart people do not like to be wrong
+OSS is fairly used to single loop learning
+try smarter, not harder
+like Scrooge McDuck
+if leadership can't create "psychological safety", not going to build trusting teams that can succeed
+Members of a team:
+ * respect each other
+ * interested as each other as people
+ * not reject for who you are
+ * trust one another to have good intent
+manifested as:
+ * seeking and giving feedback
+ * making changes and improvements (don't stick to a bad course too long)
+ * obtaining or providing help or expertise
+ * experimenting
+ * engaging in constructive conflict or confrontation
+Deliberate practice
+creating the expert
+have to become an expert then an innovator
+important to mentor to gain even higher level of expertise
+
+https://twitter.com/wylbur/status/1045679778630717440
+
+
+### My Session
+
+[Let's learn Git. No more excuses.](https://2018.drupalcorn.org/session/lets-learn-git-no-more-excuses)
+
+I really live giving this talk.  I am convinced now, after seeing [Jansen's talk at WordCamp LAX](https://2018.la.wordcamp.org/session/how-to-give-a-wordpress-presentation/) that I need to strip out all the code and just focus on presenting the concepts in a more memorable way.  I tried to incorporate more conceptual walk throughs vs commands this time and I really liked the improved flow.  Next time I give this, I might not have any commands actually included other than `add`, `commit` and `log --oneline`. 
+
+https://twitter.com/cgreaten/status/1045717366582243328
+
+
+
+[A Drupaler's Guide To Marketing](https://2018.drupalcorn.org/session/drupalers-guide-marketing)
+[Drew Gorton](https://twitter.com/dgorton)
+
+I have not seen this talk before, but being on the same team as Drew, I am pretty familiar with what he had to say.  I tend to forget that not everyone has spent years floating in the same acronym soup I have.  It was actually refreshing to hear the feedback and watch as people parsed out the meanings of some of the terms, really clicking with them for the first time.  This is for sure a talk to share with any developer who is struggling to communicate clearly with their marketing colleagues.  
+
+Raw Notes:
+More money spent on websites than ads
+websites are the biggest marketing spend
+breaks down ecosystem
+wix to Drupal to Adobe
+WP used by practitioners
+Adobe is top down CMO decisions
+Drupal is getting squeezed in the middle
+google search prompting tells us there is a problem
+the sales/marketing funnel
+Awareness, interest, decision, action
+many, many players and moving pieces of marketing
+CMS is just a tiny fraction of the landscape
+digital marketing lots of tech, many measurements
+many acronyms
+All easy,, learn 9 today
+tools to understand the rest
+CTR - Click through rate
+2000 visits/5000 impressions = 4% CTR
+CPC - Cost per CLick
+2000 visits/$1000
+$.50 PCP
+CPL Cost per lead
+$1000/80 newsletter (for example)
+CPL = $12.50
+are these good?
+It depends, need to compare to history
+compare to peers
+CAC - Customer Acquisition cost
+NNN - Net New Names
+MQL - Marketing Qualified Lead
+CLV/CLTV/LTV - Lifetime value
+S/ME - Sales/Marketing Efficiency
+	For every $ spent - how many new $ come back
+MoM - Month over Month
+"CPL is down 35% MoM" example
+There Acronyms seems confusing at first, can take some time to parse
+but very doable
+this all makes reporting easy
+track progress over time, KPIs can improve
+Sharing things you care about does not always work
+"We typically improve our client's Cost per LEad (CPL) by 15%"
+this explains value in their terms
+very interesting is their KPI metrics
+measured things, shared insights, simplify reporting
+
+https://twitter.com/deliriousguy/status/1045737294710427649
+
+
+[Demystifying Diversity and Inclusion](https://2018.drupalcorn.org/session/demystifying-diversity-and-inclusion)
+[AmyJune Hineline](https://twitter.com/volkswagenchick)
+[Lisa McCray](https://twitter.com/cotterpinx)
+
+Inclusion and diversity are hard concepts to nail down.  At the core, the idea is simple, we want everyone to feel welcome in our community.  But achieving that is a lot of work.  It is good work, but work nonetheless. AmyJune and Lisa laid out small but effective real world things we do to actually make some change happen.  It was a great talk and one to share with folks who are eager to help make their teams and the world more inclusive, equitable and just.  
+
+Raw Notes:
+How are things all the same, tend to get more of what you got
+but how are they different
+making an effort to respect those difference is diversity
+If we are talking about D7y in people
+look at all the attributes of a person, not just one
+more like this vs you may also like
+More like this, optimizes similarities
+looking beyond what is most similar
+We need inclusion not just integration, or assimilation
+intersectionality
+treating people fairly means treating people with same result not same standard
+Equality vs equity vs justice
+Inclusive language - words matter
+Parent, not mother or father
+difference between sexual orientation and gender, but we are not talking on that today
+pronouns can not be assumed
+community, how do we do it?
+Start with job descriptions: watch for 'coded' language that teds to appeal to specific groups and excludes others
+think about process.  Does it give advantage to certain people
+Can you learn from it and move on
+foster Inclusivity at events?
+Families, 
+neuro-diversity 
+people with disabilities
+19 year olds, what do they do?
+Call for Papers
+to have a more diverse speaker line up - you may need to invite a diverse range of speakers
+Include a Diversity and Inclusion section in the CFPs
+'lift and center their voices'
+Accessible Presentations 
+font size and weight, 
+content placement, 
+contrast, 
+slide effects, 
+visual content that needs to be described, 
+mic or not?
+inclusive body language
+Be an ally
+sharing pronouns
+DD&I slack channels in Drupal
+Local Accessibility meetups
+Volunteer at local camps, meetups, and DUGs
+
+https://twitter.com/seanedietrich/status/1045777981690580992
+
+
+### Saturday Keynote 
+
+[How to Fall in Love with Drupal Again](https://2018.drupalcorn.org/session/keynote-how-fall-love-drupal-again)
+[Matt Westgate](https://twitter.com/mettamatt)
+
+Matt literally has the experience of building something very successful and then burning out to the point of leaving Western culture and his possessions behind, only to return to keep making Drupal.  I really enjoyed his presentation and his view of the world was just refreshing and honest.  If you have been feeling a little detached and burned out on this space, watch [this session recording](https://youtu.be/CP2YAhqesuA) and it might help you too.  
+
+Raw Notes:
+Drupal Song
+15 years of Drupal
+Lullabot founder and Tugboat and Drupalize.me
+Act 1 Falling in love with Drupal,
+Act 2 Falling out of love with Drupal
+Act 3 Falling in love with Drupal again
+Core values of Drupal
+* Be Human
+* Collaborate Openly
+* Have Fun
+* Kick Ass
+Used to have World Book Encyclopedia
+year in review book annual
+one day brought a computer home and encyclopedia got dusty
+56K modem
+Yahoo was his now encyclopedia
+Saw source code and freaked out, fell into it
+ended up on [pagetutor.com](http://www.pagetutor.com/index.html)
+old school, notepad and HTML
+taught HTML at library on his own
+this is all around year 2000
+Windows98 were available Apache, PHP, MySQL
+Started a web company, Moment Design
+built his own CMS
+WYSIWYG editor, more time fixing pug than building features
+started to resent the software he made
+yahoo took him to Drupal.org next
+didn't get it at the time
+came back to it later, the more read about the Node system
+first project where he saw good documentation and modular architecture
+emailing patched back and forth
+maintainer text file, he got to be a part of it
+Met John van Dyke in the etymology
+fixed computer bugs for advancement of real bugs
+John became his first Drupal mentor
+wrote the first D book
+Threw first get together in Antwerp
+Acquia FUD
+worry Acquia was the first large commercial factory
+would they make their own closed 
+fought it,
+was just being scared, it didn't signal the end
+JS came through
+Drupal 7 changed things
+Drupal's place became the place for large scale digital experiences
+not for the hobbies small projects anymore 
+He burned out, sold his stuff and went to a monastery
+Learned to understand suffering
+come from a place of abundance
+Acquia made it easier to choose Drupal as Enterprise CMS
+yes, And... thinking leads to better collaboration
+You matter more than the cause
+Jeff Eaton's talk at DrupalCon Nashville
+it is easy to lose yourself in a good cause because you are passionate
+Drupal is people too
+Watched a lot of people, 
+Creating Healthy Culture of Expectation
+* Don't glorify death marches
+* Don't punish boundaries when people exercise them
+* If you notice signs of burnout in others, help
+* Do more than Drupal 
+Life is the stuff that happens while you're waiting for moments that never come
+
+https://twitter.com/McDwayne/status/1046040115913641984
+
+
+
+[Making Search Work](https://2018.drupalcorn.org/session/making-search-work)
+[michael.smith@vml.com](https://www.linkedin.com/in/mas5d2/)
+
+I enjoy any talk that begins with asking you if you really want to do the technical thing they are talking about.  I live the advice that 'not all sites need search' or 'it is sometimes better to just let Google handle it'.  To me this means you should be having discussions with your project leads around expectations to the point that they understand the technical debt such things would invoke.  I understand the implementation details around Drupal search and options like Solr even better now.  Great one for devs that are new to Drupal for sure.   
+
+Raw Notes:
+We normally think of search as an afterthought
+need to question the need
+6 page marketing site, not real need for search
+firs ting people think of we think at Google
+everyone expects their site to be as good as Google and their 1000000 engineers
+and enormous amount of data
+Go to a site, look for careers
+cmd+f (if not there, that is not good)
+put it on the page
+next: google - vml careers
+google already does it, on small case just don't put search?
+good intuitive nav
+Can I build my site without search? - keep asking
+Spire website (natural gas)
+Natural Language Navigation
+just fake it and it suggests the best things
+What do we want to search?
+just content and titles only?
+content type audit is needed
+only search for full URLs, if no way to get to taxonomy page, no use
+after understanding which entity types
+example 4 different indexes on a page - summary page
+search by index?  Multiple searches?
+sort by is important as well
+relevancy is score from search term, number of times it appears mostly
+Sometimes want to see recent, not relevant
+want to make sure it can be themed
+what do you want items to look like in a search result?
+Tyson food site example
+Mobile users matter, don't just think desktop
+Infrastructure
+Now we are sure we need search and know what to search
+let's Setting it up
+Strategy 1. No search
+Strategy 2. create indexes, not as fast as Solr and not as advanced at all
+no distance or location services, but it works
+Drupal.org uses DB search, set up right
+Strategy 3. Solr - best in Michael's opinion
+Apache project
+different search algorithms
+Works well with Pantheon and Acquia
+Strategy 4.  all other options, ElasticSearch, Algolia, legacy Google Search Appliance
+many more with APIs
+Search API module ties it all together
+lot of plugins for backend and front end
+servers and indexes are outside Drupal and need to set all that up
+Solr - need a service 
+again, Pantheon and Acquia have a service
+Or go find it hosted, WebSolr (+1), Searchstax, OpenSolr
+locally, you can set it up quick with Docksal
+really quick and easy setup 
+Solr schema.xml file
+it says what we can search for 
+found in the search_api.solr Drupal module
+<--distracted-->
+Views for solr environment
+delay, default is 2 minute delay before query is available once uploaded
+tab shows schema file
+after set up server, 
+select bundle - the content types
+not scanning the site every search, passing that to index, just searching index
+don't put everything on DrupalCron, use other crons for services
+now we have to add fields, tell D what to send to Solr
+Rendered output is what he always starts
+render before send, this has performance issues
+Good part of planning phase is to think of the use case of things people will actually look up
+experiment and tinker until it does what they would expect
+if not doing server side rendering, not going to index, searching is harder
+turn on HTML filtering, not for HTML itself (FFFF might be part of something else)
+can create facets as well
+weight H1s and H2s in search as well
+Search Views
+creating a page or blocks
+creating search forms, its' just a get
+sort criteria needs set, default is create date
+make sure mark Sponsored
+don't forget 'no results' setting
+'no results spellcheck module' idea from audience
+Facets = filters done after search
+Facets Module - works with Views
+lot of flexibility
+last part is pretty it up
+
+https://twitter.com/McDwayne/status/1046059768627023872
+
+
+[Code Koalas Presents: The 7 Deadly Sins of Client / Partner Relationships and How to Avoid Them](https://2018.drupalcorn.org/session/code-koalas-presents-7-deadly-sins-client-partner-relationships-and-how-avoid-them)
+[Ryan Wyse](https://twitter.com/WyseRyan)
+
+I am a huge fan of any talk that presents communication as the solution to issues.  Clearly defining what people actually want and how we are going to deliver it is the heart of my belief that we can all work together better.  I live the 7 deadly sins analogy as well, making this a bit of a sermon.  It also was piled high with real customer stories, which help make this an essential talk for any client manager in your life.  
+
+Raw Notes:
+Origin of the name
+child's koala toy they would hang out with while coding
+Lot of projects
+7 mistakes we made and you won't have to
+Really just one to rule them all
+** Communication is everything **
+Just saying 'communicate better' does not work
+things pile up and time slips by and that bothers others sometimes
+made him late
+just communicating at 5:00pm when alarm went off was better system
+** Sin of Nothing **
+Drupal client taught themselves Drupal
+they defaulted to communicate less when they were not getting enough feedback
+read into what people are saying a little more
+not wanting to rock the boat, tell people we are doing a great job
+having 'out of band' meetings
+**Sin of the missing expert**
+bad project from there being no one really in charge or having any tech knowledge on their end.
+must ID who is actually in charge
+** Sin of Money **
+conserving funds, non-profits and the like
+communicating sense of money back to the team is the issue
+Project managers can get into mindset of fast but expensive and hard to switch to slow but good an cheaper
+** Sin of Complacency**
+not thinking ahead.  not innovating
+companies can get into mindset of how it is, not fixing that
+** Sin of Omission **
+Sales calculator app in React
+talked to sales, marketing and sales
+built what they wanted
+then 6 months of emails
+later we found out, no one could actually deploy an app, 
+costs real morale
+Beginning of project question "Who can say no?"
+** Sin of Names **
+Not all things mean what we think they mean
+same word for different things
+QA - some devs think, throw to client see feedback
+vs bug in ie9, fixing pixels
+what does that mean
+** Sin of Deadlines **
+deadlines are never real.  They are made up
+conversations in timelines
+couch things like little changes before launch
+understand what is really driving deadlines and who is looking
+Q/A - pause costs
+
+https://twitter.com/McDwayne/status/1046081252938469382
+
+
+[Why contributing to the community is important for your companies health](https://2018.drupalcorn.org/session/why-contributing-community-important-your-companies-health)
+[david.belich](https://twitter.com/davidbelich)
+
+For me, giving back to the community is literally how we get to keep our jobs in Open Source.  If the underlying code does not evolve and keep better meeting the user need, the user is going to find new tools to get done what they need to do.  Turns out there are a lot more benefits, proven time and time again, that go far beyond just keeping our jobs when we donate time and efforts back to projects.  Every manager in the world needs to see this talk and these data points
+
+
+Raw Notes:
+People in audience are already giving back
+groundwork:
+highly effective companies do give back
+need to find something that aligns with your core values
+will it help your employees grow
+** Common myths ** 
+* no time
+* to  many projects
+* employees don't want to
+* so many people are already giving back
+88% of employees believe effective employee engagement helps with retention
+**Successful companies give back!**
+* Connects your brand to the community
+* Socially responsible
+* differentiate your company form the 'greedy' ones
+* People love sharing stories about give backs
+* Boosts employee morale - people want to belong to something bigger than themselves
+* Makes your community a better place
+* Created new connections
+**Amazing marketing strengths of Drupal**
+* forward thinking
+* independent
+* great support network
+* contributions from the smartest in the field
+* customer focused
+* checks and balances built in
+* Big Brands use Drupal
+Want traction, lead the wave
+position yourself as an expert
+just create it and let us all make it better
+build agency trust - proven experience
+Iron sharpens Iron - making the code helps you better understand all the code
+builds your brand
+lets you become thought leaders
+What to do now?
+might seem daunting to write a module, other ways to do this
+* Submitting custom modules, if you write for yourself, other might find handy
+* Fix module bugs, there are a lot of them
+* Beta test modules
+* build better design and UX
+* Write instructions
+* Write for Drupal
+* Create default content
+* Marketing
+* Admin sorcery
+much more than just coding
+get people to sign up for Drupal accounts
+comment on what works and what doesn't work
+They do Workshop Wednesdays, talk to help others do this
+create success stories
+be a Drupal champion, let people jump on your wave
+Promote what you're doing
+Be the Expert
+
+
+
+https://twitter.com/McDwayne/status/1046098583517310976
+
+
+
+[Docker Based Battle Royale!](https://2018.drupalcorn.org/session/docker-based-battle-royale)
+[Wilbur Ince](https://twitter.com/wylbur)
+
+Many Docker solutions entered and many left.  Spoiler alert! Turns out there are many tools and just like any tool, there is a right one for your unique set of circumstances.  I have been swearing my allegiance to [Lando](https://docs.devwithlando.io/) but after seeing how much faster [Docksal](https://docksal.io/) is on a Mac, I am going to be doing some deeper investigations.  It was exciting to see the issues Wilbur overcame through the demos and I loved seeing side by side info on what makes each unique.  I know I am going to end up referring a lot of people to this talk as I discuss local solutions in the future.  
+
+Raw Notes:
+Promoting the _Twin Cities Open Source CMS Unconference_
+In local dev we need a bunch of stuff
+clone of server env, but other things as well
+local dev tools
+SASS/COmpass
+Gulp -
+Composer - Drush
+GIT
+SSH 
++ replicate across platforms
+load of issues
+No more asking (are you on a mac or PC or whatever)
+The trouble with normal is it always gets worse
+Bruce Cockburn
+the old days
+LAMP/LEMP
+install webserver stuff locally
+WIN
+Great for solo devs, single project
+fast!
+LOSE
+onboarding is slow and messy
+Multiple clients/hosts
+Not so old days
+VMs
+build for each project
+WIN
+consistent and custom
+LOSE
+Huge Files
+REPLICATION
+Must be maintained
+The age of Docker
+we build an env from containers
+containers are lightweight and swappable
+add what you want
+cross platform
+customizable with config-code
+docker tools extend Docker making it easier
+Flightdeck - TEN7 Tess FLynn
+DockerforDrupal 
+Lagoon 
+DEMOS
+Lando - Tandem
+DDEV - Drud
+Docksal - FFW
+Start with Docker
+there is a community and Enterprise edition
+he has only used community
+FlightDeck - bare metal docker
+Alpine containers, works very fast
+1 dir 2 files 
+but
+no scripting, no DNS, 
+Docker4Drupal Complete docker based system
+not lightweight, powerful but DIY
+Lando
+layered on top of docker
+provides popular recipes
+github and Pantheon Auth
+great documentation
+Pros recipes, Pantheon integration, Extendable
+Cons
+Command line glitchy
+slow on a MAC
+DDEV easy to config and install
+Pros
+easiest inti
+good init docs
+no DNS config needed
+great basic install
+cons
+slow on MAC
+Docksal
+installs containers in a VM
+Much faster for MAC users
+easily scriptable
+Commands to add functionality - `fin addon install pma`
+Portianer.io
+Excellent browser tool
+Shows ALL
+super helpful
+Docksal is faster on mac, just a lot
+no clear winner, different tools for different teams
+but Docker is the key to them all
+
+https://twitter.com/seanedietrich/status/1046124056787980288
+
+
+### Contribution Day
+
+I love a [contribution day](https://2018.drupalcorn.org/session/contribution-day).  There is some discussion of calling them Sprint Days, as we have in the past, but honesty, I like the new name better.  Feels less rushed and can better invite new folks in who would like to contribute.  Huge thank you to the organizing team for making it possible and for helping some new folks get going with contributions.  
+
+I got the privilege of working with [Dan Ficker](https://twitter.com/deliriousguy) on building some Tours for Drupal 8.  I am working on a project called [Dwayne's Tours](https://github.com/mcdwayne/dwaynes-tours), super early stage right now, to just go ahead and build tours for the project on my own that can be shared and used as a jumping off point for people implementing tours.  My biggest accomplishment, other than [Dan's PR](https://github.com/mcdwayne/dwaynes-tours/pull/1), was building the README and the TEMPLATE to make it easier for folks to get going with making their own tours.  I will write more on this but when I get further along.     
+
+https://twitter.com/McDwayne/status/1046440204305932290
+
+
+## Wrapping Up
+
+I got to turn 40 years old in Des Moines.  I have mixed feelings about it.  About turning 40 I mean.  In retrospect, maybe not the most exciting place you can spend a birthday, but as I said while there, if I could pick one community to celebrate this event with, I would have honestly said the Twin Cities and Chicago Drupal community.  No offense to the rest of the communities I am part of, but it was just amazing to see so many friendly faces gathered around me who fundamentally believe, as I do, in this crazy Free and Open Source Software movement that is helping change the world for the better.    
+I am not sure I will be back to Des Moines any time soon, but I can say I have fond memories of it thanks to the people I got to spend time with.  If I do go back, I a pretty sure it would be for a future DruaplCorn, the best named of all the camps.  
+
+
+https://twitter.com/DrupalCorn/status/1046146363631833088

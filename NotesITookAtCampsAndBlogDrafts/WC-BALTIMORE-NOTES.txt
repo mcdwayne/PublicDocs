@@ -1,0 +1,566 @@
+
+General
+
+https://twitter.com/MattRyan_co/status/1048554890954514432
+
+https://twitter.com/MegaMikeJr/status/1048558256770179073
+
+wapuu
+https://twitter.com/stickergiant/status/1048596073529323520
+
+fleet week
+
+https://twitter.com/nginxreload/status/1048634841418387458
+
+Turtles:
+
+https://twitter.com/mjgoldsmith/status/1048585527501496322
+
+
+## Food and Fun
+
+Speaker Dinner
+
+https://twitter.com/McDwayne/status/1048365470703910912
+
+
+Morning:
+
+Coffee from [Vagrant Coffee](https://www.vagrantcoffee.com/)
+
+Lunch
+
+https://twitter.com/wordcampbalt/status/1048605838036946944
+
+
+Dinner
+WCKaraoke
+
+
+## Sessions
+
+
+[Making Security Make Sense to Clients](https://2018.baltimore.wordcamp.org/session/making-security-make-sense-to-clients/)
+[Adam Warner](https://twitter.com/wpmodder)
+
+Raw Notes:
+Reputation is going to take a hit if you get hacked
+We need to be familiar with best practices
+do not recommend things you have have not used nor understand
+Must protect your business
+Built a multisite - indielab
+quick site spinup
+hundreds of users
+was going very well, until they got hacked
+sites redirecting to viagra and other bad things
+at that time no security malware cleanup companies 
+had to use the forums to self support but gave up
+closed down the site and refunded customers and was out of business
+its in your best interest to secure your sites
+most of us in this space takes our minds 24/7
+if you are implementing basic security you can sleep through the night
+Educating your clients on securit is important
+Some clients think they don't need that 'complex security stuff'
+or think SSL is all they need
+no such thing as 100% security
+Who is responsible, The client? You, the dev? or the host?
+Everyone has their role
+Apartment complex analogy
+Additional revenue is possible here
+monthly maintenance and security plans
+how do we communicate this effectively?
+First is why
+a lot of people hear hacked but they don't know what a 'bad actor' is
+number one reason is financial 
+a penny a click, hack your site and all you own, it is easy money
+script kitty for 15 minutes of fame
+political or religious ideology
+[norse security map](http://map.norsecorp.com/) shows how often this is happening
+it is always happening and a lot of them
+here are Adam's top tips
+1. Backups - very important! 
+and store them off-site
+2. Updates
+it is an open door to leave old unpatched software still installed
+take out all the things you dont use, update everything else
+3. Strong Passwords and Unique Passwords
+[https://haveibeenpwned.com/](https://haveibeenpwned.com/)
+password managers can help
+not flawless but these companies are very invested in amazing security
+a saving grace
+4. Firewalls and CDNs
+network and web application firewalls
+internal firewalls keep isolated from one another
+WAPs are for your specific WordPress install
+hardware and software solutions
+5. Continuous monitoring of your site
+a lot of options and companies offer this
+Bonus round
+2 factor authentication
+VPN
+encryption from your machine
+look at the name of your networks and pay attention
+ask the provider what is the right one if need be
+Include security in your scope
+sets you apart and gives you a better image
+it says "I want your business to succeed"
+sell those maintenance plans, it is continuity of the same security
+or as an Add-On service
+one time malware clean up service?
+Additional monitor or scanning
+Automate all the things 
+managewp, infinite WP, MainWP
+reporting is automated and simple to send forward to client
+Watchful.li, been around for a while
+Summary
+grow your business by being a partner in security withy your clients
+
+
+https://twitter.com/TadpoleCC/status/1048562964561895424
+
+
+
+[The Medium is the Message 2.0](https://2018.baltimore.wordcamp.org/session/the-medium-is-the-message-2-0/)
+[Daniel Schiavone](https://twitter.com/schiavo)
+
+Raw Notes:
+a look into [the book by Marshall McLuhan](https://en.wikipedia.org/wiki/The_medium_is_the_message)
+Societies have always been shaped more by tge nature of the media by which they communicate than the content
+printed book spurned on individualism
+electrical info devices cause a rift between private and public, 
+between community and individual
+People like twain, whitman, artimus ward - the first stand up comic
+mid 1800
+steam powered press, first one was bought by Baltimore Sun
+mail and stamps changed
+you could get your poems and books nationwide very quick
+lead to speaking engagements thanks to the trains
+Television is a 'cool' medium because there is a gap in the tranport of info
+book writing is a hot medium, there is no gap
+the audience has a role in the TV process
+now we have a lot more interactive things
+going to films is a hot medium
+The web is a medium of text and markup in a browser
+a lot of content does not leverage links 
+The web is the ultimate 'cool'
+When tech gets pushed to extremes they have opposite characteristics
+how often are we just seeing text that was copy/pasted there
+are we looking at copy for the print world, not the web world
+Seeing what the web can be 
+information transforms based on how you interact with it
+scrolling example
+Small innovations are creeping in
+wikipedia link previews
+plugins for WP can do that too
+Medium is helping us read better on the web, think about using things better
+highlights
+o average 28% of the internet is text, that is all that people are reading online
+video, audio and images are the rest
+text is still pretty dominant
+typically we give content creators WYSIWYG
+it is enough to give them this only to start?
+Gutenberg promises to be a game changer for people who are just starting
+there is a bit of resistance to this change
+There is a Drupal module for Gutes
+Drupal does good with authors and types of blocks
+frames, we can think inside the boxes to get very creative
+Comics are a place that we have thought through panels and frames 
+pacing and layout
+Seeing into the world through phrasing and point of view
+Youtube example
+self authorship, production values all over the place
+Animations 
+people are making a lot of amatuer content
+improving over time
+look at first videos vs latest content
+stampycat
+Thoughts: 
+The internet will use text dominantly for some time
+we should communicate with text better
+sliders are out of fashion, but no one clicks on them
+hero images are better but can get in way of text heavy sites
+Tools have gotten better ans cheaper
+sometimes low fi might be even better sometimes
+
+
+
+https://twitter.com/McDwayne/status/1048592804673413126
+
+
+
+
+
+
+[Building WordPress Themes with Advanced Custom Fields (ACF)](https://2018.baltimore.wordcamp.org/session/building-wordpress-themes-with-advanced-custom-fields-acf/)
+[Tessa Kriesel](https://twitter.com/tessak22)
+
+Raw Notes:
+Polled audience with slido.com active poll
+Most poeple build websites
+About 1/2 the room builds own wordpress themes, 
+about 38% of room are new to Customer Fields
+Developer Outreach Manager
+Advanced Custom Fields overview
+Add custom data to pages, edit one place, use everywhere
+create custom page-builer layeouts
+front end forms
+Template 101
+functions.php add functionality to your theme
+style.css for tryle
+page.php pafe template file
+single.php single post file
+Dog examples
+custom post type with meta data about dogs
+you get custom fields to work with on these custom post types
+Adding sizes of dogs example
+filling fields in the ACF interface
+pretty self guided and examples available
+Breed example - open text field
+we need to update the template to know where to out the custom fields
+page.php copy as template
+Template Name: Dogs
+grabbing all post data and outputting it on screen
+name of field is what we use in template
+some rewriting URL issues, taking to archived page
+Addign to the theme,
+there are a lot of exampled ont he advancedcustomfields.com site
+front end forms 
+let people edit without getting into the back end
+single.php single-nameofCPT.php
+ACF form head
+and the acf_form() where you want it to display
+can change things from the front end
+can give people to edit their own data from the front end
+pre-features as well
+lifetime license
+Repeater field
+allows you to create a subset of fields that can be reused
+demo
+Options Page
+have global fields that can be used whenever you like
+Does not work with Customizer by default
+would need to build it in
+Flexible content
+page builder layouts
+you can add additional layouts
+can store as JSON and import when install
+not an additional plugin, you have to build out own pagebuilder
+template parts blocks
+
+
+
+https://twitter.com/bsp_design/status/1048631462587711488
+
+
+
+[Left hook, right filter – learn to develop like a heavyweight]()
+[Antti Koskenrouta]()
+
+
+Raw notes:
+Fundamentals and historicals
+meet Actions and Filters
+suddenly all this magic happens
+WP way method to allow you to interact with core 
+Actions and Filters
+Actions first
+definition...
+think of actions as verbs that describe what's happeneing in the code
+how do you do it and interact with WP?
+add_action('name_of_the_action', 'name_of_function', prioritynumber>=1, numberofparameters)
+for example
+`add_action('save_post', 'notify_of_new_post', 10, 3)`
+sometimes you want to remove a function from an action
+remove_action('name_of_the_action', 'name_of_function', prioritynumber>=1)
+Filters always have one peice of data called a value that is changed
+filters have additional parameters that can give the value context
+If actions are filters, filters are nouns
+look the same
+`add_filter('filter_name', 'function_name', 10)`
+returns the thing you are filtering
+remove_filter() is in core
+there are a ton of default filters and actions, but you can create your own and plugins leverage them
+priprity conflicts, just runs in order it finds them (if all 10s just run in logical order)
+Looking at hooks in action
+if you ever wanted to display a title different from the post_title on a page?
+override it without hacking template
+old skool: `!=get_field('alternative title'`)
+how do we get ti cleaner
+--code example--
+when see all this stuff an look at headers and see weird functions, how does that work?
+long road to learn it all
+What to add "quick actions"
+post_row_actions filter
+page_row_actions filter
+comment_row_actions filter
+if you want to restrict which post typed this is applited to youd want to use the second ($post) parameter and add an if statement
+if $post->post_type == "the_post_type_you_want"
+adding a custom link in "quick actions"
+hookintowordpress.local/wp-admin/edit.php?post_type=test_post_type
+sometimes you want to remove quick links
+look for hhte class names of the <span> tags within "row-actions" <div>
+unset() inside your function
+if you want to change header or footer without changing theme
+wp_head or wp_footer actions
+if you want to change the main query via code
+pre_get_posts actions are awesome
+why? Results stay intact, pagination will be consistent
+How do I create my own hooks?
+once you change something, don't change it back
+do_action() 
+search for one in existing code, then just copy/paste to template
+apply_filters()
+$value vs $arg1
+function notify_folks
+not as scary as you think it might be
+think of your code as a story
+stuff happens and things change
+if you have a point where the dev or reader might say "that is awesome"
+they will want to hook onto it, this is where actions and filters go so therss can hook in
+adambrown keeps a running list of hooks for wp
+https://adambrown.info/p/wp_hooks
+
+
+
+https://twitter.com/McDwayne/status/1048643527557742592
+
+
+### Keynote
+
+[Living Life Like an Iceberg or a Ship](https://2018.baltimore.wordcamp.org/session/living-life-like-an-iceberg-or-a-ship/)
+[Cory Miller](https://twitter.com/corymiller303)
+
+Raw notes:
+You are not alone
+don't go it alone
+some things that happened in his life and how he learned to deal with it
+des not go too far down the hole
+does not mess with depression,danger there
+iceberg 2010-2011
+Above the line
+for dummies book deal, $1M in sales, Backup Buddy
+RV Roadtrip, Cool new office, Speaking at wordcamps
+that stuff is all the PR version, all the good stuff showing
+Reality
+going through a divorce, slept in office couple of nights
+absolutely miserable
+first time I didn't want to go to work
+depression
+This was the stuff he was hiding
+People didn't know he was suffering, he hid it
+Consequeses of iceberg living
+drifting islands
+we get marooned and become castaways
+icebergs can cause havoc to others
+had to evacuate a town in Greenland from real iceberg
+he became a hazard to others by carrying everything around just inside alone
+We need a better way, a more compelling way to live
+moving to a model
+A ship on a journey
+NOT a boat
+ship is something you can not do on your own
+boats can't go on long journeys and you are alone a lot on boats
+Ships are built for the mission
+Well equipped for the voyage, compass, maps, navigation
+nees a captain
+in charge, in command, in control
+a Captain does not abdicate
+A ship requires a crew
+must match what is going on in your life
+as they were geting acquired, needed new crew
+I WON'T try to do this by myself
+Need an accountability partner
+companionship and camaraderie 
+needs to sometimes push and challenge you
+Who will rush in, while everyone else runs out
+those people are your core crew
+for the successes and struggles
+2017 the seas were rough
+was transitioning and was no longer going to be the owner
+this was a big identity shift
+he had attached so much meaning to his job
+and then in April had a death in the family
+young man grief is wicked, bad
+the three we overlook or need to strengthen
+Counselor, Coaches, Comrades
+your significant other is your first of course
+We need more people saying "i have a counselor"
+We have to erase the stigma of mental health
+need to be able to savor success and that is a good time to check in
+coaches are look at the bright things you can do for other people
+or push you to do more
+he has a group of entrepreneurs who share everything with
+those people rush in when others rush out
+WordPress is a fleet
+this is an amazing community
+Smiles are free
+just walked to halls and smiled
+pike a ping, you are not alone
+One step, one action you can take this weekend
+move towards ship living
+sea gets rough
+one message, 2 parts
+you are not alone
+do not go it alone
+
+
+https://twitter.com/McDwayne/status/1048674697293041666
+
+https://twitter.com/nathaningram/status/1048680858780098561
+
+
+
+[What can higher ed teach us?](https://2018.baltimore.wordcamp.org/session/what-can-higher-ed-teach-us/)
+[Curtiss Grymala](https://twitter.com/cgrymala)
+
+Mary Washington, mid sized school
+WHy WP for Higher Ed
+Cost
+Community/OSS - this is unique, very important to them
+Flexibility
+User Management/distributed responsibilities
+What are we using it for? 
+many things like
+* school site, 
+* blogging systems with thousands of blogs, self serve multisite
+* Learning Management systems
+* ecommerce/donations
+WPCampus WordPress in higher ed 2017 survey results
+by modern tribe
+The issue is, everyone wants good, cheap and fast
+you can really get 2 of these
+You have the power!
+it is as secure or insecure as you make it
+Access - managing user accounts can be hard
+Single Sign On can be great, 
+let's people remove access for all systems, like WordPress, from IT
+Manage roles and permissions, really think through that
+capabilities 
+Scaling is a serious plus, higher ed proves it can do it, no matter what you mean by scale
+40,000 pages on a site 
+2000 site multisite
+150K content contributors
+not free but you have control to do this
+250K tags, who is going to eliminate the unused ones?  Not him
+RSS was tiing out, post experator to move it out for News categories
+about $100K a year for hosting 
+but if you have 15 pages at 500 visitors a month, might not need managed hosting
+but he always recommends it, that is the way they are going
+lost his LAMP admin and a new one came on
+they were nice, but they didn't have full resources to be a 
+outsourced to traditional provider
+scale and security are really why
+caching and automating updates
+and fantastic dev resources
+git integration
+Multinetwork is an edge case, extracting multisites from this
+central update systems to help with plugin updates and such but still manual a lot
+Costs, you totally control the costs
+license is free, hosting for a tiny site is basically free for a year with AWS
+50K visitors, that is not going to be free
+if conditional logic forms
+ContactForm7 is outdated and there are better ones, no need for manual like this
+all in though WP is dirt cheap
+proprietary CMS can cost $100Ks per year
+Sharing is caring, community is crucial
+smaller communities built around 
+higher ed shares code more than enterprise
+public institutions, lot of people feel work should be available to taxpayers
+BoddyPress basically came out of City of New York university open work
+Mary Washington opens most of their work
+this presentation is open source JS slides
+Frameworks
+* _s
+* Foundations
+* Divi
+* Genesis
+Premium plugins he swears by
+* GravityForms
+	* gravityPerks
+* Toolset or ACF
+* Max Mega Menu
+* WP101
+* WPPusher
+* UpdraftPlus, WP MIgrate DB Pro, and/or backupbuddy
+* WP Offload S3
+Free Plugins
+* Jetpack - be careful!  can be unpredictable after updates, does everything
+* pagelinks to
+* simple page ordering
+* Tablepress
+* WordPress Github Sync
+* WPMU LDAP Authentication
+* ACF
+* NinjaForms
+* Caldera Forms
+* Plugin Activation Status
+wphighed.org - full of resources, has not been updated in a while
+UMWEdu github repo
+http//j.mp/hebiz-wcbalt18
+
+https://twitter.com/McDwayne/status/1048951930444292098
+
+
+[Corralling client content](https://2018.baltimore.wordcamp.org/session/corralling-client-content/)
+[Lynne D’Autrechy](https://twitter.com/LynneDAutrechy)
+
+No order tot he content and its in more than one palce
+a soltuon should solve all these ossues
+3 tools
+File system
+website
+commercial solution
+Shared Folers and Filed
+Google Drive or Dropbox
+not to THEIR drive or dropbox
+use shared folders to create an organization for the content based on the site architecture, site map
+use shared folder accounts
+You both have access to it this way
+way better than email attachments
+2 Just let the client add content to the website
+create a website with a basic theme, boring
+they don't think about design this way
+2016 vs 2017 themes, plain is better
+don't want them thinking "where will this eventually go" at this point
+Front end: the client will add content via forms
+don't worry about formatting 
+Gravity Forms is what she uses
+title, body and post manager fields
+alow clients to choose what page they want the content to go on
+Create one body field on the form, formatting not important
+let them use HTML if they want though
+You can use code to connect those 
+creating multiple text fields whose contents will combine to create the body field 
+use code to combine multiple fields into one body field before post is created
+Give them appropriate permissions
+back up several times a day is a really good idea on this path
+create pages in your architecture
+if you use page builders you can make page templates for this
+3. Commercial products
+GatherContent, she has had limited success but it is solid tool
+set up for many different writers for content
+overkill on a small team and small business
+they go have a blog and resources page that is full of good info though
+Creates a central repo
+and create templates for your content for contributors to write and break up content into manageable components
+customizable workflows
+Migrate completed content into your CMS
+Content Snare
+she has not used it but reads it is simpler to use
+templates 'chasing and follow up'you can schedule
+Content snare hierarchical but need to copy/paste
+fine line between making it convenient for them and efficient for you
+shared files, WP itself, 
+shared repo of content
+hierarchical content organization
+formatting guidelines for the client
+
+https://twitter.com/McDwayne/status/1048982848361963520
+
+
+## Wrapping Up
+
+I love WordCamp Baltimore.  It is not just because I really do like Baltimore itself.  It is not just because I have debuted 2 talks here.  It is because this camp actually tries to improve to be more accommodating year over year and the organizing team really does listen and adapt to feedback.  This year I felt thy went out of their way to be accommodating and try to improve the event.  Organizing takes a lot of work and actually listening to what can be improved and actually improving those things makes this camp shine in the sea of over 30 events I have done in the last year. Every other WordCamp should take note, this is what an event _can_ be from an attendee perspective.  
+
+No matter why I next return, I am already I for sure looking forward to landing at [BWI](https://www.bwiairport.com/) again and getting to walk around the inner harbor of B'more.  At the very least I hope to get back once again for WordCamp Baltimore 2019.  
+

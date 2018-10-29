@@ -1,0 +1,990 @@
+BADCamp 2018: So close to home for me and so much more walking than other events
+
+I go to a lot of camps, but very few camps come to me.  Bay Area Drupal Camp (BADCamp) is in my area, but over in [Berzerkeley](https://en.wikipedia.org/wiki/List_of_city_nicknames_in_California).  It is beautiful college town that is just over the bay, only 45 minutes door to door.  The last bit from the [BART train](https://www.bart.gov/) to the [UC Berkeley Student Union](http://studentunion.berkeley.edu/) is not a subtle elevation change.  But a good uphill walk wakes you up and get the blood a pumping which put us in elevated moods as we got together to learn and celebrate the community at [BADCamp 2018](https://2018.badcamp.org/).
+
+https://twitter.com/BADCamp/status/977238601024131073
+
+
+This year's theme was the circus!  The decorations were all circusy and there was cotton candy and popcorn abundantly flowing.  And the juggling!  There was a lot of juggling.  
+
+https://twitter.com/otseld/status/1055926057973428224
+
+
+## Food and Fun
+
+### Wednesday 
+
+This was the first year there was a Wednesday for this event, having shifted form a 'Thursday to Sunday' schedule to 'Wednesday to Saturday' one.  Coffee at Berkeley is not better or worse than any other [University of California](https://www.universityofcalifornia.edu/uc-system).  It is pretty consistent and average.  As an attendee I can't complain about the price though.  Pastries were also abundant.  
+
+There is no lunch provided at BADCamp.  Since this is a free event, it would be surprising if lunch was made available.  They just opened a [Veggie Grill](https://www.veggiegrill.com/) in Berkeley and I dined there with a colleague.  No tweet of mine for that, so here is one of theirs.
+
+https://twitter.com/VeggieGrill/status/1050146256364814336
+
+
+Also of note, I went to see [Jawbreaker](https://en.wikipedia.org/wiki/Jawbreaker_(band)) on Wednesday night. A couple people from camp went as well.
+
+https://twitter.com/FillmoreSF/status/1055237448710553600
+
+
+### Thursday
+
+More coffee, more pastries and more summits, trainings and hallway conversations at the camp.  For lunch I grabbed some Thai food at my favorite Thai place in the area, [Thai Basil](https://www.yelp.com/biz/thai-basil-cuisine-berkeley).  Sometimes the greasy spoon places are the best.  
+
+https://twitter.com/takemaru/status/604720329538322433
+
+
+### After Party
+
+Thursday night we had the first of the official after parties.  We gathered at the rather swank [Tupper and Reed](http://www.tupperandreed.com/) for some free drinks courtesy of [DDEV](https://www.drud.com/) who threw the DevOps After Dark Happy Hour.  Many a good conversation was had.
+
+https://twitter.com/drud/status/1055240074126876673
+
+
+Having a couple drinks a few of us wanted to get some amazing plant based foods.  Berkeley is home to the best vegan deli I have been to personally, [The Butcher's Son](http://www.thebutchersveganson.com/).  I had the best giant bacon patty melt I think you can possibly put together.  We all left completely stuffed.
+
+https://twitter.com/daretoexist/status/1054150057354702848
+
+
+### DrupalCrawl
+
+A Drupal event where the awesome [Jason Mickela](https://twitter.com/jmickela) is present will almost certainly involve a quest to find microbrews and specialty ale under the banner of [DrupalCrawl](https://twitter.com/GetRootid/status/1055634056124088320).
+
+https://twitter.com/jmickela/status/1055684391861542912
+
+
+### DrupalKaraoke
+
+One of my greatest joys in this space is getting together to sing as a group.  An apex part of this aspect of my life is getting to know [JD Flynn](https://twitter.com/JDDoesDev) and [Chris Weber](https://twitter.com/chris_m_weber) better.  JD actually did the footwork on getting people excited and pushed to the venue of choice for this event [Nick's Lounge](http://nickslounge.com/karaoke.html).  I was overjoyed that the [Kanopi Studios team](https://www.kanopistudios.com/) was already there when I showed up and we all sang together through the rest of the night!
+
+https://twitter.com/kanopi_studios/status/1055696812898545664
+
+
+### Friday
+
+The first day of sessions at BADCamp bring with it waffles.  Not just waffles, but fresh made waffles with a lot fo fixin's.  Coffee and tea flowed as well.  I went back to Thai Basil again for lunch.  It is good. 
+
+https://twitter.com/heycheyennehey/status/1055973048665354240
+
+
+### After Party
+
+BADCAmp is known for a few things.  Throwing a very good after party is one of those things.  This year the [Platform.sh team](https://platform.sh/), which I learned is properly pronounced "Platform, Shhhhhhh", threw the event.  We got to go on the roof of the [Marsh Art Theatre](https://themarsh.org/).  We got to dance to some thumping tunes and get our faces painted.  And of course there was a photo booth to show how we were affected by the provided drink tickets.  All in all a great time for hanging with the community.  
+
+https://twitter.com/bmanning81/status/1056035945202348032
+
+
+https://twitter.com/GetRootid/status/1056039690258665472
+
+
+https://twitter.com/bmanning81/status/1056065288301568001
+
+
+### After After Party
+
+In the tradition of this event, some of us went out late into the night and made a pop up kitchen happen in the middle of nowhere, complete with disco lights and carpeted areas under the stars.  It was a blast.  
+
+https://twitter.com/bmanning81/status/1056091982081081345
+
+
+### Saturday 
+
+More waffles and more coffee.  I personally got some cotton candy for that sugar energy to get me through the day.  
+Lunch was again Basil Thai, though I had almost ordered Ramen next door.  That super hot chili and peppers though.  Seriously if you are in the university area of Berkeley around lunch time, go give these nice people some business.  
+
+Lunch related tweet:
+
+https://twitter.com/jmosmith/status/1056263017417990144
+
+
+### After 
+
+Thanks to [Avi](https://twitter.com/ajschwab) I got to go see [Middleditch and Schwartz](https://www.middleditchandschwartz.com/) on Saturday night.  It was a very great way to end a very busy but great week.  Even snuck in some Karaoke before bed as the official end to my BADCamp.  
+
+
+## Sessions 
+
+### Thursday DevOps Summit
+
+[How Do I Host Hundreds of Drupal Sites?](https://2018.badcamp.org/summits/devops-summit)
+
+This is not your normal set of sessions. The Summit is to encourage community discussion of the best ways to approach problems.  FOr a number of reasons with setup and my schedule, I only got to attend one of these summit panels, but wow I am glad I did.  The chaotic notes that follow are my best attempt to capture what happened, sorry if you get lost.  Basically, running a lot of sites is a challenge that has multiple approaches.  The conversation is far from over though and this is the type of thing I love talking about if you see me at another event.  
+
+Raw Notes:
+[Panel: How Do I Host Hundreds of Drupal Sites?](https://2018.badcamp.org/summits/devops-summit)
+Shawn Dearmond: University of California SiteFarm - on campus 
+Thom Toogood: GovCMS (Lagoon/Kubernetes)
+Daniel García Mont: ASU WebSpark
+John Bickar: Stanford Sites - 
+John Grubb: Platform.sh - not in attendance, never caught name of Platform engineer.  
+
+John B - like a 1000 sites.  migrating to Acquia
+Shawn - 300 drupal sites in the group, another 300-400 on Drupal sites or clones, maybe 150-200 random sites people 'just run'
+Thom -  amaziee.io, Australian government - 10-12 in next 2 weeks
+many more launching soon, many each week launching
+federal state and local
+2 sides of the program custom and multisite
+John grub not attended - Platform.sh -how to manage a lot of sites, not all Drupal
+Daniel García - close to 2000 sites, all over the place, all tech
+last few years sunk into cost recovery model
+380 production sites on Pantheon
+Drupal distro - 77% on the Pantheon sites
+others 
+Mostly in Higher ed for this summit, but all over the place for this panel
+Why the platfrom you picked?
+was it costs?
+John B 17 people 
+originally built service on primice
+sites need to be created without 
+tricky to try and automate that
+need something to spin up all the services needed for the sites
+Looked at site factory platform
+robust API
+LDAP to Site Factory
+log in and all the things 
+Shawn - similar to Stanford
+Started on Pantheon - ended up with a Custom upstream
+very bespoke
+as started doing this over and over again
+building out distribution to solve the core use case
+300 live sites on site factory
+in dev will be live soon
+individual departments
+grouping functionality with sub groups
+works well with the hierarchy of a college
+see sites within the department
+did need and orchestration system
+see all the sites at once
+4 hours to 
+building recharge work on Pantheon and some good old site building on factory
+no cost to campus customers
+Kubernetes
+few other competitors in the DLS in the city
+Gove design higher demand scale up and scale down 
+high availability compelling automated testing around containers
+very simply each branch is a full build
+gitlab CI
+change model version change
+QA and supervisory model
+for government, didn't want anything in production cluster that arn't approved Gitlab provided validation structure
+very flexible
+wanted to maintain some control
+- Platform is specific unike these other use cases
+composer install run for you
+just update your local and bring new branch to Platfrom
+clone original branch and create a new env to get ive services
+apply new updates and run tests in new environment
+if like the tests, just merge it in and that is deployment
+Replicate-able for multiple sites
+can push to hundreds of remotes
+relatively simple using scripting for coordination layer
+fleets of websites
+ASU - picked Pantheon about 5 years ago
+Maybe a little different
+this is a different model
+service partnership with other departments
+contract with them to build 
+Pantheon was willing to work with them
+Good dev experience on-boarding process was more flexible
+it is a pull model - CU available
+hybrid central and decentralized
+websites owners must update sites
+deploy updates fro service partners
+9 of the team are devs
+cost recovery in 2 areas
+service and hosting
+2008 the leadership introduced the model legacy hosting free hosting offering
+no way to see what was abandoned
+Faculty does not want to pay for their websites
+departments pay for services though
+Comments of picking a new or many new platforms
+one of the things we have seen, move to standardization
+looking for 80% of sites in one place
+easier to roll out updates on app layer
+John B - open env, anyone on anything in CGI
+on IT for updates and they didn't get done from app end
+no lifecycle management
+each site has own doc root each on git branch
+updates on infrastructure
+giant multisite
+Useful Site factory, lot of updates quickly is easy
+one branch to push to ll sites without much intervention
+Pushed updates to many sites in few hours with Drupalgeddon
+Shawn - several different processes
+Drupal 8 stuff much easier to use
+CircleCI
+Site factory process
+Bitbucket for cide
+proboCI to do builds and run through 2000 Behat scenarios on fresh sites
+not updated sites
+moving to updated sites
+PR merged, pushed to Acquia and runs their pipeline 
+saves to branch in their Git repo
+tag to a release number and push, chugs through and updates fast
+takes a few hours but with behat takes about 20 minutes to run
+less than a hour to do all changes on their end, then a few for Site Factory 
+On Pantheon site by sute basis, takes some time
+have to hit every site 
+some on A vs P
+Recharge work for custom sites
+'free' acquia sites, but it is locked down
+if you want to write your own, other product, Pantheon CU
+you pay for that though, full thing
+extra costs for maintenance
+even have export from Acquia to Pantheon process
+no PCI or Hippa or other specs on site factory
+lets them be flexible
+"Who gets what module in" is a sticking point with Multisite
+Thom - how do you avoid bloated MS setup
+hard not to
+with D8 focus, trying to get profile as small as possible
+biggest change is output from profile as a make file
+also outputs Docker images now
+test these images and host themselves 
+extend and customize from those images
+all can really do is change the Theme folder, not even managing a D codebase
+all built and tested Upstream
+building the project on the latest image
+added a test image 
+run their own image
+base themes and modules, lightweight controlled
+Security certification that they 
+PLatform- updating and just updating composer lock and push it doing it wrong
+all module updates and migrations
+updating the infrastructure - growing team doing it
+hosting your cluster built on read only containers
+once built it is left alone
+all changes get a new container
+more layers to this.  Regions and container versions can vary
+problems with Drupalgeddon solve in unique ways
+web application firewall in the regions
+update firewalls for all clients first
+ASU - build process 300 production sites
+very greatly with each site
+custom modules to standard sites
+volunteers in the web community ot test things
+merge after testing, pull model, each unit responsible to get to production sites
+aim for monthly, but that fatigued people
+now quarterly , 24 hour turn around just for the update setup
+UCDavis - Using the test env on Site Factory, email sent to folks ahead of time 
+Division between special customizations 
+Last Q
+Remaining challenges for the current platform
+- 800 sites migrating into site factory
+it is a lift and shift
+legacy Auth with saml
+latest core but getting to latest contrib modules is a challenge
+Davis - biggest issue is difference between environments
+test past fine on local and then fails on Probio
+and different than prod
+containers should be solving this
+Acquia's infrastructure is 
+Pantheon is not much better 
+caching layers is difference between local and CI and production
+they spend more time fixing than making new code
+i/o same set of issues, but future is standard containers everywhere
+new thing for most people, training is a real concern
+150 devs to onboard
+Platform - user tools - HA solved, Various env solved 
+Didn't solve deep learning curve at beginning
+lot of issues around users understanding Platform's opinions
+Fleet management is automate-able but not automating it out of box
+amazing tools you can use, Lando and DDEv, but noting direct for them
+ASU - most users don't need to worry about these things in ideal world
+but not real right now
+RFP is to get to something that automates
+
+https://twitter.com/McDwayne/status/1055522623352791040
+
+
+### Friday
+
+[TALK NERDY TO ME: TRANSLATING TECHNICAL JARGON INTO PLAIN SPEAK FOR THE REST OF US](https://2018.badcamp.org/session/talk-nerdy-me-translating-technical-jargon-plain-speak-rest-us)
+[LEIGH ANDERSON](https://twitter.com/leigh_can)
+
+Communication is tricky and it is very easy to forget that not everyone is always on the same page as far as terminology and points of reference.  This was a great talk that broke down how communication loops occur and how we can use a pretty simple process to make sure we are communicating well with people in all sorts of roles and skill levels.  I know I am going to be reviewing my communications better into "what does it do" and "why" as I present new ideas moving ahead. 
+
+Raw Notes:
+She translates a lot of technical solutions into plain speak for clients
+worked at the Drupal Association, talking human side of Drupal
+how it had changed their lives
+Communication is 
+encoding - the sender packages it up to send
+then sending over channel, letter, song, dance,
+Message Decoded 
+reply feedback encoded
+channel sent
+decoded feedback
+Barriers happen all the time at all channels
+maybe technical, maybe personal, maybe cultural, attention, disability, etc
+Using right words
+ with the right people 
+ in the right medium 
+ at the right time 
+ for the right response
+Reducing barriers
+encoding/decoding problems
+incomprehensible jargon
+lack of shared knowledge base
+vocab barriers
+cultural values difference
+Scheme - US english means plot, underhanded, UK- just a plan for an org
+Issues with the medium
+hearing, vision orther disabilities
+physical imparement
+inherent encoding flaws
+Communication breakdown example
+"what are you thinking for dinner"
+meant 'should we get pizza' gets 'make your own damn dinner, I don't wanna cook"
+well that escalated quickly
+if you pause and realize there is a barrier there, maybe should ask or clarify
+best version, sender is much clearer "I crave pizza, can I order one or are you planning something else?"
+Know your audience
+How can I phrase this in terms this person will understand?
+how can I talk about this in a way that will make them care?
+DO NOT be condesending 
+What are they doing now?
+What are they trying to do?
+What's keeping them from doing the thing?
+What do they value?
+What makes them successful?
+What makes them fail?
+And find their barriers
+Same background?
+Same native language
+Is this best medium?
+is message structured the best way for this medium
+example
+Non-profit living history museum in Austin, TX
+volunteer org
+I spend a lot of time sharing info about bookings to people. 
+What is he doing now?
+What is he trying to do?
+What is keeping him from doing it?  
+What does he value?
+What makes him successful?
+What makes him fail?
+Prefers spoken communication
+talk about how solution saves time, and makes his life better.  
+Not technical answers
+Why?
+Find clarity with your inner 4 year old
+What's the point?
+ask why until you have the most basic answer
+How questions is a rabbit hole
+vs what does the thing do
+Avoid technical language and find concrete real world terms
+example of cache solution
+broken down to 'maks the site faster' and not delving into tech jargon
+Might seems like a long process and lot of work
+at first it is
+then second nature
+then improves all communication
+most people will meet you half way
+clarity and kindness makes things better
+https://sidewaysdictionary.com - analogies explaining tech.
+internet linguistics
+gretchenmcculloch.com
+skillsyouneed.com/ips/communication-skills.html
+
+https://twitter.com/McDwayne/status/1055852937828651008
+
+
+
+[GATSBY AND THE JAMSTACK: AN INTRODUCTION FOR THE DRUPAL/LAMP MINDED](https://2018.badcamp.org/session/gatsby-and-jamstack-introduction-drupallamp-minded)
+[NICK LEWIS](https://twitter.com/nicklewisatx)
+
+JAMStack is the now and future for the front end.  We are moving into specializing the CMS to just worry about storage and access to the content, moving to things like [Gutenberg](https://kinsta.com/blog/gutenberg-wordpress-editor/) for editing experience and microservices for, well, services like forms.  Gatsby is literally helping people make sites that are rediculously fast.  My favorite line from this talks was "The Gatsby team tries to make it hard to build a slow website."  This is a great intro and the example repo is very practical and usable out of the box.  
+
+Raw Notes:
+He does not like JS frameworks
+got burned on projects
+Drupal learning is hard, really hard for JS template builder to understand
+I've seen this before and its the work of the devil
+now believer
+JAMStack is a lazy term
+secret sauce is sheer hosting laziness
+production is flat files only
+interactivity is 100% client side
+Content is managed via git or a CMS on a separate server
+Buzzwords but practical
+$5k a month to $5 a month
+removes all tuning snd monitoring needs
+very secure
+CMS-> Gatsby -> JAMStack -> CDN
+Code samples
+how it is laid out
+Gatsby is like a compiler
+much simpler structure than CMS
+index.js
+not everything loads automatically, you have to import things you need on each page
+Helment instead of head
+HTML rendering via JS
+needs to be compiled but Gatsby takes care of it
+some syntax to learn
+Define a new react component
+passing in Props variable
+children - lets ou put components in components
+compared to Drupal, this is simple
+Style components
+defining style on same page as component
+keep things together
+instead of giant SASS directory, just in one place
+article teaser styles that react to that
+renders in CSS properly
+Setup
+Drupal side
+JSON API - in core in 8.7
+have to install right now though
+make anon requests or http auth, protect data
+webhook with something like Netlify
+site never goes down on Netlify
+set up a build hook
+API to let it know it needs to rebuild the static site
+GraphQL - it is amazing
+get all pages and articles
+copy/paste basis
+taking initial page query and passing into a template
+but after the query is written it is familia and simple
+images are tricky at first as well
+Gatsby wants to make it hard to make a slow website
+lazy loading is automatic and taken care of by platform
+Kyle's desire to mathematically save off milliseconds drives this
+https://github.com/zivtech/gatsby-drupal-kit
+no views integration, must parse this in 
+
+https://twitter.com/McDwayne/status/1055872229685157888
+
+
+[DESIGN FOR NON-DESIGNERS](https://2018.badcamp.org/session/design-non-designers)
+[ROXY KORANDA](https://twitter.com/atendesign)
+
+One of the most important books I ever read was [The Non-Designer's Design Book, by Robin Williams](https://www.amazon.com/Non-Designers-Design-Book-4th/dp/0133966151).  This was required reading for me and helped me learn ot be bold and stop centering everything.  Design is something we are all actively participating in, from end user to conceptual artist, we all feed back into the system.  No matter what your role, understanding how to better communicate visually is a valuable skill and I am very grateful for this session.  Also, learned I have been misusing the hyphen and the em dash — a lot.  
+
+Raw Notes:
+75% of users admit to judging a company based on website design
+opening a designing program is not the first step
+what do you want to do and why?
+Strategy Toolkit
+What should your message be?  Focus on goals
+audience
+voice and tone
+baby shower vs metal show
+typography needs to reflect the right to the right audience
+General Advice
+remember goals and audience
+keep it simple
+focus on content
+be concise
+consider context
+KIS - easy to get carried away, don't go overboard
+Focus on the content
+use your stengths, think of cleaver headline over bells and whistles
+core model exercise
+how will people arrive at this page?
+don't bloat, can you live without it
+consider context
+flyer or website?
+flyer in a grocery store, what is the rest of store like?  What are other flyers like?
+what limitations around how to use color
+most colors print darker and duller than on screen
+make sure you have ample frame/space if cutting it yourself
+Composition
+Prioritize
+get to main points first
+sketching is a great way to land on ideas and iterate quickly
+consider maybe a wireframe 
+content prioritization and consistant alignment
+visually anchored
+whitespace is needed for design
+not wasted space
+less opportunity for distraction
+looks luxurious
+Good use of whitespace increased reader comprehension by up to 20%
+emphasis visual space
+consider the whole system
+Images
+learn Photoshop or Gimp deeply
+just go outside, natural light makes things look good
+know if you have image skills going in, 
+some tricks are very simple like color overlay or blur
+GIMP is very good free Photoshop 
+Pixlr is good but a step down
+don't get too crazy
+want the darkest parts of photo near black and lightest near white
+adding saturation to match real life
+adjusting color balance
+blue? add orange
+images indoors always look too warm
+cool outside
+illustration and iconography
+be smart and avoid clipart
+avoid flaticon 
+The noun project - attribution
+iconmonster
+vector, scales very well
+Logos
+do not need to be huge
+smaller is better a lot of the times
+consider background color
+keep in mind what backdrop they need to go on
+fonts
+Avoid bad ones
+Google your Font and see what the world really thinks
+Avoid wordart
+in selecting fonts, Google fonts are great resources
+mixing fonts can be dangerous
+same font that is everywhere but has multiple weights
+many weights makes it more flexible
+Typewolf is a good resource for use in the wild
+Type Hierarchy
+big bold headings get points across
+make subpoints same weight on a scale
+avoid long line lengths
+legibility
+contrast to be clearly legible
+Dashes 
+difference between hyphen, En Dash, Em Dash
+- hyphen just -
+– en Dash alt + -
+— Em dash  Shift + alt + -
+Color 
+Palettes  - stick to one or two if you don't have a lot of resources
+Coolers website, color palette selector suggester
+but it does not tell you what colors work together
+think of A11y, color blindness
+colorvale
+stark, color bind simulator fo 
+Spectrum is an extension for Chrome that simulates color blindness
+immerse yourself in good design and take notes
+look at other sork and borrow elements but do not copy
+designspiration 
+dribble
+slides online
+
+
+https://twitter.com/atendesign/status/1055891024554283008
+
+
+[BUILDING WEBSITES WITH REACT & GATSBY](https://2018.badcamp.org/session/building-websites-react-gatsby)
+[Kyle Mathews](https://twitter.com/kylemathews)
+
+There were a few sessions about Gatsby at this event, but only this one was the original founder himself, Kyle.  After a few equipment issues in the very packed room we were quickly looking at code and examples, which are kind of hard to take notes for, using my style anyhow.  Good overview and thanks to [Kevin Thull](https://kevinthull.com) I think the recording is going to be a great way to see this.  
+
+Raw Notes:
+Background in Drupal
+Once React started he didn't want to do anything else
+he wanted a simple tool to make react easier
+server render React to static HTML so sites load blazingly fast
+But then load minimial JS
+seamlessly add interactive/dynamic sections to the website as well
+Write all templates in one format
+Early on gatsby was similar to Jekyll/Hugo and the like
+people started using it and found bugs and made feature requests
+How to integrate WP, COntentful or Drupal
+What about themes, Code and data splitting and large sites?
+Not just for Static sites,
+Catsby could solve problems similar ot what Drupal solves
+Traditional CMS Presentation layer over COntent layer
+Decoupled
+Presnetation layer - application layer
+how do you bridge this gap?
+plugins and GraphQL
+Buildtime GraphQL layer
+designsystems.com
+justdoit.nike.com
+edgedb.com
+Rachio.com
+codesandbox
+how to get started...
+link componenet 
+prefetching
+demo start states
+code code code
+source plugins
+code examples
+
+
+https://twitter.com/McDwayne/status/1055922057626607616
+
+
+[WHY DOCUMENTATION MATTERS (EVEN WHEN IT SHOULDN'T)](https://2018.badcamp.org/session/why-documentation-matters-even-when-it-shouldnt)
+[MICHAEL NIELSON](https://twitter.com/oswebguy)
+
+The same way we are all designers, we are also all responsible for documentation.  Even if you don't code, it is very likely that when you need to use a product you will reach for those docs.  No matter how you generate product there should be a good paper trail that explains how the thing works but also why it works.  If we stop thinking of our reader as some random technical person and start writing to ourselves in the future, we are bound to create better, more readable and overall more enjoyable docs.  This was a super solid presentation I hope every product builder sees.   
+
+Raw Notes:
+We are all users no matter hat else
+Docs are the first steps someone takes when they start out
+good first impression point
+On twitter @Codewisdom is good to follow
+we are writing docs for our future selves
+retroactive learning
+can re-encode memory 
+step through creation process again but can easier codify why and what
+being stuck sucks, getting unstuck feels amazing
+writing docs in hopes that my struggles aren't yours
+Docs are good for a team
+brain dump
+billable hours
+fewer meetings
+mind state
+fewer trivial issues
+more brains grasp what's going on in the code
+reading the whole doc often gives you what you actually want
+Good for ourselves, good for the team, good for the community
+Why docs suck
+hard to find, opaque and often out of date
+writing code is NOT writing documentation
+not even close
+Makers aren't users
+reading is not understanding
+some concepts to consider
+imagine writing a doc for a 4 year old in making paper airplanes
+or how to tie a bow tie
+-- no images allowed
+We don't know what we don't know
+Outside context problem
+book: excession - Iain M. Banks
+poor language
+translating requirements into code is hard enough
+translating code back in to meaningful docs
+packet dropping is and should be expected
+not a software problem
+useful knowledge transfer is a whole other field - Education
+improving the concepts undergirding education
+epistimiology
+We are not alone
+written communication in inadequate to express some concepts, like care crashes
+code has advantages
+our language is simpler
+concepts less nuanced
+convincing others on why this is important
+Getting buy in from the team
+especially stakeholders
+can't be underestimated
+think in long term shift
+uses logic, self interest (SS)
+long term
+BUS plan
+what happens when so and so gets hit by a bus
+pros - extremely visceral
+highly otivational
+can use real names
+downsides
+one time use only,
+short duration of effectivenetsss
+management by crisis
+average time to first commit?  ON average 6-12 hours
+huge giant welcome mat
+easier for people to get started and easy to promote to your friends
+lower trianing costs
+no need to fly folks in to train them
+save on many fronts
+Documentation fun?
+fun to consume vs fun to create
+for one sprint, do nothing but srite docs
+not one line of code
+get the whole team involved
+get food and drinks, hourly stretch breaks
+get yout PM to review
+do mini sprints
+60 minutes
+team on site, a couple doc sprints
+add paragrah breaks
+add Flash, not the tech
+images
+gifs
+emojis
+add photos
+tools for multimedia
+licecap - make a gif
+quicktime - audio and video
+create doc stories
+break into chucnks
+assign it to someone
+go through approval
+ship it
+creating an Index
+automate it, if you can
+if you can't make it sinlge page and exhaustive
+non-technical foks can spot Jargon faster
+refactor docs
+add a todo at least
+encourage new hires to contrib to docs
+btter and better
+requires revision
+maybe somethings changed
+mind the gap
+what is trivial conclusion to senior developer may be a curveball to someone new
+focus on logical jumps that appear to be simple
+sourcing bashrc for instance
+docs as acceptance criteria, mandate docs creation as part of marking off somthing as done
+maybe docs as first pass 
+don't do it - antipatterns
+not documenting, this is the worst
+actually having bad docs is worse
+if out of date Mark it as such
+make a half assed effort, ehh, it does stuff
+don't make it easy to find
+make it top level
+violate wheaton's law - don't be a dick
+see 'mind the gap'
+No code as docs!
+It is lazy and shows a lack of care to non technical users
+"just read the code"
+read - empathy for idiots
+https://bit.ly/badcamp-write-the-docs
+
+
+
+https://twitter.com/McDwayne/status/1055936535269277697
+
+
+[PIVOTING IN A PROJECT: STRATEGIES FOR ADJUSTING TO SCOPE CHANGES](https://2018.badcamp.org/session/pivoting-project-strategies-adjusting-scope-changes)
+[BRIAN MANNING](https://twitter.com/bmanning81)
+[KELLY DASSING](https://twitter.com/kellydassing)
+
+
+Raw Notes:
+Tips and tricks talk
+Project teeam
+architect, devops leads
+creative director
+digital strategist
+accessibility lead
+executive sponsor in the middle with a project manager to guide
+kicking off
+catpurting the vision
+help your client organize their ideas and get a plan of attack
+make sure budget makes sense
+realistic goals
+all stakeholders agree, 
+failure is a domino effect a lot of the time
+know what success looks like
+ask the right questions early
+kickoff agenda
+who is responsible for each tdask
+estabish timeine and dates
+what is a launch blocker vs nice to have?
+who's the captain?
+Communicate with the whole team
+establish what the project as a whole is even doing
+make sure each role is represented at the table
+Avoid the dreaded overcommitment
+establish your MVP up front
+know your deliverables
+communicate with your product owner
+don't be afraid to say no
+keep your team grounded in the delivery
+don't get caught with too many meetings
+-maybe slack is better or an email for this?
+managing team morale and motivation
+don't be afraid to say no
+you need to push back to keep it on track
+Hedwig helper's hotline
+everyday at 6:00pm EDT they would kick Kelly offline and someone steps in
+keeping online all the time is bad, burn out
+Identifying the goal and plan to accomplish it
+revisit the MVP and adjust as needed
+creating a Phase 2 plan shouldn't be seen as a failure
+show progress to stay aligned, established deliverables
+refine roes and processes
+keep your team on task with tools
+wrike, trello, jira, etc
+discovery, design, dev, QA, Deployment, post launch support
+Agie Scrum framework at a glance
+product backlog
+sprint planning meeting
+sprint backlog
+1-4 weeks sprints
+Sprint approval docs
+little changes are inevitable, having docs makes this easier on everyone
+continue clear communication to clients
+take an extra 5 minutes to update tickets and communicate status
+use weekly status emails to update project status
+establish quick check-ins via a call or email to stay on target
+getting ready to deliver success
+check your deliverables against the established MVPs
+Does the delivery match up with the success outlined at the start?
+What does failure look like?
+Are there elements of that that failure loks like present?
+What happens if those pivots extend your time frame?
+throw a wake, not a funeral
+key to learn and frow on what was successful and what wasn't 
+pivots cause you to try things that are outside your norm
+did they work?
+Multiple pivots can cause you to think on your feet and come up with new ways of doing things
+why wasn't the normal path working?
+Postmortem can indicate failure even when successful
+
+
+https://twitter.com/McDwayne/status/1055955552654647296
+
+
+
+[HOT DOG/NOT HOT DOG: ARTIFICIAL INTELLIGENCE WITH DRUPAL](https://2018.badcamp.org/session/hot-dognot-hot-dog-artificial-intelligence-drupal)
+[Rob Loach](https://twitter.com/RobLoach)
+
+Raw Notes:
+Kalamuna 
+very distributed company
+We keep teaching computers how to act as if they were human
+Machine learning
+recognize patterns
+statistical analysis in a neural network
+if at first you don't succeed, try a billion more times
+realtor.com - take pic of sign, not QR code
+Patch.com - filter for obscene pic uploads
+facial recognition - google recognized dogs, not just faces
+Google Vision API
+label detection to see objects 
+face detection
+optical character recognition
+explicit content detection
+landmark detection
+API gives you a breakdown on images, properties, safe search
+pocks up recent changes well
+stays current
+and a whole lot of metadata
+coordinates, and so on
+score for these, confidence score
+cloud.google.com/vision/
+hot dog/not a hot dog app
+Alan Turing is not a hotdog
+a cucumber is not a hotdog
+high confidence it is not
+hot dog is a hot dog
+93% confidence
+kalamuna/hotdog - must set your own creditials with Google
+Drupal module - sponsored by Pantheon
+recipe website
+used Umami
+statue of david caught by adult filter
+suspicious images can be approved
+kalamuna/google_cloud_vision
+code example looking at API
+
+
+https://twitter.com/McDwayne/status/1056234064225521664
+
+
+[GITLAB HAS COME TO DRUPAL.ORG](https://2018.badcamp.org/session/gitlab-has-come-drupalorg)
+[Michael Hess](https://twitter.com/mlh407)
+
+Raw Notes:
+Better title, Gitlab is coming to D.o
+little demo by end
+some history
+2001, Sunflower theme
+CVS for code tracking
+2005 - inline text in page and RCS, diffs
+2008 - still in CVS, colse to present day patch
+first drupalgeddon issue introduced
+in 2011 - own git servers for Drupal
+very complex project
+48 hour outage to do the work
+2018 - patch files still moving around
+April 2008, Github went live
+became standard
+but why patches in the first place?
+Easy and actually mailing list
+2018 - for past 4 years been talking about how to get away from the patch system
+Drupal issue queue is actually better than standard github
+issue queue makes it possible to jump in quickly compaired to other projects
+contribution credit
+issues?
+run own git servers, nothing really wrong but git servers hae never been kept up, security patched but architecture is old
+code review
+What are the goals
+adopt a dev workflow that would be easy for folks outside Drupal
+preserve unique elements
+find a partner to help
+wrote more requirements
+workspaces model
+again building own solution, own island again
+let's get off the island
+why not just all over to Github?
+works for some but not all, not many to one
+leftPad
+Looked at Bitbucket too
+good but need add ons like Jira and Bamboo
+but they were going to pick it
+gitlab CEO reached out and wanted to help
+formalized path forward and slack channels created
+3 phases
+Phase 1 replace github sevices with Gitlabs
+if project maintainer, must change remotes
+use SSH
+drupal.org/gitauth
+sandbox on d.o, workflow will need to change
+Need to get HA worked out, Sync git history back to D.o
+testing
+push hooks made
+phase 3
+GitlabCI
+confidential issues for security
+GitLab issues
+MatterMost (slack competitor)
+project management boards
+Phase 2 - merge/pull requests on Drupal.org
+don't work for DA but hoping end of January this is solved
+built in IDE for github
+primary home for the Drupal project is still D.o
+code, test results, git web viewer, merge requests = Github
+everything else = D.o
+do we still need sandboxes?
+how do we sync comments to just the relevant places?
+still working on it
+What are we forgetting?  Something for sure
+
+
+
+
+https://twitter.com/seanedietrich/status/1056249606902706176
+
+
+[BEST PRACTICES: HOW WE RUN DECOUPLED WEBSITES WITH 110 MILLION HITS PER MONTH](https://2018.badcamp.org/session/best-practices-how-we-run-decoupled-websites-110-million-hits-month)
+[MICHAEL SCHMID](https://twitter.com/Schnitzel)
+
+
+Raw Notes:
+multiple projects
+load fast
+infrastructure, platform, code, people, learnings
+Infrastructure - AWS (can be anywhere),Autoscales
+Multi Availability Zones
+diagram walkthrough
+file system is gluster
+syncs to Amazon FS
+backups of the whole thing, BURP node to AWS ABS
+moving to Restic
+Nginx PHP pods
+this is autoscaled with Kubernetes
+start a single pod, starts new ones on load
+Redis, Solr also in pods
+mysql pods too
+CLI pod is special case
+Drush not on app servers, it is a service provided to the containers with SSH
+it knows in real time if people need it, if not it shuts down
+
+
+
+https://twitter.com/McDwayne/status/1056298403250880512
+
+
+### My session
+
+[LET'S LEARN GIT. NO MORE EXCUSES.](https://2018.badcamp.org/session/lets-learn-git-no-more-excuses)
+
+https://twitter.com/ajschwab/status/1056365222464696320
+
+
+
+## Wrapping up
+
+BADCamp is a blur every year.  
+
+
+
+
+https://twitter.com/kanopi_studios/status/1055565952471982081

@@ -1,0 +1,526 @@
+WordCamp Portland 2018
+
+intro
+
+https://twitter.com/wcpdx/status/1059473476363243520
+
+
+## Food and Fun
+
+Seeing some sights
+
+hotel 
+https://twitter.com/McDwayne/status/1058107486937305088
+
+4ttrail
+https://twitter.com/McDwayne/status/1058478097899507712
+
+
+Speaker Dinner
+
+https://twitter.com/McDwayne/status/1058522643849048064
+
+Lunch
+
+https://twitter.com/epretorious/status/1058825008422707200
+
+https://twitter.com/wcpdx/status/1058799432387375104
+
+
+Afternoon snacks
+
+https://twitter.com/wcpdx/status/1058858039099371520
+
+after Party
+
+https://twitter.com/wcpdx/status/1059134589858308096
+
+After after 
+
+https://twitter.com/McDwayne/status/1058947674462814208
+
+
+## Sessions
+
+[PHP for WordPress](https://2018.portland.wordcamp.org/session/php-for-wordpress/)
+[Alena Holligan](https://twitter.com/sketchings)
+
+sketching/wp-random
+php for WP 
+let's not put our code in themes
+Candy she gave out
+that is the value we are storing
+reese's, m&ms, etc
+Ben, what candy do you have? 
+need to name variables to call them
+more complex with arrays
+M&Ms are like arrays
+packets with individual pieces
+it is multiple items in the item
+lot of array functions 
+Nesting arrays
+array within an array
+just like a big candy bag has multiple M&M bags
+name the key is associative array, names let us call things
+variables: Scalar (bool, int, float, string)
+$workday = false;
+$hour = 6;
+$price = 15.25;
+$quote = "sting"; //string
+constants
+define ( 'FORCE_SSL_ADMIN', true); - // Contant bool that does not change
+An opening and a closing in PHP (not all have closings)
+<?php
+/*
+multi line comment
+*/
+$total = 6 + 3; //math
+echo "display the $total"; 18.5
+echo 'display the $total'; $total
+var_dmp($total, FORCE_SSL_ADMIN);
+// float(18.5) bool(true)
+?> leave off if EOF
+Make a random quote generator
+$motivation = array(
+"string 1"
+"String 2"
+);
+$motivation[] = $quote;
+echo $motivation[0];
+//indexed array by default, numbered -- this is faster but can get complex
+Alexia messes up array when counting by 10s, off by one
+Functions!
+way to repeat code without rewriting it
+lot of pre-made functions that you should leverage
+string substr
+int strlen
+string trim (rtrim, ltrim)
+int strpos - find position of first appearance of sub string specified
+strtolower - lowercase
+mixed str_replace 
+Array functions
+array_merge
+//our own functions
+function sketchings_quotes -- add your namespace thing in front, sketchings is her namespace github
+$motivation = array(...);
+$encouragement = array(...);
+if ( in_array(strowlower(trim($category)), array('motivation') 
+Conditionals
+if this, then that
+inside her own function again
+if the category is not empty
+pass to category and get quotes
+if hour > 4 && < 17
+motivation
+else
+encouragement
+array_rand($quotes)
+echo 
+Loops
+things we are going to do to variables
+Types of loops
+for 
+while
+do...while
+foreach ($search as $word){
+$content
+str_ireplace() - replace word no matter the case
+...
+return $content;
+}
+that is the basics of PHP
+Plugins
+writing a funciton with the above code
+minimum viable plugin is one file
+sketings-random-quote-playground.php
+<?php 
+/*
+Plugin Name: wp Random Quote Playground
+*/
+// THAT IS ALL YOU NEED, that would run
+interacting with WP
+Themes - look and feeel, not how it acts
+Plugins - added functionality
+Hooks - Thmes and Plugins Hook into Core using Actions and Filters
+Actions - add or remove functionality
+Filters - Change data
+First we do an action
+add_action ( 'wp_head', 'sketchings-random-quote_style' );
+when the wp_head is called, call this function
+wp_register_style( "")
+plugin_dir_url( __FILE__ ) . 'css/styles.css' 
+Registered, used, where
+now add in fucntion
+add_filter ('the_content', 'sketchings_tooltip');
+when you push your hook, WP passes some things in automatically
+passes ($content) for instance gets us WP content
+function sketchings_random_quote_shortcode( $atts ) {return sketchings_random_quote( $atts[category']);
+}
+add_shortcode(
+'random-quote', 'sketchings_random_quote');
+)
+
+
+https://twitter.com/ggschrisw/status/1058761066841174016
+
+
+
+My talk
+
+
+https://twitter.com/TheresaPotratz/status/1058788966667759616
+
+
+
+[Columbia Lightning Talks](https://2018.portland.wordcamp.org/session/columbia-lightning-talks/)
+
+[How to clean up the WordPress Database](https://2018.portland.wordcamp.org/session/columbia-lightning-talks/)
+[David Greenwald](https://twitter.com/davidegreenwald)
+Friend had site, 100K monthly visitos
+Cheap shared to VPS n fix
+Cloudflare didn't work either
+wpoptimize to try and clean DB
+it was the DB, old plugin leaded in lot of crap
+282MB Options table before
+2MB after
+5 users at once = 1 gig of ram
+DB are sneaky, expensive, bad for business and traffic
+All your WP content lives in the DB
+plugins add their own table
+plugin ads a ton of tables
+yoast does to
+woo does a lot
+not bad, just need to be careful
+biggest issues
+Large umber of rows
+large data size
+how to tell if DB is slow
+speed test to tell
+Google says 200ms or less
+def less than 500ms
+high traffic increases webtimes
+can be slow due to 
+slow server
+old PHP 5.6 and older
+Slow DB
+or all three
+Caching is a band-aid for the DB, aalways test is caching off
+most important tables for cleanup
+wp_options
+wp_postmeta
+wp_post
+wp_comments
+wp_tables
+DB detective tools
+plugins
+wysql tools
+always backup your DB first
+wp-optimize
+can clean DB of trash
+wp-Optomize is good for post and comment tables
+does not solve options table
+looking for bad actors, abandoned ata from old plugins
+code example
+
+https://twitter.com/andmiddleton/status/1058821826363633664
+
+
+[Gutenberg and WordCamp.org’s Shortcodes](https://2018.portland.wordcamp.org/session/columbia-lightning-talks/) 
+[Corey McKrill](https://twitter.com/coreymckrill)
+
+Works on WP.org
+site network
+how they went form shortcodes to blocks
+if he can make a block, so can you
+12 year old site
+custom post type called speaker
+"I am a post"
+speaker shortcode shows name, gravatar and description
+when thinking on it 3 stages
+1. server side render
+but this means has to reload the whole preview and UX is slow
+2. native JS on the client side
+had to learn more react things
+every time change parameter it is really, really fast
+more complex and steeper learning curve
+static in the preview though, have to use sidebar controls
+thinking outside the []
+things you couldn't do with the shortcode system
+select individual speakers
+ope source, you can contribute
+wordcamp=block=speakers
+
+https://twitter.com/andmiddleton/status/1058823206847447040
+
+[Holy Blockamole: Tips On Learning Block Development](https://2018.portland.wordcamp.org/session/columbia-lightning-talks/) 
+[Andrew Taylor](https://twitter.com/ataylorme)
+
+lot to learn
+start with the user experience in mind
+Start with PHP
+eventually you will need to write custom blocks
+add theme support, much easier learning curve than writng new blocks
+apply block filters
+this gives guardrails
+post type templates
+shows the user the one and only and best way to do things
+dynamic blocks
+what is output on page can get saved in static blocks
+when post is in an RSS or mobile, needs to be different , can't be static
+render callback in PHP
+don't start from scratch!  wp-cli, 
+understand modern JS
+been evolving for a long time
+evolving faster now
+lot of new ideas and concepts, big leaps
+but doable
+React and JSX
+change the state, not the DOM
+attribute for things like Location
+state error messages
+review the source code of Gutenberg itself
+how did they build core blocks?
+thorough documentation
+in-depth tutorials
+great code samples, they had both modern and ES5
+review the goals and philosophies, before you write a line of code
+
+https://twitter.com/andmiddleton/status/1058825255240646656
+
+
+[Types, Subtypes, Meta, Options – An Abstract View On Data Structures in WordPress](https://2018.portland.wordcamp.org/session/types-subtypes-meta-options-an-abstract-view-on-data-structures-in-wordpress/)
+[Felix Arntz](https://twitter.com/felixarntz)
+
+
+
+The post is not the post type
+no taxonomy that is called term but terms are types
+how posts and terms relate
+---
+slight nuances in all the APIs 
+POST and Terms are very simlar in many to many relationships
+why do we care about object types now?
+what is metadata
+tables that hold specific items
+arbitrary key value pairs with realtions to the thing
+can store multiple values per object
+meta has an abstract API
+Object types
+group of entities of similar nature
+API follow a common stucture
+object type is not the post type
+
+
+
+https://twitter.com/cjygx/status/1058835429422596096
+
+
+[7 Keys to Sustainable WordPress Projects, Inspired by Buildings](https://2018.portland.wordcamp.org/session/7-keys-to-sustainable-wordpress-projects-inspired-by-buildings/)
+[Nick Halsey](https://twitter.com/NickHalsey_)
+
+
+Loking at buildings
+example 1: 30mil building getting 135mil rebuild
+example 2: reduced impact and costs by reusing same frame
+example 3: POstTension Contrete Flat-Slab Structures - environmental impact is pretty bad
+resiliency: Washington County Public Services
+thinking for the future
+building codes
+Zoning code
+what the building can be, how much x it can have
+how tall it can be
+you can work around codes if better results are agreed upon and proved
+WP Philosophy is like the 
+He has reduced this down to:
+Implementation
+1. focused
+2. Simplified
+3. Generalized
+4. Automated
+Process
+5, Iterative
+6. Attentive
+7. Open - to the 4 freedoms the GPL presents
+Design Review
+must meet with architect before applying Zones
+peer feedback to get it ready to propose the final draft
+examples in Portland
+he works on theme installer in customizer
+streamline the process
+worked with team to get to good UX
+Modular construction
+precast facade
+structure reusedable custom post types
+he built sheet music site
+explains benefits of custom post types
+ties taxonomy
+Retrofit/iterate
+not seismically stable county building
+exterior cross beam frames
+worked on 14 color 4.5 color picker in customizer
+little improvements like quicker previews are good way to iterate and improve over time
+adaptive reuse
+transforming an old boarded up factory into event space
+entirely new use but keep character and history 
+Annenberg Digital Lounge
+shared taxonomy and could keep much out of the box WP core pieces that were in place
+tool taxonomy
+Balancing Disruptive Innovation
+Mass-timber tower firesafe and seismically 
+more innovative materials, and costlier
+so on hold now
+but made other projects more doable
+Gutenberg is here and about to be shipped in core in 2 weeks
+7 keys to sustainable WP projects:
+1 building codes
+2 the WP philosophy
+3 Design and Code Review
+4 Modular Construction
+5 Retrofit/Iterate
+6 Adaptive Reuse
+7 Balance Disruptive innovation
+
+
+https://twitter.com/McDwayne/status/1058850832916000768
+
+
+[The Life and Death of a WordPress Agency](https://2018.portland.wordcamp.org/session/the-life-and-death-of-a-wordpress-agency/)
+[Matthew Eppelsheimer](https://twitter.com/mattepp)
+
+toxic job
+left to dream job
+project and company cancelled
+sulked, then
+thought, just make the agency he wants to see int he world 
+this is the story
+his soapbox hour
+in the beginning just him
+originally small family owned local businesses
+They needed a simple site and contact info
+then got better connections, grew client base
+slowly built team
+hired Matt P. 
+developer
+front end was next hire
+people with better and different skills
+burned brightly and a bit unstable for a while
+if building a team around you, rolling the dice
+smaller you are the harder to wether the storm
+another designer
+with more professional logo
+people with real marketing budget
+appearances absolutely matter
+hired his brother for operations help
+MBA
+quit a couple months in
+didn't like working behind machines
+now in school again for medial
+all hired friends and family
+dont do this
+complicates things
+Beware firing friends
+You need to be good as marketing
+they were never good at marketing
+Marketing Agencies eat WordPress agencies' lunch
+learn to disassociate
+can't take it personally
+perfect enemy of good
+good enough for today's needs is good enough
+referrals are everything
+We never got many
+make website and web appps for clients
+to grow capabilities and capital, to launch local food startups
+Economics of Devs on the payroll
+$60K is smallest amount for professional dev
+The thing we did best was care about people
+Repel bad actors
+be daring with your values
+prioritize your manager's ecellence
+Center the Team, more than the individual
+
+
+https://twitter.com/McDwayne/status/1058865630474993664
+
+
+### Special surprise guest Q&A
+
+[Matt Mullenweg](https://ma.tt)
+
+
+"Gutenberg broke a plugin I was using, when it updates 'Is it a have to thing?'"
+which plugin? Events calendar 
+explained how to use classic plugin and how to adopt Gutenberg
+"How is it coming back day to day"
+Twitter makes people fight more
+"what is the tipping point of people being on board with Gutes
+getting early adoption key, want it to be non-event
+Mentions Bluehost by name
+changed support calls?
+non-event, not really
+muscle memory vs learning curve
+Beta releases never get this kind of distribution
+maybe 2K to 3K
+Gutes has 600K, many in production
+push date to 26th
+backup in January part of the plan
+Need more eyes, wordpress.com 
+"launched 2 sites with Gutes, working on new stuff, old sites, Fun to work with.  Blocks make 
+SEO! 
+"A11y things growing, what up with that?"
+We had some project management disconnect 
+things we can do better
+volunteer team should not be external from core
+over 200 closed issues from the beginning
+poorly in many parts that the a11y team didn't point out
+Accessibility 
+wholistic look
+many plugins don't ever care about accessibility
+as we replace widgets and shortcodes into a consistent framework
+open it up to users who 
+"not about Gutes, 
+it is what does the future look like ina world of distrust and central authorities"
+WP is not part of the dirtibution system
+twitter is very polorizing
+likes to talk about it on twitter
+lot of good comes from these networks
+technological optimist
+social networks have woken up to the problem
+thing are getting better with figuring out 
+"Are we still going to call it Gutenberg? "
+Codenames take on lifes of their own
+Gutenberg is being adopted by other CMS
+New WordPress
+its all WP to people outside this room
+just be in passing 
+they kind of expect what new 
+"One surprising thing you have learned that has changed his thinking around ecosystems around OSS"
+Next year we will focus more on the 5 for the future 
+40 full time volunteers from Automattic
+reinvest back into core development
+should be able to do 3-5 Gutes size projects at once
+need much better Project Management
+Policy that will be adopted
+hundreds of volunteers
+coordination should align Core's values
+"Too soon to ask?  But what about React, what happens in the future JS and WP?"
+REST API
+Gutes is first thing built on the REST API
+they found a lot of gaps along the way
+APIs must be made more robust
+Gutes Semantic HTML
+cross CMS Gutes blocks
+WP hot digity
+APIs
+
+
+https://twitter.com/bobWP/status/1058880879647281152
+
+
+
+## Wrapping Up
+
+
+https://twitter.com/bluehost/status/1058810309308108801
+
+
+https://twitter.com/wcpdx/status/1059475725751701504

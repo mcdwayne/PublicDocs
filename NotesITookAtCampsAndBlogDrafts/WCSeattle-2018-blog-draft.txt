@@ -1,0 +1,521 @@
+WordCamp Seattle 2018: Not as much rain as I expected and learning about Brandi Carlile
+
+Flying into [Sea-Tac](https://www.portseattle.org/sea-tac) was met with a little wind and light rain, but at least the place wasn't [on fire, like my home state](https://www.hollywoodreporter.com/news/fast-moving-wildfires-paradise-south-california-1159833) was when I left.  I flew in a day early to have a little time to explore the city and catch up with an old friend before the WordPress events unfolded.  It was great to be back in [the Emerald City](https://www.tripsavvy.com/why-is-seattle-the-emerald-city-2964993) once again and visit [Pike's Place market](http://pikeplacemarket.org/), especially since the holiday craft fair was in full swing with [specialized hot sauces](http://www.ghostpeppers.com/), [hand dyed yarns](http://mjyarns.com/) and [local sourced honey](https://www.sunnyhoneyco.com/) around every corner. Getting a little shopping in was fun, but not as much fun as reuniting with so many friends and meeting more at [WordCamp Seattle 2018](https://2018.seattle.wordcamp.org/)
+
+https://twitter.com/bluehost/status/1061036981566742529
+
+
+https://twitter.com/bobWP/status/1061675163102588929
+
+
+## Food and Fun
+
+### Speaker Dinner
+
+It was a chilly walk to the traditional gathering of speakers, sponsors, volunteers and organizers on 'WordCamp Eve'.  We gathered at the old time swanky [Washington Athletic Club](https://www.wac.net/) which has a private bar and a side room, which we were in.  I was immediately greeted by so many a familiar face, it felt like a sort of homecoming.  Round after round of appetizer met us as well as 'pour your own' wine and beer.  Actually, for a good chunk of the night we didn't have to pour our own, as my new friend, the very selfless and kind [Archis](https://twitter.com/archisgore) did the serving for those who desired the fruit of the vine.   
+
+https://twitter.com/McDwayne/status/1061074437821235202
+
+
+After that party, some of us stepped a few blocks away to a hidden upscale gem, [Zig Zag Cafe](http://zigzagseattle.com/).  We had some very nice fancy drinks thanks to our local sherpa [Chris](https://twitter.com/technerdteitzel) who would prove to be the best local guide anyone could every ask for over the next couple of days.
+
+https://twitter.com/YouTooCanBeGuru/status/1061111236929024000
+
+
+### Saturday
+
+If there is one beverage that Seattle is known for, it's [the jitter juice, the rocket fuel, the cuppa](https://www.coffee.org/blog/20-slang-terms-for-coffee/).  The less words I say about the conference coffee is as nice as I can be to something that let me down this hard.  The tea offerings were solid though.  We also had a wide selection of fruits and breads as well as toasters to toast them.
+
+https://twitter.com/McDwayne/status/1061339011275350016
+
+
+WordCamp Seattle has one of my favorite lunch traditions.  Instead of relying on the in house catering of the [Washington State Convention Center](https://www.wscc.com/), or deal with an outside catering company, they give you gift cards.  There are a few dozen restaurants in a few block radius of the venue and we could pick from a list of places for which to get a $10 gift card.  I always will pick [Veggie Grill](https://www.veggiegrill.com/) as it is my favorite US based vegan food chain.  If they would expand to the US, [The Green Panther](http://thegreenpanther.com/) would be my favorite, but that is not an option yet.  No matter where people ate, we all filtered back into the convention center hall and finished up our fare together.  
+
+https://twitter.com/McDwayne/status/1061369779758411776
+
+
+### After Party
+
+We returned to the side room of the [Washington Athletic Club](https://www.wac.net/).  There was a pool table uncovered this night, but food was 'buy your own' and drinks were kind of hard to come by.  
+
+https://twitter.com/mmaunder/status/1061461458691665920
+
+### WPVegan
+
+After witnessing a good number of people arrive at the after party spot, deem it too packed, and retire from the place, I gathered up a few people and lead a charge for a plant based meal.  The handy app [Happy Cow](https://www.happycow.net/reviews/the-carlile-room-seattle-110814) told me of [The Carlile Room](https://www.thecarlile.com/) which is "inspired by singer/songwriter [Brandi Carlile](https://en.wikipedia.org/wiki/Brandi_Carlile), with ... classic seventies-era lounge cocktails." My curiosity was more than peaked and we dined on their local "plant house” features and impossible burgers in the ambiance of something that seemed ultra modern and classic kitsch all at once.  High praise for the staff accommodating our unannounced and unreserved arrival. I also ended up buying a Brandi Carlile album as a result.  
+
+https://twitter.com/jonathangafill/status/1061478116663545856
+
+We got into some [local (as in they make it on prem) made whisky's](https://www.mcmenamins.com/six-arms), [beers](https://www.pineboxbar.com/) and [fancy, smancy drinks](http://www.foreignnationalbar.com/) after that, once again with the most excellent docent Chris leading the way.  No tweets exist I can find of these events, so here is this one instead of a drink I wished I would have had.  
+
+https://twitter.com/Seattlemag/status/826193146216333313
+
+
+### Sunday 
+
+Coffee did not improve.  Tea was good again.  Carbs abounded.  
+For lunch, I once again returned to feast on plant based foods at Veggie Grill, but some of us ate at fancier places.  
+
+https://twitter.com/CarlsbadWP/status/1061712189956845568
+
+
+My flight back was supposed to be much later than the one I took.  I rarely do this, but thank you to the [United Airlines](https://twitter.com/united) bag check agent at Sea-Tac for getting me on a flight that had actually started boarding when i checked in.  I was sure this would mean a baggage snafu, but there they where, first off the conveyor on the other side. Sometimes things work out.   
+
+## Sessions
+
+### Keynote
+
+[Bridget Willard – Community: Observe, Include, Accept](https://2018.seattle.wordcamp.org/session/keynote-bridget-willard-community-observe-include-accept/)
+[Bridget Willard](https://twitter.com/YouTooCanBeGuru)
+
+I think Bridgets awesome.  As the lead Team Rep for the [MakeWordPress Marketing team](https://make.wordpress.org/marketing/) I get to work with her quite a bit.  I am so proud to know her and her passion for the community and motivating people of all walks of life is always inspiring to me.  Very happy to call her a friend and was glad to be here for this talk.  Reminding us that we are not alone and that connecting with other people is oh so important.  It was the right motivational talk for a community that is pretty uneasy about the future at the moment.  
+
+Raw Notes:
+Community is important
+Community is a Verb
+We make up Reasons and reasons not to go to events
+is this really another Community talk?
+Community is like Oxygen on an airplane
+you don't miss it until it is gone
+She went hiking high elevation, was not used to it,
+friend was
+Community is social science
+not a time wasting fluff
+Unfortunately, we are all human beings
+we are hard wired to connect with other humans
+when we are deprived of it it affects our lives
+everything that matters to people is a verb
+* Observe
+* Include
+* Accept
+We say we believe in inclusion until we don't
+iphone vs android example
+meetup attendance is low or just talking to same people, it is on us to be the ones who do the outreach
+Be the cultivator of the garden
+you don't just plant and walk away
+Observing who is there and how they are
+our body language tells all
+Maybe you came here alone
+meet the people around you
+easy and feels good
+include
+conversation with person in audience
+sometimes it is just good to hear it
+psychological safety
+that is what friends are and need it to exist
+we don't celebrate what makes us different, but what makes us the same
+focus on the Venn diagram
+Accept
+it is up to us to reach out to bring them in
+build bridges , don't destroy them
+we make emotional decisions and then go to Google to justify them
+we should be making rational decisions
+she is always having to defend Marketing as science
+reading data and reacting in real time
+it is real science
+hard to be different
+walked into WC LAX 2015 
+Alex V asked her to volunteer as social media person
+she would have never volunteered on her own
+would you like to ___
+ask.  
+read bios and ask them if they 
+Cortisol is the stress hormone
+it is what drives fight or flight instinct
+if you are 
+Grooming and calm is Oxytocin
+this is the chemical that makes us feel calm and accepted
+lowers Cortisol
+Embrace yourself as yourself
+don't just assimilate
+don't lose who you are
+diversity of thought is key to growing the community
+the way we have the conversation makes the difference
+Why do we have a Lego piece?
+We are built to be connected
+is it the wrong piece?  is it the wrong time?
+invest in people and they will invest in you
+you don't know when you will need that piece
+the best time to plant a tree is 20 years ago
+2nd best time is now
+it is not just random Lego
+is one of you doesn't participate we can't build the plane
+the actual Lego plan
+we need a revival of this community
+we already have early adopters and innovators
+if we want to get to the next level, 51%+
+we need to see the arguments don't matter
+we need to get together
+you have friends
+
+
+https://twitter.com/bethannon/status/1061304102603251712
+
+
+Speaking of Lego.  Bridget brought a box of Lego, distributed the pieces randomly to the seats in the keynote and then asked to community to come together to make the thing on the box.  We did pretty good and I think there are many lessons we should take away from the experience.  Likely worth a whole post once I process it more.  
+
+https://twitter.com/Pressable/status/1061760212397318144
+
+
+[What I Learned From Interviewing 200+ People in WordPress](https://2018.seattle.wordcamp.org/session/kyle-maurer-what-i-learned-from-interviewing-200-people-in-wordpress/)
+[Kyle Maurer](https://twitter.com/MrKyleMaurer)
+
+I wasn't sure what exactly to expect from this talk and that is actually one of the main drivers of my attending.  I will admit I am not a regular listener to his show, though I have caught a few episodes over the time I have been in the community.  It was awesome to hear the story of the show as a project overall.  The raw numbers he presented painted a picture of a community maturing along with the CMS, learning to trade stability for the 'latest cool new thing' and what that might mean. I for sure walked away with a new appreciation for how US centric my thinking has been around the term 'community'.  Not sure what to do with this perception change yet, but I am glad it has happened.  
+
+Raw Notes: 
+A few years ago, wanted to dig in a little more
+on Google+ someone said they were starting a WP show
+co-hosted WP RoundTable 
+he was only constant host
+Never repeated a guest
+talked one on one about community
+learning things about them
+Learned a lot about
+Succeeding in WP
+The People of WP
+and himself
+we all want to feel like Cheers
+instead we all feel like the first day of school
+we feel like we are minor part 
+learning to fit in
+you can fit in, just need to find a place
+scheduling with guests forced him to honor the commitment
+schedule with a pen, not a pencil
+Published > Perfect
+but quality compromises limit growth
+could have done it better, but learned to be at peace with the fact it was done
+comparing the diffs between what they expected to get out of it vs what they did
+they wanted: 
+traffic, views, an audience, notoriety
+sponsors, recognition
+what he got:
+Relationships
+Confidence
+interviewing skills
+advice
+valuable lessons
+contacts
+great stories
+credibility
+What he learned about the people of WP
+reflects his networks and himself
+he is a profile
+The WP "Industry" is still very young
+WP space has not been around a long time
+self employed 58.2%
+Employed 41.7%
+many small players
+bigger players begin to grow
+market itself consolidates
+still a gender gap, in all of tech
+Stats for turnover rates
+1 year 30%
+2 years 24%
+3 years 33%
+4 years 34%
+younger people change jobs more frequently
+lot of business acquisitions as well
+Age gaps, big time
+Guest age range
+teens 1.8%
+20s 5.4%
+30s 64% 
+40s 24.0
+50s 4.2%
+60s 0.6%
+now this reflects his experience
+and kind of self selecting
+We are established but still new, so Enterprise business stats don't apply
+but it is not the new thing
+many of the 30s folks started with the 'hot new thing' when they were in 20s
+right place at right time
+The non-US community is very underrepresented
+guest locations is almost all US based
+only a few other countries represented on the show
+General observations
+Everyone says "I got into this accident"
+College experience was common - rarely related to WP though
+a previously unrelated career was common
+Many are taking a break from travel
+when WP was taking off and WordCamps were new, lof o early adopters went to as many events as they could
+burn out is real
+reflects the age group, homes and kids and other pressing responsibilities
+Almost everyone was self taught
+WordCamps were a huge turning point for many people
+special moment that changed their lives
+how welcoming and supportive
+What he learned about succeeding in WP
+Super common advice
+- Specialize - be super good at something
+- charge more
+undercharging really plagues the space
+- just ship it! - more important to release than getting it perfect
+- know when to give up
+move on when it is time
+- Good communication solves most problems
+- Engage the community - the community will help if you let them
+Common factors in major "success" stories
+- Start early, some of it is just right time and right place
+- Failed over and over - the most successful peple fail more
+- Had funding or at least a financial cushion
+- Worked their tails off
+Bonus: reiterating his favorite points
+Trick yourself into being consistent 
+WP is maturing and really changing, so must our strategies
+We need to work harder on Diversity
+This community will change your life if you let it
+If you are not successful enough yet, keep failing, you have not failed enough to succeed
+sandhillsdev.com
+wproundtable.com
+getoptionspodcast.com
+kyleblog.net
+
+https://twitter.com/McDwayne/status/1061327568052178944
+
+
+[User Experience and Branding for WordPress sites](https://2018.seattle.wordcamp.org/session/user-experience-and-branding-for-wordpress-sites/)
+[Jennifer McKnight](https://twitter.com/promogurl)
+
+This was Jennifer's first WordCamp talk and the excitement bubbled over from her as she shared something she is very passionate about: branding.  It is so easy to lose focus sometimes when working on tech, leading us to think that everyone cares about tech the same way we do.  Hearing her story of the cowboy at the farmer's market who was just trying to do 'beef stuff' gave me a mental image I will be carrying around the rest of my days.  I hope Jennifer continues to submit talks and can inspire others in the future.  
+
+Raw Notes:
+Story of her dress
+it is crochet
+Passion for content
+websites before 
+in 2000 websites were about utility
+it was a service to make things easier to find
+in around 2009 social media really transformed the expectations of what the internet did
+in 2010 she took on her first website client
+Idaho Beef
+had no web presence, he didn't have time
+he was busy with beef stuff
+Even small businesses need to be brand and UX
+A brand is more than a "thing" 
+we do use brands as items a lot though
+A brand is tied to perception
+it is how you feel about the product or service
+A brand can be defined, but it is difficult
+You can impact your brand with web design
+Video elements with real people in them
+characters that personify human qualities
+Aesthetics that elicit emotions  
+Advertising
+In store experience
+Visual identify
+Websites are one of the most effective ways to promote 
+UX if everything
+rooted in existentialism
+Tied to emotions and attitudes
+Separate from usability
+UX is what the user does on the wide
+usability is how easy it is to use
+The code of UX is ensuring that users find value in what you are providing them
+Ask about
+Useful?
+desirable?
+Findable?
+Accessible
+Credible
+Tools that help create branded WP sites
+Slickplan
+better site maps and content planning
+Yoast
+for better SEO
+make sure people are seeing the right meta
+Admin Custom Login
+Google Analytics
+Slider Revolution
+
+
+https://twitter.com/McDwayne/status/1061373044621361152
+
+
+[With Great Power Comes Great Responsibility](https://2018.seattle.wordcamp.org/session/with-great-power-comes-great-responsibility/)
+[Chris Teitzel](https://twitter.com/technerdteitzel)
+
+Occasionally you go to a session and walk out saying "How have I NOT heard about X yet?" with X of course being the thing they talked about.  I rarely get to hear Chris speak but I knew it would be good.  As he explained the real world implications of big data I was at the same time excited and terrified.  And right as I was starting to think, "well, what can we even do" he brings up the [Open Web Privacy Working Group
+ and the Community Core Privacy team](https://make.wordpress.org/core/tag/core-privacy/).  We are all in this together.  For now, I am disallowing all geotracking too unless I absolutely need it.  
+
+Raw Notes:
+---late----
+What happens when the democracy has bad actors
+the rules get changed to let them shut it down
+who watches the watchers?
+banning Alex Jones is good but who watches that and says it is OK
+with big data there is a responsibility with all that
+Strava
+tracking yourself 
+released heat maps of running and hiking and biking
+accidentally published the locations of secret military bases
+strava.com/heatmaps
+What are the unintended consequences of what I built?
+Collectively big data is starting to know more about us than we know about us
+the "Target" pregnant daughter story
+customer ID for baby items online or in store tied to credit card
+Looked at history to build a 'pregnancy store'
+lax sense of communications
+following law but still creepy
+Facebook can detect depression slides
+built some suicide helpline stuff in
+Memories feature, cool for a lot of things
+"sick and tired of getting reminded of my son's suicide"
+how can we prevent some of these abuses
+23andMe
+people using ancestry sites to track down more cold case suspects
+selling data to cancer drug makers
+really cool stuff
+but scary since can't control where your data goes or how it is used
+80/20 Paradox
+If we build for the 80%
+What about the 20% and the 1%
+Tech has the power to change millions of lives. for the better or the worse
+homeless app to help discover services
+computers are only as smart as the person programming them - his dad
+We have the power to change millions of lives
+What are you doing to protect ALL your users
+Privacy as a community responsibility
+Sometimes we need a nudge
+GDPR 
+US and EU  views
+Free speech as a right vs privacy as a right
+Data belongs to the owner vs data belongs to the subject
+opt out vs opt in
+people fear government and trust businesses vs People trust gov and fear business
+Litigation is the first resort vs litigation if all else fails
+WP and Drupal
+WP privacy in core Drupal it is contrib
+how do we adopt common best practices across the web and 
+[John Eckman's Taking back what and from whom?](https://wordpress.tv/2018/08/22/john-eckman-taking-what-back-and-from-whom/)
+Contract for the Web core principals (recently published)
+as a company, as a gov as a citizen
+good framework
+WP is leading privacy in CMS
+Open Web Privacy Working Group
+seems altruistic 
+but the opposite is we stay reactive and are not part of the conversation when policy if formed
+core-privacy 
+7am office hours
+get involved
+https://make.wordpress.org/core/tag/core-privacy/
+
+
+https://twitter.com/kevinokeefe/status/1061390778113511426
+
+
+
+### My talk
+
+[Shipping Content With WP-CLI and Automated Testing And Why That Is Awesome](https://2018.seattle.wordcamp.org/session/shipping-content-with-wp-cli-and-automated-testing-and-why-that-is-awesome/)
+
+I am done with this talk now.  I learned so, so much giving it.  I [built a tool I used to post this very post](https://github.com/mcdwayne/postitnow). It taught me that the things I really, actually want to talk about are [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) and [Markdown](https://en.wikipedia.org/wiki/Markdown), the latter of which I have already written and [delivered a talk about](https://www.mcdwayne.com/learning-markdown-20-minutes-that-will-change-your-life/).  Yes, I learned a lot and I hope others have been inspired too, but it is a talk whose course has been run and I am thankful I got to retire it to a friendly crowd in Seattle.  
+
+https://twitter.com/sewmyheadon/status/1061402423086931968
+
+
+[Storytelling with Gutenberg: How to Use the New Editor to Boost Your Blog](https://2018.seattle.wordcamp.org/session/storytelling-with-gutenberg-how-to-use-the-new-editor-to-boost-your-blog/)
+[Andrea Zoellner](https://twitter.com/andreazoellner)
+
+This is the very first Gutenberg introduction I would categorize as inspirational.  I went in just to get a chance to hear Andrea give a talk.  She is one of the nicest people I have ever met so I assumed that her session would reflect that and it would be pleasant even though it was 'yet another Gutenberg talk."  She started out with the zenith of the digital multimedia experiences, [Snowfall](http://www.nytimes.com/projects/2012/snow-fall/), as the aspirational thing you can actually, really, no-foolin' build with the tool right now and how to go about it yourself.  This is the exact talk that every agency needs to be giving themselves to their clients.  I have said it before, if we treat 5.0 as a client breaking event, we are going to [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt) ourselves out of some great opportunities.  If we instead explain how we can achieve these amazing digital experiences, we are going to own the future.  
+
+
+Raw Notes:
+Official editor in the new release
+it is coming to core
+if you have a lot of workflows, need to adjust
+take some time to do it classic editor
+"to snowfall" 2012 term
+NYT micro site of the who, why and how of the story
+interactive site and cool storytelling elements online
+with Gutes anyone can snowfall without a newsroom full of professional designers and devs
+Applying tools to your content
+Gutes walk through 
+Sidebar
+Category block list 
+--see slides--
+Add style to your text, can do it in the editor
+columns are blocks not in the themes
+verse callouts
+gallery blocks
+interacting with links 
+Integrate other post types
+makes it easy to move content into a page and customize it for your readers
+more intuitive
+shortcodes, archives, files, custom HTML
+editor side portfolio entry
+Spice up with multimedia
+interactive maps, gifs, videos
+Built in call to action
+CTA idea in different ways, 'read more' is a CTA it is how you specifically want people to engage with your content
+Button block
+pull quote to call out
+images can be built in Gutenberg
+upload image and add colors and things over it
+Reusable
+simplify your workflow
+
+https://twitter.com/KimCThornton/status/1061703534427627520
+
+
+[Clone Yourself Through Automation](https://2018.seattle.wordcamp.org/session/clone-yourself-through-automation/)
+[Jocelyn Mozak](https://twitter.com/JocelynMozak)
+
+Jocelyn is a wonderful bundle of energy so I was really looking forward to her talk.  Being buried in DevOps automation over the last bit of my life I went in expecting something like that.  Instead I got a taste of my old life when I was selling [BPMN software](https://en.wikipedia.org/wiki/Comparison_of_Business_Process_Modeling_Notation_tools) where you are building enterprise versions of [If Then Then That](https://ifttt.com/).  Making the robots do the work is _not_ just for automated testing or composing sites, it is for **anything** that do more than twice and will continue to do in the future.  This is a must watch talk for any small agency or freelancer wanting to up their game.  
+
+
+Raw Notes:
+came in late
+Form automation
+make sure you are doing it correctly and automatically every time
+Project automation
+launch and 1 month later "Testimonial"
+30 days later
+updating and maintenance plans
+3 months out referrals
+6 moths and 1 year anniversary
+celebrate 9 months
+but where do I start?
+Canned emails
+templates in Gmail, just save it
+post launch
+Active Campaign example
+Zapier (Action happens, triggers another thing)
++ gravity forms
+clear system of folders
+connected 
+client 1 project 1
+client 2 ...
+active, name of client, project
+move to Dropbox
+Zapier connects more than 1000 apps
+More Efficiency tips
+de-clutter your inbox
+auto scan and sort is good, but 
+make sure new shiny objects are dealt with systematically not as distractions
+Key Qualification questions baked into auto email templates
+what is your budget and investment?
+Set example sizes of budgets to set expectations
+gets rid of tire kickers and keeps your time freer
+Get your tool set dialed in
+themes and plugins ready to go
+don't need to play in experimental new stuff all the time, find what works
+only use hosts you know and love
+she uses WPEngine
+Continue to automate, if you do it twice, start thinking if you will do 3rd time
+if do a third time, automate it and never do it manually again
+It is a bit like teaching your kids to tie their own shoes
+there is an up front cost, but you will celebrate every time someone ties their own shoes
+Tool list
+you need to know your numbers and your business
+some expenses are good
+manageWP 
+
+https://twitter.com/Justinnealey/status/1061743557403242496
+
+
+## Wrapping Up
+
+I flew into Seattle with a hope of not getting rained on too much and other than one rainy morning the city complied.  Every place I went and everyone I met there was warm and encouraging.  Seattle really is an awesome place to me and has consistently treated me well.  I learned a good deal and was inspired on multiple fronts.  From the marketplace to [the parks](https://www.seattlemet.com/articles/2012/6/11/seattles-best-city-parks-july-2012) and from the hip [Capitol Hill](https://en.wikipedia.org/wiki/Capitol_Hill_(Seattle)) to the [mean streets of downtown](https://locations.aladdinbailbonds.com/wa/seattle/) it is a city that is very much alive in the NorthWest.  I hope to get back that way sooner than later.  If for nothing else, I hope to get to return for WordCamp Seattle 2019!
+
+
+https://twitter.com/CaroleOlinger/status/1062079255436234752

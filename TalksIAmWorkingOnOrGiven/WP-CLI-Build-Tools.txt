@@ -1,8 +1,7 @@
-
-
-Shipping Content With WP-CLI And Why That Is Awesome
+Shipping Content With WP-CLI and Automated Testing And Why That Is Awesome
 
 We live in a world of continuous integration, continuous delivery, version controlled code and configuration. Yet when it comes to delivering content we are relying on doing all publishing straight to the production environment and hoping it works, editing the live document to fix issues we only find once they are in production.  I propose there is a better way.
+
 Let's build our content on our development instances the same way we develop code and configuration.  Then using the power of Github, WP-CLI and Automated Testing tools like Behat, let's professionally deploy our content to production will full confidence it works as intended.  Let's give editors better tools to build better content in a word of Gutenberg while saving anyone the need to overwrite the production database ever again.  
 
 Topics include:
@@ -88,3 +87,35 @@ content.rendered
 title.rendered
 
 curl -X GET "https://dev-mcdwaynedotcom.pantheonsite.io/wp-json/wp/v2/posts/636" | jq '.[].content'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I learned about WP-CLI by using it and explaining it and getting to teach it with Daniel Bachhuber
+I started exploring how I could leverage it even more
+lead to 
+```
+curl https://raw.githubusercontent.com/mcdwayne/PublicDocs/master/NotesITookAtCampsAndBlogDrafts/StanfordDrupalCamp2018-blog-draft.txt | sed -n '1!p' | terminus wp mcdwaynedotcom.gutes -- post create --post_author=1 --post_title='Stanford DrupalCamp: The first time I have ever seen it rain in Palo Alto and a shorter camp than usual' --post_name='StandfordDrupalCamp2018' --count=1 --post_status=publish -
+```
+I realized this had some serious issues and I needed a cleaner way to deal with this.
+Goals:
+	1. Avoid having to write my copy anywhere but local text editors (Sublime, Textwrangler, ect)
+	2. Avoid monkeying around with drop down menus when I am formatting the post
+	3. Need a way to insert testing as the thing evolves
+	4. A way to share my work with others to learn from and maybe use themselves
+		The orignal way of curl... was insanity to explain without making people read the WP-CLI 
+

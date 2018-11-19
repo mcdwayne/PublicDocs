@@ -1,0 +1,433 @@
+General:
+
+https://twitter.com/nedcamp/status/1063773232992583680
+
+## Food and Fun
+
+Community Dinner:
+
+https://twitter.com/McDwayne/status/1063574189800607744
+
+
+Friday Karaoke
+
+https://twitter.com/mikemiles86/status/1063628731808456715
+
+
+Coffee and lunch
+
+https://twitter.com/McDwayne/status/1063863132454559744
+
+
+
+## Sessions
+
+Opening Remarks
+
+https://twitter.com/McDwayne/status/1063788041821671425
+
+https://twitter.com/thejimbirch/status/1063788914186563590
+
+
+
+[DevOps: Why, How, and What](https://nedcamp.org/sessions/2018/devops-why-how-and-what)
+[Kelly Albrecht](https://twitter.com/ksalbrecht)
+[Rob Bayliss](https://twitter.com/rbayless)
+
+Can we ship to customers at any time
+how do I get closer to the customer to ship easier
+how do we improve this trust and process?
+Lot of teams trying to figure it out
+firm phases are an issue
+if doing dev work and done state is move to next team for functional testing
+then to performance and onto operations
+this is where devops comes from, trying to get these systems working better together
+months long process sometimes though
+as an individual, esy to think "I can get fast at doing all of it" independently
+Batching strategy
+20 pennies
+customer wants pennies flipped 4 times
+each team flips it 4 times
+if you run it, all pennies delivered at same time
+takes about 2 minutes
+if 10 penny batches
+faster overall process
+1 penny at a time
+the customer gets first penny in 5 seconds
+then just keep getting pennies
+all 20 pennies in 30 seconds
+how can we apply this to our teams?
+DevOps
+everyone on the team to deliver that one penny
+Performance oriented Generative Culture
+Ron Westrum
+high cooperation
+Messengers trained
+risk are shared
+Bridging encouraged
+Failure leads to inquiry
+Novelty implemented
+DevOps Research and Assessment group (DORA)
+high performing orgs
+multiple deploys a day
+lead time for changed is less than an hour
+mean time to recover less than an hour
+change failure rate = 0 - 15%
+"IT performance is predictive of the performance of the organization as a whole"
+Getting it out faster in a more stable way
+digging into research
+Cost of Quality
+72900% ROI if your CoQ is .001
+.07 hours
+but nobody knows how that number is derived 
+davidfrico.com
+no true scientific consensus 
+the people who are deploying having no knowledge of how it was built
+and the devs are not clear on production deploy side
+old school, IT manages the servers, then WebDev gives code to ops team and IT slots into hardware
+we need to move away from these silos
+How do we start and what will we see?
+They did a survey, in short amount of time
+https://measure.team/results/2
+not really state of NEDCamp DevOps, but some data
+76% overall efficiency 
+and shows improvements
+we will look at the areas people need the most help in
+it would be great to have this test, but client won't pay
+need a shift to the left to include these concerns from the beginning
+value in writing tests is getting testable code that does not need as mich rework
+back to https://measure.team/results/2
+lowest score - 
+63% - Branches live for less than a day before being merged
+units of work need to be sized in a way they are individually reviewable in a short time
+don't want to review a million lines of new code at once
+branches getting stuck in review state
+prioritize work in review above everything else
+break the work down and make more manageable
+like with Feature Flags to turn a thing on and off 
+64% System heath is monitored proactively
+you want to know in advance when errors will exist
+metrics and trends over time
+alerts for those systems
+hosted on Pantheon - production issues
+set up NewRelic, get that working, 
+see trendlines - but that is not proactive
+set up alerts for thresholds when things are moving the wrong way
+that is proactive
+but watch out for alert fatigue
+Historically the operations team is the team blamed for downtime
+change brings risk
+big changes are big risks
+You don't have to start at 100 miles an hour
+set up small things first
+pingdom if you don't have it
+little improvements over time
+script checks for all your projects
+67% The majority of prim biz value has test coverage and these tests are to be run whenever code is committed
+mission critical stuff needs to be tested, focus there
+should be fast if can make it fast
+how to get started with this?
+get a test system in place
+behat is the most beginner friendly one to start with
+regression testing
+that is entry point into testing
+from there iterate into testing as part of feature development
+67% Work-in-progress limits are used to monitor and improve flow and throughput
+how to start?
+Visual work on a Kanban board
+surfaces bottlenecks
+to do, in progress and done is a good simple system to start
+can see what other states exists after that
+
+
+https://twitter.com/mikemiles86/status/1063805604798636032
+
+
+
+
+[Configuration Management: A True Life Story](https://nedcamp.org/sessions/2018/configuration-management-true-life-story)
+[John Picozzi](https://twitter.com/johnpicozzi)
+[Nathan Dentzau](https://twitter.com/NathanDentzau)
+
+Collection of admin settings that determine the function without affecting content
+Config vs content
+content types vs nodes
+Taxonomy vocab vs tax terms
+Really only works if you do what Pantheon says
+All config should go from live to dev
+Code should flow dev to live
+OTher typs of config
+Fields
+VIews
+Display modes
+image styles
+language settings sytem settings
+user roles module settings
+a LOT of config with new code in Drupal
+Where is config stored?
+2 types
+Active vs staged config
+active is live in the site in your relational DB
+changes when you change setting or UI immediately applied
+benefits of performance and security
+Staged:
+Stored in YML
+Changed applied by export or import
+Benefits are portability are security
+Config manager
+Core CMI screenshot
+What is new, what is removed
+import and export
+Drush to do this too
+no single method for doing everthing
+config directory required or optional
+required is auto installed
+skips over previously loaded config if optional when installed
+shows a changes as diff
+Active vs Staged
+Workflow for Config management in core
+pretty linear
+Common config | -> Local -> Dev -> Stage-> Prod
+works great for simple and small sites
+but
+may want some differences between environments
+Configuration Split
+tkes common config and splits it out per env or splits for certain features like caching or CDN
+all can be handled through UI or through Drush
+Config Split Module
+need to clear cache before config import
+blacklist and graylist is a learning curve
+blacklist is complete split - like Devel split out entirely
+graylist - conditional split - individual items in the ui to select
+Common config applies to all env but can individually pick the split for the right Env
+dev split or performance split or a local split
+folder structure
+basically just yml files in folder structure
+core calls it 'sync directory' vs COnfig Split calls it 'common directory'
+Backup and Migrate example
+Configuration Readonly
+contrib module
+prevents someone from editing active config through the UI
+Module can be enabled per env with config split
+Warning: Have a solid CI pipeline and testing procedures in place before enabling in prod
+no cowboy coding is going to be allowed here in an emergency
+unless you are Drush master
+way to make config split change with this tool though
+Config installer
+contrib profile
+went into core this year
+works with Drush 9.4 and later and not documented
+install a new instance of Drupal from an existing set of config
+not compatible with Config Split, manually importing config after intall works
+Config and CI
+What is CI?
+Process of automating the build and testing of code in a shared code repo
+devs can focus on code and confidently merge in changes to a project while working on a team of others doing the same
+GitHub and Travis in this example
+CI: Code
+Devs can use the Config Manager module to export Drupal config to version contril and easily share config changes with other team members
+devs can use the Config Split module to test config changes
+Code syntax validators can be executed with git hooks or manual invocation locally
+make sure team members are fighting the machines and not each other
+CI Repo
+Devs push and pull code from a central code repo like Github
+Pull requests are created by the developer making the change and reviewed by the other team members
+Automated build and test are triggered
+CI: Test and Build phase
+CI like Travis can run code syntax validators, automated tests, and depoyments in a CI pipeline
+Config Installer profile can be used to install a new instance of Drupal testing the validity of config changed and to run automated functional tests
+if a failure, halted
+Last step in CI is the Website
+import config changed DB updates and entity updates handled automatically during the deploy process
+developers can enable the config Readonly module in prod - prevents surprises
+improved site reliability and uptime
+we get scared making changes in production because most of the time we inherit sites and are not sure how changes will affect it.  
+Hard to say what is right or wrong globally on some of this stuff
+unless everyone is following your 'best practices' that might not be well documented
+for example
+Entity Update for example - not super well documented in Core
+run it even if you don't write new entities, some module do
+
+
+
+https://twitter.com/McDwayne/status/1063814270264229888
+
+[2018 Keynote](https://nedcamp.org/events/2018/2018-keynote-jeff-geerling)
+[Jeff Geerling](https://twitter.com/geerlingguy)
+
+Acquia
+Maintains DrupalVM..which is most used for now
+mosted apacheslr
+server check.in
+writes books for ansible
+typical weeknight, 5 or 6pm heading upstairs, meals and family time
+weekends rare has extra wrok to do
+every other night before bed some open source work of book
+how?
+joke answer slide
+Real World DevOps
+MS says you can buy DevOps with Azure.
+Docker transforms devops they say
+and you have to be in cloud they also say
+GitLab example says there is a people component and doing thing quickly
+Atlassians - devops about teams and people making things better
+Gartner - and everywhere
+rapid IT service selivery, agile, lean practices and system oriented approaches
+Gartner sells tools, so not going to include people
+Jeff - Making people happier while making apps better
+it is primarily about people
+if everyone burns out then you can't have a project
+reduced friction
+Friction creates heat, heat causes burnout
+stable teams	
+no heros that have to save the day
+Apps better
+CI
+always deployable
+automatic testing
+1 automatic test is infinitely better than 0 automated tests
+Those teams fix problems when they happen
+don't put it off for months
+improvement time is built into the process
+project planning though is super important to make sure stay up to date
+lot quicker feature delivery this way
+DevOps Prerequisites:
+Automation
+ci/cd
+monitoring
+collaborations
+Easy to make changes
+easy and fast local dev
+with automated testing there is layers
+Backups
+Have you ever tested your backups
+easy rollback is goal
+Make it easy to fix and prevent problems
+Devs can deploy to prod
+details monitoring and logging
+Blameless postmortems
+Matt from Lullabot talked about this team aspect
+its a poor craftsman that blames his tools - an old saying
+avoid having a golden hammer
+it can sometimes work depending on what success means
+need the skills on how to pick the right tools and how to use other tools
+need to adopt some terms
+-YAGNI
+you aint gonna need it
+-Andon Board
+machine that changed the world
+toyota: every worker can see any problem in entire production line
+policy of swarming a problem to fix that issue now 
+that solves a lot of longer term problems
+-Time to Drupal
+10 minutes for existing dev
+1 hour for new dev
+if you lose your machine and it takes longer than 10 minutes to replicate, that is an issue
+- "Dev to Prod"
+more than a day bad
+more than an hour good
+small batches of work
+DevOps might be helped with tools, but the tools are not the important part
+better communication and better relationships
+
+
+https://twitter.com/uniongal/status/1063869092153700352
+
+
+[Embedding a React app in a Drupal 8 site](https://nedcamp.org/sessions/2018/embedding-react-app-drupal-8-site)
+[Chris Wells](https://twitter.com/sceo)
+
+a thing we did, not the be all / end all 
+What is react
+JS library for UI
+complex UI from components
+Components all the way down
+all compentents inside of components
+mimics atomic design
+DOM tree that react uses is a VirtualDOM
+responsisble for touching  the actual DOM
+game compnent, board componenet, squares compenents
+all the way down
+Props - data that your component takes into it
+takes props in and does what needs to do
+State - idea that data that lives inside of your component
+locally scoped (though not entirely true, can pass down)
+when props or state changes component rerenders
+you should not be messing with the DOM directly
+just say tis component color s whatever and it rerenders
+start with a constructor
+lifycycle mthods
+constructor()
+render()
+compenentDidMount()
+componentDidUpdate()
+componentDidUnmount()
+sounds like Drupal Hooks but React Hooks are totally different
+why do we care?
+Dri.es Drupal looking for adopt react
+The framework that Facebook developed to build and run FB
+people working on brining React to core right now
+Decoupling - how you manage that content is seperte from presentation concern
+levels of this
+tightly, progressively, fully decoupled
+Drupal8 REST API drives this
+What did they do?
+custoemr makes home automation, lighting fixture partnership
+lighting designer for a house or other building
+several rooms
+job has rooms
+calls over rest api to make a new job
+Add to cart very easily
+small agreement with their API but this tool will expand ell past lighting fixtures
+Everything you see is React, Drupal is totally behind the scenes and used with REST API
+Any entity are ECK entities
+All os these entity yupes are enabled in REST API
+Used the REST UI module
+Added REST Export views displays for Lists
+used hal+json as format
+Routing
+routing is changing but it is not visibly changing
+inside the app, using React Router
+can reload and get back t where you left off
+in Drupal registers the single path /savant-tools
+Needed to aslo accept savant-tools/*
+Libraries
+React_libraries module (created their own)
+import react and react-dom from CDN
+has prod and dev libs
+each app we create depends on the libs
+'ejected' from create-react-pp and removed those from build
+Additions to React
+note about Redux
+it is open source JS lib for managing application state
+you can use Redux with React or any other view library
+Other thing, borrowed from Dan Murphy, Axios query Solr from the front end
+lightning fast
+Lessons learned
+One thing at a time, take your time
+ES6, babel, Webpack
+React
+learn webpack before really diving into React
+Architect your state in advance
+understand mapStateToProps() and connect()
+
+
+
+
+My Sessions
+
+[Let’s learn Git. No more excuses!](https://nedcamp.org/sessions/2018/lets-learn-git-no-more-excuses)
+
+I was more than flattered to be asked to do this talk.  I was not originally going to do this one, but there was a last minute speaker cancellation and I am known to have a library of talks I can do at a drop of a hat.  I always get nervous giving this in front of a Drupal Camp crowd, as so many talks here are deeply technical. I get general good feedback though and I think it an important topic to get us all on the same page with, so I am happy to give it.  
+
+
+[Nobody wants a website. They want results!](https://nedcamp.org/sessions/2018/nobody-wants-website-they-want-results)
+
+
+
+## Wrapping Up
+
+
+
+camp photo
+https://twitter.com/nedcamp/status/1063882168131293186

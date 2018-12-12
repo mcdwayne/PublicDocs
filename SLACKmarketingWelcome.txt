@@ -1,3 +1,76 @@
-For anyone who is joining for the first time (whether active or observing), this is a meeting where the Marketing community to discuss issues that have come up, and keep track of the Trello board.
+Hello and welcome!
 
-Contributors on this team are volunteers. Ask questions as you have them, we are family-friendly around here.
+
+This is a meeting where the Marketing community to discuss issues that have come up, and keep track of the Trello board.
+
+
+Contributors on this team are volunteers. Ask questions as you have them, we are family-friendly around here.  
+
+If this is your first time here, don't be afraid to speak up and let us know you would be interested in helping with a specific task.  
+
+
+
+If you are brand new and have not gotten Trello Access yet, please go through our onboarding process outlined here:
+https://make.wordpress.org/marketing/2017/07/05/welcome-to-the-marketing-team-heres-what-you-need-to-know/
+
+
+
+For everything else, the board we are working off of is here:
+https://trello.com/b/8UGHVBu8/wp-marketing
+
+The reminder for status codes for Task-leads is
+:+1: or THUMBSUP   -- All good, no status change or help needed
+:red_circle: or REDCIRCLE -- We need to discuss today (list one we need to talk about)
+:new: or NEW  -- There is work for a new person to do here
+
+And Lastly in this wall of text intro: Please remember to use threads when replying.  It helps keep us orderly in a busy meeting.
+
+
+==============================
+1.
+Attendance Thread:
+:raised_hand_with_fingers_splayed:
+
+Let us know if you are here
+
+------
+2.
+Next order of business
+We need a NOTETAKER:
+:notebook:
+
+
+-------------------
+3. 
+New Person Thread
+:new: :cat: 
+
+If you are new, this is a special thread for you.  We can answer general questions in here and make sure you are set up with Trello access as you get moving.  
+
+------------------
+
+4. 
+Celebration Thread:
+:sunny:
+
+Share the successes of the last week. What did we get done and what are we proud of overall?  
+
+
+
+------------------
+5.
+Task-Lead Update Time:  
+Codes are:
+:+1: or THUMBSUP   -- All good, no status change or help needed
+:red_circle: or REDCIRCLE -- We need to discuss today (list one we need to talk about)
+:new: or NEW  -- There is work for a new person to do here
+
+
+Also, remember the cards at the definitive place for notes and updates on the projects on the Trello board.  Anything reported here should be reported after the card has been updated.  Thanks.  
+
+--------
+6. 
+:snowboarder:
+New Business Thread.  Who has points to bring up as a group?
+
+

@@ -1,0 +1,490 @@
+WordCamp US 2018: Deja vu all over again and being happy
+
+For the third time in twelve months, I was afforded the opportunity to visit [The Protestant Vatican](https://www.onlyinyourstate.com/tennessee/nashville/nashville-nicknames/), capitol of [The Volunteer State](https://statesymbolsusa.org/symbol-official-item/tennessee/state-nickname/volunteer-state).  I am not sure, but I am sure this nickname influenced the choice of venue for the largest gathering of Open Source volunteers around WordPress in the US.  As I touched down on a cold afternoon at [BNA](https://en.wikipedia.org/wiki/Nashville_International_Airport) I was so very excited to be back because I was thinking of all the amazing people I got to hang out with and all the amazing times I had the previous time.  I also had a touch of a concern I would be comparing this trip to those and it might color this trip with the tarnish of nostalgia.  I am overjoyed to report that though the trip was thick with familiarity, I had the happiest, best time you can imagine [WordCamp US 2018](https://2018.us.wordcamp.org/)
+
+https://twitter.com/adspedia/status/1070931114431340544
+
+
+
+## Food and Fun
+
+### Wednesday:
+
+I got to arrive a day early than my duties demanded, but this gave me an awesome opportunity So good to catch up with some amazing people.  
+[Alley Taps](http://www.alleytaps.com/) smooth covers of pop songs with a little soul from local up and coming artist [Falyn](https://twitter.com/falynmusic).
+
+https://twitter.com/McDwayne/status/1070507890237194240
+
+### Thursday
+
+
+
+### Friday 
+
+Lunch
+
+After Party
+
+https://twitter.com/nickwiberg/status/1071276232271167488
+
+
+https://twitter.com/joehills/status/1071269709805469696
+
+
+https://twitter.com/ChrisBadgett/status/1071265223791796224
+
+
+https://twitter.com/CheoWalker/status/1071259131087077377
+
+
+https://twitter.com/openbayou/status/1071237468412882945
+
+
+https://twitter.com/jessigurr/status/1071262930321199109
+
+
+Saturday night 
+
+Karaoke:
+
+https://twitter.com/CaroleOlinger/status/1071653759724470272
+
+https://twitter.com/CaroleOlinger/status/1071691966512013312
+
+me
+https://twitter.com/CaroleOlinger/status/1071672512512188417
+
+
+https://twitter.com/CaroleOlinger/status/1071653759724470272
+
+
+https://twitter.com/nathaningram/status/1071624887553396736
+
+
+
+## Sessions
+
+
+[Bridging the Design and Development Gap with CSS Algorithms](https://2018.us.wordcamp.org/session/bridging-the-design-and-development-gap-with-css-algorithms/)
+[Lara Schenck](https://twitter.com/laras126)
+
+Is CSS a programming langiage?
+Some people say yes, some strongly disagree.
+Impertiative is the how, the control flow
+Decraritive the What , no control flow
+imperative, JS, Ruby, C++, Python
+Declaritive, domain specific, SQL, HTML and CSS fall here
+Css is a domian spefici programming language, 100%
+Turning complete in 2018
+also, Math, variables and functions and conditional logic
+specific conference talk from person in Netherlands
+@felienne
+But everyone can learn it
+but if all math not going to get everyone in it
+Programming is a nice green pasture 
+the languages are pools in the pasture
+in Nov 2018 most people still think CSS is not a language
+Su talk
+Browser internals in under 5min
+person talking to server
+get data
+client http request server byte stream
+inside the browser get byte streams
+HTML, CSS and JS
+code points turned into tokens
+assigns to the DOM tree and the CSSOM
+those combine to make
+Render/Rule tree for all Dom elements
+Render blocking
+JS must be executed when encountered, so disrupts the render
+Layout draws DOM elements
+Layout to Paint
+like tiny images
+Composite, smooshed together into one presence
+----
+Algorithms
+imperative JS
+CSS went from whatever, to CSS the programming language
+Only have a hammer approach before
+now have mental model for what the browser is doing
+whiteboard marker now
+psudocoding boxes before touch code
+inputs, algorithms output
+ocean image to specific position
+CSS, Grid, Flexbox, var, calc
+She got a job and learned so much
+now old code seems really bad to her
+got the job from WordCamp discussion meeting
+Yellow light time
+Algorithm: well defined computational procedure takes input and gives output
+Long method code smell
+too much happening to let anything be useful
+cut into litter chuncks
+single responsibility principle
+Like kitchen tools
+CSS terminology 
+Selector
+prperty: value = declaration
+rule
+A CSS algorithm is a well defined or ser of declarations that take input and visual output specific thing
+Algorithm: Clearfix
+Positioning
+aspect ratio
+assume the size ofthe container, 
+arrows with borders
+Fluid Type
+Fizzbuzz 
+you can do it in CSS!
+CSS algorithms?  
+what is a word for this?
+Patterns
+another way to say it
+.l-features 
+grid algorithm
+Utility namespace
+.u-glue
+kinda like an API
+cropping
+core patten namespace possible
+how do you write CSS algorithms
+1 Plan on whiteboard
+2 Brute force solutiojn that works
+3 walk through
+4Psudocode
+Write smelly CSS
+Figure out the algorithm
+Give them name/selectors
+anything can fit in this structure
+be careful how to talkabout CSS
+CSS is weird -> CSS is the issue and faulty
+just no true
+CSS is decraitive and domain specific 
+Mindful CSS bell
+Read the spec
+conclusion
+bridge between engineering and design
+Engineering, Design and Product
+if all speak different languages it is hard
+user interface is the thing people touch
+HTML, CSS and JS
+You can't really learn JS in short time
+CSS and HTML you can learn in a few hours
+
+
+[Moving the Web Forward with WordPress](https://2018.us.wordcamp.org/session/moving-the-web-forward-with-wordpress/)
+[Morten Rand-Hendriksen](https://twitter.com/mor10)
+
+2015 - responsive images were not set thing online
+WP introduced it in core
+shipped to 20% of the web
+changed the charts algorithms on the reporting
+but seems that after WP 4.4, Rsponsive became normal
+we have not been best custodians of the work
+5.0 breaks this responsive agreement
+flagged in 4/17
+Matt says Responsive should not have come to core
+he agrees maybe
+2015 tech is not what is going to get us to the future
+we are 32.5% of the web
+what got us here, won't get us to 50%
+what got us here was deep commitment to OSS
+solving problems in an interesting way and a lot of luck
+what gets us to next level is how we work together
+story of a desire path at his HQ
+this is how the web works, paving cow paths
+WP is the cowpath
+instead of looking at a new and better spec, 
+look at what people are doing and formalize into a standard
+when we make WP decisions, we are making them for the web
+What does democratize publishing even mean?
+Democratize = introducing democratic principles, 
+o make available to everyone
+publish means make a content available
+making content available online accessible to everyone
+values of the internet are the principles of WP
+Tim Berners Lee definiton
+WP can realize the promise of the web
+Participation and representation
+who speaks for WordPress?
+who speaks for the user (the PEOPLE)?
+Corporations speak for us with specific interests and goals 
+we say nothing while everyone speaks for us
+no answer to who speaks for WP
+We must claim our seat at the tables of power
+it is for every user of the web
+to do that, we must first know what we stand for
+democratize publishing....what are the necessary conditions to acheive the mission
+He has a proposal
+3 governing pinciples
+1. Accessibility
+Was grand idea of web was to make all books and journals in science available to share
+2. Privacy
+capability we must grant our users
+3. Open Governance
+for the internet, we need to take part of the conversations
+I don't want to talk to you about these things
+Not going to talk, inviting other people to talk.....
+[Rachel Cherry](https://twitter.com/bamadesigner)
+she is the person who says RollTide online
+but Accessibility is a passion
+A11y is something that can be quite frustrating
+"I can't use your website and it is our fault"
+no one can say we have not build an inacessible site
+and we need to come to terms with that
+easy to get to this way, stackoverflow to get it to work
+but is it worki g correctly?
+are we messing up the DOM with JS?
+how do we force tooling?
+Scans in core, will make better for all users
+huge % of how people work woth WP is Themes and Plugins
+We must understand ARIA as a spec
+would love to see a work were A11y is not in plugin, not in the repo
+[Leo Postovoit](https://twitter.com/postphotos) on Privacy
+thinking about first the core idea
+people se data in ways to do whatever they want
+need to ask questions about how we use data and the data itself
+we do not understand the difference between if I go to the library
+no one needs to know my books
+but online not the same guarantee
+now we have laws
+it is the privacy by design that is the fun part and how we can work
+we must nudge this ball forward.  
+Open Governance
+[Chris Teitzel](https://twitter.com/technerdteitzel)
+He was inspired by Matt's talk 
+he said get involved 
+but not much more
+Heather Burns
+contacted her at WCEU, wanted to collaborate on how to talk governance
+spiralled to other CMSes than WP and Drupal
+open conversatoin on what we stand for and how regulations work
+we are all reactionary
+Let's improve together
+influnce the people making laws
+they are not the people with the knowledge of how it is built
+Morten again
+5.0 was the last time we should make decisions only for ourselves
+with responsive mages we found the edge
+e want a seat at the table not to drive the conversation but to 
+WordPress Governance Project
+http://goo.gl/mvbPYv
+join in
+example
+node and Drupal (early)
+AMP just announced
+what do those models look like for WP
+
+
+https://twitter.com/0aveRyan/status/1071422140430409731
+
+
+https://twitter.com/hirozed/status/1071425368287076353
+
+
+https://twitter.com/sereedmedia/status/1071427483952603136
+
+
+https://twitter.com/jeckman/status/1071427606782861313
+
+
+[WordPress from a Drupal Perspective](https://2018.us.wordcamp.org/session/wordpress-from-a-drupal-perspective/)
+[Chris Teitzel](https://twitter.com/technerdteitzel)
+
+Drupal is hard
+Play to your strengths
+built a site for an app Thememonster
+was in Drupal by cooincidence after that
+didn't pick it because it was hard
+learning WP learned it was not insecure and not that easy for everything
+WP strengths
+Design and usibility
+privacy in core
+media management
+Robust plugin and theme economy
+and yes, Gutenberg
+Drupal still needs to do these things and do them well
+Drupal strengths
+Data architecture - content modeling that happens to make websites
+core APIs - forms API for example, makes forms super easy 
+VIEWS! - DB querying UI
+Rest API in Core
+need to play to our strengths
+we can learn from each other!
+Open libraries should be shared in between.
+
+
+https://twitter.com/McDwayne/status/1071465375118823424
+
+
+
+[Stamping Your Open Source Passport](https://2018.us.wordcamp.org/session/stamping-your-open-source-passport/)
+[Drew Gorton](https://twitter.com/dgorton)
+
+Grew up in small america
+fish and rice
+moved to Spain in his teens
+fish and rice vs Pallea 
+later in life taught english in Japan over a number of years
+another of fish and rice was sushi
+elementary school kid would have hated to think about sushi
+WP events about 3 years ago
+he was also from Drupal
+same travel experiences and differences served him well
+tech is OSS and that is special kind of tech
+Free as in liberty
+one thing common, need people to survive and thrive
+another interesting thing WP is made of OSS itself
+PHP, MySQL, Linux, Apache/NginX
+many other tools CMSes like this
+57 different ones says Wikipedia
+Drupal community is open and there are good events to go to
+Or how about PHP events
+ - SymfonyCon
+ - Sunshine PHP
+ Generalist events as well
+ An Event Apart, AgentConf, JSConf Hawaii
+ Travel gracefully
+ - listen first
+ - learn, not convert
+ - Guides can be a great help!
+ - Meet the locals
+ - Share your journey
+
+
+[Scrum for developers](https://2018.us.wordcamp.org/session/scrum-for-developers/)
+[Jenny Beaumont](https://twitter.com/jennybeaumont)
+
+Devs work form home
+don't like meetings, don't wear pants
+got to collaborate with your teams and clients through
+SCRUM comes from Rugby
+Agil is not the same
+interrelated though
+cultural hrdles and stereoypes:
+idea specific to developers 
+causes to feel alone
+isolating
+fear of change 
+Managers can also have a bad rap, get in the way of work
+Scrum addresses this with cross functional teams to organize
+normal part fo value driven proecss
+lot of meetings in scrum, but all have goals for focus
+need to understand what ewe are busilding a why.  
+are our customers getting value?
+rather than build a whole thing, build small increments
+deliver quickly and get feedback
+meetings sets goals for srpint without defineing how
+what we can reasonably deliver
+daily scrum is daily and only last for 10-15 minutes
+Scrum team
+Product Owner
+Scrum Master
+Dev Team
+no managers on team
+no one tells the dev team how to do it, they create their own path to the goal
+with that freedom brings responsibility
+autonomous, need to trust certain things are true
+power to get it done
+commit to the whole goal
+you work hard
+that shows in the work
+
+
+
+
+
+[WordPress as Project Management Hub](https://2018.us.wordcamp.org/session/wordpress-as-project-management-hub/)
+[Ryan King](https://2018.us.wordcamp.org/speaker/ryan-king/)
+
+### My talk
+
+[Nobody wants a website. They want results!](https://2018.us.wordcamp.org/session/nobody-wants-a-website-they-want-results/)
+
+https://twitter.com/WordCampUS/status/1071493181731205120
+
+### State of the Word
+
+https://twitter.com/nexcess/status/1071529021446475776
+
+
+https://twitter.com/joehills/status/1071529367015227392
+
+
+https://twitter.com/bluehost/status/1071529543444385794
+
+
+https://twitter.com/ImpressOrg/status/1071529709845000192
+
+
+https://twitter.com/post_status/status/1071530353662283776
+
+
+https://twitter.com/andymci/status/1071530666104406016
+
+
+https://twitter.com/ShawnHooper/status/1071530692700364800
+
+
+https://twitter.com/bluehost/status/1071531455862448128
+
+
+https://twitter.com/WordCampUS/status/1071531659579789313
+
+
+https://twitter.com/CalderaWP/status/1071531760654082048
+
+
+https://twitter.com/post_status/status/1071531983006785536
+
+
+twentynineteen theme
+
+
+https://twitter.com/post_status/status/1071532245607964672
+
+
+https://twitter.com/WPandUP/status/1071532761746427909
+
+
+https://twitter.com/joesimpsonjr/status/1071534403703201793
+
+
+https://twitter.com/WordCampUS/status/1071534667826950144
+
+
+https://twitter.com/WordCampUS/status/1071535091682340864
+
+
+https://twitter.com/post_status/status/1071535703392165888
+
+
+https://twitter.com/CalderaWP/status/1071535473091207168
+
+
+phase 3 and 4
+
+collaboration Multi-user editing of Gutes
+Workflows
+
+
+https://twitter.com/bluehost/status/1071536399629864960
+
+
+https://twitter.com/post_status/status/1071536567351734272
+
+
+phase 4 Official multi-lingual
+
+Core is open
+
+
+https://twitter.com/jasonbahl/status/1071538296386392064
+
+https://twitter.com/CristianoZanca/status/1071553544807952384
+
+
+https://twitter.com/post_status/status/1071549212293246976
+
+
+
+## Wrapping up

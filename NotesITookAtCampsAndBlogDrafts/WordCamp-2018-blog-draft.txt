@@ -1,0 +1,538 @@
+WordCamp US 2018: Deja vu all over again and being happy
+
+For the third time in twelve months, I was afforded the opportunity to visit [The Protestant Vatican](https://www.onlyinyourstate.com/tennessee/nashville/nashville-nicknames/), capitol of [The Volunteer State](https://statesymbolsusa.org/symbol-official-item/tennessee/state-nickname/volunteer-state).  I am not sure, but I am sure this nickname influenced the choice of venue for the largest gathering of Open Source volunteers around WordPress in the US.  As I touched down on a cold afternoon at [BNA](https://en.wikipedia.org/wiki/Nashville_International_Airport) I was so very excited to be back because I was thinking of all the amazing people I got to hang out with and all the amazing times I had the previous time.  I also had a touch of a concern I would be comparing this trip to those and it might color this trip with the tarnish of nostalgia.  I am overjoyed to report that though the trip was thick with familiarity, I had the happiest, best time you can imagine [WordCamp US 2018](https://2018.us.wordcamp.org/)
+
+https://twitter.com/adspedia/status/1070931114431340544
+
+
+## Food and Fun
+
+### Wednesday:
+
+I got to arrive a day early than my duties demanded, but this gave me an awesome opportunity So good to catch up with some amazing people.  
+[Alley Taps](http://www.alleytaps.com/) smooth covers of pop songs with a little soul from local up and coming artist [Falyn](https://twitter.com/falynmusic).
+
+https://twitter.com/McDwayne/status/1070507890237194240
+
+
+### Thursday
+
+This was a setup day for us and the Pantheon booth.  I had the opportunity to have lunch that day with one of my favorite people in the whole world, in or out of the WP space, [Josh](https://twitter.com/Josh412).  We had a very satisfying #WPVegan mean at a place I would love to give more support to, [Coco Greens](http://cocogreensnashville.com/).  
+
+https://twitter.com/seabeyondnash/status/687327263516442624
+
+
+Thursday evening was filled with so much fun.  First, my team at Pantheon met at [Whiskey Kitchen](https://www.mstreetnashville.com/whiskey-kitchen/) which has a crazy good whiskey list.  Especially good list if you like bourbon, like I do.
+
+https://twitter.com/WhiskeyKitchen/status/938535117710090241
+
+
+The community had their first official get together on Thursday night as well at the Speaker/Sponsor/Volunteer/Organizer dinner at the venue [Music City Center](https://2018.us.wordcamp.org/location/).  Huge props to the catering for this effort.  Having a vegetarian, mostly vegan, table separate from the offerings for omnivores was super convenient and made sure it would be hard to cross contaminate.  It was really super great to connect with so many people who I had not seen, in some cases, since last WCUS.   
+
+https://twitter.com/waviaei/status/1070901784972013569
+
+
+We snuck in a little Karaoke after that as well.
+
+https://twitter.com/williamsba/status/1070892140618637313
+   
+
+### Friday 
+
+Coffee and tea flowed like the mighty [Cumberland River](https://en.wikipedia.org/wiki/Cumberland_River), which flows through the city.  Conference coffee being there is good enough and I will not pass any judgment beyond that.  Coffee aficionados told me there were more gourmet options available a short walk away.  
+
+
+Like all other WCUS lunches, we had a pretty hip jazz band serenade us as we ate BBQ and, for some of us, really thoughtful vegan options.   
+
+https://twitter.com/wpmodder/status/1071109489267564550
+
+
+After the first day of sessions, Pantheon threw a little happy hour for the community at [The Flying Saucer Draught House](http://www.beerknurd.com/).  This place is covered in plates of people who have had tried 200 beers.  There are people that have done this 10 or more times as well with special honors on their plates.  We didn't quite drink that many beers but it was fantastic to hang out with the community.  
+
+https://twitter.com/CaroleOlinger/status/1071219517957828608
+
+
+### After Party
+
+The organizing team decided to move the official after party from Saturday to a day earlier for a number of reasons.  I was not really on board at first, but honestly, I think this was a great move.  Once again we gathered at the [Adventure Science Center](http://www.adventuresci.org/). Too many good times to relate them all here, but the fried tempeh and taco bar were fantastic!  
+
+https://twitter.com/nickwiberg/status/1071276232271167488
+
+
+https://twitter.com/joehills/status/1071269709805469696
+
+
+https://twitter.com/ChrisBadgett/status/1071265223791796224
+
+
+https://twitter.com/CheoWalker/status/1071259131087077377
+
+
+https://twitter.com/openbayou/status/1071237468412882945
+
+
+https://twitter.com/jessigurr/status/1071262930321199109
+
+
+### Saturday
+
+After the 'State of the Word' and the end of day two, Pantheon got together with some of our partners for an appreciation happy hour at [Kitchen Notes](http://kitchennotesnashville.com/).  It was awesome to have some Fried Green Tomatoes and the absolute best pita chips I have ever experienced.  Honestly have no idea how they made pita chips that awesome, but if you are in the area, I dare you to go and get them and report back your thoughts.  
+
+https://twitter.com/NashSportsRadio/status/1060870743599255552
+
+
+### WCKaraoke
+
+There were other parties but I was doing footwork to make sure our original plan for a community karaoke party would still work.  Turns out, thanks to [Santacon](https://www.santacon.info/), of which I am not at all a fan, we could not get into the first option or the next two backup spots on the list.  Literally could not get in the door since they were over capacity at a couple places.  Fortunately, the community will to make this happen got us into [Wanna B's Karaoke](https://www.tripadvisor.com/Attraction_Review-g55229-d1909730-Reviews-Wanna_B_s_Karaoke_Bar-Nashville_Davidson_County_Tennessee.html).  
+It was amazing.  This is the crowning achievement to date of all my work to get people together to sing.  Thank you all who came out to sing.  
+
+https://twitter.com/CaroleOlinger/status/1071672512512188417
+
+
+https://twitter.com/nathaningram/status/1071624887553396736
+
+
+
+## Sessions
+
+
+[Bridging the Design and Development Gap with CSS Algorithms](https://2018.us.wordcamp.org/session/bridging-the-design-and-development-gap-with-css-algorithms/)
+[Lara Schenck](https://twitter.com/laras126)
+
+I have never stepped back and thought "is CSS turning complete as a language" before.  But once I did, thanks for Lara, I am not sure I am ever going to be able to unsee it. It makes me want to dig in deep to CSS3.  This talk also delivered the single best explanation of the [CSSOM](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model) and what 'render blocking JS' actually means. If you have never thought of CSS as a 'real' language, it is time to think again.  
+
+Raw Notes:
+Is CSS a programming language?
+Some people say yes, some strongly disagree.
+Imperative is the how, the control flow
+Declarative the What , no control flow
+imperative, JS, Ruby, C++, Python
+Declarative, domain specific, SQL, HTML and CSS fall here
+CSS is a domain specific programming language, 100%
+Turning complete in 2018
+also, Math, variables and functions and conditional logic
+specific conference talk from person in Netherlands
+@felienne
+But everyone can learn it
+but if all math not going to get everyone in it
+Programming is a nice green pasture 
+the languages are pools in the pasture
+in Nov 2018 most people still think CSS is not a language
+Browser internals in under 5 min
+person talking to server
+get data
+client http request server byte stream
+inside the browser get byte streams
+HTML, CSS and JS
+code points turned into tokens
+assigns to the DOM tree and the CSSOM
+those combine to make
+Render/Rule tree for all Dom elements
+Render blocking
+JS must be executed when encountered, so disrupts the render
+Layout draws DOM elements
+Layout to Paint
+like tiny images
+Composite, smooshed together into one presence
+----
+Algorithms
+imperative JS
+CSS went from whatever, to CSS the programming language
+Only have a hammer approach before
+now have mental model for what the browser is doing
+white board marker now
+psudo coding boxes before touch code
+inputs, algorithms output
+ocean image to specific position
+CSS, Grid, Flexbox, var, calc
+She got a job and learned so much
+now old code seems really bad to her
+got the job from WordCamp discussion meeting
+Yellow light time
+Algorithm: well defined computational procedure takes input and gives output
+Long method code smell
+too much happening to let anything be useful
+cut into litter chunks
+single responsibility principle
+Like kitchen tools
+CSS terminology 
+Selector
+property: value = declaration
+rule
+A CSS algorithm is a well defined or set of declarations that take input and visual output specific thing
+Algorithm: Clearfix
+Positioning
+aspect ratio
+assume the size of the container, 
+arrows with borders
+Fluid Type
+Fizzbuzz 
+you can do it in CSS!
+CSS algorithms?  
+what is a word for this?
+Patterns
+another way to say it
+.l-features 
+grid algorithm
+Utility namespace
+.u-glue
+kinda like an API
+cropping
+core patten namespace possible
+how do you write CSS algorithms
+1 Plan on white board
+2 Brute force solution that works
+3 walk through
+4Psudocode
+Write smelly CSS
+Figure out the algorithm
+Give them name/selectors
+anything can fit in this structure
+be careful how to talk about CSS
+CSS is weird -> CSS is the issue and faulty
+just no true
+CSS is declarative and domain specific 
+Mindful CSS bell
+Read the spec
+conclusion
+bridge between engineering and design
+Engineering, Design and Product
+if all speak different languages it is hard
+user interface is the thing people touch
+HTML, CSS and JS
+You can't really learn JS in short time
+CSS and HTML you can learn in a few hours
+
+https://twitter.com/TacoVerdo/status/1071162200633556997
+
+
+[Moving the Web Forward with WordPress](https://2018.us.wordcamp.org/session/moving-the-web-forward-with-wordpress/)
+[Morten Rand-Hendriksen](https://twitter.com/mor10)
+
+There are sometimes talks you see that are so brave, they define comparison.  In my mind, this might have actually been a more important session than the state of the word.  A gauntlet has been thrown down by tis team and I am very excited to see how we move from here.  It is super exciting to be part of a conversation that will literally shape our future as a project and the internet as a whole.  This is one to watch for certain on WordPress.tv. Also, join the [WordPress Governance Project](http://goo.gl/mvbPYv)
+
+Raw Notes:
+2015 - responsive images were not set thing online
+WP introduced it in core
+shipped to 20% of the web
+changed the charts algorithms on the reporting
+but seems that after WP 4.4, Responsive became normal
+we have not been best custodians of the work
+5.0 breaks this responsive agreement
+flagged in 4/17
+Matt says Responsive should not have come to core
+he agrees maybe
+2015 tech is not what is going to get us to the future
+we are 32.5% of the web
+what got us here, won't get us to 50%
+what got us here was deep commitment to OSS
+solving problems in an interesting way and a lot of luck
+what gets us to next level is how we work together
+story of a desire path at his HQ
+this is how the web works, paving cow paths
+WP is the cow path
+instead of looking at a new and better spec, 
+look at what people are doing and formalize into a standard
+when we make WP decisions, we are making them for the web
+What does democratize publishing even mean?
+Democratize = introducing democratic principles, 
+o make available to everyone
+publish means make a content available
+making content available online accessible to everyone
+values of the internet are the principles of WP
+Tim Berners-Lee definiton
+WP can realize the promise of the web
+Participation and representation
+who speaks for WordPress?
+who speaks for the user (the PEOPLE)?
+Corporations speak for us with specific interests and goals 
+we say nothing while everyone speaks for us
+no answer to who speaks for WP
+We must claim our seat at the tables of power
+it is for every user of the web
+to do that, we must first know what we stand for
+democratize publishing....what are the necessary conditions to achieve the mission
+He has a proposal
+3 governing principles
+1. Accessibility
+Was grand idea of web was to make all books and journals in science available to share
+2. Privacy
+capability we must grant our users
+3. Open Governance
+for the internet, we need to take part of the conversations
+I don't want to talk to you about these things
+Not going to talk, inviting other people to talk.....
+[Rachel Cherry](https://twitter.com/bamadesigner)
+she is the person who says RollTide online
+but Accessibility is a passion
+A11y is something that can be quite frustrating
+"I can't use your website and it is our fault"
+no one can say we have not build an inaccessible site
+and we need to come to terms with that
+easy to get to this way, stackoverflow to get it to work
+but is it working correctly?
+are we messing up the DOM with JS?
+how do we force tooling?
+Scans in core, will make better for all users
+huge % of how people work with WP is Themes and Plugins
+We must understand ARIA as a spec
+would love to see a work were A11y is not in plugin, not in the repo
+[Leo Postovoit](https://twitter.com/postphotos) on Privacy
+thinking about first the core idea
+people see data in ways to do whatever they want
+need to ask questions about how we use data and the data itself
+we do not understand the difference between if I go to the library
+no one needs to know my books
+but online not the same guarantee
+now we have laws
+it is the privacy by design that is the fun part and how we can work
+we must nudge this ball forward.  
+Open Governance
+[Chris Teitzel](https://twitter.com/technerdteitzel)
+He was inspired by Matt's talk 
+he said get involved 
+but not much more
+Heather Burns
+contacted her at WCEU, wanted to collaborate on how to talk governance
+spiraled to other CMSes than WP and Drupal
+open conversation on what we stand for and how regulations work
+we are all reactionary
+Let's improve together
+influence the people making laws
+they are not the people with the knowledge of how it is built
+Morten again
+5.0 was the last time we should make decisions only for ourselves
+with responsive images we found the edge
+e want a seat at the table not to drive the conversation but to 
+WordPress Governance Project
+http://goo.gl/mvbPYv
+join in
+example
+node and Drupal (early)
+AMP just announced
+what do those models look like for WP
+
+
+https://twitter.com/0aveRyan/status/1071422140430409731
+
+
+https://twitter.com/hirozed/status/1071425368287076353
+
+
+https://twitter.com/sereedmedia/status/1071427483952603136
+
+
+https://twitter.com/jeckman/status/1071427606782861313
+
+
+[WordPress from a Drupal Perspective](https://2018.us.wordcamp.org/session/wordpress-from-a-drupal-perspective/)
+[Chris Teitzel](https://twitter.com/technerdteitzel)
+
+Raw Notes:
+Drupal is hard
+Play to your strengths
+built a site for an app Thememonster
+was in Drupal by coincidence after that
+didn't pick it because it was hard
+learning WP learned it was not insecure and not that easy for everything
+WP strengths
+Design and usability
+privacy in core
+media management
+Robust plugin and theme economy
+and yes, Gutenberg
+Drupal still needs to do these things and do them well
+Drupal strengths
+Data architecture - content modeling that happens to make websites
+core APIs - forms API for example, makes forms super easy 
+VIEWS! - DB querying UI
+Rest API in Core
+need to play to our strengths
+we can learn from each other!
+Open libraries should be shared in between.
+
+
+https://twitter.com/McDwayne/status/1071465375118823424
+
+
+
+[Stamping Your Open Source Passport](https://2018.us.wordcamp.org/session/stamping-your-open-source-passport/)
+[Drew Gorton](https://twitter.com/dgorton)
+
+It is my great honor and privilege to work with Drew.  He is not just my manager but he is a human being I respect and look up to. His guidance and support have made it possible to keep going with multiple parts of my life.  Hearing his story, so well articulated, makes it pretty clear why this is.  Check it out when it hits WordPress.tv.
+
+Raw Notes:
+Grew up in small America
+fish and rice
+moved to Spain in his teens
+fish and rice vs Paella 
+later in life taught English in Japan over a number of years
+another of fish and rice was sushi
+elementary school kid would have hated to think about sushi
+WP events about 3 years ago
+he was also from Drupal
+same travel experiences and differences served him well
+tech is OSS and that is special kind of tech
+Free as in liberty
+one thing common, need people to survive and thrive
+another interesting thing WP is made of OSS itself
+PHP, MySQL, Linux, Apache/NginX
+many other tools CMSes like this
+57 different ones says Wikipedia
+Drupal community is open and there are good events to go to
+Or how about PHP events
+ - SymfonyCon
+ - Sunshine PHP
+ Generalist events as well
+ An Event Apart, AgentConf, JSConf Hawaii
+ Travel gracefully
+ - listen first
+ - learn, not convert
+ - Guides can be a great help!
+ - Meet the locals
+ - Share your journey
+
+https://twitter.com/davidneedham/status/1071471651202715649
+
+
+
+[Scrum for developers](https://2018.us.wordcamp.org/session/scrum-for-developers/)
+[Jenny Beaumont](https://twitter.com/jennybeaumont)
+
+You like Agile process?  Yeah, you bet you do.  If not, this talk might just change your mind.  Get more done, more effectively, no matter how large your projects or team by adopting these core principles.  
+
+Raw Notes:
+Devs work form home
+don't like meetings, don't wear pants
+got to collaborate with your teams and clients through
+SCRUM comes from Rugby
+Agile is not the same
+interrelated though
+cultural hurdles and stereotypes:
+idea specific to developers 
+causes to feel alone
+isolating
+fear of change 
+Managers can also have a bad rap, get in the way of work
+Scrum addresses this with cross functional teams to organize
+normal part of value driven process
+lot of meetings in scrum, but all have goals for focus
+need to understand what we are building a why.  
+are our customers getting value?
+rather than build a whole thing, build small increments
+deliver quickly and get feedback
+meetings sets goals for sprint without defining how
+what we can reasonably deliver
+daily scrum is daily and only last for 10-15 minutes
+Scrum team
+Product Owner
+Scrum Master
+Dev Team
+no managers on team
+no one tells the dev team how to do it, they create their own path to the goal
+with that freedom brings responsibility
+autonomous, need to trust certain things are true
+power to get it done
+commit to the whole goal
+you work hard
+that shows in the work
+
+https://twitter.com/jeremyebrown/status/1071490543329382401
+
+
+### My talk
+
+[Nobody wants a website. They want results!](https://2018.us.wordcamp.org/session/nobody-wants-a-website-they-want-results/)
+
+If anyone thinks they have ever had a talk that was better received, I would not believe them.  Not for a moment. The feeling that you are connecting to most everyone in a room and to see so many nodding heads and so many people taking notes was amazing.  This is something the [bright lights of Paris](https://www.mcdwayne.com/2017/06/20/wceu-paris/) didn't illuminate.  This talk is the one where I realized the true power of the stage was to inspire conversation after the session is done.  I hope everyone has the opportunity to feel that.  There is no other feeling quite like it and it is electric.  
+
+https://twitter.com/WordCampUS/status/1071493181731205120
+
+
+
+### State of the Word
+
+I am not going to publish my raw notes for this one.  There are a lot fo write ups about this talk.  If you are itching to read one, I am suggesting [PostStatus Stat of the Word](https://poststatus.com/state-of-the-word-2018/) report as the official one.  Here is how I experienced it from my seat via my favorite tweets.  
+
+
+https://twitter.com/nexcess/status/1071529021446475776
+
+
+https://twitter.com/joehills/status/1071529367015227392
+
+
+https://twitter.com/bluehost/status/1071529543444385794
+
+
+https://twitter.com/ImpressOrg/status/1071529709845000192
+
+
+https://twitter.com/post_status/status/1071530353662283776
+
+
+https://twitter.com/andymci/status/1071530666104406016
+
+
+https://twitter.com/ShawnHooper/status/1071530692700364800
+
+
+https://twitter.com/bluehost/status/1071531455862448128
+
+
+https://twitter.com/WordCampUS/status/1071531659579789313
+
+
+https://twitter.com/CalderaWP/status/1071531760654082048
+
+
+https://twitter.com/post_status/status/1071531983006785536
+
+
+https://twitter.com/post_status/status/1071532245607964672
+
+
+https://twitter.com/WPandUP/status/1071532761746427909
+
+
+https://twitter.com/joesimpsonjr/status/1071534403703201793
+
+
+https://twitter.com/WordCampUS/status/1071534667826950144
+
+
+https://twitter.com/WordCampUS/status/1071535091682340864
+
+
+https://twitter.com/post_status/status/1071535703392165888
+
+
+https://twitter.com/CalderaWP/status/1071535473091207168
+
+
+https://twitter.com/bluehost/status/1071536399629864960
+
+
+https://twitter.com/post_status/status/1071536567351734272
+
+
+https://twitter.com/jasonbahl/status/1071538296386392064
+
+
+https://twitter.com/CristianoZanca/status/1071553544807952384
+
+
+https://twitter.com/post_status/status/1071549212293246976
+
+
+
+## Wrapping up
+
+There was so many good things that happened to me, it is impossible to get them all in here.  So, I will be making a year end sum up that will include some of the things I have been telling everyone about, like my inceptions project, the overall win of WCKaraoke, the WPVegan thing and so many other amazing stories that deserve their own spotlight.  
+
+As for this trip, I am not sure how it could have possibly gone better.  Seriously. I had such an amazing time and there was just so much love in the air.  Nashville might be known for music and more and more conventions in the near past, but I will always remember it for the family of Drupal and WordPress that I got to meet and rejoice there.  I do know exactly know what the next year will look like and I can never be sure where life will take me, but I feel a lot of optimism that whatever happens, the community will always be near and dear.  I am also certain that I am already looking forward to [WordCamp US 2019 in St. Louis](https://2018.us.wordcamp.org/call-for-2019-organizers/)
+
+https://twitter.com/sucurisecurity/status/1071390668885540864
+
+
+https://twitter.com/syedbalkhi/status/1072105935059992576
+

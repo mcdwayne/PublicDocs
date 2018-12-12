@@ -1,0 +1,17 @@
+Bash is magic # No it's not
+
+If you are trying to level up as a developer, one of the more intimidating skills to master is using the command line interface, or CLI.  It might seem downright terrifying .  The reality is: If you can type, you can use the command line. 
+
+Every senior level developer will remember a time when they were overwhelmed by opening a terminal. Those same people will tell you this is likely the single most important capability they have acquired.  
+
+For Mac and Linux users your command line interface is called Bash.  Windows users can easily use this tooling as well, meaning no matter what desktop environment you prefer, Bash can give you a standardized way to work across them all. 
+
+In addition to gaining more control of your device, learning Bash unlocks power tools like the WP-CLI or Drush, npm, gulp, grunt, composer, Behat and hundreds of tools you can download for free.
+
+Leave this session understanding 
+- A brief history of the command line
+- The basic commands for manipulating your files and folders
+- An overview of tools that are only available through the command line
+- The basics of Bash scripting, the secret to automating anything
+
+In the beginning there was the command line

@@ -1,12 +1,10 @@
 Bash is magic # No it's not
 
-If you are trying to level up as a developer, one of the more intimidating skills to master is using the command line interface, or CLI.  It might seem downright terrifying .  The reality is: If you can type, you can use the command line. 
+When leveling up as a developer, one of the most intimidating aspects often is using the command line interface, or CLI.  In fact, it might seem downright terrifying.  The reality is: If you can type, you can use the command line. 
 
-Every senior level developer will remember a time when they were overwhelmed by opening a terminal. Those same people will tell you this is likely the single most important capability they have acquired.  
+Every senior level developer will remember a time when they got overwhelmed by opening the terminal. Those same people will tell you this is one of the most important capabilities they acquired.  
 
-For Mac and Linux users your command line interface is called Bash.  Windows users can easily use this tooling as well, meaning no matter what desktop environment you prefer, Bash can give you a standardized way to work across them all. 
-
-In addition to gaining more control of your device, learning Bash unlocks power tools like the WP-CLI or Drush, npm, gulp, grunt, composer, Behat and hundreds of tools you can download for free.
+For Mac and Linux users your command line interface is Bash.  Windows users can also use this tooling, so Bash can unlock the true potential of any machine. Besides  gaining more control of your device, Bash lets you leverage hundreds of power tools like WP-CLI, Drush, npm, composer, and Behat, to name a few.
 
 Leave this session understanding 
 - A brief history of the command line
@@ -15,3 +13,54 @@ Leave this session understanding
 - The basics of Bash scripting, the secret to automating anything
 
 In the beginning there was the command line
+
+
+Who should care?  
+
+Linux/OSX/Windows using BASH users who don't know more than point and click
+
+Newer users looking for a quick reference for shell scripting questions
+
+programmers who work in linux and want to be more productive
+
+People coming from Windows, including experienced admins who want to do more, faster
+
+
+This talk is specifically about BASH, the bourne again shell, based on SH by Bourne, but everything we are thing about is also going to work on ZSH and DASH and likely KSH and PDKSH
+
+GNU tool.  
+why this matters
+Free as in Freedom
+THis means bash itself is extendable and customizable (but we are not going to have time to get into that
+
+Don't be afraid of brute forcing a solution on the first pass.  
+You can always opimize
+
+Shell scripting is the glue that holds programs together
+
+Yes, you can do it other ways...buuuuut 
+
+
+
+Define Shell...but before we get to that
+
+Steve Best Story
+
+Why BASH - it is everywhere!
+
+C was first, but it is actually quirky as hell
+Korn Shell came next and people loved it, but it was not open source at first, so Linux said "no thanks" for the most part, though in 2000 they realized the error of their ways
+
+BASH was an attempt at a GNU POSIX system
+explain POSIX
+Since it was OSS by intent, Linux embraced it
+
+Bash is a Command interpreter
+concept of a script
+
+before the prompt - why this matters and why it does not and what to do about it
+
+
+
+
+

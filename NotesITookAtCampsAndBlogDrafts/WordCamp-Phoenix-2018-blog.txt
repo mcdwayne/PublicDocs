@@ -1,0 +1,736 @@
+WordCamp Phoenix 2019: The cold wet desert, the dried sage and fresh rosemary.
+
+I have never seen it rain in [Arizona's Urban Heart](https://en.wikipedia.org/wiki/List_of_city_nicknames_in_Arizona).  I have also never been cold when outdoors when there. That changed as I landed in a light, but persistent rain that chilled the desert town.  Later on the sun did come out, but the chill stuck around.  I was warmed throughout most of my stay however due to the radiance of love and joy I felt from the community gathered for the first WordCamp of the year, [WordCamp Phoenix 2019](https://2019.phoenix.wordcamp.org/)
+
+https://twitter.com/mikailaisabella/status/1096861364461568000
+
+
+https://twitter.com/AmenaMabrouk/status/1096230705317666816
+
+
+## Food and Fun
+
+### Thursday 
+
+#### WPVegan
+
+A WordCamp would not feel complete to me anymore if we didn't try to raise the WPVegan flag high at least once.  A year ago I discovered [The Counter](https://www.thecounter.com/) thanks to [Mike Demo](https://twitter.com/mpmike) because they had the Impossible Burger.  Turns out the other vegan patty on the menu was more to my liking and their bar made this place a hit with everyone else, meat eating or not.  It was great to meet up with my WP family for a filling meal out on the town before the first day of camp.  
+
+https://twitter.com/Pastelitocr/status/1096223784879702016
+
+
+### Friday
+
+There was Starbucks coffee provided. No tea though.  Still, caffeine was delivered and we got going.  Snacks for the afternoon came with lunch as a little goodie bag.  Lunch itself was a great fry bread taco.  Mine was piled with beans and I heaped it high with lettuce and salsas.  It was delicious and every dietary need could have been met.  Great job team!    
+
+https://twitter.com/nexcess/status/1096496393886318593
+
+
+#### Speaker Diner
+
+Unlike most events, this year the organizers held the Speaker/Sponsor/Volunteer/Organizer dinner after the first full day of camp.  I actually really liked this approach, given it was a Friday through Saturday camp.  Many speakers had a travel schedule that only allowed them to get to camp early on Friday morning, so this dinner day proved to mean a larger get together.  Those additional bodies made for great energy. There was a wonderful awarding of the speaker gifts ceremony as well where I felt truly like I was being honored.  It was great.  
+
+https://twitter.com/McDwayne/status/1096588881581883397
+
+
+#### WCKaraoke
+
+We made an honest attempt at singing together after the speaker dinner but the fates conspired against us.  The regular Karaoke DJ at the place we went was literally missing.  The bartender at [Ain't Nick's Tavern](https://www.facebook.com/pages/category/Bar/AiNT-NICKS-TAVERN-885155024916166/) actually said this was the first such occurrence in the 2 years she had been there.  They were actually worried.  Finally a replacement DJ did appear but the hour was late and not much singing happened before we all scattered.  
+
+https://twitter.com/McDwayne/status/1096665220875837440
+
+### Saturday
+
+Coffee was again there, but given my penchant for tea in the morning and lack of it present from catering the day before, I brought my own tea to wake up in the morning.  Lunch was again outside and by the same catering team.  This time we swapped Asian fare for the Mexican in out fusion fare.  I had a wonderful helping of tofu, rise and a really yummy noodle salad. 
+
+https://twitter.com/McDwayne/status/1096489652964323328
+
+#### After Party
+
+Before we went to the after party, several of us gathered for another meal at [The Counter](https://www.thecounter.com/).  It was amazing to hang out with so many amazing people before going to hang out with even more amazing people later.
+
+https://twitter.com/McDwayne/status/1096958490956840961
+
+
+The After Party was held at the [Galvanize](https://www.galvanize.com/campuses/phoenix) co-working and event space.  There were a few areas in the space where folks tended to congregate, a smoking area outside, a small patio, a couple large sets of high top tables and a dance floor.  The dance floor came equipped with a dance instructor who taught us all to dance [the Bachata](https://www.youtube.com/watch?v=dhHGdBBF7Xk).  It felt like the night sailed by and before we knew it it was time to head out of the space. 
+
+https://twitter.com/McDwayne/status/1097198405527339008
+
+
+#### WCKaraoke, take 2
+
+I heard tell that someone, not myself, had put a plan in motion to head back to [414 Pub and Pizza](http://414pizzatempe.com/) which is one of the most unique karaoke bars I have ever been in.  The college crowd and weird mix of everyone else make for an entertaining evening that lasted long into the wee hours.  It was a fantastic time all around.  
+
+
+
+### Sunday
+
+#### Contributor Day!
+
+Sunday morning, some of us got back together at Galvanize for a day of togetherness, community and hacking.  There was a slight issue with the coffee plan but some good hot coffee was quickly made available and was pretty good.  Reminded me of what we get at the Pantheon office.  
+We got at least 8 new contributors set up in Slack and on their path to finding the best team for them.  From a new contributor hoping to make Gutenberg better to another who thought Support was the best place to start, the eagerness to help out was evident all around.  Lunch was pizza, including a pretty tasty vegan option.  Sad to say I did not catch the name of the pizza place.  
+
+There was a dual event the same day I got to participate in, dotOrganize, but I am going to talk about that later on.   
+
+https://twitter.com/raqueLandefeld/status/1097283921316847616
+
+
+## Sessions
+
+### Opening Remarks
+
+https://twitter.com/theisaac/status/1096440500859498496
+
+
+[WordPress Development in a Modern PHP World](https://2019.phoenix.wordcamp.org/session/wordpress-development-in-a-modern-php-world/)
+[Drew Jaynes](https://twitter.com/DrewAPicture)
+
+Drew is just an awesome person and presenter and that was the initial reason I planned to see this talk.  But when I red the description, it hit me that PHP talks I have attended have been few.  Searching my backlog of notes with `grep` yields only one other talk explicitly about the subject I can find, [PHP for WordPress by Alena Holligan back at WordCamp Portland 2018](https://www.mcdwayne.com/2018/11/05/wordcamp-portland-2018/), which I thoroughly enjoyed.  There is so much talk of JS these days, that it seems a good reminder core is still PHP is in good order.  There were a few the issues in the front of the talk, but Drew kept going like a champ and delivered a very fine talk all devs thinking of getting involved in core should very much see.  
+
+
+Raw Notes:
+[[tech issues]]
+A lot of devs have not updated to modern standards
+small modern code users buck the system
+8 years after the fact we finally adopted modern more in core
+PHP has held back the dev community 
+he is here to help
+guy that wrote the little prince
+"As for the future your task is not to perceive it but to create it."
+Dive in head first, break thing locally
+do not jam up your users in the process
+be careful with that
+usage data, find out how users are using versions of PHP to see if you can bump it
+larger % than you think is on 5.6 or higher
+version controlled files are a must
+separate bootstrap folder to not break site when fais happen
+graceful fall-backs
+Name\spaces prevent collisions
+introduces higher level of organization for a project
+not really a standard now but more easy to organize now with it
+better code segregation and baseline code ownership
+My_Plugin\classname
+code sample
+With great aliasing powers come great responsibility
+with Name\space comes aliasing
+local to file only or global
+Types
+help catch avoidable mistakes
+defines expectations
+5.1 array types
+7 added scalar
+7.1 intable 7.2 audit
+in line documenting what parameters it can accept
+'marker interface'
+top level interface that all exceptions implement, anywhere catches this 
+Closures are a nice to have
+anon functions
+one way to express simple one time use code
+be careful with hooks though
+not globally accessible
+can't unhook from callback
+in limited cases only, use sparingly
+Late static binding
+allows parent class to statically access things in subclasses
+inheritance in PHP, specific to class being called from
+A and B extends A 
+change `self` to `static` and parent class can access 
+Backend compatibility to look out for
+deprecated some old things in new versions
+
+https://twitter.com/affwp/status/1096464218461630464
+
+
+
+[Building Static Sites with WordPress, Gatsby and WPGraphQL](https://2019.phoenix.wordcamp.org/session/building-static-sites-with-wordpress-gatsby-and-wpgraphql/)
+[Jason Bahl](https://twitter.com/jasonbahl)
+
+Have you heard of GatsbyJS yet?  You should have by now. Especially if we are in the future when you are reading this and ReactJS has continued to replace everything on the front end and the static site generated pages reign supreme from their serverless caches.  In all seriousness, GraphQL is a spotlight on an issue that is going to be needing addressed sooner or later, the structure of how data and metadate correlate in a WP database.  It makes it, at least, much easier to conceptualize those correlations and leverage them in new and experimental ways.  With as much coding examples as he had, best to check out the slides and the video for implementation examples.  
+
+Raw Notes:
+All about that static sites
+pre-generated, no required DB lookups, low resource and secure by default
+WIth dynamic site,s need to look it up and make a thing
+static is way fast
+super scary as well
+really cheap hosting
+Github pages or netlify - sometimes free
+GatsbyJS
+the React static site generator
+feed data into React
+WP site as source for Gatsby site
+WPGraphQL plugin
+makes WP an GraphQL server
+WP send with JSON into templates
+WP as an application data graph
+Post -> properties, categories, image, other category terms
+And categories can connect to other posts
+GraphQL can pick nodes and trees from the graph
+category name
+selecting small thing form big graph
+GraphQP tool, GUI for it
+can get nested 
+further properties, all posts that are in a category
+almost pain English to your computer
+collections, pages, etc
+children, their children, etc
+even query plugins if access
+even general settings
+helpful errors
+so onto Gatsby
+code samples
+mapping over data
+pass into a template as context
+Free hosting on netlify example
+menu, managed in WP, rendered in Gatsby
+navigate the static site, no DB request
+live code building demo!
+good thing is Gatsby is awesome with errors, informative
+static query
+Menu depth is very fast and simple to implement
+happens at the query level, no need to go to DB
+Pros:
+Fast, Super secure, cheap, fun dev experience (use same elements in Gutes and Gatsby), all JS, Decoupled from WP
+Cons:
+Build step (content is not immediately available)
+ netlify uses web hooks to rebuild on update, 20 second build
+ Online publishing might suffer if high volume/traffic,
+No incremental builds, have to rebuild whole site,
+All JS,
+Decoupled from WP,
+
+
+https://twitter.com/zgordon/status/1096475028550488065
+
+
+
+[All About AI: Marketing Technologies in the 21st Century](https://2019.phoenix.wordcamp.org/session/all-about-ai-marketing-technologies-in-the-21st-century/)
+[Crystal Taggart](https://twitter.com/CrystalTaggart)
+
+I have seen a number of AI talks about using one aspect or another before.  The example of blocking adult content uploads is almost always present in those.  But when I really think about it, this was the first holistic talk about AI I have ever attended in person, and certainly the broadest scope of the subject I have ever heard anywhere in a single talk.  As we move to faster and faster execution of mundane tasks by AI, the complexity of the tasks grows seemingly in parallel to the speeds. There are a lot of hard issues we have not cracked yet and I left the room with a sense of excitement about the possibilities for this field.  
+
+Raw Notes
+--came in a bit late--
+decision trees
+Computer vision
+computers see better than we can
+AI and Natural Language processing
+no great cracking of NPL by AI yet
+this is a really hard issue
+5 question it can answer
+1 - is it A or B
+dog or cat?
+2 - is it weird - fraud on the account
+3 - how much, how many, what will 4th Q sales be?
+4 - How is this organized?  customer segmentation
+5 - What should I do next?
+AlphaGo
+learned Go by playing itself 1M time
+then played humans
+beat world champ 4 games to 1
+Types of analytics
+Descriptive - KPI, OCR
+Predictive - Churn prediction
+PrescriptiveCustomer service and operations
+1/2 of the money I spend on ads are wasted, issue is I don't know which half- - 1887
+Now - Modern marketing, it is 98%
+Marketing can have 3% success and be considered good
+1100 marketing company in 2007
+8000 now
+9% of companies support multiple solutions
+everything is increasing
+top 3 marketing challenges:
+Generating traffic
+Prove ROI
+Securing enough budget
+AI powered sales is what we want
+Leads - sales - CLV
+Leads: Predict campaign ROI
+Predict ROI of every asset creating
+Sales:
+Best customer segments
+Probability of closing/Churn
+CLV
+Personalized up-sells
+Personalized Service
+NO MORE VANITY METRICS!
+measuring what matters
+Actual results mean true costs
+people think target numbers but real numbers are really alarming after real analysis
+"income level by zip code in segmentation"
+company size
+industry
+annual income
+relationship
+gender
+age
+income
+psychographics
+Predicting the future
+long term customer value
+Competitive Analysis (few are doing this)
+Competitive Review
+Sentiment analysis 
+Insights
+Who has the time?  
+Nobody!
+abundance of resources
+Bots, Mechanical turk, Upwork, Crowd Flower, Fivver
+If have more money, segmentation, recommender systems, proactive service, market basket analysis, website article recommender customer sentiment
+churn prediction, web scraping, sales bots, chat bots
+if you have less money?
+X.ai
+amazon alexa
+pipl - data about any customer for almost no money
+ubot_studio - scraping tool
+shatfuel
+mycroft AI - oss alexa
+BuiltWith
+OSS too
+TagUI
+Botpress
+ChatterBot
+Datascraper - data-miner.io
+Case studies:
+JP Morgan - disrupting lawyers for better doc management
+ASkJuli by Amtrak
+American Express - predictive bankruptcy to get money from loans before declared
+Netflix - predictive suggestions
+AI bad and ugly - 
+Microsoft Cognitive Services - does not see black people
+Tay - AI turned evil
+Alexa-KPI app - very bad privacy policy - sells your data from metrics
+"what kinds of problems you can solve is lmited to what data you have"
+Think differently
+Data driven driven vs fiefdom vs ambiguity
+90 day digital transformation
+Data Warehouse
+AI Pipelines
+
+https://twitter.com/bluehost/status/1096511202577076225
+
+
+[Building Gutenberg Blocks with ACF](https://2019.phoenix.wordcamp.org/session/building-gutenberg-blocks-with-acf/)
+[Tessa Kriesel](https://twitter.com/tessak22)
+
+Tessa gave a talk about something near and dear to all our hearts, cute puppy dogs.  Well, really, if the internet and tools like Gutenberg and Advanced Custom Fields are not going to result in seeing awesome animals, whats the point?  I mean, I follow [Cute Emergency](https://twitter.com/CuteEmergency) for a reason.  Along the way, Tessa gave a stellar presentation on the tooling and how the future is not just going to be stuffed in a big ol blob to parse out later, but stored in addressable fields to manipulate for best effect when grabbed by different front ends like React and GatsbyJS are giving us. 
+
+Raw Notes:
+Gutenberg feels like it frees me
+internet issues
+slid.io poll
+wprig for a theme is recommended
+have you tried the ACF 5.8 beta, 96& said no
+5.8 beta you can build blocks
+ACF definition
+free and a pro version of ACF
+custom data to WP content
+Gutenberg
+ACF registered block
+once registered available option in block
+at root, settings easy
+Name
+Title
+Description
+category
+Icon
+Keywords
+Post types
+mode -edit or preview
+align
+render template
+render callback
+code examples
+dog on site
+hero block
+--- a lot of the second 1/2 of talk was example walk through of the UI and I did not capture it well enough to publish ---
+
+https://twitter.com/zgordon/status/1096520339784380418
+
+
+
+[Over the Shoulder Email Marketing](https://2019.phoenix.wordcamp.org/session/over-the-shoulder-email-marketing/)
+[David Blackmon](https://twitter.com/davidwblackmon)
+[Tim Strifler](https://twitter.com/TimStrifler)
+
+I end up writing a little email copy from time to time and I have never been to a session about the subject explicitly before.  The title made me curious as well.  It turns out it was a delightful approach to a 2 personal case study presentation, where Tim and David told how they build businesses off of smart email list management and leverage.  I know I am going to focus more on writing value emails as I move forward.
+
+
+Raw Notes:
+Intro
+why email marketing
+user acquisition
+David's email marketing story
+Tim's email marketing story
+value emails vs Sales emails
+platform and tools
+Goal:
+explain their experiences
+If you think email is dead, your missing out on the real metrics
+the truth? Email marketing is still going strong and is possibly the best possible strategy 
+Why?
+Direct line of communication for audience
+you own it, you do not own FB
+no one can take it from you
+low cost (once list is grown)
+Automation and segmenting!
+User acquisition and list building
+Visitors must be enticed to join your list
+freebies
+coupons
+content upgrades
+updates, new content
+email series
+eBook
+Don't be afraid to give free stuff if you can get en email 
+easier to market to them later
+Content upgrades
+Visitors must be entices to join
+freebies, coupons, content upgrades, updates, email series, eBook
+Your a guest in the subscribers inbox
+you must deliver on expectations
+List must be nurtured, 1 a month minimum
+Full circle market synergy
+email list
+blog with relevant content, tutorials
+Building credibility
+SEO
+David's story
+1 to 30K subscribers in 3.5 years
+free products, "Demo Zone", child them generator(a form, generate CT, email it to them), subscribe
+average 2 emails per week: content, new products, sales/promo
+If you have that many subscribers, you only need 10% or even 1% to make $
+demo zone taught people by giving full access to locked down multisite users could see settings on via the admin, not element expect
+Tim's email marketing story
+0 to 17,000 subscribers in 2.5 years
+content upgrades and freebies
+3 per month volume
+value vs sales emails
+can't just sales emails!
+content/tricks
+I am not tied to the size of my email list
+
+
+https://twitter.com/McDwayne/status/1096539212734595072
+
+
+[Take back the day with WP-CLI](https://2019.phoenix.wordcamp.org/session/take-back-the-day-with-wp-cli/)
+[Ryan Kanner](https://twitter.com/CodeProKid)
+
+Every now and again you go into a talk about a subject you know a little something about with the goal to maybe get a few new pointers.  I walked out with a whole new way to think about technical presentations.  Leveraging a case study approach with real email examples of requests he has actually had to deal with he shows the nightmare world of no WP-CLI and    automated future world that a little WP-CLI can make it.  Not only did it give a solid story structure to the talk but it also make the real world use of the tool very tangabile.  This is going to become the talk on WordPress.TV I will be referring new users to as soon as it is up.  
+
+Raw Notes:
+What is wp-cli?
+goal is for regular users to use it in a deeper way and use it more often
+and if you don't use it, use it
+WP on the command line
+talk to WP without the browser
+His journey to wp-cli enlightenment
+he handled a lot of WP maintenance duties, so he turned to better tools, like WP-CLI to stop being overwhelmed
+managing about 100 WP site, he was doing it manually
+`wp @all core update` changed his life
+Delete user: Disable Todd's login
+one of the most powerful thing is 
+Environment aliases
+wp-cli.yml
+@site:
+	url
+Scenario 2
+fast install over many places
+is the 5 minute install really 5 minutes?
+power of scripting!
+anyone can do this
+setting constants
+wp-cli.yml
+core config:
+	dbuser: root
+	dbpass: password
+	dbhost: localhost
+never have to remember ever again
+Scenario 3: Debug CRON
+Cron Job Stuck
+without wp-cli- got to look into the DB and cron garbage output
+please the client quickly and easily
+wp media regenerate # all thumbnails
+wp transient delete --expired
+wp rewrite flush
+wp rewrite list
+wo cache flush
+Updates sites!
+Going back to logging into wp-admin feels like a chore after learning wp plugin update
+scenario 5: import data
+migrating into WP from legacy system
+spreadsheet with tags
+Without WP-cli can take hours or days depending how many tags
+with scripting, 5 seconds
+you can implement custom functionality
+6 Sync staging
+client messes with staging site
+local aliases
+wp-cli.local.yml
+@prod
+	ssh: ubuntu@mysite.com:2222
+	user: ubuntu
+	path: ../..
+@stage
+	ssh:
+	user:
+	path: 
+Scaffold types
+7 taxonomy 
+lot of hand copy pasting
+some plugins maybe
+or wp scaffold post-tye --prompt
+scaffold themes, plugins, blocks, plugin-tests
+really helpful for figuring out blocks
+speed round, commands he likes
+delete all spam comments
+you can compose 2 commands together
+make space separated lists inside other commands that accept them
+don't have a user on a new site you inherit, make yourself one
+creating many posts for testing
+reset all user passwords
+wp user reset-password $(wp user list --format=ids)
+
+https://twitter.com/McDwayne/status/1096551415688744960
+
+
+### My Talk
+
+[Nobody wants a website. They want results!](https://2019.phoenix.wordcamp.org/session/nobody-wants-a-website-they-want-results/)
+
+This was my planned retirement of this talk.  I have been giving it for a while now and I even got to give it at WordCamp US 2018.  I learned so much every time I gave it.  The greatest joy was being able to play with the format of Q&A a bit by engaging the audience for their views on a variety of subjects.  Almost every time I asked "who charges for the Discovery process" I always found a lively conversation to be had.  If you have not considered charging for discovery related to a new web project, the general consensus I have found is that successful agencies do it.  The end result of a discovery process is an artifact in form of a project plan or at least partial needs mapping, and either is a very valuable piece of information.    
+
+
+https://twitter.com/TechAJG/status/1096834613224206336
+
+
+### Keynote
+
+[10 Years of WordPress Phoenix: An Ice Luge and Things Left Unsaid.](https://2019.phoenix.wordcamp.org/session/keynote/)
+[Joshua Strebel](https://twitter.com/strebel)
+
+The fact that everyone at the camp was talking about this presentation long after the talk ended makes this one of the most 'effective' talks I have ever seen in person.  It did the thing that I firmly believe in my heart Joshua wanted it to do, make us have a conversation about biases and how we view this space and ourselves.  I disagreed with some of what he said, but I did find myself recognizing I have bias too.  And anything that helps me live an examined life overall was worth attending and talking about.  
+ 
+Raw Notes:
+Night Pagely dies
+his backstory
+6 years in college
+OBU web
+Best Party Ever - Event party business
+Pagely
+Northstack most recent
+then Pressnomics
+a life chart up and to the right
+that is how many entrepreneur paint it
+really it is a wild windy journey
+secret is lots of trial and error
+you have know when to ditch the losers
+I told a whir lie to myself over and over until I believed it, and then others around me started believing it too, then it finally came true and it was no longer a lie
+Seth Pepper
+If you are not your own best cheerleader you will be eaten alive
+When Pagely new no competitors
+now like 30 or so
+all came at them, came at them from all angles
+bootstrapped, never take a dime of funding,
+will never, then it is about making money not making people happy
+certainly good companies take money, they are clouded
+how do you tell them apart, do something different
+up market
+got away from "Best WP for everyone" to "Best for this group."
+Must be better than serving those people
+Blue Oceans Strategy
+written by Mauborge and Kim
+Red oceans bad, blue are good
+red oceans are blood of winners and losers and fighting
+You must create the blue ocean
+seek
+sail
+win
+competition follows
+must always seek a new ocean
+Northstack is a blue ocean
+authority bias
+maturity cycle
+intro phase
+growth
+maturity/stable
+decline
+WP following this
+themes
+plugins
+SaaS/Hosting
+are we at peak WP?
+who knows
+IS Gutes the future? 
+Where does the money go?
+small or large companies
+shareholders are bad
+invest in people
+leaner leader 
+At Pagely trying to add authority to think and act on best behalf of the company
+Ultimately it's about you
+Win 2019
+"Don't hitch your wagon to community without remembering to put food on your table"
+back to Pagely being down
+it was a single domain on a CC that handled routing 
+SLA
+$10 domain cost them $57K in SLA payout
+Mistakes are typically not fatal
+they just hurt real bad sometimes
+and then he went skiing
+Survivorship Bias
+
+https://twitter.com/mkopala/status/1096878664187228160
+
+
+[Panel: WordCamps In History and Practice](https://2019.phoenix.wordcamp.org/session/panel-organizing-wordcamps/)
+
+[Adam Silver](https://twitter.com/heyadamsilver)
+[Cami Kaos](https://twitter.com/camikaos) 
+[Francesca Marano](https://twitter.com/FrancescaMarano)
+
+Not only was it contributor day on Sunday, but it was the very first ever WordCamp for Organizers / Popup Event, also known as [dotOrganize](https://twitter.com/dotOrganize).  Thanks to the awesome efforts of [Carol Stambaugh](https://twitter.com/carolstambaugh) and [Drew Jaynes](https://twitter.com/DrewAPicture) for organizing 3 panel discussions throughout the day.  I missed the first one on Meetups as I was helping new folks set up for Contributor day.  The panel that I did see was flat out entertaining at times and jammed pack with great information for folks who are organizing WordCamps or hope to organize one soon.  
+
+Raw Notes:
+WordCamps are larger than a meetup celebration of WP
+2006 only 1
+2010 almost 80
+then dive to 50 in 2011
+dip due to quality and foundation was started
+143 last year
+Francesca: Lonely freelancer
+found the world that was happening
+got involved and found a lot of opportunity and community
+Adam Silver
+why he did organizing
+he was excited about the project and old lead was burned out
+said "If no on else does it, I need to."
+Francisca: Italian community is one of the oldest communities
+polyglots first translations
+at some point everyone woke up
+she was at another conference and she had an 'ah ha' conversation
+opened slack and there was nothing there
+conversation was vibrant after that
+few Italians wanted local scene
+organized stand alone contributor day
+applied to WC not knowing it would make her lead organizer
+from 0 to 6 WordCamps in 3 years
+Q: What was the hardest single point of organization for an organizer?
+Adam: venue was WCLAX hardest challenge
+Francesca: Speakers is the hardest still
+this year got 80 applications
+4 were from local community
+Got more application from the Netherlands
+Q:Going from est to east
+Adam: wanted to beat Miami, but it is not a competition
+but scale changes things
+community is strong in LA, he knew it
+out east, stepped into org role asap, 
+Had been run by same couple people for 10 years
+they know all, tribal know how
+he wants to make better community
+East is not as clean as his experience in West, 
+Francesca: How does Adam feel about starting a new one?
+Adam: Talking about that with Community now
+30 minutes from starting a new meetup outside WP one
+that is when they gave him Organizer role, 
+still slow
+3 meetups in 18 months
+1 WC done, 1 coming up
+respect history that is there
+Francesca: We didn't care about History, cause it was bad
+without the translation people, WP would not be popular in Italy
+starting from scratch really
+Old organizer was a gatekeeper
+she has a nickname "Jackhammer"
+Drew: Tips for breaking into a community?
+Adam: got a ticket from a sponsor
+he was looking for a job
+desperation reeks
+meetup in LA was kinda far
+time to commute, but issues with that
+asked permission to start one in south
+immediately said "got for it"
+just ask
+for Raleigh, with he would have jackhammered it
+try not to get too involved in drama
+reach out for help cause it exists
+Francesca: Didn't know what it was
+she just liked the idea of a group of people really say "just do a thing"
+New in a state and city was hard
+Cami: Gate keeping is a real issue in the community
+2 year rule is there to try and help with this and burnout
+if you feel someone is blacking you and you can reach out to Support
+any trusted member should be allowed to organize
+"trusted" means something unique to each community
+bubble up after time with knowing and trust
+Francesca: for them since it was new, a lot of new people
+a mix of all kinds of people
+advertised through local WP install admin
+one post in 2008
+then got Italian
+https://twitter.com/karimmarucchi is The original jackhammer 
+Demanded Italians can write on local language blog
+made it happen
+Comment: Sometimes best players are your worst team members
+when good at something, it is hard to see the people around you who are not
+organizing and leading can be hard
+Francesca: didn't want to be face of Italian community
+stepped down from lead organizing roles
+Siteground helps her be part of larger community
+Cami: Not all organizers become mentors
+Adam and F are both mentors, what does that mean? why?
+Adam:
+Because he was asked
+mentor for 3 camps last year
+all 3 were canceled
+everyone is a volunteer
+no one is paid to lead a camp or meetup
+things change and things happen
+Mentoring 4 next
+1 for 2020 already
+he just wants to give back
+he had a ton of questions and were afraid to ask
+Francesca: 
+she thinks in another life she was a mama bear
+protecting everyone
+everyone that goes through something she went through she wants to help
+first experience was challenge and she thinks she overextended asking other people
+it is a strong community and they kept at it
+did a good WC but wants to help it be better and help others be better
+
+
+https://twitter.com/AngelaSJin/status/1097233672489467904
+
+
+
+
+### My Panel on dotOrganize
+
+[Panel: Sponsoring WordPress Events](https://2019.phoenix.wordcamp.org/session/panel-sponsoring-wordpress-events/)
+[Devin Sears](https://twitter.com/bluehost)
+[Cami Kaos](https://twitter.com/camikaos) 
+[Francesca Marano](https://twitter.com/FrancescaMarano)
+Me
+
+I was honored to be on a panel at the first ever [DotOrganize](https://twitter.com/dotorganize) panel discussion on sponsoring WordCamps during a contributor day. Cami did a great job hosting and I felt we all got equal time and fair questions.  This stuff is actually complex to talk about.  There is no magic ROI calculator I or any of folks in the room know of to measure how sponsors universally measure effectiveness of events.  To sum up my thoughts, the one bit of advice that crept into almost all areas of discussion was "ask sponsors as early as possible if they can help." Some conferences get less months of planning than others and if you ask early enough in the budget planning cycle, which differs for each company sponsoring, the more likely that organization can plan a budget for it.  I am not sure at this time where the recording will live in the long run, so do check the [DotOrganize twitter account for updates](https://twitter.com/dotorganize) 
+
+https://twitter.com/carolstambaugh/status/1097254516750147585
+
+
+## Wrapping up
+
+### Saving Tim
+
+Of course, I could not complete this account without touching on the "Save Tim" efforts.  As everyone learned at the event, this camp helped point out the most pressing issue of our day and age.  Finding Tim.  From the original post: "Who is he? We don't know, but he apparently needs saving." Find out more at [the official Save Time With Us website](http://savetimwithus.com).  
+
+https://twitter.com/ccarfi/status/1096572972498710528
+
+
+"Whew! That was a blur." That is a line I say to myself a lot after an event and it has never felt truer than for this event.  It felt like I was in town for only a few hours, not three jammed packed days and nights. Being the first event of the year, especially after a personal vacation over the holidays, this event helped us regulars to these sorts of events shake the rust off.  It was an awesome way to start off the year!  I got so much out of it, I will always remember it as very special.  As I told one camper, I needed every square inch of that event. 
+
+The Phoenix community makes me feel welcome every time I encounter those fine people anywhere in the world.  When I actually go to their city, I get overwhelmed by how much love I legitimately feel from them.  I honestly and truthfully hope that I find myself back to Phoenix soon.  But if nothing else, I know I will be back for WordCamp Phoenix 2020! 
+
+
+https://twitter.com/McDwayne/status/1096411444097081344

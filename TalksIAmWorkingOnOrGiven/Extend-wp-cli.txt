@@ -1,0 +1,13 @@
+Making WP-CLI Your Own: Extending a command line tool for the first time
+
+WordPress' command line interface, WP-CLI is a robust, easy to understand administrative that can help anyone with a WordPress site speed up workflows and automate a lot of complex tasks.  
+
+Over time, every developer finds themselves chaining together multiple commands and building bash aliases to accomplish repeated tasks.  One of the most powerful aspects of an Open Source tool is GPL Freedom 'to change the software to suit your needs'.  This session will take you through the process of examining the code and building your first WP-CLI command.  
+
+It is easier than you think and the same core principals can be applied to any open source tool you use.  
+
+
+Walk away with:
+- A new appreciation for the customizability command line.  
+- The desire to script 'all the things' to save time.
+- Ideas about how to automate your processes to be more productive

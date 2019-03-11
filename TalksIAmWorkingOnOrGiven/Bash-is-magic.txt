@@ -12,6 +12,11 @@ Leave this session understanding
 - An overview of tools that are only available through the command line
 - The basics of Bash scripting, the secret to automating anything
 
+--------------
+Pitch:	
+If you want to move beyond logging into the admin screens for your websites, this is the ticket into that world. Unlock automated testing, better update processes and so many other benefits by tapping into the power of your machine and machines like CircleCI with a lot of free support along the way. 
+-------------------
+
 In the beginning there was the command line
 
 
@@ -61,6 +66,134 @@ concept of a script
 before the prompt - why this matters and why it does not and what to do about it
 
 
+======================================================================================================================================================
 
+
+Outline:
+
+Intro to me 
+why BASH
+	Well actually, who should Bash
+
+
+
+
+
+From Joe Miller:
+@daniel.feinberg 3 pillars of good bash:
+1) google shell style guide - https://google.github.io/styleguide/shell.xml
+2) shellcheck - https://www.shellcheck.net/
+3) bash unofficial 'strict mode' (`set -eou pipefail`) - http://redsymbol.net/articles/unofficial-bash-strict-mode/
+
+
+
+Get over the fact you are standing on the shoulders of giants
+
+"That is the point of OSS
+Leveraging smart tools other people smart people have built."
+--Ben Rosales
+
+What it be
+where it came from
+what it can do
+https://docs.google.com/spreadsheets/d/13s2ftDjoNgH_70bZZ-si72CzheofPllcxFfqo9z25_M/edit#gid=1449251418
+*basic controls
+  ls
+  pwd
+  cd
+  mkdir
+  cp
+  mv
+  rm -rf
+  which
+*applications/tools
+	cyberduck
+	ff
+	ddgr
+	ffmeg
+	figlet
+	sub
+	git
+	terminus
+*aliases
+	bash_profile
+	source
+*scripting 
+	#!/bin/bash
+	chmod
+	automate all the things!!!!!!!
+		CRON
+		CircleCI
+*tips and tricks
+	tab complete
+	up to repeat
+	! mean not
+	man
+	
+
+
+Noes from In the beginning
+On the teletype:
+This way of doing it did not even have a name at the time, but when, much later, an alternative became available, it was retroactively dubbed the Command Line Interface.
+
+"Save" you annihilate the previous version of the "document" and replace it with whatever happens to be in the window at the moment. So even the word "save" is being used in a sense that is grotesquely misleading---"destroy one version, save another" would be more accurate.
+-------
+The OS has (therefore) become a sort of intellectual labor-saving device that tries to translate humans' vaguely expressed intentions into bits. In effect we are asking our computers to shoulder responsibilities that have always been considered the province of human beings--we want them to understand our desires, to anticipate our needs, to foresee consequences, to make connections, to handle routine chores without being asked, to remind us of what we ought to be reminded of while filtering out noise.
+
+----
+At the upper (which is to say, closer to the user) levels, this is done through a set of conventions--menus, buttons, and so on. These work in the sense that analogies work: they help Eloi understand abstract or unfamiliar concepts by likening them to something known. But the loftier word "metaphor" is used.
+
+The overarching concept of the MacOS was the "desktop metaphor" and it subsumed any number of lesser (and frequently conflicting, or at least mixed) metaphors. Under a GUI, a file (frequently called "document") is metaphrased as a window on the screen (which is called a "desktop"). The window is almost always too small to contain the document and so you "move around," or, more pretentiously, "navigate" in the document by "clicking and dragging" the "thumb" on the "scroll bar." When you "type" (using a keyboard) or "draw" (using a "mouse") into the "window" or use pull-down "menus" and "dialog boxes" to manipulate its contents, the results of your labors get stored (at least in theory) in a "file," and later you can pull the same information back up into another "window." When you don't want it anymore, you "drag" it into the "trash."
+
+
+
+
+Notes from Steve:
+
+A lot of devs are just scared of it
+I have too much, 3 hour workshop as is
+need a better metaphor, or at least a better explanation
+one thing that comes to mind
+Bash is one of many ways of interaction with a computer
+"IF a person wants to know what the weather is tomorrow" many ways up that mountain
+Open web browser on the phone, weather.com
+Dedicated app
+
+good chance, an Alexa Device you can just ask
+all text way of asking the computer what the weather is going to me.  
+**Alexa as an analog for the command line**
+Small chunks of language
+real Alexa commands
+
+Demystify, more academic breakdown for sue, but Everyone knows Alexa
+Tell it what you want to do. 
+
+
+mixing metaphor - Allegory of the cave
+this is a good place to apply it
+put a file on server SFTP 
+Cyberduck is a complex looking shadow
+you are asking computer to take a file and put it at a very specific location
+GUI of transmit, or it helps you more easily discover what you want.  
+Could even mention Pantheon
+Bash is purest representation is the form
+
+Just say at the beginning who it is intended for
+if you are comfortable mentioning Bet by name
+I know there is a good chance you have a different background
+even if you work on the Command line
+This talk was meant for the person who feels viseral fear when opening the command line
+
+Talk about the fear!
+Steve remembers the fear of opening the terminal window
+
+My bash story 
+Reminds him 
+features module
+D websites before Features you are not scared of it
+after Features it can be daunting
+Pre-existing
+if not careful, bad things happen. 
+Find phenomenom that you are scared of what is ground underneath. 
 
 

@@ -1,4 +1,12 @@
 The 4 Freedoms: The GPL and Free Speech
 
-Working with an Open Source framework like WordPress it is easy to see the advantages over proprietary software, like the licensing cost, the community of volunteers who work on the project and the best practice driven tools and security.  Central to all of this, but an idea that often takes a back seat, is the fundamental freedoms we base this entire project on, the Gnu Public License; the GPL.  
-Within the GPL is a framework for not just how we should treat the code but how we, as developers and a free people, can think about information sharing.  This talk will walk through the 4 Freedoms and discuss how each aspect impacts our work and how we can leverage these ideals in our day do day lives.
+Working with an Open Source framework, like WordPress, it is easy to see the advantages over proprietary software, like the licensing cost, the community of volunteers who work on the project and the best practice driven tools and security.  Central to all of this, but an idea that often takes a back seat, is the fundamental freedoms we base this entire project on, the GNU General Public License; the GPL.  
+Baked into the GPL is a framework for not just how we should treat the code but how we, as developers and a free people, can think about sharing information.  
+This talk will walk through the 4 Freedoms, as defined by Richard Stallman and discuss how each aspect impacts our work and how we can leverage these ideals in our day do day lives.
+
+Attendees should plan to walk away with:
+	- A better sense of what 'Free and Open Source Software' means
+	- Knowledge of how other projects have embraced or rejected parts of the GPL, giving rise to other licenses like the Apache, MIT and 'NO LICENSE'
+	- Empowerment to go make their own contributions to any public project
+	- A deeper sense of pride and freedom around using WordPress
+	

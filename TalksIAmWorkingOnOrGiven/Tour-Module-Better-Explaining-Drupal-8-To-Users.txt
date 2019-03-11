@@ -1,1 +1,41 @@
-Let's Make A Tour: Better Explaining Drupal 8 To Users
+Making A Tour: Leveraging The Tour Module For A Better User Experience
+
+Don't you wish there was a way you could give each and every user of your module's admin experience a quick and easy way to learn what each setting really did and why it was there?  Good news Drupal 8 users, this is actually in core.  The Tour Module has been in core sine the first release of Drupal 8 and is awaiting you to leverage it.  
+
+
+In this session we will explore how to first a tour and then implement it for your site, letting you better communicate with your users.  Leveraging easy to read and write YML and with the power of Drush, it is very fast to iterate and test changes on our sites. The tools for making Drupal more user friendly has never been in a better state, so let's learn how to use this feature to make it even more appealing, especially to new users!
+
+This session is intended for intermediate to advanced developers and site builders alike, no matter if you are building your own modules or just using Core.
+
+Walk away having learned:
+
+How to find and enable existing Tours
+How to structure your Tour files for better collaboration
+Best practices for writing Tour content
+Basics of Drupal 8 routing system and Configuration Management best practices
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------
+Needed:
+<module>.routing.yml to find routes
+drush cr 
+and
+drush config-delete people
+terminus drush dwaynes-tours-d8-test-site.dev -- config-delete people
+
+
+
+
+Template:
+
+

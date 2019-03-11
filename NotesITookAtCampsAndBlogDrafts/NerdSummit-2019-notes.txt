@@ -1,0 +1,753 @@
+NERDSummit 2019: 
+
+I arrived into [Ol' Beantown]() just in time to enjoy their world renown rush hour traffic for my I drive over to the little town of Amherst, Massachusetts.  Given that I very rarely drive a car or listen to 3 hours of NPR in a sitting, this was not actually all that bad of a situation.  There is a mindfulness that attentive driving takes while also freeing up other parts of the brain to engage with sounds and ideas not critical to the success of operating a vehicle. It actually occurred to me that I possibly picked up crochet because I subconsciously missed this mental state that lets me focus on one thing while learn and ponder completely different things. This long travel day was very much rewarded by amazing weekend full of old and new friends as we gathered on the [UMass Amherst]() campus for [NERDSummit 2019](http://nerdsummit.org)
+
+snow:
+https://twitter.com/seanedietrich/status/1104735471261941761
+
+https://twitter.com/roberthurlbut/status/1104779395930226688
+
+https://twitter.com/mattbaya/status/1104384324785324032
+
+
+
+
+@cns_umass
+
+Lunch Saturday:
+
+https://twitter.com/JoanJoly/status/1104436686992433153
+
+
+Saturday night:
+
+After Party:
+(not really)  
+https://twitter.com/rickhood/status/1104439394021318656
+
+Project Management Game
+https://twitter.com/McDwayne/status/1104519465608400899
+
+
+Dinner:
+
+https://twitter.com/McDwayne/status/1104545299228442624
+
+drinks
+https://twitter.com/dbungard/status/1104755151796088834
+
+https://twitter.com/seanedietrich/status/1104562128407744512
+
+
+
+## Sessions
+
+### Opening Remarks
+
+Easily more sponsors than previous years
+
+nerd.ngo/feedback
+anything to help demo value helps them keep at the University
+
+https://twitter.com/RoasterBoy/status/1104388224812793856
+
+https://twitter.com/seanedietrich/status/1104390150879174656
+
+
+[What is Kubernetes, and Why Should I Care?](http://nerdsummit.org#6)
+[Geri Jennings](https://twitter.com/izgerij)
+
+
+Secrets, but not today
+Kubernetes
+2016, SaaS company, GCP
+Knew some Docker and liked idea
+didn't know how production of that would work
+cube-control
+KAS
+containers: a star is born
+docker, 2014 - defined the space
+container runtime images
+not the only one now
+Kube allows you to docker vs VM
+architecture is different
+VM on a Hypervisor
+vs
+Docker Engine, containers on top of engine
+(linux)
+otherwise it is Docker on a VM
+you define an image, a snapshop of the container
+run image to get container
+you write a Docker file
+Thats nice, but how do we get it to production?
+Start with a dev that used containers
+why wouldn't prod use containers?
+keep everything consistent is the theory
+Deploying containers
+understand how to run containers
+networking so they cant alk to each other
+interact with other systems
+persistent storage and monitoring
+Enter Kubernetes
+it is an orchestration system to manage these things for you
+what does this look like though?
+Docker local to minikube - local Kube
+Runs in Docker
+Requires 3 secrets
+access PostgresQL
+installs composer and copys code
+installs dependencies
+Key Kube concepts
+-Pod smallest unit you can deploy
+containers in pod = to a microservice
+sidecar containers, provide a service like log aggregator tooling
+deployed to a namespace
+-Volume - 
+containers can communicate via localhost
+you can scale by spinning up more Pods
+-Controllers can create and manage the pods
+Architecture for a sample app
+What about the secrets?
+Build into app image - BAD to do
+Kube secrets, unencrypted - no encryption by default
+install encryption and it is OK
+Store in a vault built for Kube (best)
+script - check her repo
+minikube start
+set image
+once process is done, docker image in minikube ready to be deployed
+kubectl create nameplace 
+create secret generic
+summon - app to inject keys from keyring
+writing a manifest - defining the deployment
+replicas: 1
+pod template defined containers in pod, the config, volumes or mounted secrets, 
+containers get fed env variables
+exposing the app
+associate it with a service
+NodePort
+ip
+Node is an instance of a Kube cluster
+in practice, most likely expose the service using a cloud provider's LoadBalancer 
+minikube dashboard - very handy way to see it
+and we are deployed!
+examples are fun but what about real world production?
+Kube at scale
+manage networking between microservices
+ingress/egress traffic
+service meshes are new thing
+system for centralized logging and monitoring of distributed apps
+persistent data and security
+LOT of options in the ecosystem 
+maybe too many options?
+lot of competing products
+we are in the late early adopter phase
+chasm of docs and disagreement is wide
+not a lot of end user friendly docs or guides
+all operations focused
+CNCF has a focus to fix this
+not enough end user stories
+going to see a lot more people using this
+YAML, there is so much YAML
+sometimes have to use a straight edge
+Google August 2018
+AEC june 5 2018
+Azure june 2018
+DigitalOcean December 2018
+Very strong community around k8s
+Cloud Foundry
+OpenShift
+kubeless - k8s native serverless framework
+Fission - framework for serverless functions
+Even VMs on Kube
+KubeVirt
+Rancher
+benefits to containers to remember
+easy to build in a repeatable way
+run isolated or network
+Portable
+lightweight
+immutable images make quick rollback
+consistent
+Containers vs Serverless
+both are arguably artifact packaging
+lot of resources she likes - see her slides
+github.com/izgeri/twitterSearchDemo
+slides at  bit.ly/2SR27Ws
+
+
+https://twitter.com/RoasterBoy/status/1104395951400210432
+
+https://twitter.com/devopsystems/status/1104398715656257537
+
+
+[What I learned doing WordPress to Drupal blog migrations](http://nerdsummit.org/#11)
+[Matt Goodwin](https://twitter.com/mattgoodwin)
+
+his goldfish 
+Aquaponics system
+latest thing for him is aquaponics 
+blogging on your own about it is fun
+then you get popular
+then you get acquired
+then they need to integrate your content into their system
+this is a real thing 
+he worked on it
+ID source
+IS Dest
+Field mapping
+Data manip
+Test
+Identifying the source
+Don't just grap posts, grab it all
+ID destination
+What is the taxonomy
+how is it expecting to store things?
+Drupal migration module really helps
+Field mapping
+made a plan
+growing veggies in winter in New Hampshire
+export fields
+The export from WP is XML
+published by default?
+understand that the way one does a thing is not the way the other will
+got to factor in redirects
+the README is actually a good source of data on the WP side
+Docs on D8 are not there yet, (maybe we all sprint on that?)
+TIps
+Selecting posts
+
+
+https://twitter.com/McDwayne/status/1104414482795843585
+
+
+[KEYNOTE: It’s a Great Time To Be a UX Designer](http://nerdsummit.org/#14)
+[Jared Spool](https://twitter.com/jmspool)
+
+
+Flattery from Kunming, china
+little place
+Famous for their apple stores
+all fake imitation Apple stores
+there are 41 apple stores just in that city
+all of them are identical
+in USA we have them, but it is Microsoft
+Nook did same
+JCPennies even wanted in on the style look/feel
+Beer commercial example
+2102 retail performance
+average $341 per sq ft
+Tiffany and Co per $3017
+Apple $6050 per 
+the thought
+didn't mimic what had been done befoe
+new thoughts about service
+this is design
+rendering of intent
+lawsuit
+apple samsung suit
+apple for $1B
+2 bits of evidence that Samsung had illegally copied apple
+lead up of designs on the years before iPhone
+then iPhone 
+then trend was Samsung being more like iphone
+weird bit of evidence
+132 page report made by the Samsung QA department
+went through all features to the iPhone
+the samsung phone is broken, make it work like an iPhone
+intent was clear
+on one hand, cost company a bilion
+other hand is someone read a QA report
+Intention
+innovation vs innovation
+a scale
+imitation route is common
+Yahoo redesigned the homepage in a new design
+AOL clones it
+Yahoo was better design, why not?
+imitation is cheaper and less risk
+innovation is expensive and risky
+Imitation  does not value design commodity
+Innovation design heavily valued, very competitive
+Business wins when it is intentionally innovative
+basic idea, appropriately innovative
+that innovation is where most investment needed
+designers are coming up in the world
+delving in further
+Newspapers did fine until Craigslist
+suddenly no more ad revenue or classified $ for newspapers
+CL is actually very well designed
+even CL is not immune and things chipped away
+vacation rentals especially
+AirBnB came out
+financial services CC reader
+Square changed everything
+disruptive
+Enterprise rent a car disrupted by Zipcar
+(zipcar is actually a great company, love them)
+Hertz and Avis have tried this, both failed
+then avis bought zipcar
+that underlyes the problem
+on scale of im or in
+bigger is not in a place to innovate 
+payoff is better but risks are real
+circus entertainment
+cirque du soleil flipped it on its head
+wider audience for street performers
+dying business when they started a circus
+design decision: cut animal acts from the circus
+cute animals bring cute kids with cute parents with cute wallets
+this reduces a lot of costs, transportation, animal care
+increa performance budget
+better performers, etc 
+and since no kids, can raise tiket price by a lot
+$120-$200 a seat
+on one day Circ du Soliel makes more money than all Broadway combined
+designer for hair, i <3 NY, this guy
+I move things around until they look right
+milton glasier
+About the visual
+no longer
+now itis about the business that makes sense
+Retail rev breakdown
+Samsung vs Best Buy
+40% price	50% of the price
+other 10% distributor
+Apple does all of it, they own all parts
+for $100 they make $100
+invest more in parts and quality
+apple does not discount
+great business models are intentially designed
+designers to design buiness models are deeply needed
+it is not visual, it is all aspects
+Filling in gaps with Intention
+would be easy to se him as an apple fanboy
+owns many old versions and many new ones
+not perfect
+return though is actually innovative
+customer journey for a defective roduct
+buying
+trying
+return to store
+wait for service
+getting resolution
+chart this and can see where improvements can be made
+innovation does not mean what you think it means
+it is not adding new inventions
+apple had not been invented by Apple
+added value to the experience
+Inovation is adding new value
+by adding a make appointment set, made a much better story since eliminate wiat for service
+that is design innovation
+experiences can be mapped, measured, and designed
+What do we intend?
+No one can make taxes delightful.
+intuit 
+turbotax tax app that take a pic of your W2
+fills in 1040a or ez
+40ish% of people file these
+submit 
+all in under 15 minutes
+Cancer can not be delightful
+but we have made improvements on the treatment of cancer
+the MRI reimagined
+small child, this is scary
+can't move at all
+they do not want to do this
+sedation for 80% of kids is needed
+Doug Deitz, designer of machine and watched this happen
+he went to fix this
+GE Adventure series
+it's designed to be an adventure
+Your experience is totally differnt
+you get a pirate suits
+also ones for your parents
+and the technician has been wearing a pirate suit
+plank area
+water adventure
+whole room designed for the senses, artwork, aromatherapy
+smells like pina colada, gets the parents happy and lightens the mood
+ride the pirate ship.  
+flying mermaids only come out if you don't move
+LEDs spin up and the mermaids appear
+sedation rate dropped from 80 to 0.01%
+that is the poser of degin
+design for the gaps
+how to we get experienced desingers to do this?
+aren't enough designers
+when FB bought INsta $1B
+36 other photo apps in the store
+even FB had one in there
+they didn't want a phone app
+they wanted the 13 designers 
+companies bought design firms
+that process continues
+all kind of companies are doing it
+need to to survice
+21K open job listings for designers in the US
+be careful what you ask for though
+it is really hard to hire designers
+what do they need to look for?
+asked teams with great work
+there are a bunch of skills
+info architecture
+copywriting
+design process management - iterate
+user research practices
+interaction design
+Info design
+visual design
+editing and curating
+all of those skills hiring managers thought were needed
+one more set
+ethnography
+domain knowledge
+business knowledge
+Analytics
+marketing
+technology
+ROI
+Social
+Use Cases - for devs
+Agile Methodology
+thought they could just synthesize this
+reasked some questions
+what separates out the best designers?
+then they gave completely new skills
+storytelling
+critiquing
+sketching - rending an idea so people get it quickly
+presenting
+The rise of the UX generalist
+Steven W Margles
+hand and wrist doctor
+best in world
+local to Burlington
+he fixed symphony orchestra pianist that had crushed hands
+fixed pro tennis elbo
+but you can get an appointment 
+might take 6-8 months
+up to his elbos in hands in wrists
+all world renoun experts specialists
+but at the hospital 9 orthededic surgens
+not specialists
+but over at rumsford hospital
+orthodepic surgen 2 days a week
+other days a general doc
+deliver a baby and basic ER care
+all doctors have to learn the general stuff
+then he got to specialize
+he still has to take course in all the general things
+specialist vs generalist
+compartmentalist
+having expertise in only one area
+they are hurting thei own careers
+anyone can become a UX generalist
+you can learn all the skills 
+the UX designer is a unicorn 
+how to become a unicorn
+in 5 steps
+1 train yourself
+2 practice your new skills
+3 deconstruct as many designs as you can
+4 seek out feedback (and listen to it)
+5 teach others
+The Unicorn is design' most important innovation
+it's a great time to be a EX designer
+rendering inten
+filling in the pags
+generalists over specialists, compartmentalists are least valuable
+Unicorns exists and you can become one
+uie.com
+
+
+
+https://twitter.com/RoasterBoy/status/1104443882085982210
+
+https://twitter.com/SwiftTrek/status/1104448609972641792
+
+
+
+[User-Story Driven Threat Modeling](http://nerdsummit.org/#55)
+[Robert Hurlbut](https://twitter.com/roberthurlbut)
+
+Thinking about processes
+he is part o
+application security podcast
+threat modeling is something you are already doing
+but is is a thinking tool
+no tool can find everything
+it finds what is missed
+AWS bucket checking?
+Commonly we do this
+thinking about security when you lock the door
+thinking ahead
+A conceptual exercise that aims to intensify flaws in design am modify to fix
+threatmodelingbook.com
+4 fundamental questions
+what are we working on?
+What can go wrong?
+what are you going to do about it?
+Did we do a good job?
+his version:
+a process for capturing organizing and analyzing security theats, security countermeasures, and priorities by risk
+You can start any time, but early on is much better
+Threat models can vary and that's OK
+1. diagram/understand your system
+DFDm MS SDL
+external to internal how is it used
+2. identify threats
+ask yourself "What can go wrong?"
+STRIDE
+Spoofing - identity assurance
+Tampering - integrity
+Repudiation - receipt, proof of payment, 
+Information Disclosure - confidentiality
+Denial of service - availability
+Elevation of privilege - least privilege
+hard to fix if you get STRIDE wrong from the start
+document threatsread
+attack trees - slide deck Bruce Schneier
+threat libraries
+checklists
+mitigation opos
+leave as is
+remove from product
+remedy with tech
+warn user, moving the issue to the user's problem
+Document and follow up!
+MS threat modeling tool
+Agile/Devops?
+"we don't have time for that security stuff.."
+that is a decision for bad security
+attackers use threat modeling
+you can really do this in smaller scale and faster
+STRIDE still applies
+kill chain 
+how to pull it all together
+make it a part of your sprint
+"as a <type of user> I want <some goal> for <some reason>"
+abuser/attacker story
+as a bad actor, I want to do bad things for bad reasons
+as a hacker, I want to read the application logs
+as a disgrunteled employee, I want to change pricing for some products
+Be honest, leave ego at the door, no blaming!
+work through your user stories
+Modern approaches
+incremental threat modeling
+@irenemichlin
+privacy getting dded to STRIDE
+card games, SWASP cornucopia
+Elevation of Privilege 
+any time with any story
+Make it fun apply in an agile way
+if integrated into tests, got better view of the threats themselves
+RRA from Mozilla
+just ask a few questions on an API
+30 minute process
+some really good sources out there on this
+
+
+
+https://twitter.com/McDwayne/status/1104462137936744449
+
+
+[Agile Games](http://nerdsummit.org/#23.5)
+[Kelly Albrecht](https://twitter.com/KSAlbrecht)
+
+Tasks that are to be working on with a day or less effort
+how often is it you could get it done that day
+agile - no clear definition of what you are working on as you start
+agile 
+decision in action
+framework that allows change
+hardware vs DevOps is the manufacturing re
+penny game
+finding the canadian penny
+
+
+[Introduction to AWS Serverless Model](http://nerdsummit.org/#29)
+[Alfred Nutile](https://twitter.com/alnutile)ALFRED NUTILE
+
+Cloud formation
+AWS
+stacks
+it is AWS exclusive
+Serverless.com
+JSON/YML to built stacks
+Why serverless/SAM
+no servers
+simple and minimal to build services
+you get the all the backing of AWS
+zreo downtime deployment
+caching
+great for batch processing
+scaling built in 
+why not?
+Whle set of variables and issues to deal with
+SAM is not secur as Serverless.com
+Lickedinto AWS
+Memory limits 3008 M
+Runtime limites 15 minutes
+Language lmitations (Java, Python, Go, NodeJS)
+not 100% locally testable
+AWS Pricing can be scary
+he once accidently ran up a $3K bill due to deployment error
+they were nive about it
+you can monitor resources and keep on top of it
+pricing for a lambda function is really scalable
+Let's make something
+Lambda
+Scheduler
+API
+Simple Table/Dynamo/RDS
+Kinesis Firehose
+SQS
+SNS (or S3 to SNS)
+Alexa
+50K people and the server is down, you don't want to deal with that
+jumping into Cloud Formations
+Example
+Adobe analytics
+not a good API
+Dumped an CSV on S3
+lambda ran and processes the file
+100K record, every line kicks off another lambda function
+not running out of resources
+S3 just works
+scales on it's own
+step functions
+giving this away OSS
+simpler example
+gateway app help function
+3 lines of code loading from a file online and not a DB needed
+.yaml
+global settings
+Runtime: python3.6
+AWS has a lot of policies, learning what does what is a mounain of knowledge
+makes it hard
+Lambda foundation to a lot of this
+simple function to process request
+break it up into smaller peices
+Lambda: CLass
+he likes to write in classes, does not need to be
+got to treat code like legos
+template file becomes the routing
+template, index or main
+becomes the controller
+Lambda: Controller
+Deployments
+yml or json
+SAM does processing 
+
+
+https://twitter.com/McDwayne/status/1104492795585269760
+
+
+### My talk
+
+https://twitter.com/dbungard/status/1104755293349646336
+
+[Docksal: More Dev, Less Ops](http://nerdsummit.org/#38)
+[Sean Dietrich](https://twitter.com/seanedietrich)
+
+
+
+DevOps
+a lot needs to happen on a local machine
+how did we get here?
+Bare metal was first
+local servers
+hard to manage multiple versions of software
+can't share
+"Works on my machine" issue
+VMs
+shared config 
+but monolithic
+HUGE disk space and high memory needs
+maintenance is hard
+now, Containers
+smaller image/faster provisioning
+modular
+maintainable
+shareable
+portable
+scalable
+tools and 
+see pic
+intall
+fine tuning
+start to require just Docksal
+custom commands
+add necessary services
+automating as much as possible
+one and done (fin init)
+< 5 to get started
+CLI!!!
+fin
+fin drush
+fin drupal
+fin composer
+etc
+only a piece of a puzzle
+but what about port collision?
+all internally handled
+duping efforts
+one time use software installed
+1+ hours to onboard other devs
+local env can be a nightmare
+Docksal Sandboxes
+enhanced code reviews
+continuous QA
+automated VRT/BDD testing
+Demos
+Resources
+Github
+docs
+blog
+drupal slack
+gitter - bit.ly/docksal-gitter
+Drupal TV
+demo time
+
+
+https://twitter.com/McDwayne/status/1104762794912768000
+
+
+
+[KEYNOTE: How can we prevent the Orwellian 1984 digital world?](http://nerdsummit.org/#44)
+[Micky Metts](https://twitter.com/mickymetts)
+
+How do we 
+intrusion into our lives
+The corporations have profiles we can not edit
+AOL?  Those people didn't get the full internet
+Net neutrality, walled garden
+worked well for giant companies
+fitting into a social group is material possessions 
+or symbolic power
+either rise or fail
+herded into one point of entry
+single sign on, makes it easy
+just log into google
+how does power work?
+class of 71 high school 
+I am son of so and so, I am part of this group
+without a sense of self worth easy to be seduced by symbolic power
+Merchants of Cool (2001)
+https://www.pbs.org/wgbh/pages/frontline/shows/cool/
+https://topdocumentaryfilms.com/frontline-merchants-of-cool/
+Groups - "Boots" and "Midriffs"
+not many people can cope with real life
+low socio information
+must appear happy when go through tolls
+poor people can be tied to bad choices 
+building blocks or freedom
+Personal Power
+Solidarity economy
+cooperative platforms
+free software
+personal power can go awry
+disenfranchised schools
+
+https://twitter.com/RoasterBoy/status/1104790358326759424

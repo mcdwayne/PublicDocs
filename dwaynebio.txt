@@ -1,8 +1,13 @@
-Dwayne has been working in tech and open source since 2005.  
+Dwayne McDaniel has been working in tech and open source since 2005.  
 Once he dipped a tow into the world of Free and Open Source Software, he knew never wanted to work outside of it again. Dwayne first started building in Drupal and WordPress for the San Francisco Improv community in 2013, which lead him to his current role.  As a Developer Advocate at Pantheon he has had the privilege of presenting at dozens of community events from Paris to Iceland and from MIT and Stanford.
 Reach out at mcdwayne.com or on twitter @mcdwayne
 
+You can see some of my talks recorded here: http://wordpress.tv/speakers/dwayne-mcdaniel/
+As well as some of my DrupalCamp talks:
+Texas Camp: https://youtu.be/AFEcZ2g2Juk
+Design4Drupal: https://youtu.be/1r2AoaO9dME
 
+Full list of my talks is available at mcdwayne.com
 
 
 ============================
@@ -13,3 +18,8 @@ Reach out at mcdwayne.com or on twitter @mcdwayne
 As a Developer Advocate I have had the privilege of presenting at dozens of WordPress, Drupal and other OSS community events from Paris to Iceland and from MIT and Stanford.
 
 You can see some of my talks recorded here: http://wordpress.tv/speakers/dwayne-mcdaniel/
+As well as some of my DrupalCamp talks:
+Texas Camp: https://youtu.be/AFEcZ2g2Juk
+Design4Drupal: https://youtu.be/1r2AoaO9dME
+
+Full list of my talks is available at mcdwayne.com

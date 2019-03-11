@@ -1,1 +1,13 @@
-Explaining DevOps to your Clients
+Explaining The Value Of DevOps To Clients
+
+Every serious developer knows that having multiple development and staging environments is not optional.  Being able to test changes as they happen, safely away from production, is key to turning any idea into an implementation.  Non-technical site owners and procurement professionals more often than not understand that they need to pay for hosting but these 'extra' environments are seen as nice to haves and really a developers only concern when in all reality it is the key to more effective communication and better results.  
+
+The secret to all sales is that people pay for value.  No exceptions.  Explaining the value of multiple environments from a technical perspective alone is not always the most effective way to communicate the real value you are using the technology to achieve.  This session will explore the best practices around selling the value in the customer's language and tying tooling to business goals.  
+
+Walk away with:
+* A better definition for DevOps for non-technical audience
+* A simple to follow template for structuring these conversations
+* A path to defining differentiators around communication strategy that will set you apart from the competition 
+
+
+This talk is for any agency owner or business professional that wants to better explain value 

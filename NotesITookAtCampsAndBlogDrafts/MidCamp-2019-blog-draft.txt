@@ -1,0 +1,917 @@
+MidCamp 2019: Food Trucks and twirling, twirling, twirling towards freedom!
+
+I love visiting [The Smelly Onion](http://www.todayifoundout.com/index.php/2013/07/how-chicago-got-its-name/).  It feels like I am visiting family every time I land.  While a little on the cold side and a drizzle of rain was awaiting me, it was still great to get back into the shadows of the Miracle Mile. Having moved the event to a weekday event meant the vibe was a little different.  Not bad but every day felt like Friday.  But Friday sessions are always exciting and there was a lot of excitement this year for [MidCamp 2019!](https://www.midcamp.org/)
+
+https://twitter.com/DuoConsulting/status/1108088511230590977
+
+
+## Food and Fun
+
+### Tuesday
+
+I got the chance to meet up with some of the organizers not too long after I landed up in [Lincoln Park](https://en.wikipedia.org/wiki/Lincoln_Park,_Chicago). We played my nee favorite board game [Foodtown Throwdown](http://www.argylegames.com/foodtown-throwdown).  We also got to shoot a short commercial for the venue we were scouting for the official After Party. 
+
+https://twitter.com/McDwayne/status/1108199862506528768
+
+
+### Wednesday
+
+We were met with coffee and some light snacks at the [DePaul Student Center](https://offices.depaul.edu/student-centers/Pages/default.aspx).  Coffee is middle of the road but the tea game was on point. Lunch was a wonderful taco buffet with a vegan fajitas mix featuring chickpeas. Since I have no tweet about lunch on this day, so here is someone else's lunch:
+
+https://twitter.com/weekbeforenext/status/1108454864848408581
+
+
+### Welcome Social
+
+Instead of a Speaker Sponsor dinner, MidCamp has a [Welcome Social](https://www.midcamp.org/2019/topic-proposal/welcome-social) that is much more inclusive overall.  This year we returned to [Derby Bar & Grill](https://www.derbychicago.com/) for some appetizers, tacos and plenty to drink, in part thanks to our sponsor [New Belgium](https://www.midcamp.org/2019/sponsor/new-belgium-brewing). I am a huge fan of any event that invites more people to come out and converse away from the busy floor of the conference.  
+
+
+https://twitter.com/n3rdstein/status/1108509430616866816
+
+
+### Thursday
+
+More coffee and tea from DePaul's catering but also a surprise vegan donut from [Stan's Donuts](https://stansdonuts.com/) brought to me from the truly good friend [JD Flynn](https://twitter.com/JDDoesDev).  It was just the boost of sugar I needed to really have great morning.  
+
+Lunch is worth talking about.  Of all the camps I attend, MidCamp has the best overall approach in terms of inclusion, speed and scale.  They have tapped into the university's dinner service system and we all had lunch vouchers to get us into the food court.  Once you are inside it is all you can eat.  Vegan options, as well as other dietary restrictions, were not just available, but plentiful and very well marked.  In the end this saves the camp money, makes for much happier campers.  It makes for happier sponsors too, since the organizers gave each of the sponsor tables a pile of lunch vouchers, so we all got the chance to talk to a lot of people.  
+Great job [MidCamp Organizing Crew!!](https://twitter.com/midwestcamp)
+
+https://twitter.com/bricomedy/status/972186806149111808
+
+
+### Game Night
+
+It was a great evening of food trucks, in more than one way!  First, we dined from the [awesome food truck](http://www.jarabechicago.com/food-truck-rentals/) from [Jarabe Mexican Street Food](http://www.jarabechicago.com/).  They are very vegan and non-dairy friendly.  Their sauces are some of the best in the Midwest!  We played a multitude of games, but the one that I am still enamored with is that [Foodtown Throwdown](http://www.argylegames.com/foodtown-throwdown) game.
+
+https://twitter.com/kevinjthull/status/1108873070947778560
+
+
+https://twitter.com/McDwayne/status/1108898181532794880
+
+
+### DrupalKaraoke
+
+As has become tradition, we sang.  Thanks to our fearless leader [JD Flynn](https://twitter.com/JDDoesDev) for leading us to [Shoe's Pub](http://shoespubchicago.com/) for some excellent singing by all and some wonderful entertainment from some of the locals. 
+
+https://twitter.com/DrupalKaraoke/status/1108824172782931968
+
+
+### Friday 
+
+More coffee.  More tea.  More awesome food court lunch service. 
+
+https://twitter.com/DePaulDining/status/1037761111834222593
+
+
+### After Party
+
+We gathered at [Tapster in Lincoln Park](http://www.tapsterchicago.com/).  This is a 'pour your own' bar with much more than just local brews on tap.  It works off a RFID card system.  A novelty in presenting people with dozens of beers to sample, one beer at a time.  They have 'Tito's and soda' on tap, which means I didn't see the other taps.  We had sandwiches and some sides from Chicago's own [Fat Shallot](https://thefatshallot.com/).  In another awesome to me move, they ordered all the vegetarian sandwiches as vegan with cheese on the side!  MidCamp once again shines as a camp that is getting this aspect correct.  
+
+https://twitter.com/TapsterChicago/status/842190451939647488
+
+
+### More DrupalKaraoke
+
+Once more we returned to Shoe's Pub and once more we sang.  But we also danced.  And danced.  And then some more.  It felt like the best warm up for DrupalCon I have ever had.  My arms were sore the next day from all the spinning my dance partners. 
+
+https://twitter.com/csix/status/1010013603762565120
+
+
+### Saturday
+
+For Contribution day we actually had a repeat of Wednesday's fare.  Same set up and same awesome taco lunch.  The camp organizers had a meeting over lunch and we got to see just what they were up to thanks to twitter.  I flew home in the evening.
+
+https://twitter.com/sugaroverflow/status/1109524584053833730
+
+
+## Sessions
+
+### Wednesday - Sponsor Round Table, Training, Pre-camp Contribution Day
+
+I had signed up to participate in the new Sponsor Round Table discussion.  In order to make it more of an open conversation we decided on keeping what was said in the room in that room, but can safely say it was a very informative discussion. One topic, which is rather public, is how are getting ready for Drupal 9. My personal answer to that popped up on Contribution day on Saturday. Overall though, this was a great discussion that helped me form some opinions about the future of Drupal, which is overall strong.  I didn't make it to any of the trainings, but they looked awesome
+
+https://twitter.com/backdropcms/status/1108489425959505920
+
+	
+### Thursday 
+
+Opening remarks
+
+https://twitter.com/deliriousguy/status/1108733081622593536
+
+
+### Keynote Session 
+Actions Speak Louder than Code
+[Fatima Sarah Khalid](https://twitter.com/sugaroverflow) 
+
+Ever since I first saw Fatima speak about [Object Oriented PHP and Pokemon](https://www.youtube.com/watch?v=MZceawxNIZA), I have looked forward to seeing her speak again.  This was a pretty stellar keynote for a couple big reasons.  One, it was her first, so she brought an excitement to it that is just downright infectious and inspiring.  Also, she didn't actually talk about tech, other than slightly about the cool web sockets based polling tool she was using, but instead talked about diversity in a real way, based on her real life.  She engaged the audience and I know that we all left the room much better prepared for the conversations that need to happen ahead.  
+
+Later, during the lightning talks, which I didn't capture in notes, someone else shared his story to make sure that more voices and all voices were shared.  She literally inspired another talk later in the same day!  That is the power of speaking up.
+
+Raw Notes:
+parks and walkways in a new neighborhood
+Made friends with Gloria from South Korea
+Kimchi and traditional Korean food
+8 years old, 2001
+morning of 9/11 
+traffic jam in Flushing NY, first day of 2nd grade
+heard it on NPR
+couple weeks later waiting for Gloria
+her mother was with Gloria and told her 
+they could not be friends because she was a terrorist
+this had a forever lasting impact
+things changed for her
+we called it a world in which people had already decided who we were
+a Muslim in post 9/11 is an important and under-told story
+The options we have and the choices we can make are limited by who we are
+if these make you uncomfortable, that is good to challenge your perspectives
+Activity: stand up and reach up.  Now reach up on your toes
+Reminder, you can always reach a little higher
+Interactive session for Slid.io
+choosing for ourselves, 
+You board your seat in the exit row and the flight attendant explains emergency procedures. The woman next to you asks for *your* seat to be changed because she feels uncomfortable and scared of you. The plane is really full. Choose.
+Stand up for yourself
+68%
+Don't make any waves
+32%
+Based on her real experience,
+if you fight back, they will take you off the plane
+if you don't make waves - woman paid more $ to move ahead to another class of seat
+more so lately others are more likely to stand up to ignorant people
+Grocery store - irrational man demands to see in bags 
+Praying at work:
+Pray in closet, pray in conference room, Ask manager for help
+She prayed in closet until they turned that room into a closet
+Her story was much longer but I didn't write it all down
+basically good people are good to work with and most people want to 
+how can we do better?
+Diversity, inclusion and belonging
+Find time to tell our stories
+it helps build that sens of community and belonging
+swapping introductions - builds real credibility 
+nod to David and his one cold night volunteering
+talk about these things more
+Learn the language, use the language
+what makes you uncomfortable
+so your research.  be mindful.
+be generous when having these conversations
+Amplify the unheard voices
+consider your environment.
+embrace who's missing.
+Make an active effort not to exclude others
+Acknowledge that oppression is constant
+You don't have to understand to help someone feel safe
+Let's take a moment to celebrate
+thanks
+we all live here (pic of the globe)
+
+https://twitter.com/OpenSenseLabs/status/1108741886200688640
+
+
+[Empathy for internal users: Build and train for real content admins](https://www.midcamp.org/2019/topic-proposal/empathy-internal-users-build-and-train-real-content-admins)
+[Lily Berman](https://twitter.com/elevatedthird)
+[Nick Switzer](https://twitter.com/elevatedthird)
+
+I attended this talk without reading the description for 2 main reasons.  First, I couldn't find any reference to these speakers in my notes from earlier camps and I love seeing new speakers.  Second, and more importantly, I am very interested in empathy and training.  Not exactly what I do as far as training, since I am teaching people tools and not how their site works, but the underlying messages of 'stay simple and clear' is universal.  Really a good talk for anyone dealing with client work who 'hand off' things to users.  
+
+
+Raw Notes:
+When you're building a complex digital product, some simple things that can save you a lot of work
+The build:
+plan for real people
+Put yourself in the shoes of the user
+don't start in Drupal, start in collaboration tools
+simple, clear and focused
+field names for real people
+help text that is actually helpful
+don't be shy about requiring fields
+character limits and field sizes should make sense in the editor's context
+Great power, great responsibility
+thoughtful limits
+the right widget for the job
+views to provide focused list of options
+Entity browser
+make custom entity browsers, powered by views
+Focal Point, can choose a focal point and Drupal will try to center on that spot when cropping
+not perfect, but great starting point
+Paragraphs Browser
+filter and search by paragraph types
+quickly find what type of assets they will need
+chosen, linkit, entity embed metatag, aquia purge
+improvement area
+custom and site-spec specific
+focus your custom dev time on what provides the most value for site admins and make it reusable
+Views isn't just for the frontend
+more focused content overviews
+content moderation dashboards
+Training
+now that you have a new site, got to train the admins
+Drupal was a second language for her and for everyone
+so you must prepare well
+strategically choose who will lead the training
+pick a person who knows the least about it to research and will bring a very clear version of what is really there
+clearly define client roles for QA and content entry
+Intentionally say what you say
+always explain the whys
+start your training
+understand the room, know your audience
+Roadmapping and signposting
+tell the audience where you are in the conversation and set them up with expectations
+start simple.  very simple.
+give them demo page to compare and learn from
+check your jargon at the door
+not familiar to clients
+explain any jargon when you first introduce a new term.
+Ask the right questions
+After the training
+send them training documentation
+simple site, screen share recording
+bigger and bigger sites, need more complex follow up
+videos, how to docs, break screen shares into parts
+Build touch points for questions into your scope and timeline
+give them time to digest
+giving this talk again at DrupalCon
+
+
+https://twitter.com/McDwayne/status/1108758971798745093
+
+
+
+[Lost on an Island: Building Remote Collaboration in Cross-Continent Distributed Teams](https://www.midcamp.org/2019/topic-proposal/lost-island-building-remote-collaboration-cross-continent-distributed-teams)
+[Adriana Mosnoi](https://twitter.com/AdrianaMosnoi)
+[Andrew Willden](https://www.midcamp.org/user/andrew-willden)
+
+I work with a remote team.  It has advantages and disadvantages.  Any advice anyone can give for how to make this work better is always welcome.  Hearing out loud some of the things I have been reading really drove home the points, like around clarity of communication and really making the effort to understand not just the role but the person you are working with.  FFW is living proof that distributed teams can prosper.  
+
+Raw Notes:
+10 tips for better remote work from FFW
+1. Be aware!  
+do some research, know the geography and background
+know your timezones!  be considerate of schedules
+understand roles and responsibilities - clearly defined
+2. Be organized
+document, document
+3. be transparent
+use calendars keep yours up to date
+if you use a chat tool, set your appropriate statuses there
+consider adding personal events as busy in our calendar so that no one books the time for meetings
+4. Be clear
+use simple, clear communication
+adapt your language to your audience
+These ones are easy to make a habit of doing every day
+next ones, re quire more effort
+5. Being flexible
+understand that everyone is different
+empathize and try to put yourself in someone else's shoes
+adapt when a plan changes or when something comes up
+6. Be curious!
+ask questions.  Lots of them
+Open yourself up to thinking differently
+open your mind to new ideas and perspectives
+7. Be present
+have regular check ins (preferably video, minimum, audio)
+try to meet offline and actively engage
+create shared experiences and vocabulary
+Final ones
+8. Be humble!
+Accept that you will be wrong, often
+don't make assumptions
+openly acknowledge when you or someone on your team is wrong
+9. Be happy
+celebrate small wins
+make work fun
+communicate in a positive joyful way
+make a shared digital space to connect with your team
+encourage people to share personal accomplishments
+10.
+be vulnerable
+take a genuine interest in your colleagues
+build connections with people you work with
+actively make an effort to know people closely, reciprocate
+try to find common interests and appreciate differenced
+respect their choices and boundaries
+in short, be AOTCFCPHHV
+Just be human, build collaboration
+grow trust
+
+
+https://twitter.com/McDwayne/status/1108772958309400577
+
+
+
+[Pantheon's Guide to Security in Higher Ed and Beyond](https://www.midcamp.org/2019/topic-proposal/pantheons-guide-security-higher-ed-and-beyond)
+[David Needham](https://twitter.com/davidneedham)
+[Paul Gilzow](https://twitter.com/gilzow)
+
+Risk is where assets, threat and vulnerability meet
+Assets
+People
+Threat is something that poses a danger
+threat agent, is a group of people
+vulnerability - weakness or holes in security procedures
+But what level of risk?  hole in umbrella
+impact is greater
+potential loss of or harm to assets as a result of exploiting vulnerability multiplies by the impact of the threat occurring
+Why higher Ed is attractive target
+network bandwidth and availability
+rich in hardware infrastructure
+poor in human resources
+resistant to blacklisting - hard to get an .edu tld
+you get benefit of the doubt in more cases than most on that
+personal ID info
+Sensitive personal
+export control data,
+a lot of data!
+Backups - good restore points
+protect your backups
+don't keep in publicly accessible area
+test your backups!
+Pantheon specific
+NSA posters public domain 
+https://www.theverge.com/2018/6/4/17424530/nsa-security-posters-art-propaganda
+On Pantheon, backups every day
+hopefully never have to restore in a live environment
+backing up your backups is pretty easy
+Keep Drupal Up to Date
+why/how does it reduce risk?
+updates often address security issues
+potentially removes an exploitable vulnerability
+how?  Subscribe to Security Team Newsletter
+Update and stay on the latest release
+a lot of people are either "no time" or "Didn't want to break my site"
+Security principles
+don;t use components with known vulnerabilities
+Keep themes and modules up to date
+Bonus points
+know what you have installed and why you have it installed
+Hosting provider
+if Drupal is the brain and your content the heart and soul of yor site
+a hosting provider is the rest of the body
+remains one of the top vectors for compromised sites
+know what your host is running and what versions they have installed
+engage the team responsible 
+File/directory permissions
+lowest possible access necessary
+security principle: least privilege
+bonus 
+lock down all Drupal to read only
+0400 if you can
+ideally only the files directory is writable
+attack surface
+all the sum of the paths that leads into and out of app
+plus all code protecting that path, and so forth
+remove everything not in active use
+Drupal does not check for updates on disabled modules
+remove disabled modules
+Droopscan
+passively fingerprint the app
+unused module module 
+Drush flag as well
+bonus - regular audits
+do your homework on themes and modules
+research a theme/module before installing
+on d.o little green shield, your module is being protected/watched over
+why/how does it reduce risk?
+every piece of code can introduce vulnerabilities
+treat all data and code as hostile
+dorkbot
+security.utexas.edu/dorkbot
+permissions and account usage
+only what they need and tiers
+least privilege principle
+reduces opportunity for someone to make a mistake
+create a custom role for specific permission things
+Do routine account audits and remove permissions not needed
+Protect settings.php
+what? 
+add rules to prevent direct access
+move the file somewhere not public
+SSL
+does not encrypt your site
+just the transmission of data
+does protect those credentials
+Strong passwords
+long, non-common words
+more important than complexity is length
+every one should be unique
+7 B have been leaked
+use a password manager
+enforce strong, unique passwords for everyone!
+defense in depth
+everything you can do has an exploit
+layer those parts to slow down the attacker
+
+https://twitter.com/deliriousguy/status/1108800873138921472
+
+
+
+[Everything I know about Kubernetes I learned from a cluster of Raspberry Pis](https://www.midcamp.org/2019/topic-proposal/everything-i-know-about-kubernetes-i-learned-cluster-raspberry-pis)
+[Jeff Geerling](https://twitter.com/geerlingguy)
+
+What could I say about Jeff that I have not said before or is not already known; I think he gives some of the best presentations ever!  The very idea of a Raspberry Pi running Kubernetes is just flat out fascinating, but then to run Drupal on that just seemed like a bit of parlor magic.  What I saw was the beautiful orchestration of Ansible, Kubernetes and one of the most impressive live demos for the ages.  Jeff is eternally curious and I am so glad he shares what he learns with us.  
+
+
+Raw Notes:
+The big question, what can I do with a Raspberry pi?
+how well does a Kube run on a cluster of Raspberry Pis
+but a complex install
+like Drupal
+what you need?
+Drupal, MySQL, services for chat, cron, logs, redis, Solr
+now we have lots of servers to run them on
+can't just have one server 
+if something goes down, have to figure it out
+Kube puts your stuff on servers
+scheduling is hard no matter what you are doing
+'Architecurenauts'
+build huge because we can
+why this project?  it does not have to make sense
+learned a lot
+slow hardware and limitations is a big issue to learn about
+dealing with the tiny keeps 
+RP0 is too slow to deal with this and almost no memory
+also got really hot
+5 RP2, but abandon that
+now has 4 in a cluster on a router for POE
+4 1/2 years with 99.9% uptime
+ISP caused only outages
+how do you even put Kupe on pie?
+ansible
+config management for humans
+kube uses yml, Drupal uses yml, Ansible used yml
+raspberry-pi-dramble
+ansible command line
+ansible -i inventory all -m service "name=drable1-node-...
+have to sudo to control ports on pi
+self healing of Kube
+kubectl get pods
+pods are containers with kube running on this pi
+look up pods and kube
+how you can scale easily
+logged in users authenticated means higher CPU usage
+HPA
+horizontal Pod auto scaling
+how well does this work?
+not the fastest but for sure not slowest
+nginx caches can handle 5,124 requests/s
+for comparison, local machine is 25% slower
+home as a data center?
+where you keep it
+power, network, physical security
+slow network issues
+Kube basics
+requires more rigor, deployment, automation
+RBAC misteps can lead to major security holes
+stateful is still not easy (DB and Storage)
+need a dictionary
+some well though, you can do amazing things
+done poorly, failure at web scale
+How well doe Drupa8 runon Kube on a cluster of credit card size computers?
+it does OK
+
+https://twitter.com/deliriousguy/status/1108824591282176000
+
+
+[Overcoming Impostor Syndrome: How Weightlifting Helped Me Accept My Place in Tech](https://www.midcamp.org/2019/topic-proposal/overcoming-imposter-syndrome-how-weightlifting-helped-me-accept-my-place-tech)
+[Kristen Mayer](https://twitter.com/krismaye)
+
+I missed this talk the last time she gave it at a camp I attended and I swore I would see it in person if given the chance, which I happily was.  Kristen is a delightful presenter and her passion for weightlifting and making a difference both shine through this talk.  I know I struggle with imposter syndrome more than I care to admit, so just knowing that it is not just me is huge! I am so grateful talks like this one exist.  
+
+Raw Notes:
+Impostor syndrome
+thought she was going to be an architect
+then got into UX research-> front end developer -> back end development
+always felt like everyone else knew more
+I'm only here because I got lucky
+I'm not really good at this
+I don't belong here
+was feeling it in her free time
+also in her weightlifting
+weightlifting
+tech both have own language
+stance form risks
+don't compare to other people
+with weightlifting
+accepted she would not be an expert, focused more on what she was doing that what others are doing
+Always someone who knows more than you
+felt her skills were not adding anything to the team
+imagine watching a varsity high school football game
+8th grader
+not the star of the team, but makes good plays, there for the teammates
+what are your impressions
+You would root for him!
+don't be afraid to ask for help
+with lifting, asked help when not sure, was OK with that
+And did assisted exercise
+at work though, always felt had to do it on her own and without help
+Don't get discouraged
+lifting, when could not perform, blamed circumstances
+at work blamed herself, felt like a failure
+life affects work and workouts
+Set goals!
+lifting, deadlift 200lbs bu X date
+tech: get better at coding
+specific goals are much better than longer term goals
+I'm not really good at this
+pick something quantifiable
+and time bound
+Own achievements
+lifting, celebrated every new lbs
+tech she did not celebrate everything
+'it wasn't that hard'
+Mentor others
+Weightlifting
+talked about it with friends
+helped friends
+Tech
+felt I wasn't skilled enough to teach others
+I'm not knowledgeable enough to teach somebody else
+it is OK to say you don't know the answer, but everyone can learn
+Everyone is an expert at something
+Join the community
+lifting, connected
+tech, was not sure where she fit in the community
+felt not sure can contribute
+Anyone con contribute
+Being involved int he community has given her more support and helped her improve her skills
+find people who inspire you
+she looked different than her co-workers, 
+finding others who look like her and excelled has helped her feel like she does belong and can contribute
+Takeaways
+your skills matter
+no one has all the answers
+life affects work(outs)
+goals are important but it is hard to hit them if you don't know what they are
+when acknowledged, believe it
+sometimes you need a push to go further
+Everyone is an expert at something
+Anyone can contribute
+representation matters
+Overcoming impostor syndrome takes time
+
+https://twitter.com/McDwayne/status/1108835862882717703
+
+
+[Practical Ways to Include people with disabilities in design](https://www.midcamp.org/2019/topic-proposal/practical-ways-include-people-disabilities-design)
+[Liz Davis](https://twitter.com/lizdavis__)
+
+Given what I do for a living, when I think of disabilities, I default to thinking of visual impairments first and, to be honest, kind of stop there.  Sitting in the front of a room with a presenter who uses a wheelchair was a reminder that I have been neglecting pretty much every other user with needs different than my own.  Liz is also a really delightful speaker who had the whole room at ease and reminded us that 'it is OK to laugh together about this stuff, so long as we are not laughing at people about this stuff' (paraphrase).  I left the room understanding that Lighthouse and AXE can account for about 30% of your work's Accessibility compliance, but without really asking for people who are differently-abled to use the product or service, we are going to keep failing at it.  Really a must see talk for anyone building anything!
+
+Raw Notes:
+Inclusive design,
+everyone talking about it
+but what are they talking about?
+we edge toward sympathy instead of empathy
+it's cool to be inclusive
+But you are not sure how
+that is the first step
+key is to talk to people with disability
+understand the disability rights movement
+part of the civil rights movement
+Nothing about us without us!
+gang of 19, laid in front of buses in Denver, CO intersection for 2 days protesting lack of accessible buses
+1990 ADA, stalled in committee, 60 disabled protesters crawled up marble steps 
+Stephanie Woodward arrested in 2017 during a 'die in' 
+2017 guy dragged out of capitol for protesting the ADA repeal
+Who definition: Disability is a complex phenomenon, reflecting interaction between features, of a person's body and features of the society they live in
+Make personal connections with existing disability orgs in your area
+independent living orgs
+local universities
+active disability advocacy groups
+senior centers
+social media groups
+Chicago specific
+Access Living in Chicago
+Chicago Lighthouse
+Great lakes ADA
+disabled twitter is a large group
+INdependent Living Centers offer resources
+Advocacy 
+Technical skills
+Universities - students are always looking for gigs
+Social media
+First step to reach out, send a friendly email
+talk about your project and other typical recruitment screener and information
+"We are trying to do usability testing, need help"
+Setting the Session
+don't want to say wrong thing or make them feel bad so lot of apprehension
+Location:
+is it close to public transit?
+Accessibility of the building (if not, let people know)
+parking nearby?
+never assume 100% accessible
+explain what is there
+story about Sear's tower elevator
+Timing, para-transit can be unreliable at times
+Para-transit - urban service for rides
+[UberWAV](https://www.uber.com/ride/uberwav/) is supplementing this
+Be Flexible
+Consider assistive Tech
+if testing app, not the tech itself, let them use their own setup
+plan for that and give time and space
+PAY PEOPLE
+this is a service you are buying
+Additional access
+you can't account for every single need, so ask what access you can provide
+Recap:
+Location
+Timing
+Assistant
+Additional Access
+During the Session:
+Worry: What if I say the wrong thing?
+Colloquialisms are fine, no need t feel bad for it
+Teamwork!
+Be open to feedback
+WCAG DOJ website
+https://www.w3.org/WAI/standards-guidelines/wcag/
+Mom website analogy
+If you interview 5 moms feedback, it is only 5 opinions.
+Not about all moms
+when you ask accessibility experts that is all that is, just opinions
+some people not as open about their experience
+Speechless on Hulu.  Electric wheelchair character, realistic representation
+Simply Different podcast - she is making it, not our year
+disarming disability - podcast - robot arm friend
+The station agent - Peter Dinklage in it.  
+Accessibility email specific to that type of feedback
+Accessability@emailaddress.tld should exist
+audit testing at most gets 30% of it.
+
+
+https://twitter.com/McDwayne/status/1109095630322962432
+
+
+
+[Erasing the Stigma & Energizing the Seated](https://www.midcamp.org/2019/topic-proposal/erasing-stigma-energizing-seated)
+[J.D. Flynn](https://twitter.com/JDDoesDev)
+[Avi Schwab](https://twitter.com/ajschwab)
+
+I didn't expect that I would be doing stretching exercises when I walked in, but I was glad we did them!  My joints felt immediately better and it woke me up for the rest of the day really.  Avi lead the physical portion and had all sort of great advice for better posture and living with a standing desk.  He also reminded us that drinking more water leads to going to the restroom more, which is a perfect time to do a few minutes of stretches to keep yourself healthy.  
+JD talked all about mental health.  I had seen a version of his talk before and it is an important one. Without talking about mental health, we will never erase the stigma.  Both of these talks together can help someone lead a better, healthier life!
+
+
+Raw Notes:
+Avi-
+Physical and Mental health session
+Make yourself comfortable
+It is a lot of our jobs to set down 40 hours a week
+"Sitting is the new cancer"
+We are probably not going to stop doing that soon
+Avi has been using a standing desk for about 4 years
+first place just let him buy a cool one
+Rigged a standing desk at next gig
+crank up desk at home
+important to be comfortable at your desk, ni matter the set up
+First, learn to stand
+head back and neutral
+shoulders back
+ribcage down
+abs engages
+butt flexed
+feet straight
+we did some exercises
+basic posture and easy stretching
+sitting different
+you can use your environment to stretch
+Drink more water and use that having to go to the bathroom as a chance to do light exercise, any motion good
+book Deskbound
+Move and think about posture
+JD - 
+Erasing the stigma, mental health and wellness in tech
+Not a doctor
+working remotely really affected him
+it's OK to laugh, as long as not meant to be insulting
+let's eras that stigma
+got to talk about it, and laughter is part of that
+Why this talk?
+Working from home is hard on some people
+You are not alone
+it needs to be talked about
+part of the stigma is the fear of speaking about it
+20% of gen US popit is higher in tech
+why important to him, he has mental illness
+he was in denial for the longest time
+thought it meant weak or damaged
+"I'm not weak, I am sick."
+about you - polling the audience
+What is mental illness
+Major depression
+Anxiety disorder
+PTSD - RAM vs Storage - short term vs long term-
+PTSD is where event gets stuck in RAM, re-live the experience 
+ADHD
+TBD (one away from Bingo)
+Life before treatment was difficult
+caused self enforced isolation
+was angry a lot
+Challenges of working alone as someone with mental illness
+isolation, stuck in your head
+communication - working remote
+reading into everything
+text based communication makes this hard
+if you never have communication with your coworkers
+isolation
+easy to start talking to animals
+Distractions - anything but work
+you can always find something else to do
+Sedentary lifestyle easy to fall into 
+how did he avoid a stinky sedentary life?
+trial and error
+what he learned
+1 simulate a normal work routine, get up and shower
+if in the office, dont eat lunch at your desk
+2 distractions - at home, avoid them, headphone rules at the office
+give co-workers a heads up on that
+3 guilt of not working and taking time off
+you can not and should not be working 24/7
+you are being paid to not work
+don't compare yourself
+4 isolation - everyone has a phone
+communicate and make human contact
+sometimes you just need to be around people just to ignore them
+get to know new employees, say hi and be friendly
+bring cookies your first day
+joina club or volunteer to get 
+join communities
+what does mental health have to do with this?
+for people in tech: 42% have been diagnosed with a mental health condition
+Do you think you do?  Over half said likely
+those with mental illness handle thigs differently
+afraid that taking time to ourselves will have negative consequences
+OSMI survey
+osmihelp.org/research
+book
+bit.ly/asmi-books
+in OSS communirt is greatest resource
+we are not just user name
+
+https://twitter.com/heyrobertshell/status/1109122054404694016
+
+
+[Beyond Herding Cats: Lessons for Project Management in a Small Agency](https://www.midcamp.org/2019/topic-proposal/beyond-herding-cats-lessons-project-management-small-agency)
+[Tori Lewis](https://twitter.com/ToriLewisWrites)
+
+I love Asana and when I found out Tori loved it to, then I knew we were going to be on the same page.  Project Management is one of the areas I find myself getting drawn into more and more, given how much I love process.  Learning all I can about how I can better communicate, no matter how large or small my team is, is important to me and hopefully will make me easier to work with. 
+
+
+Raw Notes:
+she has a lot of project management experience
+across multiple orgs
+there are strategies that go over all
+herding cats
+Lone wolves - devs
+cats are clients - hard to get them to to focus on their webproject
+Mama bears - tempted to take on everything about a project, good at stuff but bad a delegating
+1. Be agile, even if you're not Agile
+trying to adopt a full agile methodology can make people groan if they have failed at Agile before
+if you do implement Agile then 
+stand ups rigor does not always work
+sprinting is sometimes not the best way, for shorter projects esp
+Local project owner vs Scrum master, small tram that is hard
+Postmortems are super important though
+not learning from the project is fatal
+always must learn how to improve
+job as a PM at a small agency is not to manage projects alone
+but to manage the process for the org
+2. Meetings
+Want to go in guns blazing
+this is a bad way to go,
+Running meeting for small teams
+no need for formality for formality sake
+Have an agenda! bullet points is good enough
+if everyone knows the map, harder to get lost
+time box, make sure you are effective with time
+2 45 minute meetings better than 1 90 minute meeting mostly
+take things offline
+a cliche, but helpful tool
+good conversation to have is like 2 devs about an API
+designers not needing to 
+give yourself breathing room to catch up as people beginning and at end of meeting
+fostering team moral
+little bit of bonding in every meeting 
+Every meeting needs to be documented and everyone has a to do list
+you as PM could take a list of action items
+Asana in the meeting is also a good system
+assign each one to a team member in the meeting
+very clear and effective
+very transparent
+can note on the task 
+what if only 1 dev?
+all of these things are still true
+regular meetings and an agenda is still critical
+off-lining in this case is for dedicated time to figure out those things
+3. Love and live by, your PM software
+basecamp vs asana is better conversation over beers
+Notifications are customizable, only on a design
+know who is using your tooling and how they use it
+teach team to use asana as central source of truth 
+if no one monitoring and cleaning up asana, it will be unmanageable fast
+3 months overdue tasks
+is it a priority?  How can we make it happen?
+relevant files and links
+access to what they need to do their jobs
+integrate PM tool with time tracking tool
+see what can integrate well together
+4. Communicate often and well
+part of your job sharing new features if they do not know how to use it
+make sure they are getting it if it matters
+ask new team members lead parts of meetings and give feedback
+add new layers of communication competencies
+err on the side of being more clear than you need to
+not over-communicating - more != better
+make sure team is checking asana
+5. team culture
+can == company culture
+make sure they know flexible and limits
+
+https://twitter.com/McDwayne/status/1109150178559307778
+
+
+Effective Cross-Functional Communication
+[Catrina Ahlbach](https://twitter.com/Bounteous)
+[Andrew Olson](https://twitter.com/andrewozone)
+
+The last session I attended was one that left me thinking a good deal about how I deal with miscommunication more so than how to be a better communicator.  Don't get me wrong, good communication is the goal, but dealing with the miscommunication itself only sometimes results in a better process.  The piece I had not really thought about too much was this sort of immortally true triad of feasibility, viability and desirability. I think I have been missing one of those legs when I think through how to improve a process.  Much to think about and my notes are sparse.  Luckily, [this, like all the sessions are already online](https://youtu.be/62jcnW9Mg9Q).
+
+
+Raw Notes:
+Communication ground rules
+creating an environment for good communications'
+1 always assume positive intent
+duck or rabbit pic 
+neither perspective is wrong
+don't introduce judgments into your communications
+Engineering view of the world
+very precise and a lot of effort
+perspective of user is a blind spot
+designer view is focused on the people having a good time
+communication goes both ways
+not just listen to me
+the ability to listen is as important as the ability to speak
+miscommunication is always a two way street
+conflict is not necessarily bad.
+it is needed actually
+requires balancing 3 points of view
+human centered problems
+Technology - feasibility
+Business - viability
+human - Desirability 
+inquiry lets us shift view to overlap all three
+great solutions and outcomes possible
+unresolved conflicts create real world problems
+imagine you want to order a pizza
+or furniture (see slides)
+disconnects happen
+perceived vs actual disconnect
+takes work
+illusion of communication
+discussion clarification highly functioning team
+We can't always see the other person's obstacles
+man with rock woman with snake (see slides)
+Disengagement
+Distraction
+Distrust
+Beware of miscommunication
+might hear
+good/bad
+important
+this is right/wrong
+they
+handed off
+there is no time
+the best / only way
+that's hard
+Why it is bad
+many assumptions and unclear
+judgmental and opinions
+Might say
+as I've just said..
+I know...
+--missing, see slides, recording --
+
+
+https://twitter.com/McDwayne/status/1109197761042411522
+
+
+
+### My Session:
+
+[Bash is magic # No it's not](https://www.midcamp.org/2019/topic-proposal/bash-magic-no-its-not)
+
+The second time I gave this, I was both more nervous and less nervous at the same time.  about 50 people in the room made for a good energy and having an hour instead of 45 minutes, like I had at [NERDSummit](https://www.mcdwayne.com/2019/03/11/nerdsummmit-2019/) gave me some time for interactive demo and some very informative (for me) Q&A.  I learned that I had been thinking about cmd+k wrong, I didn't understand aliases as well as I cold have and I have been messing up ctl-c and ctl-x for years now.  And I loved every moment of learning that live in front of an audience.  It makes it very real and apparent that we are all learning still and there is zero embarrassment to learning something.  Honestly, the only reason a person would be embarrassed is if they refuse to try to learn a new thing.  I can't wait for the next time I get to give this talk.  I know I will learn even more then.  
+
+https://twitter.com/heyrobertshell/status/1109184535248453634
+
+
+### Contributon Day
+
+Instead of Sprinting, cause who wants to run that fast, we had [Contribution Day](https://www.midcamp.org/2019/contribution-day).  I have always kinda felt a bit on the edges of this.  A little documentation here and there, but mostly just helping with parallel things like camp organizing, work for my job and even other communities.  This year, after a bit of a slow start, I got off and running helping [Joe Purcell](https://www.drupal.org/u/josephdpurcell) to [help get us all ready for Drupal 9](https://docs.google.com/document/d/1UnVzmQhCv9_IT0-u-tjvWPDR-QQAU31ij2iKkio8U3U/edit#), which is right around the corner.  Related, if you have not checked to see what modules you use are Drupal 9 ready, check out [Matt Glaman's `drupal-check` project](https://github.com/mglaman/drupal-check).  It is pretty great.
+
+
+## Wrapping up
+
+I left Chicago a little sore, tired as all heck and emotionally drained, all in the best way imaginable.  I have not felt this connected to the Drupal project ever before and I have never felt better about the future of all of Open Source than I did leaving this camp.  From the wonderful friends I sang and danced with, to the awesome sessions where empathy and communication were held as the highest form we could aspire towards, I had an amazing time.  I will look forward to seeing many of these fine people again at DrupalCon 2019 or when I return to Chicago.  Not really sure when the ladder will be, but I hope it is at least for [MidCamp 2020](https://www.midcamp.org/)
+
+
+https://twitter.com/midwestcamp/status/1108788298636541952

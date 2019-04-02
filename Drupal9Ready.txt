@@ -1,0 +1,30 @@
+Is your module ready for Drupal 9? Click here to find out. 
+
+On [Contribution Day at MidCamp 2019](https://www.midcamp.org/2019/contribution-day) a team of us gathered to start the process of opening tickets about Drupal 9.  We did this for the [300 most installed contributed Drupal 8 modules](https://www.drupal.org/project/project_module?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=&f%5B3%5D=drupal_core%3A7234&f%5B4%5D=sm_field_project_type%3Afull&f%5B5%5D=&f%5B6%5D=&text=&solrsort=iss_project_release_usage+desc&op=Search).  We did this for the future of Drupal.
+
+As you might know, [the planned release of Drupal 9 is June 3rd, 2020.](https://dri.es/plan-for-drupal-9) and end-of-life Drupal 8 planned for November 2021 at the latest. That is not a lt of time, but there is not need for panic. The upgrade to Drupal 9 should not be scary if we take some action now.  
+
+## Tools that made checking easy
+
+We were able to open so many tickets in a day thanks to a project created by [Matt Glaman](https://github.com/mglaman) called ['drupal-check' which "checks Drupal code for deprecations and discover bugs via static analysis"](https://github.com/mglaman/drupal-check).  All it requires is a Composer installed Drupal 8 codebase in a local folder. No DB or server needed.  This makes it easy for anyone to set up and check ay module.  
+
+Meanwhile, at MidCamp, I got to give a [talk about one of my favorite subjects in the world, Bash](https://pantheon.io/blog/why-every-pantheon-user-should-learn-bash). Talking about this amazing tool that is the foundation of so much of what we do in development and devops, I had the notion that I could make [Bash do the lifting of running the report with some scripting](https://github.com/mcdwayne/Drupal-9-drupal-check-Report/blob/master/d9-drupal-check-all.sh) and I could fous on opening the ticket.  
+
+After we finished the top 300, I asked myself "why not the rest?" So I asked Bash to do it, via a CSV of the entire [Module Project Index ](https://www.drupal.org/project/project_module/index?project-status=full&drupal_core=7234).  The resulting report files are archived on [my "Drupal 9 drupal-check Report" GitHub repository](https://github.com/mcdwayne/Drupal-9-drupal-check-Report).  
+
+## What I found 
+
+First, the good news.  About 43.7% of all sites I analysed [have "No error"](https://github.com/mcdwayne/Drupal-9-drupal-check-Report/blob/master/FilesContainingKeywordReports/NoErrorList.txt), meaning the code base is Drupal 9 ready!  For these modules, all that will be required is adding [a drupalci.yml file to the project](https://gist.github.com/josephdpurcell/1c78367cedc15a075e4231a5a685ced9) to tell [DrupalCI](https://www.drupal.org/project/drupalci) that your module is ready to go for any Drupal 9 build.  Thats all it takes.
+
+The not so great news is that the other 56.3% of modules need a fix.  The largest issue I can see is that 1692 modules scanned contain "drupal_set_message" as part of the errors. The [replacement code is very straightforward ](https://github.com/mglaman/drupal-check/wiki/Deprecation-Error-Solutions) and will help us standardize this widely used functionality for the future. Some [module maintainers have already shown us the way](https://www.drupal.org/project/geofield_map/issues/3042860).  
+
+Other issues are highlighted on the [readme.md of the report project](https://github.com/mcdwayne/Drupal-9-drupal-check-Report/blob/master/README.md), like the [179 modules that thew fatal errors](https://github.com/mcdwayne/Drupal-9-drupal-check-Report/blob/master/FilesContainingKeywordReports/FatalErrorList.txt) when installed by Composer or the [10 I can see that contain "assertFieldByXPath"](https://github.com/mcdwayne/Drupal-9-drupal-check-Report/blob/master/FilesContainingKeywordReports/assertFieldByXPathList.txt)   I built an [analysis tool utilizing grep](https://github.com/mcdwayne/Drupal-9-drupal-check-Report/blob/master/quick-stats-tool-for-d9-readiness.sh) that is included in the repository if you would like to reproduce my results or expand on what I have done.  All PRs will be considered.  
+
+The bad news is that I didn't open tickets for everything, just made this report.  I did this to make it easier for module maintainers to get ready sooner.  This is going to take some collaboration by us all.   
+
+
+## A place for planning for the future
+
+Beyond the tool itself, Matt and [Joe Purcell](https://github.com/josephdpurcell) have been using this repository to [help coordinate "Drupal 9 readiness"](https://github.com/mglaman/drupal-check/wiki/Drupal-9-Readiness).  We, the Drupal community, want to make it as easy as possible to get ready for Drupal 9 sooner than later
+
+

@@ -1,0 +1,511 @@
+WC Raleigh 2019
+
+General:
+https://twitter.com/wcsketch/status/1114312434360123392
+
+## Food and Fun
+
+Speaker/Sponsor dinner
+
+[Hibernian Pub](https://www.hibernianpub.com/)
+
+https://twitter.com/McDwayne/status/1114300640245747712
+
+Saturday:
+Coffee and tea.  It it was OK.  
+
+
+After Party
+
+After a full awesome day of camp[The Raleigh Beer Garden](https://www.theraleighbeergarden.com/) which claims that they "are proud to offer the world's largest selection of draft beers available in one restaurant!"  
+
+Sunday
+Coffee and donuts.  Did not have a donut, but wow that coffee is good.  
+
+https://twitter.com/wordcampraleigh/status/1114874537756233729
+
+
+https://twitter.com/sunsanddesign/status/1114873391520133123
+
+## Sessions
+
+Opening Remarks:
+[Adam Silver](https://twitter.com/heyadamsilver)
+450 in attendance
+Kids camp
+Alone we can do so little, together we can do so much - Hellen Keller
+Panel:
+The original organizers and other organizers
+Doing it because they thought it needed done
+just stepped up and did it
+anyone can get involved
+people do step up and bring people in
+so many new people finding and using WP
+What have they learned, a lot
+sessions, there is so much more to learn
+choosing one of the tracks is a challenge
+Volunteers are amazing and bond 
+Kids Camp this year, 25 kids, this is a record for a first outing
+Sandy flew in from Orlando to make this happen
+
+
+https://twitter.com/sarahovenall/status/1114516334023520256
+
+
+https://twitter.com/wordcampraleigh/status/1114521821745958921
+
+
+https://twitter.com/wcsketch/status/1114535969116569601
+
+
+[Building a Trustworthy Website](https://2019.raleigh.wordcamp.org/session/building-a-trustworthy-website/)
+[Ray Mitchell](https://twitter.com/MadeforYouMedia)
+
+
+What is trust?
+"I know it when I feel it"
+It is something in your gut when deciding something or someone is sketchy or suspicious.
+Do we trust him?  Should we?
+Nice kid (pic of him as a kid)
+Meeting a person at a bar?
+same as visiting a website for the first time
+First impressions
+what do my friends think?
+How does it make me feel?
+Design
+reputation
+Security/Privacy
+Benefits vs Frictions
+Mission has to be worth doing
+First impressions
+1. Design 
+like in dating, first impressions matter
+Meet site visitor expectations. Use the "dsign Language" for your industry
+Pros look professional
+use authentic images
+Free is expensive, don't use subdomain
+use a real email address
+meet expectations the client would have
+if you are not investing in your own domain and own hosting, are you really trustworthy?
+Reputation
+Provide social proof via testimonials
+leverage Google Reviews
+Display affiliations, associations and endorsements
+point to your social media following, your subscribers or customers served
+Leverage the "Halo Effect"; showcase your client and partner logos
+think BBB logo
+Security/Privacy
+Have an SSL cert
+Consider using badges to give visitors confidence
+Do you have a privacy policy? Is it published?
+Are you adhering to common privacy standards and relevant legislation?
+Is it clear how you will use information that you can collect?
+Benefits vs Friction
+Unnecessary Hurdles
+Why do I have to submit my email first?
+Is it easy for customers to self-serve?
+Transparency
+Content meets expectations
+Speak to your audience - use the appropriate level of industry language or jargon
+
+
+
+https://twitter.com/McDwayne/status/1114544396073078786
+
+
+
+
+My talk
+
+[Let’s learn Git. No more excuses.](https://2019.raleigh.wordcamp.org/session/lets-learn-git-no-more-excuses/)
+
+I love talking about Git.  Every time I talk about it, 
+
+https://twitter.com/JemProducts/status/1114586738184347651
+
+
+
+[1% Better: How little changes add up to a better, stronger business](https://2019.raleigh.wordcamp.org/session/1-better-how-little-changes-add-up-to-a-better-stronger-business/)
+[Natalie MacLees](https://twitter.com/nataliemac)
+
+
+Conventional Wisdom
+a story about herself
+Purple Pen founder
+Co founder fo n2
+Author of jQuery for Designers
+Co-founder of LA chapter of Girl Develop It
+Founder of Website Weekend (non-profit sprint)
+2 time first place winner of PLugin-a-Palooza
+that is her success, but let's dig deeper behind the senes
+back in 2014
+she was overworking and it was killing her
+then, she worked from the moment she woke up
+now, starts work at 9:00am
+then, she stopped when too tired to do it
+now, 6pm
+then, no hobbies
+now, so many!
+social life then, no, people stopped inviting her because she always said no
+now, Great!
+self care, then no
+now, awesome
+side projects, then no time
+now, lot of projects
+stress then, 11
+now, 4ish, reasonable
+happiness then, 0
+now, 10
+How did she work that magic?
+let go of the big lie!
+Starting on monday, or next week, her life would be different.
+keeping that view of the world keeps you from being able to change
+Digging in
+Change really happens little tiny bit at a time
+there are 2 ways those changes work
+one tiny change makes ripples
+Other is Compound and Build
+the magic of compound interest
+2 year chart
+if you make business 1% better a week, that is almost 200% improvement over those 2 years with compound interest
+we are creatures of habit
+we form them intentionally or arbitrarily
+but we always have them
+part of our brain that keeps us from making big changes based on our habits
+that part says 'things are fine' and hard to overcome this in your brain
+smaller changes does not trigger this part of brain
+smaller is easier to manage too
+BJ Fogg tiny habits
+he studies how people do things and habits
+He says to make a habit you need 
+1. motivation 
+2. ability
+3. a trigger
+flossing 
+tiny habit first, flassing is to big
+just floss 1 tooth
+that is how small of a change is needed
+Routines make habits better
+Morning routine
+mug of warm water
+write
+move
+eat
+shower and dress
+meditate
+plan the day
+bedtime
+hot liquid
+cool down the room
+PJs
+wash face
+floss and brush teeth
+moisturize
+bed yoga
+read till fall asleep
+she added in things she wanted little by little
+Time limited challenges
+up to 30 days is about the limit
+she quit watching TV and FB for a month
+now not going back
+is it enriching me, is it fulfilling
+Who do you want to be?
+podcast, interview with very accomplished woman
+she gave the advice, she makes decisions about who she wants to be and what they would do in that situation
+Focus on lead measures
+a timebox chart, really a grid
+looked at how she was spending her time
+she was doing things vaguely related to marketing
+like FB
+always going to have admin tasks and other things, 
+remember that is not the business.
+you have to focus on your business
+to make the money she wanted, she needed 20 billable hours a week
+20 was reasonable for her
+row for every week of the year
+20boxes in row
+check box each billable hours
+helped her see why she was not making the money 
+tiny change, huge results
+changed everything
+get a 10K foot view from time to time
+setting a plan for the day
+she does a weekly plan
+and a monthly and a yearly
+does a goal review at the end of each period
+quarterly check ins
+weekly, yearly...
+Keep setting goals and be free to change them as things change
+it is OK to refocus
+doweeklypodcast.com with [Alex Vazquez](https://twitter.com/alexjvasquez)
+you can do it
+just 1% better
+ 
+
+https://twitter.com/McDwayne/status/1114611622146973698
+
+
+
+[Gutenberg Phase 2 and the Future of WordPress](https://2019.raleigh.wordcamp.org/session/gutenberg-phase-2-and-the-future-of-wordpress/)
+[William Earnhardt](https://twitter.com/earnjam)
+
+Defining Gutes
+What's so great about blocks?
+at core, HTML
+Can be nested and combined in infinite combkineation
+standard
+today
+themes = hard coded PHP templates
+type of site building components
+posts, menus, sidebars (widget areas), widgets, media
+Want to move away from this and to a 1:1 view of your whole site
+Gutenberg Phase 1
+Replacements of the editor screen 
+Gutes phase 2
+Allow editing and customizing the entire site
+Eliminate roadblocks
+Reduce the amount of technical knowledge required
+Builds on top of phase 1
+iterative approach in order to maintain backwards compatibility
+Look at the make core site 
+pase 1 is content
+phase 2 is head and widgets
+but in 5.2, next, what is in there?
+out in a few weeks
+groundwork for next steps and some improvement for editor
+block manager
+as list of blocks have grown, the inserter list has become unmanageable
+site admins don't want to make all blocks available
+manager lets you hide things
+turn off entire category of blocks or one offs
+Core Widgets as blocks now
+search, calendar, tag cloud, rss, etc
+lots of smaller things too
+microanimations on menues
+hover states
+background settings on tables
+next blocks inside a cover block
+--missed part--
+legacy widget block
+Menu Block - still in design phase
+Section blocks
+essentially just a wrapper to hold group of blocks
+allows you to create reusable sections
+easy to duplicate and share 
+in testing queue and plan for GA in 5.3
+after that
+Blocks in the widget areas
+use block in any widget area/sidebar
+manage widgets just like current editor
+Iterative step that would allow existing sidebars to keep functioning
+hints at a future with no sidebars
+block areas
+Widget Blocks in the Customizer maybe coming, mock ups now 
+Directly installing blocks, just announced last week and call for designs
+the earliest in process, hope is 5.3 GA
+Beyond that 
+Creative Concepts
+in line editing of blocks in place
+single block plugin
+new block plugin repo
+direct install inside editor
+more granular control over features
+could be bundled with multiple features into a single config file
+Existential questions for themes
+do we even need themes?
+Now: php templates + styles
+Future: blocks,  block templates + styles
+no more PHP in themes
+Most basic theme could become just a full page container
+
+
+
+https://twitter.com/McDwayne/status/1114627370093359104
+
+
+
+[Creating better APIs with WPDB and API Middleware](https://2019.raleigh.wordcamp.org/session/creating-better-apis-with-wpdb-and-api-middleware/)
+[Jordan Cauley](https://twitter.com/jdcauley)
+
+His team a little over a year ago.  
+Chose custom tables, too much join and other stuff for just posts
+github.com/jdcauley/cauley-invoices
+custom APIs have issues
+Cloudflare, WordFence and Securi block WP API 
+json is not automatically sql injection
+if you do have custom data, can be extremely powerful 
+demo
+just loads plugin first
+default file API routes
+API version number
+Static object to hold models and an instance variable
+some helper functions
+if plugin version changes updates properly
+custom WP tables now
+they do a custom class
+DBI
+technically ORM is WP
+define a schema, associative array
+nested arrays
+pass into filter
+add table name, version, schema
+trivial effort to create new class
+once passed in, large pile fo functions 
+format
+loop through if column type is not set, set it
+warning, edge cases and unoptimized things outside thier scope
+but for them this is what they want to do
+approved plugin
+sanitize and pare queries by default
+Once you have the model set 
+no sql value in using shorter values texts
+long text is OK
+for int use bigint
+API services, some ideas into the REST API that were lacking
+for this demo, no authentication of Endpoints
+please authenticate and think security for real life
+make sure sanitize coming in
+half code is just defining WP routes
+-- missing --
+custom middleware helps with this
+first unit is validation function
+universally param requests
+if come back clean, return response, kill response if wrong
+entire function for data is 10 lines
+loop through models and and create data against that
+point is abstracted so much to make API creation accessible
+can download and look at UI working
+next version will improve the visability
+Looking at whole 
+insert vs create
+create is friendlier
+Upcert functions
+should be standard in DB
+pretty much all other DBs he had used had better implementations
+took their experience with other ORM and wrote this
+find function is friendly default
+Understanding the lifecycle
+better code if you understand this
+lifecycle hooks now and he puts them everywhere
+when first building lifecycle hooks for find actions
+recast before it goes out
+comes in integer, comes out a string
+re-encode json to array
+double encoding is just something you have to live with
+Cardnialmedia.co - super fast theme
+built to beat Lighthouse testing
+
+
+https://twitter.com/McDwayne/status/1114892818043023362
+
+
+[Successfully implementing Open Graph for improved social media marketing](https://2019.raleigh.wordcamp.org/session/successfully-implementing-open-graph-for-improved-social-media-marketing/)
+[Steve Mortiboy](https://twitter.com/wpsmort)
+
+
+What is Open Graph?
+FB
+Social Share
+you can't run a business today without using social media
+How do you market business
+website content
++ adding content info to all the social media sites
+Open Graph Protocol
+started at FB in 2010
+standardize how info is provided to them
+og:title
+og.description
+og:image - this is actually a very import one
+og:url
+fb:app_id - needed for FB insights
+a good quality image can influence our buying 
+informs the business decision
+og:type
+og:site_name
+og:locale
+og:audio
+og:video - URL to a video to pass to FB
+example card shown from FB share on Twitter
+image
+after FB other social media channels said this is a good idea
+most adopted OG
+except twitter
+twitter:card
+twitter:site
+twitter:creator
+twitter:title
+twitter:description
+twitter:image
+Iamage guidelines
+FB - min 1080px Ideally 1200 x 630pm
+Twitter - min 300px by 157px/ max 4096 x 4096px
+Linedin - min 1200 x 627px
+Pinterest - 735px x 1102px
+insta - 1080px x 1080x
+Open Graph Instagram Sizes = a lot of different opinions
+the numbers above are from dev docs but could be outdated
+Overall, image file size should be less than 5MB in size
+Poor image sizes mean small super cropped old fashion looking preview
+OK, Select a plugin for Open Graph
+there are 100s of social media plugins, just a search is a lot of results but confusinh
+Guidelines:
+Does it let you set site wide defaults?
+Can it be contrilled on a per post or page basis
+Does it let you set specific OG metadata for individual content including custom post types?
+Does it help you debug typical problems?
+Demo for AllinOne and how it deals with OG
+live demo
+checking the source code and looking for 'og:' reveals if set up correctly easily
+/demo
+Caching
+Most social media crawl and cache, cache TTL is 7 days default
+some socials provide info on how to force a purge and request recrawl
+most do no do that
+Live Debugging
+ 
+
+
+https://twitter.com/McDwayne/status/1114912897505923072
+
+[My favorite design tool … is a browser.](https://2019.raleigh.wordcamp.org/session/my-favorite-design-tool-is-a-browser/)
+[Mary Baum](https://twitter.com/marybaum)
+
+Few examples of way to display same basic thing
+Many ways 
+Using chrome to see them all
+Love Gutes now
+Chrome device emulators
+Phone view
+and resolution it is and not the one you think it is
+you can custom like jumbotron
+DevTools
+new update has hoverover awesome views!
+manipulate css and html live and preview every change before you make it
+It is her standard
+Firefox has some uses
+CSS grid
+can show you a better grid layout with highlighting
+laying out in 2 dimensions uses a grid
+if a column or a road, she uses Flexbox
+6 ways to layout boxes in CSS
+Tables
+display table - she never touched these 
+block -vertical and inline block - horizontal
+floats - to the left and the right
+Flexbox - does the math for you
+CSS grid
+before Flexbox and Grids, very hard to do things like same height columns
+grids let you place things precisely
+handles 
+rules
+FF
+once you copy the style into stylesheet
+want to go to youtube
+subscribe to "layout land"
+Everything about CSS you want to know from Jenn Simmons
+CSS Tricks in the tool bar csstricks.com
+codepen as well
+pull it apart and put it back together on the fly
+
+
+https://twitter.com/McDwayne/status/1114950168816836608

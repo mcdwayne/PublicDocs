@@ -1,5 +1,7 @@
 WC Raleigh 2019
 
+
+
 General:
 https://twitter.com/wcsketch/status/1114312434360123392
 
@@ -506,6 +508,15 @@ Everything about CSS you want to know from Jenn Simmons
 CSS Tricks in the tool bar csstricks.com
 codepen as well
 pull it apart and put it back together on the fly
+Character - Colonel Standards
+Viewports
+magic until they are not
 
 
 https://twitter.com/McDwayne/status/1114950168816836608
+
+
+## Wrapping up
+
+This camp was very good overall.  Sitting in the airport, on my way to [DrupalCon Seattle 2019](https://events.drupal.org/seattle2019/program-at-a-glance) I realize I don't have enough time to reflect as fully as I like and I know I would be lying only to myself if I said I would come back and update this.  
+The additoinal 40,000 people didn't

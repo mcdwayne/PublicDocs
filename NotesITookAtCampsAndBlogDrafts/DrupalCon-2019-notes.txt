@@ -1,0 +1,432 @@
+DrupalCon Seattle 2019: My memories are scrambled
+
+Hi Dwayne in the future (the only reader I am actually ever writing to on this blog),
+ 
+  It's me Dwayne from the week after DrupalCon in Seattle.  I got sick in Seattle and to be honest, I am still not all the way back recovered.  Still, in due diligence with this ongoing effort to tell you what I have been working on and where we ate and what we learned, I am going to grind this edition out.  Not likely going to promote it though, as I am not thinking this will be my best work.  You can be the judge in the future though.  Hopefully this is not a trend, just want to get a draft out before it all fades.
+
+Love
+
+Dwayne
+
+POST BEGINS AFTER THIS LINE:
+
+
+Landed at 1:20am in [Emerald City](https://www.tripsavvy.com/why-is-seattle-the-emerald-city-2964993), fresh from an amazing time on the other side of the country at [WordCamp Raleigh 2019](https://www.mcdwayne.com/2019/04/07/wc-raleigh-2019/)
+
+https://twitter.com/agiledrop/status/1115346089534734336
+      
+
+## Food and Fun
+
+
+
+### Monday
+
+Bagels and coffee and tea
+
+
+### DrupalCon BarCrawl
+
+The event was listed on the [events page for DrupalCon]
+(https://events.drupal.org/seattle2019/drupalcon-monday-night-pub-crawl)
+
+We went to the following places and I drank whiskey at all of them
+
+[Pine Box](https://www.pineboxbar.com/about)
+
+[Redhook Brewlab](http://redhook.com/breweries-pubs/capitol-hill)
+
+[Capitol Cider](https://capitolcider.com/)
+
+I danced at the last place because they had latin jazz playing
+
+[Some of us went to Unicorn](http://www.unicornseattle.com/) to end the night.  I sang karaoke there.  
+
+https://twitter.com/jmickela/status/1115430446462930945
+
+
+### Tuesday
+
+More bagels and such in the contribution sprints room.  Lunch was a nice bean stew and a mixed grains salad. Not amazing but kept me fueled. There was a beet salad at the Opening Reception for DrupalCon's main exhibition floor.  
+
+### Official Pantheon Party
+
+Tuesday night was [the official party](https://events.drupal.org/seattle2019/pantheons-officialish-drupalcon-party). This was a good event.   We were at [the Museum of Pop Culture in Seattle Washington, AKA, the MoPop](https://www.mopop.org/)
+
+
+https://twitter.com/keltic/status/1115856443591274496
+
+
+Turns out if you are in a crowd after a party with 2000ish people in attendance and you yell "We're going to [The Whiskey Bar](https://www.thewhiskybar.com/)!" and you also inform [Kevin Thull](https://twitter.com/kevinjthull) then about 50 people will end up over in that area drinking together.  
+
+
+
+### Wednesday
+
+Convention coffee is OK.  Not amazing or great, but OK.  Lunch as OK as well.
+
+Wednesday night is when I started to feel a little funny but thought it was just DrupalCon energy and such.  
+
+The MediaCurrent party had "Laser Karaoke", which was trippy as heck.
+
+https://twitter.com/mediacurrent/status/1104130960348663808
+
+I then had other late night matters to attend to at a non-official party which I w will not be listing the details of here.  Well, one fact, I fell in love with making and eating [Bhelpuri](https://en.wikipedia.org/wiki/Bhelpuri) while there.  Can't get enough of it now. 
+
+### Thursday
+
+Coffee is coffee and you can't taste it when you only get a couple hours sleep.  Kept me going though.  I think I ate [Veggie Grill](https://www.veggiegrill.com/) for lunch, but to be honest this is where things start getting fuzzy in my mind.   
+ 
+[Tandem](https://thinktandem.io/lando/) threw a really nice happy hour at [Optimism Brewing](https://optimismbrewing.com/) where I had a lovely sour beer.  I think it was a sour.  I do recall it being pretty good.
+
+After a beer I shot on over to the 4 Kitchens/Kalamuna/Manati karaoke party over at [Alley Mic](https://www.alleymic.com/) a fun little event space over by the Pike Place market.  I sang 1/2 of a song before issues happened with the equipment.  My voice was pretty much gone by then.  
+
+https://twitter.com/estudiomanati/status/1113819265445060608
+
+
+One last stop that night had the last official Drupal Karaoke stop at [Hula Hula](https://www.hulahula.org/) a Karaoke and Tiki bar.  Awesome job by [JD Flynn](https://twitter.com/JDDoesDev) for leading and organizing us.  
+ 
+
+https://twitter.com/kaleemclarkson/status/1116573007772655616 
+ 
+
+### Friday
+
+I was not functional on Friday.  I will leave it at that.  
+
+
+## Sessions
+
+I only made it to 2 sessions this year + the Driesnote + the training I helped with.  Most of the time I would do a write up but let me just say for the record all sessions were great.  I got mentioned in the Driesnote and that felt nice. 
+
+
+
+Monday Training:
+[Automated Workflows in Drupal 8 with GitHub, Composer and CircleCI
+](https://events.drupal.org/seattle2019/training/automated-workflows-drupal-8-github-composer-and-circleci)
+
+It is a real pleasure to get to work with my team.  Almost everything I know about CircleCI or Composer I learned from either [Andrew Taylor](https://twitter.com/ataylorme) [Greg Anderson](https://twitter.com/greg_1_anderson) or [David Needham](https://twitter.com/davidneedham).  We also were super fortunate to be joined by literally one of my favorite Pantheon users [Brian Thompson](https://twitter.com/rvtraveller26) join us to help with this training. All in all about 3 dozen folks walked away with a better understanding of this complex, yet powerful and much needed tooling chain.  
+
+https://twitter.com/keltic/status/1115317473404788736
+
+
+
+Driesnote:
+
+Raw Notes:
+He was recently told something that changed him mind about Open Source
+Diversity in OSS is worse than the rest of the technology sector
+SOme of data suggest
+it is not true tha OSS is mertitocracy
+not everyone has free time to learn and contribute
+Diversity and inclusion are great things
+1 out of 30 websites are using Drupal
+serving billions of people
+most people visit more than 30 websites, we touch everyone
+Diversity improves communication and helps diminish conflict
+if people are more comfortable, willing to share ideas
+many resons we want to do this
+A few weeks back, saw a code review
+comments from gnuget were very kind
+thoughtful
+example of how we can all act
+1/5 people will receive negative feedback will stop contributing
+Organizations can help
+you can pay people to contribute so they don't have to take personal time
+What is Drupal doing?
+pronouns field
+non code contrib
+commitment to accessibility
+speaker diversity
+TOS changes
+CoC updates
+8 sessions just on Wednesday about inclusion and diversity
+how many other OSS projects have 1000s f people working on this?
+Hook42 
+1x Internet DrupalEurope
+3ndnd grove, full time contrib
+Drud, mentoring
+Also over 10K individual cont
+So many amazing people
+D8 
+50% more D8 modules stable than a year ago
+First strategic track
+make Drupal easy for content creators and site builders
+Layout builder
+video of the Umami demo
+A11y got applause!
+ships with 8.7 in 3 weeks
+looks awesome
+123 contibutors
+68 organizations
+Make Drupal easy for content creators
+More video!
+d8 Media library
+Much of what we saw with media is stable
+WYSIWYG in progress, target 8.8
+6 months out
+310 contributors
+122 organizations
+Admin UI
+newer initiative
+talking a lot ot agency owners
+it is hard to sell Drupal cause the UI is dated looking
+looking for modern experience
+reality, Drupal is awesome under the hood, bad at showing that via UI
+no major refresh in 10 years
+proposed with ux testing
+looks and feels more modern
+better use of space and has more a11y
+target 8.9 or maaaybe 8.8
+We have to be successful with eery persona
+the people spending 8+ hours a day mamking content, must work for them
+important for all size orgs
+helps non prov=fits and giant enterprises
+that is the first track
+secont track is to make Durpal easy to evaluate and adopt
+migrate and out of the box
+eval is down to 3 clicks
+quietone has been hard at work on this from NZ
+migrate initative coordinator
+since 8.5 migration is ready
+some edge cases
+but do not hold off for 9!
+come see the edge cases and help us all
+for those following the commit chain
+migrate module has been quickly advancing
+should be a lot more ready
+the OOTB inative
+spanish translation by default
+welcome tour
+over 100 contributors
+improves 86 organizations
+JSON API
+147 contribotors
+so many
+most complete int he world
+Reducing total cost of ownership
+more we need to do on this track
+D7->D8 and D8->d9
+no panic
+D7 still community supported for 2 years and 7 months
+vetted venfdors provide commercial suport for 3 more years
+supported for 5 years at least
+more and more migrations to D8
+it is lie moving all the peopel between mving trains
+testimonial vid
+State of Georgia
+d7->d8, met all the reuirements of the state
+federated mode
+share 
+A11y is non negotiable
+knowing core is working on that it huge
+mobile first is super good for them
+responsiveness and dev and content experience is good
+better inclusive core of useful modules
+and the community is growing, more and more partners and collaborators
+they caontribte back, humann drupal8
+OSS contribute back was huge factor from the get go
+Pega
+amazing expereince 
+cut delivery for content and things by a 1/3
+There are tools to migrate
+D8 to D9 to D10 is same track
+no reason to skip to 9
+let's talk about the path from 8 to 9
+ships in June of 2020
+fallback to Dec 2020 if things go awry
+2 major reasons,
+3rd party dependencies
+Symfony 3 EOL
+new improvements and secuirity support
+Drop depricated code for maintainability
+can ship new features and innovations quickly
+manage deprication code and D8-D9
+depricated code plus new innovation
+any D8 modules without deprecated 
+What is deprecated code
+search/replace
+how di I knwo if my site uses dep
+Drupal-check
+integrate drupal-check in your workflows
+upgrade status module
+will use dchck, better visual tool
+custom modules just fine!
+send to favorite developer
+/project/upgrade_status
+Stop usnig dprecated code in core
+Call to actions!
+
+
+
+
+[Getting an angry wet cat to purr: turning an unhealthy client relationship into a productive one](https://events.drupal.org/seattle2019/sessions/getting-angry-wet-cat-purr-turning-unhealthy-client-relationship-productive-one)
+
+
+Raw Notes:
+Donna'S talk!  FINALLY!
+
+Process is not going to be perfect
+but communication makes thing sbetter
+with any project need a KPI to define success
+Trust is the glue of life.  It's the most essential ingredient in effective communication
+Be transparent
+who how what
+define success
+projec tis the 
+Success is not a luanch date
+success is "I got more conversions"
+I got me end users engaged
+that is success
+in the ling run you will never be sucessful if you don't have these goals
+this is the ground work you need
+Lack of clear goals in the project is bad
+MVP, what we need right meow?
+--
+shorter term goals
+A hiss can be a good thing
+embrace that someone is pissed off
+it will guide you to learn to stop it
+hear them out
+especially when you disagree
+where is this coming from?
+discover the data source
+define wha success looks like
+if you cannot determine one ot ore of the above, it may help ID a red herring vs a big issue
+Sometimes we avoid the hiss
+sometimes it is EACTLY what we need to do!
+How can we build it so people can embrace it enthusiatically
+when you think of your team, who is your team?
+Your real projec team includes your clients
+makering leads, tech leas, other in the weeds people
+agency stakeholes
+AM, PM, Strategy, design, etc
+A leader on your team, ack other people working with you
+one clinet, they go through what went well and what needs improved
+be transparent
+ask questions
+get to know the person as well as their role
+easier to work with Jody or Tom than Anon PM client
+competing priorities
+find taime for call, get it on the table discuss needs
+all stops 
+retro boards
+allow anon posts
+their team and her team changed the way they communicates
+int he middle of the project
+did not want it to become a post mortem
+they needed to get it aligned so they could empower 
+So, this is not productive, but it can happen
+cat in the rafters, up in ceiling stressed out
+what could be causing it
+they have a job, a life outsid eof communicating with them
+what peices can I take off your plate
+sometimes just saying it help
+sometimes you can actually help
+user journey
+work it out by better communicating
+AND what if your dev teamis wrong
+what if something actually gets screwed up
+OWN it
+it sucks but you have to
+don't get defensive
+agree on the problem to open the conversation
+what aspects of the issue are the most valuable
+what is needed to address it
+propose a timeline
+when you propose a timeline, do not be late!
+no one wants to go back and have same ocnversaiton again
+sometimes, you get it  jsut right and they still say there is an isssue
+find the common ground
+where was expectations different
+this community draws people pleasers
+Prioritie that other feature requests will be deprioritized to allow tie to work on the issue
+Wha to avaoid when things go wrong
+DOn't blame, 
+don't get defensive
+Don't forget to showcase what you did to date
+don't miss out on the chance to speak positie about the future
+Let's keep going 
+Scope creep means you cna have a long term relationship
+6 months down the line, still going to be there to work through these things
+define what those next steps are
+
+
+
+
+https://twitter.com/ThinkTandem/status/1116042829342466049
+
+
+When Drupal met Symfony
+
+Raw Notes:
+More flexible
+He dos not knwo Drupal, he is Symfony
+Spmf compments not framework
+Components D8 uses
+Http kernal
+kernal.request
+unsierialize request data
+kernal.contriller
+priorities matter
+register your service
+services:
+Drupal\acme\EventSubscriber\...
+tags
+...
+Custom headers
+easy
+RestAPI spec
+but for Drupal?
+into and services yml
+can autowire true to figure out things
+Controlers as a service
+dependency injection
+prefered method for accessing 
+\Drupal::('foobar');  NOT GOOD
+-> method
+Controlers as a service
+no ControllerBase no Container, just inject what you need
+Drupal has this but it is Drupal and
+too fast to keep up
+NNEEEDDDD THESE SLIDES!
+no more inline @var type hints
+helps to preent fat controllers
+easier to test
+looks pretty
+controller exceptations
+"extra" bundle
+base don Event Subscribers
+a 1:1 copy of
+ParamConverter
+create your own
+caching annoyances
+forms, nobody likes them
+validators
+Just try it!
+for him it made a lot of difference
+got his team of the isald
+learn from each other's solutions
+there is more than the modules on drupal.org
+packagist also exists! just not for Drupal - PHP native
+
+In the end it is all PHP
+
+TODO: Understand possible patterns:
+https://en.wikipedia.org/wiki/Serialization
+
+
+https://twitter.com/McDwayne/status/1116051552890830848
+
+
+## Wrapping Up
+
+DrupalCon is the best thing of the whole year for Drupal folks.  The learning and the love in the community is like nothing else.  I felt so bad about being too sick for Contribution Day on Friday made me literally sicker than the flu did and tossed me into a depression that ended up pushing the publication of this post out as far as it did.  
+
+I would feel worse but for the facts that 
+1. I know beyond any doubt that I love this community and an off day here or there is not a bad thing
+2. Contributing to Drupal is an every day opportunity, not just a 'while at DrupalCon' type thing.
+3. All the presentations are online for watching as I need to dig into any topic.  
+4. I get to go to more events in a year than almost anyone else at DrupalCon. So while I might have missed some of it, I will see everyone again sooner than later as I stay in the Drupal world.  
+
+I am not going to feel guilty enough to rewrite this in the future. If anyone else reading this has questions, please leverage the comments.  

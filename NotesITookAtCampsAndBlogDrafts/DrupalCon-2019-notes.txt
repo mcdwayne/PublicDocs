@@ -27,8 +27,7 @@ Bagels and coffee and tea
 
 ### DrupalCon BarCrawl
 
-The event was listed on the [events page for DrupalCon]
-(https://events.drupal.org/seattle2019/drupalcon-monday-night-pub-crawl)
+The event was listed on the [events page for DrupalCon](https://events.drupal.org/seattle2019/drupalcon-monday-night-pub-crawl)
 
 We went to the following places and I drank whiskey at all of them
 

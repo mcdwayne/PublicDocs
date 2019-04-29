@@ -25,6 +25,13 @@ The bad news is that I didn't open tickets for everything, just made this report
 
 ## A place for planning for the future
 
-Beyond the tool itself, Matt and [Joe Purcell](https://github.com/josephdpurcell) have been using this repository to [help coordinate "Drupal 9 readiness"](https://github.com/mglaman/drupal-check/wiki/Drupal-9-Readiness).  We, the Drupal community, want to make it as easy as possible to get ready for Drupal 9 sooner than later
+Beyond the tool itself, Matt and [Joe Purcell](https://github.com/josephdpurcell) have been using this repository to [help coordinate "Drupal 9 readiness"](https://github.com/mglaman/drupal-check/wiki/Drupal-9-Readiness).  We, the Drupal community, want to make it as easy as possible to get ready for Drupal 9 sooner rather than later. And we have a chance to get together and talk about this at every camp and conference durin Contribution or Sprint days.  Including the largest one for us in North America, DrupalCon.
+
+[DrupalCon Seattle 2019 Contribution Sprints ](https://events.drupal.org/seattle2019/contribution) are happening all week long with Friday dedicated to helping new folks contribute.  If you are completely new to Drupal or think "well, I am not really qualified to code Drupal" you should come on our anyway as there is a lot you can do to help, even if it is just opening tickets for the modules and report what we have already discovered.  
 
 
+# A brighter future
+
+One of the [ideals of Drupal 9 is that "the upgrade will be easy"](https://www.drupal.org/blog/plan-for-drupal-9).  I believe this is going to be true for all Drupal users if we work here and now together.  
+
+Together, we can make sure all the code is ready for Drupal 9 and well beyond. Together, we make Drupal amazing. Together we can make a difference.  It's up to to us.  Hope to see you at DrupalCon or at another contributor day soon.  

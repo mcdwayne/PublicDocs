@@ -1,0 +1,436 @@
+WordCamp Orange County 2019: Where karaoke is the after party and you have to take the freeway no matter where you are going
+
+I made the short hopper flight south to the home of the the [Ayn Rand Institute](https://en.wikipedia.org/wiki/Irvine,_California) and [John Wayne Airport](https://www.ocair.com/default).  This was the first time I have flown into that airport since they lost my luggage when I was in [Americorps](https://www.nationalservice.gov/programs/americorps) about 15 years back.  They didn't lose my luggage this time and this set me up for a really great time at my first ever [WordCamp Orange County](https://2019.oc.wordcamp.org)
+
+https://twitter.com/joesimpsonjr/status/1122162318987517954
+
+
+## Food and Fun
+
+### Speaker/Sponsor
+
+We gathered at [Rancho San Joaquin Golf Course](https://www.ranchosanjoaquin.com/) for the traditional kickoff to the event, the Speaker/Sponsor/Volunteer dinner. I don't always read the speaker line up super close when I go to a camp, mostly due to the velocity in which I attend them. This has the nice side effect of always being pleasantly surprised by one or more faces I didn't realize was going to attend.  The staff was super nice and I thought did an outstanding job.
+
+https://twitter.com/OCWordCamp/status/1121992371846156289
+
+
+We had to vacate the golf course at 8:00pm and some of us decided to have one more round over at the [Auld Dubliner](http://aulddubliner.com/).  This pub is set in a place called [The District at Tustin Legacy](thedistricttl.com) which is a fake village that is just shops and restaurants and bars. It was a great time.  A huge thanks to my [WhyILearnIT co-producer](https://www.youtube.com/watch?v=9VEs74paL1U&list=PLX403Ae0_Ja1FDsvwjzBJoGbydO6JnFsD) and chauffeur for the evening [Bridget Willard](https://twitter.com/YouTooCanBeGuru).
+
+https://twitter.com/Pastelitocr/status/1122002617964433408
+
+
+### Saturday
+
+Coffee, teas and as many snacks. Many snacks. If one thing is true about this camp, you are not likely going to go hungry. Lunch was lunch trucks that gave an options of tacos, BBQ brisket sandwiches, and some kind of other sandwich option.  I went with the tacos based on the trusted suggestion of my fellow vegan [Jessi Gurr](https://twitter.com/jessigurr) and am glad I did.  
+
+https://twitter.com/ggschrisw/status/1122231480577429504
+
+
+### WPVegan Dinner
+
+Our original plan was to check out the very amazing looking high end Mexican fusion vegan restaurant [Seabirds Kitchen](https://www.seabirdskitchen.com/menu), but that place proved too popular and we had to call a last minute audible. Fortunately directly across the street was a [Native Foods](https://www.nativefoods.com/locations/orange-county/costa-mesa/) which is my new favorite vegan fast food joint.  The BBQ brisket burger and fried Brussels sprouts are literally my favorite things I have maybe ever eaten.  Go there when you can.
+
+https://twitter.com/McDwayne/status/1122314454929010688
+
+
+### After Party and WCKaraoke!
+
+After a full day of sessions and dinner we regathered at the funky little Irish pub [Durty Nellys](http://durtynellyscostamesa.com/) which is also a 7 night a week Karaoke bar.  THe place was very crowded but the weather meant that stepping outside for conversations between drinks was quite pleasant and all in all I would call it a successful time together for camaraderie.  
+
+https://twitter.com/mkarikas/status/1122378450029826049
+
+
+### Sunday
+
+Coffee and tea.  I skipped a real breakfast and was just going to snack lightly until lunch.  Then out of nowhere, the amazing awesome human being [Jon Gilbert](https://twitter.com/prefont) showed up with a vegan poke bowl from I do not know where along with the best vegan banana bread I have ever had.  This was the best food related thing that happened to me at maybe any camp!  
+
+https://twitter.com/McDwayne/status/1122557070950031360
+
+
+Lunch was once again food trucks and I had a second (honeslty less amazing) veggie poke bowl for lunch.  The other option was falafel/gyro and fries. I did not catch the names of any of these trucks from either day and would love someone to inform me of them in the comments. We again enjoyed the pleasantness of some outside air.
+
+https://twitter.com/BeaverBuilder/status/1122588681146003458
+
+
+Sunday Social
+
+Immediately after the the closing remarks they had a "taco and mashed potato martini sundae" social hour that also included a number of desserts.  It was a very nice way to cap off the event and let us socialize and network without that "well, I guess it's over" adriftness I get that accompanies other events. 
+
+No tweets of the sundaes can be found so here is my new favorite meme video that got tweeted during the event.
+
+https://twitter.com/MistressPrime/status/1122631006266114048
+
+
+## Sessions
+
+Opening Remarks
+
+https://twitter.com/JustinFerriman/status/1122165307118739456
+
+
+[Making the world a better place through web design](https://2019.oc.wordcamp.org/session/designing-accessibility/)
+[Natalie MacLees](https://twitter.com/nataliemac)
+
+I had just seen Natalie, my fellow crocheter, give a very inspirational talk back at [WC Raleigh](https://www.mcdwayne.com/2019/04/07/wc-raleigh-2019/) and was very much looking forward to this one. This talk as more of a 'face reality' talk for the industry as it presented the overwhelming evidence that we are effectively telling disabled people they are not welcome on our internet.  This has been a topic we are talking about more and more and I am glad that we are.  At the same time I am glad, I feel a dread that it just seems so hard. Like recently when testing out speed testing tools, one revealed how far off I was from real ARIA standards, even though my lighthouse score was 100 for this area. While I want to improve, and am making strides on it, to see how far that effort fell short when I really did think I was on the right path, put me in a mood that this talk hit home. Especially the last part that encouraged us to do what we can every iteration.  I want to tell **everyone** they are welcome on my websites.   
+
+
+Raw Notes:
+I came in late
+A11y Inclusivity is a human right
+Everyone need to think about inclusive design
+Inclusive design should be built into your process
+hard to go back and fix
+how are we doing?
+Bad.  we are failing
+Fortune 100 company sites
+815,600 
+average 8000 issues per site
+WebAIM Million
+97.8% have a11y issues
+it's not just me, it is all of us all the time with this issue
+our lives are digital now
+work communication, business, government, personal use
+we are leaving people behind
+the Web industry collectively used it's power to state that disables people do not belong here
+no one made this decision explicitly, that is what happened
+We need to step back from individual work and think what we are doing
+what kind of world are we building?
+Social Justice and Civil Rights
+Legal considerations
+little players get sued too
+wine stores and shoe stores
+Many businesses would be livid to find the tech choices their teams are making are actively incurring legal liability
+Where do we go from here?
+1. start thinking about websites in terms of that they ask of people
+10mb of JS really needed for that form?
+2. Commit to learn about inclusive design
+there is a lot to know, not all that hard, just a lot
+Ethan Marcotte quote - one thing a week, build into your process to adapt to how people use your site
+3. Be an advocate and a gatekeeper
+We are the last people to touch a site before it goe public
+no one can force you to code a certain way
+4. broaden your thinking about diversity
+not for them, with them
+5. do something even if it is not the perfect thing 
+build more accessible each iteration, each project
+
+https://twitter.com/pathfinderseo/status/1122172379302465536
+
+
+
+[You Don’t Say: The importance of earnest feedback](https://2019.oc.wordcamp.org/session/you-dont-say-the-importance-of-earnest-feedback/)
+[Cami Kaos](https://twitter.com/camikaos)
+
+OK, the fact that [Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde) is literally one of my favorite writers, and the title references hi most famous play, did factor in but was not the only reason I went to this talk. Cami did an outstanding job of putting some clarity to one of the major issues around feedback, the mixing of coaching vs evaluation.  The mixing of these, I am now convinced, underlies the misalignment of expectation and results of interpersonal professional communication.  It is going to be my job in the future to ask myself what job I think I am doing when I give any feedback moving ahead.  Let me add some final appreciation feedback to say I really enjoyed this talk by Cami.   
+
+Raw Notes:
+Feedback can make you uncomfortable
+Can't just say good things
+Oscar Wilde quote - importance of being earnest
+feedback is not something you are naturally going to be good at
+you need to practice it
+When personal feedback stories from room
+3 kinds of feedback - a common framework
+1. Appreciation -  good feedback, keeps the wheels moving in OSS and volunteers
+making sure they are heard and matter
+the issue is sometimes it is not appropriate or on topic
+saying "your talk was amazing" is good
+"your hair smells great" if you don't know them, that is bad
+2. Coaching - helping people grow and change
+Sharing knowledge and gained experience
+Mentoring is a form of coaching
+3. Evaluation - best friends with Coaching
+like depression and anxiety
+Evaluation should not be emotional
+simple feedback of how things are going
+evaluate performance, doing this well or poorly
+thumbs up or thumbs down
+hard not to let evaluation be clouded
+If yo are evaluating, do not try to also at same time
+when someone ask you about their latest site, that is evaluation
+if "how can I make it better?" that is coaching
+If evaluation is positive can be appreciation
+make sure appropriate for level of connection you have with them
+What job are you trying to do?
+Exercise to look back at evaluations and how it was handled
+someone thought she was pregnant when she went on sabbatical
+caused internal gaff
+could have been an innocent mistake
+job she needed to do, was tell him what email address to send to while she was out
+that was the job
+kitchen dirty, not her job to clean the kitchen, that is what a teenager is for
+kid says "after the video" 
+turns into a fight to do it now!
+now it is "how long is the vid?"
+still gets done, the job is getting done
+in a way where all parties are appreciated and respected
+when feedback is delivered in anger, breaks the feedback
+creates a defensive aggressive feedback loop
+we have control over giving feedback
+but we do have control of how we receive feedback
+
+https://twitter.com/McDwayne/status/1122207757598248961
+
+
+### My Talk
+
+If you gave me three hours to talk about Bash I am sure I would still gripe it wasn't enough and there is still so much to say.  40 minutes was what I had and I just flat out skipped over Q and A, of which I am not very proud.  I was willing to answer any and all questions after the time slot though.  I was very encouraged by some very positive feedback.  One tweet made me just stop and bask in it for a minute, something I rarely let myself do.  I am realizing how deep a nerve Bash touches and I would actually encourage other people to give a talk about Bash, even if you don't know it that well.  I promise you, you will learn it deeper than you think might be possible and it might just change your life.  I know it has mine.  
+
+https://twitter.com/prefont/status/1122249621902729216
+
+
+https://twitter.com/joe4ska/status/1122255507417378817
+
+
+
+[How to Leverage your Project Management Methodology to Set Yourself Apart from Your Competition](https://2019.oc.wordcamp.org/session/how-to-leverage-your-project-management-methodology-to-set-yourself-apart-from-your-competition/)
+[Beth Livingston](https://twitter.com/BethLivingstoNC)
+
+I had missed Beth's talk back in WCRaleigh, but this time I was determined to see it.  Beth is a fireball of energy and her earnest grit when discussing the needed discipline required to get good at a project management methodology is nothing less than inspiring.  I was honestly expecting a good high level talk on methodologies, but instead got a whirlwind of opinionated information that was challenging and as very nuts and bolts practical as could be. This is one of those talks to send to a sleepy seeming disorganized business lead in your life.  
+
+Raw Notes:
+What we are learning 
+project management frame work,
+first you have to have one
+if you are doing any WP practice you need one
+Project Management Methodologies
+SCRUM, Six Sigma, etc
+6 productivity principles for WP
+Define the job in detail with a content first approach
+get the right resources involved
+estimate the time and costs often
+break the job down
+establish and stick to a change procedure
+establish interim and final acceptance criteria
+'site is live, we are done' is a bad acceptance criteria
+Elements of a good PM tech
+1 proper estimates 
+Stop calling it a quote, that is for fence or construction or deep detailed discovery
+2 resource Manager
+3. Work breakdown structure
+4. approach to content collection
+Proper estimating
+1. abandon the crystal ball approach
+this is the 'I guess it is going to take about this many hours' approach
+if the next estimate comes in too high then can walk away
+2. Don't try to estimate what you don't know.  This explain discovery to the client
+3. Get rid of the 'pad' a 'change control' 
+no way to have lessons learned from arbitrary overestimates
+4. Never provide a estimate...
+Resource Management
+Define the approach for the right
+people
+plugins
+hosting
+blocks
+other resources
+Approach to content collection
+1. content first?? 
+chicken and egg
+content vs design
+Explaining process to client makes it easier to grasp scope of work
+2. define how you will:
+determine content requirements
+estimate contents
+Change management
+1. acknowledge change as inevitable
+be brutally honest about it
+2.plan for change
+manage change use a change budget
+implement change control without exception
+change budget 20-30% on top of estimate to use for changes that will occur
+invoice once change is agreed to against that budget
+always get paid
+Acceptance management
+FIrmal process
+incremental
+define acceptance criteria before project begins
+Why does this matter?
+WP solutions going to look more or less the same idea
+you need something else for your unique value proposition
+You PM Methodology a a UVP
+detailed 2-step approach saves money
+phase 1 - project definition no real cost for change
+phase 3 Dev - real costs for change
+We don't pad estimates because we don't have to
+we ensure we get the right resources involved
+people, plugin, hosting, templates
+incremental acceptance avoids misunderstandings and saves time
+Your PM methodology as UVO
+we acknowledge change, plan for it and let you manage it
+never penalize change
+it sets you apart v the other guy
+the other guy i crystal balling it
+functions can not always be tied to business requirements
+content bottlenecks and delays
+pads the quote
+no change management
+does not precisely define what done means
+lay mines for other guy
+teach client to ask
+"how did you arrive at the estimate?
+How do you discover and co BR
+how do you manage the content activities
+how do __ any part of your PM methodology
+
+
+https://twitter.com/McDwayne/status/1122271495479123968
+
+
+	
+[Take Command with Custom WP-CLI Commands](https://2019.oc.wordcamp.org/session/take-command-with-custom-wp-cli-commands/)
+[Dave Ryan](https://twitter.com/0aveRyan)
+
+After seeing [Steve Grunwell's talk back at Loopconf 2017](https://www.mcdwayne.com/2017/02/09/loopconf-slc-getting-fired-up-for-developing-wp/) and [Ben Byrne's session at WC Seattle 2017](https://www.mcdwayne.com/2017/11/08/wordcamp-seattle-2017/) I have been inspired to give my own talk on extending the WP-CLI. To date, I have not given this. Now, I take every chance I get to go see someone else give a talk on the subject because I am constantly doing research on the subject for when it does work out.  Dave did an awesome job at presenting the case for WP-CLI and then showing us how scripting and writing your own commands is very powerful. At the same time he made it very accessible and even has open sourced the code he was demoing.  I am actually going to rethink how I demo the tool in the future based on what I observed in this talk. 
+
+
+Raw Notes:
+What is the CLI?
+Way in
+like a bank phone tree
+authenticate in
+press 1 for this, pres 2 for that
+wp gives you a menu
+Why?  
+saves time, especially if repetitive tasks
+you can do multiple things with it
+if you want to update a lot of posts, easy to do
+db query
+or write some custom commands
+third party packages
+REST API package lets you manipulate REST API way
+powerful
+Posts, pass queries form one command to another
+cool operators
+term meta key 
+composable
+prompt
+help
+custom commands
+why would I write a new one?
+BASH!
+command in a script or in an alias
+that is great but downsides, permission issues, not version controlled as much a we should
+defensive checks in PHP are easier than shell scripts
+safe WP-CLI command easier than safe bash
+intermix shell + PHP
+can live in package or plugin
+can install remotely
+Easier than you think
+check to see is WP is present
+callable function 
+his 'pewpewpew' function
+array for options of descriptions 
+concept of when
+same as hook system, this code at this time
+wp core download in a custom command?
+'when'
+good properties of commands
+Parallel construction.  (things that start, stop.  if begin, end)
+mimic core/common args
+Use Formats, prompts and dry-run parameters
+immense level of value that you can work with different formats
+All prompts can be overridden programmatically
+make sure someone can flag to bypass the prompt
+progress bar for easy insight on expensive operations
+can easily push and pull these commands from github
+walking though a lando script
+wp-cli add command
+lando\\cloud_city\\command
+'when' => 'before
+leads up CLI file
+namespace and use statements
+extends the wp_cli_command base class
+a few basic checks, positional arguments
+Associative flags 0 key value pair meaning
+if got positional or if a flag has been set
+then create a URL variable
+protected functions don't become commands
+good place to run logic
+checkout core
+install from list of settings
+see rest in his github
+0averyan/wp...
+lando demo of this script
+cool showing of wp live
+his code is on github
+scaffold FTW!!!!!!
+
+https://twitter.com/mlteal/status/1122573210644389888
+
+
+	
+[Thirteen Blog Tips from a Thirteen Year Old](https://2019.oc.wordcamp.org/session/thirteen-blog-tips-from-a-thirteen-year-old/)
+[Emily Lema](https://twitter.com/emilyglema)
+
+I am 100% in favor of letting young people, actually anyone with something to teach and share, give talks at WordCamps. Young people always have a way of speaking their mind and flatly saying things. Sometimes these insights are genuinely inspiring and provide an honest, unfiltered clarity of a subject.  Emily's approach to this talk was very well crafted and was jammed with practical advice for approaching blogging.  She said something towards the middle that I am going to paraphrase as "the purpose of a blog is to connect with a reader and be helpful" which I am still chewing on.  I historically don't believe in universal purposes for any tools, which is honestly what I think a blog is, but I am not able at present to find any flaw in her logic about a blogs purpose.  
+
+Raw Notes:
+1. Take your own photos
+It is her work and this is important
+connection with the audience
+example, went through a bunch of sites when looking for a service
+stock photos are a bad sign
+real images made them choose that company
+2. Use Headings
+vital to help when people skim
+get your message out there
+you still want your message heard
+3. Have an opinion
+facts are boring,
+an opinion on those facts are more engaging
+4. put your picture on the site
+connects to people to you
+5. always be helpful
+give them your opinions and tips
+goal of blogging is to help people out and give people out
+6. Allow comments
+this can be scary
+might get hateful comments, but a great way to connect with your audience
+helps build the community you want
+7. Don't worry about looks
+simple is better to her
+content is more important
+people are not going to site to look at it, they are there for the content
+8. Have an About Page
+your picture is not enough
+people will trust you if they feel they know you
+this is a good path for this
+Cosmo vs her friend story
+9. finish when you thought it out
+don't worry about perfect size or shape of a post
+once your thought is out there, stop
+use headers
+don't try to write to a word count
+10. You don't have to hit publish
+save draft and iteration is awesome
+Make sure what you put out there is what you really believe
+11. HIT PUBLISH
+get over your impostor syndrome
+her mom asks a lot of opinions before she publishes
+she used to ask her dad if it is was OK to publish, now no fear
+12. Keep at it!
+it is key to be consistent
+takes a while to get a list of posts
+13. You will find your voice
+this is a hard one
+people always worry about this
+after 5 years of blogging you will have your own tips and journey
+
+https://twitter.com/carinarrigo/status/1122608559592624129
+
+
+[Plugin-a-palooza](https://2019.oc.wordcamp.org/session/plugin-a-palooza/)
+
+This is a pretty interesting event that is hard to capture in a short synopsis.  It is somewhere between the gong show and a plugin showcase.  Hosted by [Alex Vasquez](https://twitter.com/alexjvasquez), our judge panel voted on plugins that were written in the last 2 month under a specific set of rules.  Third place was $500, 2nd was $1,500 and grand prize of $3,000. It was a very fun time and I hope this makes it to WordPress.tv. 
+
+
+https://twitter.com/mkarikas/status/1122628512223875072
+
+
+## Wrapping up
+
+ I commented to my colleague that this was a more technical camp than I had actually anticipated. It was filled with inspiring conversations. I really enjoyed catching up and nerding out with my fellow [System76 Pop!_OS](https://system76.com/pop) and general OSS fan [Joseph Dickson](https://twitter.com/joe4ska). Also of note, one camper told me the story of how he helps high school students figure out web development, including how one student has built her own business and gone from nervous person afraid of messing up to a brave and empowered individual once she understood she could make the internet her own. I feel a deep gratitude to be part of the world that makes that possible.  This was my first WordCamp Orange County, but I certainly hope it not the last one as I hope to return for WC Orange County 2019!
+
+https://twitter.com/OCWordCamp/status/1122237267660214273
+

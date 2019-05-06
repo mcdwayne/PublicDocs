@@ -1,0 +1,460 @@
+WordCamp ATL
+
+
+
+General:
+
+https://twitter.com/thewpbuffs/status/1124325955533725698
+
+https://twitter.com/wpmodder/status/1124296862041821184
+
+https://twitter.com/globalspex/status/1124292813913505799
+
+https://twitter.com/wordcampatl/status/1125038190493077504
+
+
+## Food and Fun
+
+Thursday night
+[Pittypat's Porch](https://www.pittypatsrestaurant.com/)
+
+https://twitter.com/McDwayne/status/1124124001792593920
+
+
+friday
+
+speaker dinner
+
+[The Gathering Spot](https://thegatheringspot.club/)
+
+https://twitter.com/bobbykircher/status/1124518573676879872
+
+[Trader Vics](https://tradervicsatl.com/)
+
+https://twitter.com/mpmike/status/1124474107171680256
+
+
+Lunch 
+
+https://twitter.com/ggschrisw/status/1124732038895034369
+
+After party
+https://twitter.com/JDSWebDesignLLC/status/1124812733705281536
+
+WCKaroake
+
+https://twitter.com/McDwayne/status/1124845780135743488
+
+Sunday:
+
+Lunch
+
+https://twitter.com/wordcampatl/status/937032905083314176
+
+
+
+Contribution Day
+
+[Being a Model WordPress Contributor](https://2019.oc.wordcamp.org/session/being-a-model-wordpress-contributor/)
+[Jonathan Desrosiers](https://twitter.com/desrosj)
+
+2013 first contribution
+simple 1 line change
+props
+WC Providence
+helped with a change but didn't credit since didn't directly touch code
+Lurking in the bushes
+getting a feel for community
+see people knew from Trac and Slack
+went into next phase, volunteering phase
+raise hands to do things
+mundane things at first, meeting sumaries, accumulating research into blog posts
+IE report
+2017 Community Summit
+honor to be there
+Motivated to do more
+recognized for contributions he had been doing
+last year Bluehost hired him to be core contrib full time
+Someone asked for him to become core contributor rights
+ma.tt approved it last year
+this year he is on the triage team, the lead
+6,500 tickets in trac
+lot of issues, some are just misplaces core requests
+Wordwide
+it has led to so many opportunities
+so many friends from contributing to Open Source
+OSS Contributions transend jobs
+those contributions go with you wherever you go
+What makes a great contributor?
+be thorough as possible
+over 1/3 of internet, can run in many combinations and code
+Be patient
+it takes a while sometimes
+not everyone has English as first language
+put yourself in other person's shoes
+Always be curious
+always try to learn new things
+Be empathetic
+again, put yourself in their shoes
+Understand timing
+set realistic expectations
+it is not because people don't care or not important
+but sometimes not in line with current project priorities
+Understand the project priorities
+You are not alone
+there are others there even if not immediate respond
+Assume good intent
+people are not trying to be jerks
+Master specific topics 
+this is valuable for the project
+you can also become a "Generalist"
+He focuses on Media compnenet and multisite, but otherwise a generalist
+go to make.wordpress.org
+find a team
+get on slack
+observe, look at trac tickets and learn how things work
+2nd and 4th wednesday in Core slack is a new contributor meeting
+Jonathan is a moderator
+Research - follow the process and see where ticket or code line was introduced
+Volunteer
+raise your hand to help
+Good furst bugs 
+lot of ticket reports for 'first bug' good way to get started
+fluctuates week to week
+Convince the boss that you should do this on company time
+Don't be afraid to ask for help
+don;t feel alone and stuck, ask for help
+Details, details, details.  Be specific as possible
+someone else has zero prior knowledge outside that ticket
+save future research and duplicate work
+Maintaining vs Contributing
+Maintainers have long term stake in the project
+Contributors drop in and out
+not as time consuming as Maintaining
+Have a Positive impact
+just try to do good
+further reading Nacin's  
+
+https://twitter.com/McDwayne/status/1124332571846946817
+
+https://twitter.com/aaroncampbell/status/1124336572336431104
+
+WP.TV overview from
+sbddesign
+@stephendelorme
+Contributing to WP
+What is WP.tv?
+see talks from camps
+So, who cares?
+as an OSS project, discussion on the future of platform
+WPTV serves as a way to disseminate this discussion across the glob, and as an archive of the history of the WP project
+there is hardware to manage
+new contributors, captioning and editing
+1gig file size limit
+anyone can submit to it
+volunteer editors help moderate these videos
+check against quality guidelines
+trim videos, add intro and outro
+compress as needed
+subtitling/captioning
+handbook make.wordpress.org/tv/handbook
+wptv on slack
+framecruncher sdbbesign.github.io/framecruncher
+
+Angela - community overall,
+starting your own meetup
+143 WordCamps last year
+
+WP.TV naming convention
+name - time of the talk
+
+
+Opening Remarks:
+
+
+
+My talk:
+
+https://twitter.com/kosburn0408/status/1124729943529807875
+
+
+https://twitter.com/RichHill73/status/1124720510640766977
+
+
+
+
+[GDPR for Developers](https://2019.atlanta.wordcamp.org/session/gdpr-for-developers/)
+[Andrew Norcross](https://twitter.com/norcross)
+
+He is not a lawyer
+talk to council with your company for real legal advice
+The word we care about is Data
+Data is worth a lot of money to a lot of people
+Any information that is related to or identifies a naturally identified person
+about 25 years ago
+in the early days 
+was all about connecting people
+All companies say "trust us with your data"
+that was a mistake
+92% of people worry about their online privacy
+31% of people understand how companies use and maintain their data
+74% of people have limited their online activity int he last year due to privacy concerns
+many Major brands have one thing in common
+Data breaches
+EU privacy and law work different
+The user has rights about that site
+Right to be informed if you have a data breech you must tell the people effected
+right to data access
+more or less on demand
+in a human readable format
+can't be just a raw DB dump without explanation
+has to be all of it
+Right to be forgotten
+deleting 
+quitting facebook, it never goes away
+at best you are leasing data
+Because 
+it never belonged to you anyway
+James Lang
+developer from VW
+in prison
+was building emissions 
+not the CEO, CTO or decision maker
+not lead dev
+not the ringleader
+doing his job
+building what we are asked to build is not good enough 
+so what about it?
+In the US we define personal data slightly different
+'anything that pertains to me' in the EU
+health data
+political opinions
+racial origina
+sex life
+genetic data
+biometric
+location data
+pseudonymized data
+online identifiers
+why that last one?
+IP address
+Mobile device IDs
+RFID
+MAC Addresses
+Cookies
+user IDs
+we hold all this in WP core for EVERY user
+this applies to EVERYONE who does business with the EU
+can avoid? maybe but no
+Can't ignore the law
+Data controllers
+you decide what gets collected, how it used and shared
+Data processors. use that darta
+Privacy by design
+privacy can't be bolted on later
+7 point dev methodology
+data intensive process
+has to outline what data and who has access
+part of discovery
+regulators can demand on demand
+Need to know everything
+what comes into that site
+Privacy Impact Assessment
+This is still evolving
+voice data was added after initial passing
+not going to loophole out of this
+Is this actually enforced?
+They do enforce it
+France fined Google $57M for not complying
+not the max they could charge
+individual contries can come after you
+Will they really notice me?
+First company every fined was over 2018 summer data breech
+did every step right, letter of the law
+still got fined
+Ignorance is not an excuse
+It matters
+you want your stuff secure 
+And he does not want Facebook to ever 
+know mor about him than he does
+
+https://twitter.com/joeoesterling/status/1124758985968685057
+
+
+[Basic Principles of Software Architecture](https://2019.atlanta.wordcamp.org/session/basic-principles-of-software-architecture/)
+[Micah Wood](https://twitter.com/wpscholar)
+
+
+Software dev lifecycle
+Requirements
+design
+implementation
+QA
+Maintenance
+But what do clients care about
+Cost
+Timeline
+Effectiveness
+will it work now and a month from now, in the future can others take care of it?
+Time and costs affected be design and implementation and delivery process
+design changes are cheap and easy
+implementation phase, be more costly
+Delivery - reworking things after delivery will take the most time and are guaranteed to cost a fortune
+What makes a project effective
+solves the problem
+is easy to maintain
+The equation of software design
+D = (Vn + Vf)/ (Ei+Em)
+From code simplicity
+V = value
+E = ease of maintaining
+24% APR
+technical debt can bankrupt your project
+shortcuts in maintenance
+Law of change
+The Longer your program exists, the more likely that any part of it will have to change
+Law of defect probability
+The chance of introducing a defect is proportional to the size of the changes you make
+Law of simplicity
+The ease of maintenance is proportion ot he simplicity of it's individual pieces
+goals
+Easy to understand
+easy to  modify
+easy to test
+Self-Documenting Code
+Use clear naming and small, specific functions
+don't get out of sync with inline comments, or the code starts lying to you
+don't use vague or abbreviated variables
+be clear
+Limit cognitive load
+Consolidate logic and create clear boundaries
+Limit code reviews to less than 200 lines of code
+D.R.Y
+Repetition is the mother of learning
+repetition is good while you are learning
+"Every pieve of knowledge must have a single, unambiguous, authoritative, representation within a system" pragmatic programmer
+Duplication of knowledge is a violation
+duplication of code is NOT a violation
+Knowledge includes data, business logic, algorithms
+Code is Variables, code structures and function calls
+Ambitious application before there is a duplication of knowledge leads to prematre optimization
+Ambitious application to code structures result in unnecessary coupling and complexity
+You aint gonna need it
+YAGNI
+Single responsibility principle
+a class or module should have one and only one reason to change
+think functionality, logic and display
+if coupled, changes cause issue for both
+Open Closed Principle
+software entities should be open for extension, but closed for modification
+make sure easy way to extend the code
+Modularity
+Clear boundaries
+Decoupled
+Continuity
+protection
+must protect classes instead of all public
+Extensibility
+Reuse/Release principle
+Only components that are released through a tracking system can be effectively used
+composer is a good solution for this
+or npm
+wppackagist.org
+A good software architect will delay decisions for as long as possible
+uncle bob martin
+care about the core business logic first and foremost
+the actual business core
+resources slide (good stuff)
+
+https://twitter.com/McDwayne/status/1125038708678385664
+
+
+
+
+
+[How to Control Scope Creep by Embracing Change](https://2019.atlanta.wordcamp.org/session/how-to-control-scope-creep-by-embracing-change/)
+[Beth Livingston](https://twitter.com/wproadmaps)
+
+Scope creep is the villian
+She got into WP during the extreme couponing era
+.net first, but that developer got a girlfriend and quit
+He gave her Joomla, she then found WP
+What we going to learn?
+What is scope creep
+How projcts creep
+proof this works
+how to embrace change
+and the magic of the change budget
+How does a WP project creep?
+Lack of clarity
+Beginning design and Development too early
+Over promise
+Gold plating
+How it hapoens
+at deliver "just add"
+"I thought I told you"
+Content late from clients
+They swap out point of contact to not the subject matter expert
+Common ways you create it in project
+"Throwing something in because you think it is cool"
+this is gold plating
+"waste of money and time"
+"That's a small change, I'll kist do it for free for now"
+"Change control process takes too long"
+"We will start before we have all the needed parts"
+Embrace change management
+Define the job in detail
+get the right people involved
+estimate the tim and cocsts
+Break the Job down
+Establish a change procedure
+Agree on acceptance criteria
+How?
+Educate the client
+acknowledge change as inevitable
+Abandon the crystal ball approach 
+Don't just guess, have measurable way to do things
+Position change as opportunity
+Always position as phase 2 
+Establish and STICK TO a change management process
+Put the client in charge of change
+It is not their fault they don't know
+Discuss your management plan early
+Be brutally honest about change
+Suggest other options for content activities
+Let them know that all projects do change
+Don't treat change like a penalty to the client
+Positioning change as Opportunity
+Phase 2 can be as big as needed
+micro site for phase 1 is OK if they are in a hurry or don't have much content
+Stick to your established Change Process
+Putting the client in charge of change
+"Pad is Bad"
+You can't measure it
+stop calling it a quote
+it is an estimate
+Elements of Good Change Control Process
+Uses a change budget
+Defines what contitues a change
+Identifies who can intimidate a change request
+Establishes that all change requests are in writing
+Specifices where the CR will be maintained
+ID who approve/rejest the CR
+Specify how long a change approval or jection should take
+Clearly sttes what happens if the client does not respond
+Specifies the billling
+examples of her process
+issues management is a whole related thing but separate
+Review
+
+
+
+
+https://twitter.com/McDwayne/status/1125101142327857153
+
+
+
+
+## Wrapping Up
+
+https://twitter.com/wordcampatl/status/1125097860607938561

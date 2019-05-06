@@ -21,9 +21,7 @@ https://twitter.com/Pastelitocr/status/1122002617964433408
 
 ### Saturday
 
-Coffee, teas and as many snacks 
-
-Lunch
+Coffee, teas and as many snacks. Many snacks. If one thing is true about this camp, you are not likely going to go hungry. Lunch was lunch trucks that gave an options of tacos, BBQ brisket sandwiches, and some kind of other sandwich option.  I went with the tacos based on the trusted suggestion of my fellow vegan [Jessi Gurr](https://twitter.com/jessigurr) and am glad I did.  
 
 https://twitter.com/ggschrisw/status/1122231480577429504
 
@@ -49,10 +47,10 @@ Coffee and tea.  I skipped a real breakfast and was just going to snack lightly 
 https://twitter.com/McDwayne/status/1122557070950031360
 
 
-Lunch was once again food trucks and I had a second (honeslty less amazing) veggie poke bowl for lunch.  We again enjoyed the pleasantness of some outside air.
-
+Lunch was once again food trucks and I had a second (honeslty less amazing) veggie poke bowl for lunch.  The other option was falafel/gyro and fries. I did not catch the names of any of these trucks from either day and would love someone to inform me of them in the comments. We again enjoyed the pleasantness of some outside air.
 
 https://twitter.com/BeaverBuilder/status/1122588681146003458
+
 
 Sunday Social
 
@@ -73,7 +71,7 @@ https://twitter.com/JustinFerriman/status/1122165307118739456
 [Making the world a better place through web design](https://2019.oc.wordcamp.org/session/designing-accessibility/)
 [Natalie MacLees](https://twitter.com/nataliemac)
 
-I had just seen Natalie, my fellow crocheter, give a very inspirational talk back at [WC Raleigh](https://mcdwayne.com/wcraleigh-2019) and was very much looking forward to this one. This talk as more of a 'face reality' talk for the industry as it presented the overwhelming evidence that we are effectively telling disabled people they are not welcome on our internet.  This has been a topic we are talking about more and more and I am glad that we are.  At the same time I am glad, I feel a dread that it just seems so hard. Like recently when testing out speed testing tools, one revealed how far off I was from real ARIA standards, even though my lighthouse score was 100 for this area. While I want to improve, and am making strides on it, to see how far that effort fell short when I really did think I was on the right path, put me in a mood that this talk hit home. Especially the last part that encouraged us to do what we can every iteration.  I want to tell **everyone** they are welcome on my websites.   
+I had just seen Natalie, my fellow crocheter, give a very inspirational talk back at [WC Raleigh](https://www.mcdwayne.com/2019/04/07/wc-raleigh-2019/) and was very much looking forward to this one. This talk as more of a 'face reality' talk for the industry as it presented the overwhelming evidence that we are effectively telling disabled people they are not welcome on our internet.  This has been a topic we are talking about more and more and I am glad that we are.  At the same time I am glad, I feel a dread that it just seems so hard. Like recently when testing out speed testing tools, one revealed how far off I was from real ARIA standards, even though my lighthouse score was 100 for this area. While I want to improve, and am making strides on it, to see how far that effort fell short when I really did think I was on the right path, put me in a mood that this talk hit home. Especially the last part that encouraged us to do what we can every iteration.  I want to tell **everyone** they are welcome on my websites.   
 
 
 Raw Notes:
@@ -122,6 +120,8 @@ https://twitter.com/pathfinderseo/status/1122172379302465536
 
 [You Don’t Say: The importance of earnest feedback](https://2019.oc.wordcamp.org/session/you-dont-say-the-importance-of-earnest-feedback/)
 [Cami Kaos](https://twitter.com/camikaos)
+
+Ok, the fact that [Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde) is literally one of my favorite writers was not the only reason I went to this talk, but it did factor in.  Cami did an outstanding job of putting some clarity to one of the major issues around feedback, the mixing of coaching vs evaluation.  The mixing of these, I am now convinced, underlies the misalignment of expectation and results of interpersonal professional communication.  It is going to be my job in the future to ask myself what job I think I am doing when I give any feedback moving ahead.  Let me add some final appreciation feedback to say I really enjoyed this talk by Cami.   
 
 Raw Notes:
 Feedback can make you uncomfortable
@@ -177,6 +177,8 @@ https://twitter.com/McDwayne/status/1122207757598248961
 
 ### My Talk
 
+If you gave me three hours to talk about Bash I am sure I would still gripe it wasn't enough and there is still so much to say.  40 minutes was what I had and I just flat out skipped over Q and A, of which I am not very proud.  I was willing to answer any and all questions after the timeslot though.  I was very encouraged by some very positive feedback.  One tweet made me just stop and bask in it for a minute, something I rarely let myself do.  I am realizing how deep a nerve Bash touches and I would actually encourage other people to give a talk about Bash, even if you don't know it that well.  I promise you, you will learn it deeper than you think might be possible and it might just change your life.  I know it has mine.  
+
 https://twitter.com/prefont/status/1122249621902729216
 
 
@@ -184,10 +186,12 @@ https://twitter.com/joe4ska/status/1122255507417378817
 
 
 
-
 [How to Leverage your Project Management Methodology to Set Yourself Apart from Your Competition](https://2019.oc.wordcamp.org/session/how-to-leverage-your-project-management-methodology-to-set-yourself-apart-from-your-competition/)
 [Beth Livingston](https://twitter.com/BethLivingstoNC)
 
+I had missed Beth's talk back in WCRaleigh, but this time I was determined to see it.  Beth is a fireball of energy and her earnest grit when discussing the needed discipline required to get good at a project management methodology is nothing less than inspiring.  I was honestly expecting a good high level talk on methodologies, but instead got a whirlwind of opinionated information that was challenging and as very nuts and bolts practical as could be. This is one of those talks to send to a sleepy seeming disorganized business lead in your life.  
+
+Raw Notes:
 What we are learning 
 project managment frame work,
 first you have to have one
@@ -278,8 +282,12 @@ https://twitter.com/McDwayne/status/1122271495479123968
 
 	
 [Take Command with Custom WP-CLI Commands](https://2019.oc.wordcamp.org/session/take-command-with-custom-wp-cli-commands/)
-[David Ryan](https://twitter.com/0aveRyan)
+[Dave Ryan](https://twitter.com/0aveRyan)
 
+After seeing [Steve Grunwell's talk back at Loopconf 2017](https://www.mcdwayne.com/2017/02/09/loopconf-slc-getting-fired-up-for-developing-wp/) and [Ben Byrne's session at WC Seattle 2017](https://www.mcdwayne.com/2017/11/08/wordcamp-seattle-2017/) I have been inspired to give my own talk on extending the WP-CLI. To date, I have not given this. Now, I take every chance I get to go see someone else give a talk on the subject because I am constantly doing research on the subject for when it does work out.  Dave did an awesome job at presenting the case for WP-CLI and then showing us how scripting and writing your own commands is very powerful. At the same time he made it very accessable and even has open sourced the code he was demoing.  I am actually going to rethink how I demo the tool in the future based on what I observed in this talk. 
+
+
+Raw Notes:
 What is the CLI?
 Way in
 like a bacnk phone tree
@@ -359,6 +367,9 @@ https://twitter.com/mlteal/status/1122573210644389888
 [Thirteen Blog Tips from a Thirteen Year Old](https://2019.oc.wordcamp.org/session/thirteen-blog-tips-from-a-thirteen-year-old/)
 [Emily Lema](https://twitter.com/emilyglema)
 
+I am 100% in favor of letting young people, actually anyone with something to teach and share, give talks at WordCamps. Young peple always have a way of speaking their mind and flatly saying things. Sometimes these insights are genuinely inspiring and provide an honest, unfiltered clarity of a subject.  Emily's approach to this talk was very well crafted and was jammed with practical advice for approaching blogging.  She said something towards the middle that I am going to paraphrase as "the purpose of a blog is to connect with a reader and be helpful" which I am still chewing on.  I historically don't believe in universal purposes for any tools, which is honestly what I think a blog is, but I am not able at present to find any flaw in her logic about a blogs purpose.  
+
+Raw Notes:
 1. Take your own photos
 It is her work and this is important
 connection with the audience
@@ -376,7 +387,7 @@ an opinion on those facts are more engaging
 connects to people to you
 5. always be helpful
 give them your opinions and tips
-goal of blogging is to help pepolpe out and give people out
+goal of blogging is to help people out and give people out
 6. Allow comments
 this can be scary
 might get hateful comments, but a great way to connect with your audience
@@ -421,5 +432,8 @@ This is a pretty interesting event that is hard to capture in a short synopsis. 
 https://twitter.com/mkarikas/status/1122628512223875072
 
 
+## Wrapping up
 
+ I commented to my colleague that this was a more technical camp than I had actually anticipated. It was filled with inspiring conversations. I really enjoyed catching up and nerding out with my fellow [System76 Pop!_OS](https://system76.com/pop) and general OSS fan [Joseph Dickson](https://twitter.com/joe4ska). Also of note, one camper told me the story of how he helps high school students figure out web development, including how one student has built her own business and gone from nervous person afraid of messing up to a brave and empowered individual once she understood she could make the internet her own. I feel a deep gratitude to be part of the world that makes that possible.  This was my first WordCamp Orange County, but I certianty hope it not the last one as I hope to return for WC Orange County 2019!
 
+https://twitter.com/OCWordCamp/status/1122237267660214273

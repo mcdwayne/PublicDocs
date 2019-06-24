@@ -1,0 +1,10 @@
+Lessons Learned Teaching Open Source, Git, Bash and Other Command Line Tools
+
+In my time teaching people technology I have observed a few simple truths. Mostly that 'people are people' and there are some common behaviors and thought patterns most people share. Understanding these commonalities has helped me help more people faster and with better results no matter what technology we are learning. This session is designed to help anyone currently teaching, or who has a desire to start teaching, to recognize these common behaviors and work better with with their audience.  
+
+Expect to walk away with:
+- Tools for 'Active Listening' 
+- A desire to embrace the freedom to give them what they need vs following a syllabus
+- How to prepare for the fear and celebrate the failures
+- A better sense of setting expectations and shattering them
+ 

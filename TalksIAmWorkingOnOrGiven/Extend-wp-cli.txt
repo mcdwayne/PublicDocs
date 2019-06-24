@@ -1,13 +1,66 @@
-Making WP-CLI Your Own: Extending a command line tool for the first time
+Making WP-CLI Your Own: Extending a command line tool for your own needs
 
 WordPress' command line interface, WP-CLI is a robust, easy to understand administrative that can help anyone with a WordPress site speed up workflows and automate a lot of complex tasks.  
 
 Over time, every developer finds themselves chaining together multiple commands and building bash aliases to accomplish repeated tasks.  One of the most powerful aspects of an Open Source tool is GPL Freedom 'to change the software to suit your needs'.  This session will take you through the process of examining the code and building your first WP-CLI command.  
 
-It is easier than you think and the same core principals can be applied to any open source tool you use.  
+It is easier than you think and the same core principles can be applied to any open source tool you use.    
 
 
 Walk away with:
 - A new appreciation for the customizability command line.  
 - The desire to script 'all the things' to save time.
 - Ideas about how to automate your processes to be more productive
+
+
+---------------
+For organizers
+
+Using the WP-CLI is awesome, but the real magic happens when you bend the tool to your will.  With basic PHP skills and a high level knowledge of how WordPress works, the CLI can be manipulated to your specific use cases and empower your whole team!
+
+
+
+______________________________
+
+Why?
+
+Do we really need to?  
+
+Review list of all WP-CLI commands
+
+Let's follow the philosophy. - 3 slides max
+https://make.wordpress.org/cli/handbook/philosophy/
+
+Remember your audience!  Who is going to use this and why?
+How re-usable is it?
+Don't build block magic boxes!
+
+Think portability and NEVER ASSUME
+imagemagik example
+
+Composability
+
+Readability vs keystrokes - make it OBVIOUS what to do, well, as obvious as you can.
+
+We should be extending WP here, NOT rewriting bash in PHP via wp-cli
+Don't go writing Laravel commands.  For real!
+
+
+
+OK, let's roll up our sleeves.  
+
+1. quick win.
+
+2. What happened here?
+
+3. What really is needed here?
+
+	1. The base commands 
+	2. http://wp-cli.org/package-index/
+		See what else is there
+		`wp package browse`
+	3. Bash scripting???
+
+4. What do we really need to do?
+
+Rolling your own manually

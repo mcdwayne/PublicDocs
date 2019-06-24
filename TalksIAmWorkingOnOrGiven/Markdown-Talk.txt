@@ -3,7 +3,7 @@ Learning Markdown: 20 minutes that will change your life
 
 [Slides](https://docs.google.com/presentation/d/19fERLwhp0q8g_rL4ZY51C20h0EGhpyXql4Eb1Vs7WnM/edit#slide=id.g40f3b7cde8_0_278)
 
-Don't you wish there was a way to write content faster without having to log into your WordPress site?  Turns out there is and it is called Markdown, which can be written in any text editor you choose.  Based on the basics of HTML and with a goal of making marked up content as readable as possible, Markdown takes only minutes to learn and is the most transportable way you can write your content.  Sites like GitHub, Bitbucket and Reddit already expect it and now WordPress does too.
+Don't you wish there was a way to write content faster without having to log into your WordPress site?  Turns out there is and it is called Markdown, which can be written in any text editor you choose.  Based on the basics of HTML and with a goal of making marked up content as readable as possible, Markdown takes only minutes to learn and is the most transportable way you can write your content.  Sites like GitHub, Bitbucket and Reddit already expect it and now, thanks to Gutenberg, your Drupal and WordPress sites do as well.
 
 Walk away with 
 - A working knowledge of how to notate plain text to be rendered as beautiful HTML

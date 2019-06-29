@@ -1,0 +1,685 @@
+Design4Drupal 2019: The time I met Richard Stallman and he didn't have change
+
+
+I once again landed in [The Athens of America](https://en.wikipedia.org/wiki/Nicknames_of_Boston) and was met with much [kinder weather than Europe](https://www.mcdwayne.com/2019/06/23/wordcamp-europe-2019/) had thrown at me. Boston, well particularly Cambridge, holds a lot of fond memories for me. being a mirrored reflection of my beloved San Francisco in many ways, it always sorts feels like home.  Maybe that's why it felt much less like a business trip and much more like a family reunion when I arrived at [Design4Drupal 2019](https://design4drupal.org/).
+
+https://twitter.com/OrientierCo/status/1144359654610354176
+
+
+## Food and Fun
+
+### Tuesday
+
+I never fear being 'stuck' in my hotel when I to to events, and like normal, I immediately found my people. This time it was the whole development crew from [Genuine](https://www.wearegenuine.com/) who were just finishing up their get together. Some of us adjourned for further conversations and libations at [The Automatic](https://www.theautomaticbar.com/), which has the best selections of Mezcal I have seen East of the Mississippi.  
+
+https://twitter.com/McDwayne/status/1143702673251852288
+
+
+### Wednesday:
+
+Contributor sprint and trainings shared the same coffee, light pastries and lunch at the [Stata Center](https://en.wikipedia.org/wiki/Ray_and_Maria_Stata_Center). Lunch was pizza and salad with an OK vegan pizza pie for us lacto-intolerant folks. By the end of the day though, I was pretty hungry. Thankfully [Kevin Thull](https://www.kevinthull.com) had a heck of a plan ad we gorged ourselves on plant based diner food at [Veggie Galaxy](https://www.veggiegalaxy.com/). We had a quick nightcap at [The People's Republik](http://peoplesrepublik.com/) and got ready for the busy next day.
+
+https://twitter.com/McDwayne/status/1144020400478797825
+
+
+### Thursday
+
+Coffee and pastries and tea awaited us Thursday and Friday morning.  The tea was notable higher class and higher quality.  Wish I had written down the name on the tin.  Lunch was pre-boxed sandwiches and wraps. Whoever made my hummus wrap must have thought the goal was the spread it as thin as possible, as to be almost undetectable on the tortilla.  The potato chips were good though.  
+
+The after party at [Mead Hall](https://themeadhall.com/), a short block from the venue and my hotel, was hopping with all sorts of folks from the area in their after work revelry, whilst the D4D crew had full run of the private upstairs area.  We had fries, sliders, pretzels and a few other buffet served items. Breaking from my normal vodka and soda I tried a couple local beers, but found none worth noting here.  
+
+
+https://twitter.com/McDwayne/status/1144385487802646529
+
+
+#### DrupalKaraoke
+
+I am always super happy when my buddy [J.D. Flynn](https://twitter.com/JDDoesDev) is at an event. I am also very glad that he has taken the mantle of organizing DrupalKaraoke! He lead us to one of my favorite spots in old Cambridge town, [Courtside, The King of Karaoke](http://courtsidekaraoke.com/).  We had a good time of it.  
+
+
+https://twitter.com/McDwayne/status/1144409280063377408
+
+
+### Friday
+A repeat of the coffee and such. The coffee was not too bad, pretty average. Lunch was pizza for people who eat cheese and a pretty awesome and hearty salad with a spicy chipotle dressing for those of us that did not.  Normally I would protest a salad as the lunch option, but the beans and corn and awesome tortilla strips made this eat like a proper meal and I am thankful for the hearty portions for greens.  
+
+After the last sessions finished, some of us who had the time gathered for one last communal meal. We had fantastic Korean BBQ at [Koreana](https://koreanaboston.com/).  
+
+https://twitter.com/McDwayne/status/1144750430242689024
+
+
+### DrupalKaraoke Again
+
+We had such a good night of Karaoke, that some of us thought, "why not again?". So we go the gang back together for one more night at [Courtside](http://courtsidekaraoke.com/). It is always bittersweet to have to say the last goodbyes before turning in for the night. Singing together takes some of the sting away.   
+
+https://twitter.com/tatarbj/status/1144787237776834560
+
+
+
+## Sessions
+
+### Contribution/Training day
+
+Wednesday saw some people learning things like [Intermediate To Advanced CSS For Practical Peoples](https://design4drupal.org/sessions/training/intermediate-advanced-css-practical-peoples) to [Drupal 8 Crash Course (For Content-Editors, Marketers, And Project Managers)](https://design4drupal.org/sessions/training/drupal-8-crash-course-content-editors-marketers-and-project-managers). I did my best to contribute to the event but local development setup issues against the dev branch 8.8.0 caused havoc in some interesting ways for me and I spent the day debugging things.  Once I got up and running I was able to make a screenshot for another contributor's request but was too flustered by the ongoing little issues I was seeing I didn't get much else accomplished.  Sometimes you eat the bear and sometimes it eats you. 
+
+https://twitter.com/erichuffman/status/1143962823552376834
+
+
+### Opening Remarks
+
+https://twitter.com/tatarbj/status/1144243027281633281
+
+
+
+[Great Drupal Websites Are Made Before The First Line of Code is Written](https://design4drupal.org/sessions/uxproject-strategy/great-drupal-websites-are-made-first-line-code-written)
+[Chris O'Donnell](https://twitter.com/chrisod)
+[Mindy League](https://twitter.com/Mindy_League)
+
+Organizing your own thoughts can be hard enough, so organizing the thoughts, wants, fears and concerns of an entire set of stakeholders and end users requires some serious effort. Fortunately there are some pretty well established patterns that we can leverage to make this easier on us all and with better results. I appreciated this session because it was based in real world practice and I got to see part of the reason why the Promet team is known for successful projects.  Great info here for anyone trying to take on more enterprise deals.  
+
+
+Raw Notes:
+Agile can't save a bad idea
+Developing strategies to make changes early
+white boards are cheap ways to make changes
+Why human centered design?
+Greater client engagement
+Early stakeholder alignment
+deeper knowledge transfer
+How they do it
+Series of workshops
+identify stakeholders
+prioritize stakeholders
+ID strengths, problems, opportunities in current system
+Group or relate the above attributes
+ID solutions to above challenges
+Prioritize solutions
+Set good ground rules get everyone on same page
+Why it works?
+Create empathy
+validate assumptions
+Create solutions for them
+What it looks like
+stakeholder meeting white board example
+persona work
+keeps us centered on who we are designing for
+ask the clients to close the laptop and engage as people
+put pencil to paper to express yourself
+workshopping mode
+Sticky notes
+color coded
+rose is a thorn bud
+Backend, frontend, content grouping
+good ideas from surprising sources
+make sure all voices get heard
+ideas can become equal and all carry same weight
+we walked through live version of this using an online tool
+lot of interesting ideas in short demo
+
+
+https://twitter.com/chrisod/status/1144258935257534464
+
+
+
+[How Drupal as a Service Can Save Our Livelihoods and our Lives](https://design4drupal.org/sessions/site-buildingfront-end/how-drupal-service-can-save-our-livelihoods-and-our-lives)
+[Benjamin Melançon](https://twitter.com/mlncn)
+
+When I think 'true spirit of Free/Libre Open Source Software' Ben's face jumps to mind every time. One of the friendliest folks I have met on my journey, I have always loved hearing him speak about his teams. His casual style of crediting everyone who contributed makes me want to aspire to do the same. Raising up everyone around you seems like the way we should be approaching working together.  This talk gave me a lot to think about, as I am finding myself explaining what 'Free' in FLOSS means more and more. Knowing there are just a load of companies that are actually supporting 'Free' in the way the GPL suggests, gives a credibility many business folks certainly need to be able to wrap their minds around this rather modern idea.  
+
+Raw Notes:
+understand how the future is services and what we can do about it
+bombs in Yemen
+people used to terrible consequences for war weapons
+tech is not used to this defense style
+furniture workers yesterday lead a walk out to stop homeland security from using their furniture
+couchsurfing vs airbnb 
+pioneering from free and open source commercialized
+faster and more trusted because of financial model
+Harvard studying this how to benefit without contributing back
+used to be frowned on to be paid to contribute
+now obvious SaaS is going to need to be a thing that helps pay for this
+Decline and fall of Drupal empire?  
+Weekly project usage over time is leveled off since 2015
+not world on fire though
+Example: xkcd.com/1732/
+Concentrated vs distributed costs
+concentrated care way more
+The earth is not dying, it is being killed 
+Utah Phillips
+US distribution of wealth
+top 20% is 83% od all wealth
+people at top agree they have too uch wealth for the most part
+knowledge is not real power 
+organizations are power
+Collective Courage book
+Jessica gordon menehard?  
+business opp in 
+his proposed solution is LibreSaaS
+many companies already are, new term though
+back to meaning of Free software
+people are not economically rational all the time
+sometimes people do social good cause it needs done
+not really a conscious movement
+Discourse web forums
+new hotness
+ghost, sharetribe, wallbag, tendenci, cryptpad
+commitchange, standardnotes, write.as (writely)
+and then there is WordPress
+Unlike Discourse with a strong moral statement
+WP.com does not make any of these claims
+Freedom to move to anywhere and hack as will, so not seemingly really open
+it is an advantage but they don't talk about the freedom from vendor lock in
+Free to start, with 5 ways to grow
+Whether you want to share your ideas, start a business, or run a store, you can do it all on WordPress.com
+Salesforce is closed source, but they foster a community to configure
+illusion of power and control
+Drupal as a Service
+cloud is just other people's computers
+collectively we can own those
+power to collaborate and communicate the next level
+history of failure attempting this
+xxx (missed what he said), worked until updates killed it
+Civispace, from Deanspace from Howard Dean campaign
+tried to make a service, too high a price
+technical prblems
+Drupal Gardens for D7 was Acquia's approach
+became Acquia site factory
+never thought as a small site builder never thought about D as a service was viable
+successes are Sony and NBCUniversal
+forms and multilingual because they needed to build them, contributed back
+Universities
+Drupal light and Drupal Enterprise distros and platform there
+only open internal to the university
+MIT runs one, but universally not liked, not really maintained and not functional
+Drupal as LibraSaaS
+Centarro
+Roundearth - mydropwizard - supporting old sites, this service is CRM + CMS nonprofit management solution in the cloud
+Open Social - goalgorilla internal social networks for large non-profits
+roomify - booking engines, probo.ci, lot of cose outside of Drupal so other projects can use it
+openchurchsite.com
+Drutopia
+easy to get stated and no worry of hitting wall of what you can't do
+no path off a cliff, rug being pulled out
+proprietary tech only really becomes profitable once it hits monopoly
+OSS not victim of this
+App store model 
+Drupal.org and the like basically invented this model
+Apple took idea and locked it down
+and it is not Amazon Web Services. 
+that is un-free-software, selling anything they can as a locked down service
+mongoDB example
+Indie Web Camp
+shared protocols
+betterverse, mastadon
+
+
+https://twitter.com/JDDoesDev/status/1144269523635380224
+
+
+[User Unfriendly: A practical guide to losing control](https://design4drupal.org/sessions/keynote/user-unfriendly-practical-guide-losing-control)
+[Miriam Suzanne](https://twitter.com/MiriSuzanne)
+
+I was not sure what to expect out of this keynote. As someone without a design or front end background, I was not familiar with her work, just had heard the name a few times.  I left the room a real fan of what Miriam is all about. The talk itself veered all over the place and I kept wondering where it was going to land. Thinking back on it, I like the approach and for sure walked away with some fresh ideas on how to think about design. It sort of reminds me of the talk from [Kandace Brigleb](https://twitter.com/kandacerae) back at [WooConf 2017](https://www.mcdwayne.com/2017/10/22/wooconf-2017/) with her line 'It’s not “design a chair” its “create a way to suspend a person.”'
+
+Raw Notes:
+Started web Dev in 2006
+Drupal 4.7
+Oddbird with her brothers
+from scratch
+also susy (don't use it now)
+re imagined in Sass
+nothing new, she is a core team member
+2009 first commit, attributed to her brother
+ensemble for theater
+borrowing a lot foideas
+can't create results, create environments in which something might happen
+letting go of the end result
+our process Making things with people
+conditions for Creation
+making this for people
+letting go of control
+conditions for interactions
+ideas => UX
+performative turn(s)
+re-framing makes it art
+the lone genius myth 
+down with that sort of thing
+riding sidesaddle
+notes to box of note cards (performative turn)
+her band uses text from novel in songs, same source material, different performative turn
+then a play
+source can become many things
+We choose the medium
+Theater = dance + words + architecture + lights +...
+Web = Text + Media + interactions + Semantics
+look at a website
+templating, build step
+browser picks it up
+cool, but hard to read when turn text on the side
+what is user friendly?
+No one is an esdge case if everone is an edge case
+a Queer theory
+strange or peculiar
+in 1800s a sexual insult
+reclaimed in 1980's and 90's
+a Big Tent movement
+defined by their difference
+different in ways that struggles and identities intersect
+Normal is suspect too
+who defined it and who benefits?
+Normal embraces a power imbalance
+skin toned bandage
+others
+names, that name never changes, this does not fit for many people
+single real identity?
+FB relies on this
+no code switching ever
+things that fit work ID vs personal ID
+under and increasing pressure to monetize the data they store, FB looks for ways to limit difference across the site
+used to have open text, now just pick pages you like, structured and trackable data
+turns out algorithms are racist?
+we don't rally know our audience unless they are in the room
+Empathy is not enough
+listening > imagining
+find people and ask them what users want
+ask Different people
+users are experts!
+if I had asked people that they wanted, they would have said faster horses
+Our job is to not just listen, but to ask why
+UX 1 End Goals
+2. existing Solutions
+3 Points of failure
+User blind spots
+1. interface design
+ask about problems, not solutions
+works with art feedback as well
+Always ask why
+Look for root causes
+Analyze patterns
+common pain-points, related issues, etc
+Recognize Personal Bias
+when the problem is in act 5, the solution is often in act 1
+sometimes you can solve a problem but focus on ohter part
+Set meaningful Goals
+click-though rates are not universal success
+what goals are we setting and why are se setting them
+Jon Tan, Durable Design
+impact vs immersion
+see once and POP vs something over the long term, spend time in
+enacted vs emergent narrative
+Mario vs Zelda
+no one right way, just good to know they exist
+Do I want to create work in which everyone feels the same, ir everyone feels differently
+know your innovation budget
+when can you turn things sideways
+Test and Trust
+the audience is smart enough too follow a non-linear knowledge
+we invented the nav bar, cab ve replaced bow
+Users spend most of their time on other sites. This means that users 
+All websites look the same, from no volume
+It takes craft to set up circumstances that are simple and yet contain the ambiguities and the incongruity 
+dowebsitesneedtolookexactlythesameineverybrowser.com
+What's in a medium
+Bed has a Mission
+Web for all. Web in everything
+braille reader and headphone screenreader
+writing for different mediums at the smae time
+different devices at same time
+resilient by design
+customizable by design
+built into medium
+by design user controlled
+HtML and CSS are declarative, too many variables
+That's actually true, HTML developers work in a much harder problem space
+design and ship content that infinite and undefined canvas
+The fact we can control a paper page is really a limitation of that medium
+John Allsopp 2000
+broadly accessible
+limited authorial control
+awesome or frustrating
+limited business control?
+maybe I believe more in the open web than you controlling and tracking everyone
+bootstrapping vs plug and play
+Lori Emerson 
+the invention of user friend;y
+open development
+people are already pretty smart
+Douglas Englebert
+mother of all demos
+how are we going to help experts for making bettert things
+focuses on users as experts
+Any barrier that exists between the use and some part of the system will eventually be a barrier to creative control
+Susy came out of this idea
+what if all the math tools n your hands
+Susy was written in Sass, and used n Susy
+same familiar language
+Plug and PLay
+it Just Works
+more of a closed system of user friendly
+what the Apple 2 is
+identical, easy to use, low costs appliance, appliics=ion
+instructions for invisible
+Open vs Adaptable
+CrowPi
+it just depends
+aesthetics didn't make people wan to use a tool, but once tey found it usefull, then they wanted it prettier
+humane by design
+empowering, finite, inclusive
+respectful, thoughtful, usable
+Solve real problems, for real people. Using software using SW when it's the best choice
+Delegate and Present
+balancing solo vs team Time - essential
+2 modes of writing, word docs, vs Google docs
+present context and trade offs
+establish yourself as a teammate
+she would get defensive from client feedback
+always a tension 
+at beginning now explain context 
+Mind games always backfire
+no tricking your client into right decision   
+Experimental is a process 
+explore
+research, gather, and create the materials
+organize, outline the structure, ot impose one
+then draft things
+revise
+less theory, more practice
+put options in front of users
+the feedback loop
+Ugly helps (isolate variables)
+helps 
+full mock ups are dangerous
+Copy Transform Combine
+Kirby Ferguson
+encourage playfulness
+'spark and slip"
+use all the tools
+user friendly is meaningless because there is no opposite
+unison, harmony, dissonance
+look at different angles
+elements of design
+viewpoints
+aspects of the web
+open mode when pondering, closed mode then implementing it - John Cleese
+iterate iterate iterate
+talks.oddbird.net/user-unfriendly/desing4drupal19
+
+
+https://twitter.com/caseymc1022/status/1144301144291696640
+
+
+
+Keynote day 2 
+[Uncertainty Principles](https://design4drupal.org/sessions/keynote/uncertainty-principles)
+[Deborah Levinson](https://twitter.com/debby_levinson)
+
+As Deborah started her talk, I thought for a moment that the whole talk would focus on structural misogyny. It is not that I am against such a talk, but I was wondering where she was going with all this in relation to the central ideas of Design which the event is named for. About the time I had that thought she dove into the MIT website history and started tying things together.  I left the talk feeling this is one of the more useful keynote talks I have attended, since now I have a quick set of guidelines to ask as I am proposing new ideas and trying to elevate the community. 
+
+Raw Notes:
+Impostor syndrome
+harder  for women, women self select our, self disqualify
+structural misogyny 
+Women only apply for a job at 100% qualification
+men at 60%
+what is uncertainty
+she set up a survey
+Uncertainty prevents u from acting
+Ends up with giant unorganized messes we are terrified of tackling
+MIT homepage Jan 1999
+all looked like ASCII art
+14 links on the page
+no department was allowed to be more important in the page
+2018 huge redesign
+47 links on the new page
+this is what happens when you are afraid to confront people about how the page should work
+also apathy playing into this
+"we need this on the homepage" and you get tired of fighting
+Other side
+Overconfidence makes us arrogant and complacent
+makes us feel the rules don't apply to us
+in accessibility
+Web needs to be available to all of us
+if you are someone like Target, $6M to federation of the blind
+over 50 colleges were sued in 2018 
+2258 lawsuits in 2018
+177% increase over 2017
+'too hard' 'don't care' are not good or acceptable reasons
+what is worse, we prioritize profits over people and ethics
+Youtube is an example of this
+algorithm over everything else
+internal the employees were flagging issues
+far right videos and alt-right, created an internal vertical that showed how popular they were
+each time they were told not to rock the boat
+what if uncertainty is a good thing?
+MIT building 10
+everyone there general educational requirements
+chem, maths, labs
+they teach you certainty. The underpinnings of the system
+what you have to know to study these things
+Heisenberg uncertainty principal
+if you are looking at a particle, you can know where it is, or how fast it is traveling, but not both at once
+what if uncertainty is something to be hopeful about?
+Steam example
+in April after the Notre Dame fire, free giveaway of assassin's creed Unity which featured rendered cathedral
+uptick in sales
+review mobs
+trolls who hate a game 
+Stream reviewed off topic and review mobs
+realized they had a question they did not answer
+do positive review bombs exist?
+are they off topic?
+they analyzed the reviews
+negative review bombs typically have low numbers of players to reviews
+uptick in AC:U review stats matched patters of game that had gone on sale and received update
+Look at review content
+some referenced typical things
+are they off topic
+Step 3 , review off topic
+had had not changed but context did
+question are game better or worse after context changes
+are the things positive but are they related?
+Final verdict, who knows? And that's OK
+Lesson 1: UNcertainty can provide value, learned their definitions had limitations, and they had questions for explore
+Lesson 2: research and analysis is iterative
+lesson 3: transparency is awesome, share so we all learn
+Uncertainty principles
+steps
+1) ask questions
+don't be afraid to ask questions
+Google, stack overflow, discussions with peers, spread the burden
+review and summarize what you do know, when evaluate what questions need better answers
+Schedules and budgets that leave time for research don't make people lazy
+they result in better products
+2) hope for the best, plan for the worst.
+risk matrix
+legit fears of what could go wrong
+identify what people are afraid of and find mitigation ahead of time
+alleviates peers
+plan for negative persona, 
+how to plan, ask yourself, who is this for
+who does this help?
+who does this harm?
+who will use it for harm?
+anotherlense from the airbnb design team
+online flash cards for designers
+balancing your bias - what are my lenses?
+consider the opposite - who might disagree?
+embrace a growth mindset - how can I learn for the future?
+plan for iteration
+3) sometimes you have to take a leap of faith
+learning fills in gaps of uncertainty
+Start small if you need to, clean up your invisible corner
+if a leap of faith means you might have to rip out work later, that's ok
+lather, rinse, repeat
+listen to your gut, gut instinct is powerful and often right
+All we have are assumptions, but that' all we ever have
+4) build community, give back to it
+get involved in a way people can see your work
+teach,
+speak at conferences
+write a book
+what a coffee and a chat with someone seeking mentorship
+5) uncertainty is normal, don't fear it; embrace it
+Panic is an essential part of my process
+
+
+https://twitter.com/McDwayne/status/1144654460351856641
+
+
+[So another client ruined their website. Here's why it's your fault.](https://design4drupal.org/sessions/uxproject-strategy/so-another-client-ruined-their-website-heres-why-its-your-fault)
+[Jessica Ito](https://design4drupal.org/speakers/jessica-ito)
+
+I love any talk title that starts with the word "So." I think this is because that is how people talk and how I have titled several things.  While I don't professionally design websites, I do sometimes actually build things and I know design is the one area I need the most help with. The simple, straightforward strategies that Jessica laid out, like not using images all the time if they don't add value to the page, or simple sketching first can save many hours later, will stick with me for all my future work. Again, this talk was grounded in real world lessons learned and that makes it oh so much more valuable to me.  
+
+
+Raw Notes:
+Easy to pout when the client messes up the site
+and blame them
+why are they messing it up?
+Nobody wants a hot mess
+1) the client does not know their site as well as you do?
+2) your client isn't thinking about content in terms of design?
+3) Maybe they have an intern doing content entry?
+but really the client did not have all know knoweldge and tools they needed for success
+processes can seem like a lot of work but it works
+conducting a content audit and invite your client to participate
+noted if content was timely and actionable
+evergreen?
+manual audit, page by page
+documents gave client insight into the ET way before even really got going
+use Wireframes to check strategy
+gives clients a frame of reference
+example conversation
+talked about news type, wireframe vs old design and why each part
+showing taxonomy as menu shows value
+Also use wires to explain
+current vs wireframe side by side is important
+page on the left 
+longform mapping to component page is hard
+atomic is hard but right path
+if creating a lot of content references ona site, break them down 'Barney' style
+pulling in screenshots for visible reference
+go slow
+Benchmarks are great to get an understanding
+The client (example)
+a leading HR company that provided valuable resources to very busy HS pros
+they sent over some goals
+sent some 
+2 minutes on a site was all anyone would give them
+you can take a lot of time to get right images
+stock photos
+get an understanting of clients imaging capabilities
+how do you plan on sourcing your images
+subscriptions to stock images?
+Any guidelines?
+anyone can produce on their end?
+room for budget for pro images?
+lesson learned
+images didn't add value to the components,
+don't always have to use an image
+Run content entry in a way that is meaningful to your clients
+Training is always neglected, smallest part of a budget
+mismatching content on the wrong type of page means pain all around
+manual recreation of the content
+Walk them through in a visual way
+explain why the site works the way it does
+much happier customer
+Sketching
+make a quick sketch to show the idea of the page
+boxes and some labels is pretty much enough
+don't ask 'is that OK' because it is too easy to say yes and ignore learning
+most people solidify learning by doing, invite clients to run the training
+never one and done
+never stop learning
+
+
+https://twitter.com/tatarbj/status/1144676406284001280
+
+
+
+[Preventing Burnout](https://design4drupal.org/sessions/uxproject-strategy/preventing-burnout)
+[Michael Miles](https://twitter.com/mikemiles86)
+
+I have been a fan of Mike Miles for a long while. Every time I get to sit through his sessions or just get to hang out with him for any small bit of time, I feel like it is always time well spent.  This talk, appropriately at the last session of the last day, had me recognizing how exhausted I really do feel. But instead of just a pep talk, Mike laid out some real strategies on what the heck to do about it.  I know I will be thinking on this pretty deeply as I plan ahead.  
+
+
+Raw Notes:
+Last session of day 2
+100% of room heard the term burnout
+causes
+treatments
+prevention
+3 main types he will be talking about today
+to understand why bad, 
+Dred - don't want to get out of bed, just don't wanna do it
+Exhausted - you have many more things in your life than work, this affects that
+Annoyed - 
+Dazed
+DEAD developers
+Burnout has a domino effect
+3 types of burnout
+Worn-out - too much to do with too little time to get it done
+Cause - root comes from a sense of disrespect
+Working hard and not getting any recognition and just move on, never taking time to revel in your accomplishments
+Treatment - Encouragement.  Does not solve issue, but soothes issue
+Prevention - Teamwork!
+Retrospectives are important
+annual as well as per project
+2 - Frenetic - more and more and more and more....
+Cause - mistrust - yourself or others, yourself is imposter syndrome
+more you do the more I prove myself, but overladed is not good
+'I'll just do it myself' - robs the team
+treatment - build a plan
+prioritize. get rid of low priorities
+figure out a plan for a later date or delegate 
+Prevention - Say no!
+easy for a junior dev to say yes to anything that comes through desk
+hard lesson to learn
+3 - Underchallenged burnout
+soooo boooooored
+Cause - Emptiness, maybe 50th time doing it, not personally motivated
+external sources, seasonal dips
+Treatment - Take control
+can you try something new?
+ask for different type of work
+Prevention - Set Goals
+retrospectives - see how you are doing vs the goals
+n) Burnout in general
+Cause - Stress
+Treatment - reboot
+could be as simple as walking around the block
+Prevent - learn how to ask for help
+this is hard to do
+we fear the impostor syndrome and being seen as weak
+Recap: Burnout is bad
+prevents you from being your best
+has many forms and causes
+burnout as soon as you recognize it
+work towards preventing burnout from happening
+bit.ly/D4DBurn
+/DevBurnTypes
+/DevBurnTest
+
+https://twitter.com/tatarbj/status/1144704374507098117
+
+
+
+### My Talk
+
+[Making A Tour: Leveraging The Tour Module For A Better User Experience	](https://design4drupal.org/sessions/site-buildingfront-end/making-tour-leveraging-tour-module-better-user-experience)
+
+Sometimes when I ma giving a talk I look out in the audience and see a number of people engaged with their computers and think to myself 'I might have lost them.' That for sure happened this time, but I had instructed folks that they could get the most from the presentation by playing along from their seats. When Q&A rolled around I was pleasantly surprised that the very people I had seen focusing the most on their machines were the people asking the deepest questions. I was delighted to be asked a few questions I didn't know the answers to, so I got to learn with everyone else by experimenting with it live. There is so much to learn together, I am truly grateful for every opportunity I get to share what I know and find out what I do not yet know. That is the best way I have found to grow. 
+
+No pics exists of this session, so here is a Tour related tweet from the past.
+
+https://twitter.com/McDwayne/status/835429713988435968
+
+
+## Wrapping up
+
+As I alluded to in the title of this post, I got to meet the one and only [Richard Stallman](https://stallman.org/). He likes us Drupal folks and wandered around the event a few times with a paper sign hung around his neck that read "Its not Free, It's Open/Libre". He was also selling his collection of essays and little stuffed gnu/wildebeest plush toys.  I got one of each, which ran $50 total, of which all profits go to the [Free Software Foundation](https://www.fsf.org/). I had three $20 bills and looked at me and said, "Sorry, I don't have change." And in that moment, I realized that the man who is more responsible for be being on this career path in open source than almost any other individual I can name, and who is responsible for the licensing model of literally the internet at this point, is just this hippie looking guy who is still selling his books one at a time for cash. And that might be the greatest moment at any event I have ever participated in.  
+
+It will not be long before I am back in Boston. Just a few weeks this time around, as I return for [WordCamp Boston](https://2019.boston.wordcamp.org/). I do love the [City of Notions](https://en.wikipedia.org/wiki/Nicknames_of_Boston) and especially the deep feeling of connectedness to the birth of Free/Libre Open Source Software.  I hope to make it back next year for the 12th annual installment of Design4Drupal!
+
+
+https://twitter.com/McDwayne/status/1144689089633038336

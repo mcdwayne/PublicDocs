@@ -1,6 +1,12 @@
+
+
+
+
+
+
 Dwayne McDaniel has been working in tech and open source since 2005.  
-Once he dipped a tow into the world of Free and Open Source Software, he knew never wanted to work outside of it again. Dwayne first started building in Drupal and WordPress for the San Francisco Improv community in 2013, which lead him to his current role.  As a Developer Advocate at Pantheon he has had the privilege of presenting at dozens of community events from Paris to Iceland and from MIT and Stanford.
-Reach out at mcdwayne.com or on twitter @mcdwayne
+Once he dipped a tow into the world of Free and Open Source Software, he knew never wanted to work outside of it again. Over his years of sales and marketing roles, inlcuding Developer Advocate at a Pantheon, he developed a passion for optimizing business processes and project workflows. He has seince founded Process Digital Consulting to focus on helping people design internal procedures to improve productivity. A a speaker, Dwayne has had the privilege of presenting at dozens of community events from Paris to Iceland and from MIT and Stanford.
+Reach out at processdigitalconsulting.com or on twitter @mcdwayne
 
 You can see some of my talks recorded here: http://wordpress.tv/speakers/dwayne-mcdaniel/
 As well as some of my DrupalCamp talks:

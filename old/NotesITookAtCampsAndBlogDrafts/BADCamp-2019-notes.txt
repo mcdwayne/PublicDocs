@@ -1,0 +1,664 @@
+BADCamp 2019: Coming home to the Drupal community
+
+There is only one camp I take [BART](https://www.bart.gov/) to and it has taken place in [Berzerkeley](https://en.wikipedia.org/wiki/Berkeley,_California) the last few years.  The trip is about an hour door to door from my place in Union Square, but it is very rare that you will find me in the [Athens of the West](https://en.wikipedia.org/wiki/List_of_city_nicknames_in_California), but it is the first place in Northern California what gave me a place to sleep when I was moving from LA oh so many years ago. It gave me a lot of warm feelings that felt very familiar in not only geography but also in spirit of homecoming in the Drupal community since I had been spending a lot of time in the WordPress space recently. I was overwhelmed by the feeling of welcomeness and family I felt as I attended [BADCamp 2019](https://2019.badcamp.org/)
+
+https://twitter.com/OpenSenseLabs/status/1179445890668347392
+
+
+## Food and Fun
+
+### Wednesday
+
+Wednesday morning was met with conference coffee which I would give a 5 out of 10 points for trying. Tea selection was really first rate though. Lunch time gave me my first of many excuses to go to arguably the best vegan deli in the world, [The Butcher's Son](http://www.thebutchersveganson.com/). Their plant based bacon is making my mouth water even as I write this days later.  In fact, I ate there almost every day of the event. If I don't mention lunch again, you can assume that is where I ate.  Dinner time rolled around and some of us found our way to the plant based fast food establishment [Veggie Grill](https://www.veggiegrill.com/) which is always a bit greasy.  
+
+#### DrupalCrawl
+
+This has become an awesome staple of this event and [DrupalCon](https://events.drupal.org/seattle2019/drupalcon-monday-night-pub-crawl). Organized by the really great [Jason Mickela](https://twitter.com/jmickela), this event invites everyone from the community out for a drink. I realize that is not everyone's thing, but for those of us who participate it is a great night of lifting glasses and cheers. We started at [Pacific Standard Tap Room](https://www.hmbbrewingco.com/visit/pacific-standard-taproom), but things got really going when we hit the weird little club bar/BBQ joint [Spats](http://www.spatsberkeley.com/slide) which just happened to have Karaoke that night. We sang and sang and sang.  
+
+https://twitter.com/GetRootid/status/1179635171483508736
+
+
+https://twitter.com/MarianoCrivello/status/1179616945043210240
+
+
+### Thursday
+
+I didn't make it over to Berkeley until dinner time. I got there in time for [DevOps After Dark by DDEV](https://2019.badcamp.org/event/devops-after-dark-ddev) at [Tupper and Reed](http://www.tupperandreed.com/). This is a place with super fancy, Alice in Wonderland inspired cocktails. I also made it the [Amazee.io party](https://www.amazee.io/) over at [Beta Lounge](http://www.betalounge.xyz/), where some of us had appetizers for dinner.
+
+#### DrupalKaraoke:
+
+From Beta Lounge a small party of us found our way to [Nick's Lounge](http://nickslounge.com/) a 7 day a week Karaoke dive. Really just some of the best people in the Berkeley and Oakland area come here for a round of drinks and singing together. It is a wonderful cross section of what good people in the bay sound like.  
+
+https://twitter.com/drunkendrupal/status/1180008516993466369
+
+
+### Friday
+
+The first day of sessions brought more coffee and tea. Once again I jumped at the chance to return to The Butcher's Son for lunch.  I also went back there for dinner. Friday night brought the official [BADCamp Party](https://2019.badcamp.org/event/badcamp-party). We danced and danced. There was an after event for sure but no proof it happened.  
+
+https://twitter.com/GetRootid/status/1180415961565786112
+
+### Saturday
+
+More coffee and more tea. Lunchtime took me to [The Flying Falafel](https://menupages.com/the-flying-falafel/2114-shattuck-ave-berkeley) with it's vegan fare and just super tasty fries. I took off before the end of day and slept through dinner plans. I did make it back for a few songs of Karaoke at Nicks for a final cap on the camp.  
+
+https://twitter.com/McDwayne/status/1180716889883860992
+
+
+## Summits
+
+BADCamp has 2 days of summits and trainings and 2 days of regular sessions.  The summits are industry specific conversations and workshops focused on helping non-profits and higher ed better adopt technology.  I was just thrilled this year to be able to participate in the Non-Profit Summit as a panel moderator and general room volunteer. So many organizations turned up and participated. The main focus seemed to be how to think about adopting platforms and how to organize your processes for best success as an organization.  I really liked the discussions I heard.  
+
+It was a really great day and many props need to be given to the head organizer this year [Valerie Neumark Mickela](https://twitter.com/Val4SocialGood) who just worked so hard to make a smooth and meaningful event.  Props to the other organizers, volunteers and panelists as well.  
+
+https://twitter.com/McDwayne/status/1179433069729632256
+
+
+https://twitter.com/Val4SocialGood/status/1179462472614309889
+
+
+## Sessions
+
+[You Gonna Build a Process for That Process?](https://2019.badcamp.org/session/you-gonna-build-process-process)
+[Anthony Horn](https://twitter.com/anthorn305)
+[shawndearmond](https://twitter.com/shawndearmond)
+
+I love a methodical talk that unveils the 'secret' of proper process improvement. Namely, there is no magic formula aside from standardize and fine tune as you go. This was more a case study on how to get the process improvement mechanisms correct than a how to, although they shared openly all their templates they leverage for streamlining how they work with clients and ensure success.  I missed the very first part, but luckily this and all other sessions are already online at the [BADCamp Youtube channel](https://www.youtube.com/playlist?list=PLY-mQxqgVZ1x9Xnms7rPzWxSqPi9TsyM-)
+
+Raw Notes:
+--15 minutes late--
+Slide deck per meeting
+ready mad
+ready to go
+more listening less talking
+What are your project goals slide
+Process builds logically
+personas, user stories, anatomy of an issue
+Trains the client to be the product owner
+idea from 4Kitchens
+some clients really into it
+people wrote a lot of meaningless user stories
+now has examples of actionable ones
+no transitions or animations
+ppt, pdf, key versions all with no issue
+hosted in Box
+Wireframes templates and libraries in Lucid Charts
+with little work, model wireframe very quickly
+sitefarm.ucdavis.edu/blog/sitefram-wire-frame-<missedit>
+UCLA example work they did
+results
+Duplicating success
+UX Process (user experience)
+hard to find things, firehose analytics consulting 
+looking forward want to have a UX process
+old template didn't fit the need
+Reasons - popularly requested service
+have provided bits and pieces in the past
+team expertise
+looking to repeat success
+New Hurdles to creating UX
+Missing expertises
+No clear model for UX Process in higher ed
+who going first?
+one time or subscription
+How much lifting will this take? 
+Another Process: Research Projects
+Faculty are different than other groups
+different tech needs
+iterative, doing research, so not sure what they want
+new ideas from the research emerges
+Start with some knowledge, start there
+iterate over and over again
+just like Agile, LEAN, 6Sigma, all over the place
+same thing
+They are sharing the Client Engagement Process Materials
+bit.ly/2mxBuuZ
+please take off UCDavid logos if you want to reuse it
+
+https://twitter.com/McDwayne/status/1180156313252220928
+
+
+[The State of Drupal 9](https://2019.badcamp.org/session/state-drupal-9)
+[Amber Himes Matz](https://twitter.com/amberhimesmatz)
+
+The state of the D9 is good! I am not sure why this message has not gotten out better. At the end of a very great presentation, specifically given to assuage fears that people have about Drupal 9 coming out, there was still an audience member who could not comprehend that he should not wait for the Drupal 9 release to migrate from Drupal 7. Given that this is the first time a major release should not break backwards compatibility I get the disbelief in general, but the proof of deprecations by examining the code and the track record of on time releases to date with D8 make it strange people are still apprehensive. More education is needed apparently and this talk is a great place to start.   
+
+Raw Notes:
+Drupalize.me
+content production manager
+Innovation in Drupal
+Drupal 8 brought in 3 concepts
+1 Semantic Versioning
+allows to release feature updates in minor releases with backwards compatability
+2 Scheduled Releases
+minor releases every six months make versions predictable. New features introduced at a regular pace
+3 experimental module
+When features need more time and feedback to be finalized. 
+Backwards compatability is still supported
+8.6.0
+experimental: media library, workspaces
+stable: demo
+8.7
+experimental media library
+Stable, layout builder, JSON API
+Third Party Optional Twig 2 support
+So goals of 9
+Update 3rd party dependencies
+clean up the code
+Symfony, jQuery, CKEditor, Twig 1
+these need updated/removed
+drupal.org/core/dependencies
+Symfony 3 end of life is 2021 
+year prior release
+June 3 2020 is planned D9 release date
+Drupal 8.9.0 is planned to be released same time as 8.9
+2 minor releases a year are planned for D9
+how long with D9 go forward
+estimated EOL for D9 is 
+end of 2023
+based on with CKEditor supported and Symfony 4 or 5 EOL
+The Making of D9
+Major versions were brand new code bases in the past
+caused headaches and was expensive
+Deprication process
+backwards compatible APIs are included and slowly removed over time
+new solution, old to be removed marked for deprecation
+new code is in the code base, but old code there for backwards compatibility
+same is true in Symfony 3
+D9 is dropping the deprecated code and just new solution
+D9 is 8.9 without deprecated code
+Modules with no deprecations will all still work
+D9 built in D8 step-by-step
+same process planned for D9 too
+Preparing for D9
+Keep Drupal core and contrib projects up to date
+code examples
+tools 
+PHPStorm already suggests and strikethrough deprecations
+mglaman/drupal-check
+Drupal-scan
+project overview 
+export project or subset of projects
+issues are either warnings or errors
+warnings are for ones that can't be fixed, or identified
+errors can be fixed now
+drupal.org tools
+drupalci.yml
+enable static analysis with PHPstan
+Project owners, update your plans on your page
+Sprints are a great way to get work done
+D8.8 is the last version to deprecate for D9
+gives you a 6 month window to get up to date
+should I create 9.x-1.x-dev branch? 
+NO, don't do it
+dgo.to/2807145
+composer projects allows more granular control 
+compatibility with more than one major version
+Already correct for everything past 8.3
+issue with Contributes modules be compatible?
+most deprecations are easy fixes
+midcampers already opened issues based on reporting then
+I got named dropped :)
+not a tool for Twig template deprecation but see node 3054924
+People should not expect new features for 9.0
+just stable and non-event upgrade
+Big deal is that it is not a big deal
+D7 support got support expended to November 2021
+contractual vendor support, until at least 2024
+worked well for D6 support, til 2022 in fact
+3 major versions at once for a year and a half
+Upgrade to 8 NOW if you are not there
+Contrib custom and Content
+not trivial, once on D8 no migration again needed
+Skipping D8 does not bring benefits
+Waiting for 9 just shrinks the window for you with no benefit
+Recap: Drupal innovated 2 times a year
+D9 is built in D8
+Keep up with D8 and you are ready for D9
+D7 has no reason to wait to D9
+
+https://twitter.com/PhilAlonso/status/1180169671212847104
+
+
+[Best Practices for Securing Your Site](https://2019.badcamp.org/session/best-practices-securing-your-site)
+[mkduckhorn](https://twitter.com/aurora_morales)
+
+I like going to security talks as I never feel I can know enough about this evolving subject.  I also picked this talk since it was given by a speaker I did not know, who worked at Google. This talk was a little more beginner than I anticipated and a little more sales-y for using Search Console than I would have cared for otherwise, but some good nuggets in there for sure.  There was a moment of group chuckle as she discouraged people from using software that could not auto-update. Still, I had not thought of using a mix of the first letters of the words ina  passphrase mixe with numbers to make shorter but still random and secure passwords before. Some of my 30+ character passwords are going to shorten a little bit next reset.  
+
+Raw Notes:
+Trust and safety team at Google in SF
+1 ID hackers attacks n Websites
+2 Recovering hacked sites
+3 best practices
+was text results at first
+now it is much more media rich
++32% increase in hacked sites in last few years
+- Gibberish hack
+- Japanese keyword hack
+auto creates new pages with Japanese text
+Hacker add themselves as a property owner on Search Console
+- cloaked keyword hack
+On user side, pay attention to phishing or malware warnings 
+safe browsing to push these warnings on Chrome
+Addressing the hack
+nohacked guide
+build a support team
+quarantine your site
+use search console
+access damage
+ID the vulnerability
+clean and maintain the site
+You become a potential target based on technical issues
+no HTTPS, out of date
+Safer Login
+Safer Website
+Safer Connection 
+request a review on search console
+Passwords, Strong unique passwords
+updating passwords regularly
+passphrases
+Ihave2dogs,1catand3birds
+Don't use common, easy to find out things for you
+only you would know phrases
+passwhrae key
+Ih2d1ca3b - OK password
+2 step verification
+something you know and something you have
+Google Authenticator
+Safer Login Security Check-up
+Safer Website
+Outdated software is like an open shoelace
+might not be a problem but mught trip everything up
+keep updates software
+Enable automatic updates if possible
+"iffy if software doesn't allow it." (??? Does she know what Drupal is?)
+Postcard vs letter in sealed envelope
+new tech requires HTTPS
+progressive web apps
+push notifications
+ranking signal in google
+will serve HTTPS first
+Let's Encrypt
+search console
+61% of webmaster who had been hacked could not be reached
+84% of those reached has successfully cleaned up the hack
+users and permissions
+manual actions
+security issues
+
+https://twitter.com/McDwayne/status/1180187740777746433
+
+
+
+[Better Project Management Through Board Games](https://2019.badcamp.org/session/better-project-management-through-board-games)
+[davidneedham](https://twitter.com/davidneedham)
+[JQTNguyen](https://www.drupal.org/u/jqtnguyen)
+
+I have seen several talks in the last bit if my life that reference board games with project management.  I even wrote a [blog post about one of my favorites I have seen](https://www.linkedin.com/pulse/whos-turn-anyway-how-i-changed-my-mind-gamification-dwayne-mcdaniel/). This talk was less theory and more 'if you want to learn X play Y game together.' If there were a more practical approach to how to teach people some of these skills, I have not encountered it.  Really amazing job from David and John and it exposed me to a number of games I have not heard of before. I look forward to playing all of them sooner than later. 
+
+Raw Notes:
+Project management games
+Write clear requirements
+Dimension
+a game where the thing you build in the middle gets changed per teun with the cards
+Hanabi
+5 different colors 1 - 5 in them, you can't see your own cards
+Close Feedback loops
+Make sure changes along the way can be addressed
+timelines and things not being static
+Fluxx
+an open ended game, 5 minutes up to 5 hours
+draw one card, play one card
+cards change rules all the time
+goal to win game changes too with cards
+Captain Sonar
+Like battleships with teams
+PLan and prioritize
+thinking through risk mitigation
+Ticket to Ride
+you are the railroad mogul 
+building track and connecting destination
+Seasons
+game about spells in seasons, plot out a curriculum at wizard school
+Concept: The Iron Triangle
+Competing constraints on a prject
+good/fast/cheap
+magic unicorn lives in the middle
+Lords of Xidit
+be not the worst at the most category as leader
+Between 2 cities
+one card on each side of you 
+take lowest score of the two cities you built
+Negotiation
+Making the project succeed, 
+not being a people pleaser and promising everything to everyone
+Buy the Rights
+Movie pitching game 
+gotta sell it
+Dragon's Gold
+Negotiation of how to split the treasure
+poor at negotation there is no way to win
+Budgeting
+The Networks
+juggling act running a TV network
+balancing all 
+Power Grid 
+Extending your grid out to other cities
+power plants and expand at rate balanced with customers
+resource management
+Look ahead
+staying on track
+make sure things are trending in the right direction
+Race for the Galaxy
+like a deck building game
+common pile of cards
+all cards are beneficial
+paying playing a card by throwing away other cards
+round broken up into phases
+if no one choses the phase, in secret, that phase gets skipped
+Suburbia 
+City building game
+look ahead to see how others are building their city
+all selecting from common pool of available building
+Concept: Be Flexible
+things will not always go according to plan
+Carcassonne
+tiling game, building a city
+matching patterns on tiles
+The Quiet Year
+light RPG
+Collaborative map making and storytelling game
+flipping over a card and drama happens
+Concept: Don't Panic
+Things change
+people will follow your lead
+Scythe
+might be planning to do one thing
+someone might steal resources or blow you up
+Mechs vs. Minions
+fighting on maps
+set out actions you going to take
+set it down and see what happens
+programmable action games
+Common Traits
+Do some research
+don't 'discover together' with the team as a PM
+Clear objective
+trying to get points vs building railway tracks between cities 
+more detail
+why do we care?
+Delegate where you can
+cooperative vs competitive games
+Forbidden Islands
+The Entire PM Experience
+D&D
+What is the ultimate goal?
+Winning isn't everyone
+Les Lim
+How to Enjoy Board Games
+Objective of a game is to bring people together
+to solve puzzles 
+to immerse yourself in the theme 
+and to be excited to play again
+Success of a PM is not on time or on budget
+it is successful if they want to work with you again
+Finite and Infinite games
+
+https://twitter.com/deliriousguy/status/1180221179153403904
+
+
+[Start Using the Emerging Layout Builder Ecosystem](https://2019.badcamp.org/session/start-using-emerging-layout-builder-ecosystem)
+[André Angelantoni](https://twitter.com/postpeakliving)
+
+I, historically, am not really a front end person. A layout of black and white text in a single column looks good enough to me for the most part. But I get it, people want ways to layout content that looks better than that.  Enter the Layout Builder, a Core module now that not everyone is as excited about as they could be from what I hear.  This was less of a how to and more of a talk exposing what is possible and the current state of the tooling. If I was going to be building content out I would be digging into this more. As of now, I am just glad to know the conversation for layouts is ongoing.  
+
+Raw Notes:
+lot of modules to be released
+quality initiative
+Intro to layout Builder (LB)
+Key modules
+Patches to watch
+souped up panalizer
+You can create rigid layours thatt content editors can't change or layouts that ---
+Video example
+8.7 site
+not individualized, new layouts apply to all of that type of node
+by default shows blocks available inside Drupal
+that is how you edit the layout for all page types
+use it by creating content
+Allow checkbox, layout tab appears
+change per node
+once you make content like that, can't turn off Layout Builder
+can but have to revert back to default layout, then tun it off
+example site
+some have more than 40 components on a page
+easy to hurt performance when adding that many components
+Key Modules
+this is the future
+Layout builder Asymmetric translation
+If you want  translation of layout, need this module, going into core just not there yet
+Layout Library
+make a library of layouts for content editors
+Layout Builder Kit
+base component based
+common logic for components
+custom block - price example
+extra fields to blocks, much more flexible now
+custom blocks get their own areas
+Layout Builder Modal
+adding drag and drop 
+lots of space instead of just scrunched up side
+Layout Builder Restrictions
+restrict blocks throughout the site to stop rogue editors
+Layer builder Styles
+Dynamic Layouts
+Entity Browser Block
+allows you to select ny entity Drupal has and place it on a page
+Mini Layout
+Issues
+Unsaved issues
+Gridstack
+CohesionDX just got bought by acquia
+Glazed Builder - superthemes
+Layout Builder, if more people start contributing
+Gotchas
+Translation needs that other module
+Node revision table might blow up
+Under the hood, Anatomy of a component
+where is everything stored?
+storing multiple revisions of the same page?
+not very useful
+be clear on decisions when going through it
+Location of Component
+serialized string
+row for every section
+Component Configuration 
+Stored int he layout_builder_layout field
+or us the FieldAPI
+Block or Component in D8 interchangeable terms
+each option gets own field
+MOre you share fields between components, you create rats nest of interdependencies
+Also, as an entity
+Entity API+Field API
+Configuration vs Field API vs Entity API
+see slides
+one insert per entry
+Layout Builder Gap Analysis
+
+https://twitter.com/McDwayne/status/1180238024543571968
+
+
+
+[Anonymous Personalization Without Leaving Drupal](https://2019.badcamp.org/session/anonymous-personalization-without-leaving-drupal)
+[michaellander](https://www.drupal.org/u/michaellander)
+
+I kinda think that most personalization is creepy, but I see the value of it in some cases. Especially if it is just data, like a geolocation or IP range which I don't mind you having for most things I look up, I can appreciate automatic language swapping and regional special offerings. Contextual Conditions seems like the least creepy way to offer a catered experience without collecting and using data in disturbing ways. I also love the idea of an easier and free way to du A/B testing. There is a lot of promise to this tooling and this is for sure something to keep an eye on as it evolves from the alpha it lives in now.  
+
+Raw Notes:
+Personalization helps people use the site
+find what they need
+Dynamic Content Recommendation
+Individualized Tokenization - "hi MIKE, welcome from YOURLACATION'
+Contextual Conditions - this is the focus of today
+taking what we know about the user and curating the experience for them
+Umami example
+local storage
+cookies
+browser properties
+device properties
+visitor actions - what did they do
+third party
+and many more
+Smart Content
+at it's core, an API and toolset for providing and provide reactions
+it is not however an access control module
+still need authenticated users to have access control
+Smart COntent Block, Browser,  all in smart_content module
+View Mode, Segments and more to come
+demo of module in action
+bit of a widget system as well
+conditionals
+reactions are what are shown in this condition
+Check cookies
+default variation to show is possible
+not a blank space filling void
+demo demo demo
+how it works
+Page is rendered with a placeholder for each Smart Content segment
+JS to pass associated data 
+additional libraries also attached
+Decision.js searched page for placeholder
+if statements in JS
+merged common things in conditional handler
+look it up once from queue approach
+back to decision agent then process 
+can cache the returned values
+Use cases?
+Targeting segments
+Content based on Scoring
+per device/os content
+gated resources
+new vs returning user
+time of day content
+GDPR
+A/B testing
+Location based
+Real world example
+IP based, suggest content based on what they think that segment wants to see
+project is in alpha, about to become Beta
+hit some issues around storage
+working through some issues
+then 2.x into the future
+because we can do better
+2 year process so far 
+overusing plugin system
+fewer APIs, tighter
+make decision s and decide
+reactions can depend on decisions without living within them
+Further decouple storage from behavior
+improve UX
+
+
+https://twitter.com/McDwayne/status/1180548568047706113
+
+
+
+[Integrations Roundup: How to plug existing products and services into your site](https://2019.badcamp.org/session/integrations-roundup-how-plug-existing-products-and-services-your-site)
+[jmickela](https://twitter.com/jmickela)
+[megclaypool](https://twitter.com/megclaypool)
+
+After a lot of up front warning this was going to be a high level overview and not a 'how to' for these integrations they got started. Meg and Jason delivered a wonderful, and well paced, discussion on how to think about using third party integration tooling off the shelf, versus when to roll your own or find lighter weight alternatives.  They were right after lunch in a small, dark, warm room and did a great job of keeping our attention in the sleepy afternoon.  Really great information for any site builders out there who have client demands for more functionality.  
+
+Raw Notes:
+High level overview of what is possible
+bit.ly/integrations_roundup
+when to and when not too
+Pros and Cons
+Pros: Decrease technical debt
+increase security
+quickly deply complex features
+use a solution the site users alread kow
+create data one, use it everywhere
+Cons
+Specific knowledge of external system
+reliance on 3rd party security
+can slow dev for simple features
+changes in TOS can bite you in the A$$
+How to pick the right integrations for your site:
+ID your needs
+Try not to jump on any bandwagons
+leave room for future growth
+keep 3rd party requirements in mind
+Degrees of integration
+drupalintegration.com
+Never lose sight of what you;re ultiplately trying to accomplish
+importance of customizations
+avoid the new hotness
+might not be popular next year
+consider community support over sexy code
+leaving room for future growth
+some integrations have a cost of API issue
+down the line what might you want to do?
+right for you in 3-5 years?
+Third Party Requirements
+review the format of the data being stored and how it is exported
+Avoid adding elements with disprportonate page load times
+embeds, iframes, and or scripts
+ensure your data is with a trusted source
+make sure it is not getting sold, exploited, etc
+loading other people's scripts may not be good scripts
+ultimately comes down to custom work, no matter who you pay for code
+API usage
+Degree f integration
+API takes a lot of client-side code )Hardest)
+iFrame
+JS Library
+Link to external site
+Why would you even want to do this?
+if looking at site and want to increase functionality but have limited budget
+single out specific things to look closer at
+Donations, shopping carts, CRM, Analytics
+Payment Gateways
+square/Paypal,/Amazon Pay - D8 module
+Authorize.net, yes module, hard to use though
+not in active dev
+Stripe, D module in alpha, no being developed
+Social Sharing
+no integration is an option as well
+email
+email sevice provider
+transactional email service provider'
+Mandrill
+Heavy Hitters Swiss Army Knife
+Salesforce
+SalsaLabs/SalsaEngage
+Don't paint yourself into a corner
+all your eggs are in one basket
+It's dangerous to go alone
+Work with people that know what you do
+experts an bring new ideas and solutions to the table
+'development and programming' mean a specific thing for Non-profit
+standing on the shoulders of giants
+
+https://twitter.com/McDwayne/status/1180582883099938823
+
+
+### My Talks
+
+I was fortunate to give two talks this time around.  My new talk [Follow that data! Letting your users tell you what works.](https://2019.badcamp.org/session/follow-data-letting-your-users-tell-you-what-works) and one of my favorite talks I have ever given [Making A Tour: Leveraging The Tour Module For A Better User Experience](https://2019.badcamp.org/session/making-tour-leveraging-tour-module-better-user-experience)
+
+For the first one, I gotta admit, I learned a lot in my research but I felt the talk itself, especially in this alpha release, was a little scattered. I realized half way through I had written 2 talks in all reality and didn't really do either one of them proper service by combining them. The old saying is true though, you never really know what a talk is saying until you give it. I can fine tune from here, but this is likely the last time I will submit this particular title.  
+
+The Tour module talk on the other hand is one I am extremely proud of and one I wrote an [article about earlier this year](https://pantheon.io/blog/using-tour-module-better-user-experiences). It is always well received and some people always have the same 'mind blown' reaction when they realize it is in core, and has been since the 8.0 release.  If I can help one dev or site builder explain one less thing in person for the 100th time, it will all have been worth it.  
+
+https://twitter.com/cgreaten/status/1180268912597880832
+
+
+## Wrapping Up
+
+The thing I can't really capture completely accurately in this post and in my notes in general is the sense of community I felt here. I know I say that a lot, but this time it really did feel like a homecoming. I am not trying to diminish the lovely and wonderful people in WordPress or elsewhere, but as far as tech communities go, Drupal is very special. No, it is not a utopia and there are some major hurdles we need to overcome, especially around diversity, but it does revolve around the central codebase that is technically great and captures the best sense of what open source code can be I believe.
+
+As I wind down this part of my life as a traveling tech evangelist going to so many dang events all over the place, I am so, so glad my last Drupal event of the year was in the back yard of the town I have called home for a decade and a half.  So close but so far across the bay at any given time I never visit there too often.  I hope to visit next year, even if I have to travel quite a bit further for BADCamp 2020.  
+
+
+https://twitter.com/pvishnuvijayan/status/1180320062407753728

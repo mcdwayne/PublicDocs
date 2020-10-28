@@ -1,0 +1,398 @@
+NextJS conference raw notes:
+
+I am super excited to write my first personal blog post about my experiences at a conference in my new industry: the first ever [NextJS Conference](https://nextjs.org/conf/)!
+
+## No in person stuff, but Discord for flavor
+
+While I have ducked in and out of several WordCamps and Drupal events over the last year, mostly I have been hitting a few sessions and hanging out at a few of the social channels.  I only note this for readers of the [my previous event/travel blog](https://mcdwayne.com) who might be expecting me to write about 'The Food and The Fun'. 
+
+Fun was still had though, as I 
+
+## So many talks and so many things
+
+with over 60 talks scheduled for a one day event, of course it would be impossible to see everything. Good thing for us they are all recorded on the [conference's Youtube channel]()
+
+
+
+
+https://nextjs.org/conf/expo
+
+
+RAW NOTES:
+Keynote:
+
+Next10
+
+update easy
+many benifits
+
+Images
+hard
+Images vs img
+
+I18n
+
+Translation and routing
+Language detection and Routing
+static generate what is needed
+lan0region
+nl-NL vs nl-BE
+
+domain routing top level domain, 
+dynamic rendering
+content duplication avoided by language i18n tagging automatically
+
+static or stayign fast over time
+performance montiroing as part of the workflow
+been checking performance wrong
+NextJS 10 analytics
+measuring continuously
+from all devices
+from the actual regions people are in
+deeply understanding is critical
+Google came up with critical metrics
+Web Vitals
+percieved loading speed
+LCP - largest contentful paint
+cart count First Input Delay FID
+Layout shift (annoying when buttons move while loading)
+emulated testing can not predict this stuff
+Users needed to get real data
+nextjs/analytics
+
+Ecommerce space
+bevore 16 vs 34%
+10 yers in a few months
+
+10/th second is 1% drop
+powerful new tools images, i18n, real analytics
+Nextjs.org/Commerce
+new super fast options, best in class ecommerce store
+ships with componenets just ready to go, cart, wishlist
+optimized
+
+Tomorrow job fair
+
+
+----------
+[When Not to Use Next.js](https://nextjs.org/conf/speakers/jescalan)
+
+[Jeff Escalante](https://twitter.com/jescalan)
+Hashicorp
+
+How is he even giving this talk? 
+He has thought much about it
+
+it's all about balance
+one key philisophical idea 
+interesting features
+Hybrid Architecture
+a key aspect of nextJS philosophy
+
+Frameworks tend to couple to one architecture
+dynamic (WP, PHP, Rails) 
+Static (Gatsby, Hugo, Jekyll)
+
+Peoplelike to talk about this
+Mullenweg vs Biilmann - Netlify conference
+Both are blondish gents with beards, in front of derotive bokshelfs
+Next.js don't care (like the honey badger)
+You cna make static before deployment or you could make a dynamic page on every load, depends on how you use NextJS
+You can take a path in between extremes
+Don't @ me about caches, IT IS NOT bianary static/dynamic
+caching blurs it
+caches are not easy to deal with
+with nextjs this is not the case, DOM manipulation
+but you ae not calling the shots, like back with Backbone you had to write out the dom interactions
+React more declaritive models, 
+There is caching happening, but there is no need to manually fuss wiht it
+Hashicorp Multi Architecture (not a plug, no one asked him to drop this in)
+On prem vs Cloud - analogy
+Quickly on prem becomes mostly and clear cloud is the better approach
+Used to be peple deployed code to own servers, then amazon, but really multiple other plays, more complex
+Even if a comapny govern to make ony one choice, M&A gets the multi cloud problem...
+any sufficently large company has to eventually deal with multiple cloud vendors
+Hashicorp tools can interface with all the cloud providers and only one single set of tools/resources 
+that shift is how Hashi has succeeded
+back to the point
+dev -> static/dynamic/etc
+no longer have to logically make those splits and try to manage it
+Next serves the same funcion as Hashi, one mental model to deal with multiple ways to do apps
+Hi team does Hashicorp websites
+they are uilding 14 sites
+diversity of different needs
+docs, ot marketing, to conference websites
+all unique site needs
+across those sites a wide range of challenges
+only 7 devs, for a very fast growing company
+how they even keeping up?
+share the most things they can between all the sites
+shared platfrom approach
+Shared - foundation, tooling, components, knowledge, dev resources
+thousands of pages, public user profiles, custom search, custom content based on user
+OK, back to the talk, we drifted pretty far with basic concepts
+the X for Everythig problem
+a pervasive issue in tech
+Rails as example
+Rails has 'everything you need' example articles/posts he shows
+Jamstack solves everything!
+
+Where NextJS shines:
+Flexibility, Scale, Active Maintenance
+Where NextJS does not shine
+Small, simple sites
+No plans for aggressive growth and scale (the largest part of the internet, super important)
+not frequently updated/maintained
+no need for react in the first place 
+
+but please experiment!
+the line is drawn when people paying to do certain work, 
+ply it in the right way
+nextjs hybrid architecrues, abtracts a level up
+this is effective for high flex/cale
+it is not the solution for all problems. 
+maybe not for small sites with no scale needs
+
+---------
+[Everything Is a CMS]()
+Sean C Davis
+https://twitter.com/seancdavis29
+
+
+Quirky funky intro, reminds me of BDG humor
+SCD C makes his name totally unique
+Ample - Cinci Ohio
+does a lot of things with tech
+the 29 comes from his birthday, leap day, 8 birthdays
+Stella his dog
+one talent, balance on her head
+
+1. How do we ge the right CMS
+How doe we minimize rework when making changes
+considering Data source no matter what you choose
+two types of CMS (ignorming the monoliths)
+API driven or Git Based
+Everything is how consumed and stored
+
+API-Driven 
+data in the DB,
+Content consumed by an API
+Contentful, Agility, Dato, Sanity and even WP can do it
+
+Git based 
+data stored in MD, YML, JSON, etc
+Content is assumed by reading the data file
+Forestly, NetlifyCMS
+Prose sits above github
+you can have people edit from withiin the repo
+
+Shoose the best tool fo the job, consider the requirements
+
+There is a problem, NOT a productive way to work
+
+WE generally get a set of preferred tools to solve most of the problems
+Those don't solve every problem
+Evaluate on preferred set of tools, choosing from prevetted tools
+Evaluate? 
+Cost, Pricing model, Support, SLA, SSO, SDK
+Type(Api vs Git)
+Editing Experience
+Preview-abilityy
+publishing workflow/scheduling
+single instance models
+L18n
+image transformation
+
+Some unknowables
+What is the editing experience
+what is the dev experience?
+
+Meet your editors where they already are
+if using WP, just maybe leverage WP with your front end
+you get new tool in your belt
+
+What content management system
+
+What if the best CMS is NOT meant to be a CMS
+Trello, Asana, Jra, 
+Faune, MongoDB, AWL
+Spreadsheets? (DON"T DO IT THOUGH)
+Dropbox, Backblaze, Drive, etc
+local apps or editors, files
+MD, YML, Bear editor, VSCode
+
+Sandwich time!
+seancdavis/everything-is-a-cms on github
+Contentful as the CMS -  sandwiches
+drop pages in the pages directory, 
+demo of bilding simpe page
+good
+until next project
+now editors using Trello
+talk to the trello API instead of the Contentuful API
+works 
+but we duplicated code
+seperate repos 
+one file in example, silly
+add it all up, so much to rewrite
+eventually you would need to touch so many parts of an application
+Data source are painful
+
+How to minimize work on reworks?
+Build an  engine that consumes data for your NextJS applications
+drivers to support data sources
+2 engines possible, file based and API based
+wait, that is CMS...
+API based transforms and makes available with REST or GraphQL
+Better with working on dymanmic/real-time data
+File based pulls from varous sources normalize it and write to files, 
+Great for static
+example of workflow for the app
+
+no perfect data source for your project
+evaluate ased on criteria important to you and your project to find a balance between picking the best tool for the job and working efficiently
+consider meeting your data and/or editors where they are, rather thn moving all conten into a single source
+You may have to swap out or add data dources, thats OK, build an engine that processes and makes it less painful
+no matter what though, remember above all else, have fun
+
+-------------------
+
+
+[Why Real Time Matters](https://nextjs.org/conf/speakers/svale)
+(Simen Svale Skogsrud)[https://twitter.com/svale]
+
+Simen, Knut (dev Rel), Espen(dev)
+Sanity demo
+Visual editor, easy to manipulate
+rich text type editor, but just json under the hood, easy to conceptualize from Dev perspective
+no copy/paste weird markup - transportable as heck
+Review changes are important
+'how can we know' if reviewed changes?
+Git diff like changes
+Real time collaboaration 
+see what others are doing
+not messing around too much in production for this demo
+ecommerce studio demo next
+watching changes happen between viewers is powerful for collab
+how did they do it?
+Map preview custom element
+as an author and editor, how will it affect people and be interpreted
+Demo site reflecting changes while working with editor
+fastest preview
+next-sanity tool kit
+
+-----------
+[Introducing: Edge Slice Rerendering. Performant A/B Testing, Personalization, and more.](https://nextjs.org/conf/speakers/jayphelps)
+[Jay Phelps](https://twitter.com/_jayphelps)
+
+Rerender just a slice of a thing
+Talks about compilers
+program slicing
+
+could rerender the app
+surgically replace only what is absolutley needed
+Override props at runtime
+Overrides
+
+Scope and props 
+Do this at the edge
+
+on the CDN
+Edge Slice Rerendering
+ESR
+you don't do this on its own, you would combine it with something like SSG
+
+popular third party client side a/b testing loads slowest and last moment 
+
+Outsmartly
+
+
+
+---------
+[How to Learn React/Next.js or Anything](https://nextjs.org/conf/speakers/arunoda)
+[Arunoda Susiripala](https://twitter.com/arunoda)
+
+How to learn these things
+Why learning X is soo hard
+he is trying to learn something new everyday
+1. Need Prior Info
+2. Poor educational Content
+3. overcomplicated API/UX
+These are his observations not scientific research
+blender FPS example - DAIN
+he read whitepaper, math was beyond him
+OK, let's apply this to React
+1 - need to understand JS and web basics
+2 - confusing educational content - so many peices of content, not all good, many outdated, hard to find good resources - using react classes vs hooks which is modern
+3 - React is not that complex but issue is to many tools in the ecosystem, historical reasons obscure why you needed them, harder to learn alll the things
+We need to understand 20% to get 80% done
+We need a tutorial!
+Just React course/tutorial
+to get things done his way
+deep dive on the first page, scares people
+So many things you can learn about, where to start is the issue
+diving into the most bare bones basics and moving from there
+Next is practice
+
+
+------------
+[(Choosing our own) Adventures in Next.js](https://nextjs.org/conf/speakers/cassidoo)
+[Cassidy Williams](https://twitter.com/cassidoo)
+Working at Netlify
+
+Choose your own adventure books for inspirations
+Picking a data structure
+Linked List?  No cause it is not linear
+Trees?
+Branching and so many choices 
+BUT CYO adventures are not always in one direction
+branches converge
+Graph?
+Any which way you want to go you navigate bouncing around
+but we want to have specific paths
+no undo button overuse, want to be specific
+Directed Graph
+graph with arrows, 
+state machine, never in multiple states at once
+"user input driven state machine"
+now pick tools 
+XState  - state machine lib
+reducers 
++ React
++ NextJS
+add crowdsourcing
+Netlify forms
+HTML + data=true - Netlify picks it up with a function
+Hasura for the DB
+and a spooooky story
+Demooooo!
+
+---------------
+[Building Next Generation Apps with Next.js and MongoDB](https://nextjs.org/conf/speakers/kukicado)
+[Ado Kukic](https://twitter.com/kukicado)
+
+Don't like slides but
+Why did devs like NextJS?
+SSG and SSR?
+Zero Config
+File system routing 
+API Endpoints to expose backend functionality
+no one in isolation
+it is somethig more
+Related to the Dunning Krugeer effet
+Seems to know a lot, powerful, rock star from the initial look at the tutorial
+then build real thing and feel dumb
+then work through it and learn what you need
+NextJS is a rare framework that is complex but so much attention to dev experience, it is suberb
+easy to master and extend
+\MongoDB Atlas
+not just a cloud DB
+Atlas provides Lucene search
+Serverless
+Multicloud env.
+code example
+the app - property booking
+connect booking to MongoDB
+search and find experience for end user
+
+

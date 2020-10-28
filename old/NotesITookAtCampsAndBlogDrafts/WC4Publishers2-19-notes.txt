@@ -1,0 +1,549 @@
+WordCamp for Publishers 2019: Warm Ohio nights and a lot of community socializing
+
+I was born in [the BUckeye state]()PLACEHOLDEROhio and to be honest it is not a place I visit too often. There is not a lot to draw me back and living on a coast and traveling as much as I have in recent years has given me few opportunities to come back. Last time I was in the Columbus area was way back in 2016 for WordCamp Dayton, which was before this blog existed. That trip was a game changer for me as I met Josepha there, learned what a happiness engineer did and really, for the first time, saw what WordPress Community was all about.  That took me on a path of Developer Relations that saw me learning new skills almost daily.  I got to share those skills and still learn more this time around in Columbus at [WordCamp for Publishers 2019](https://2019-columbus.publishers.wordcamp.org).
+
+
+## Food and Fun
+
+### Tuesday 
+
+The night before the event officially kicked off there was an opening reception at [Arepazo Tapas Bar Grille](https://elarepazolatingrill.com/gahanna/). Various fried appetizers and meat on toothpicks options as well as communal beer pitchers and a few gallons of margaritas.  Very proud to say that we didn't let the margaritas go to waste and everyone at the end made sure we extracted the maximum value. 
+
+https://twitter.com/PK_Henderson/status/1158883569248419841
+
+
+Afterward, some of us had a little more refreshment and fellowship.
+
+https://twitter.com/wcpublishers/status/1158927422479314944
+
+
+### Wednesday 
+
+Arriving at the venue, I found pretty reasonable coffee and tea as well as a small fridge of sodas and LaCroix and such.  It kept us going for the morning. Lunch was a local food truck, [Nazca Peruvian Eats](https://streetfoodfinder.com/nazcaperuvianeats). Very simple, but filling for me, vegan option of rice and beans and corn and olives.  I did go back later for some plantains at the very end.  Very tasty all around.  
+
+https://twitter.com/PK_Henderson/status/1159155146284314624
+
+We got back together in the evening at [Two Dollar Radio Headquarters](https://twodollarradiohq.com/) for some really nice vegan cafe food, some drinks and some board games.  I brought my new copy of [Foodtown Throwdown](http://www.argylegames.com/foodtown-throwdown) and got to introduce several people to the 'build you own food truck empire' game. The cafe in all reality though is a bar/bookstore/book publisher run by the nicest people.  For sure go and support them if you are ever in Columbus again.  
+
+https://twitter.com/bph/status/1159302785751494656
+
+### WCKaraoke
+
+Some of us did find our way to an Irish bar to catch their Karaoke night.  We went to [Cavan Irish Pub](http://cavanirishpub.com/), home of the $2.50 well drink and $1 Jello shots.  I had no Jello as that contains gelatin which is gross. Can't find any tweets on this.  
+
+
+### Thursday:
+
+Coffee and tea and cold drinks awaited us again. This time for lunch we had fresh made pitas from the [Pitabilities food truck](https://pitabilities.com/). I had some tasty fries and a falafel sandwich. A single foodtruck did take a bit of time, so they extended the lunch period by 15 minutes.  
+
+https://twitter.com/PK_Henderson/status/1159510804506533889
+
+
+After the last sessions were done and we went to drop our stuf off at the places we were staying, we regathered at [Wolf’s Ridge Brewing](https://www.wolfsridgebrewing.com/) for some pretty nice house made brews and I indulged in some spicy [palomas](https://en.wikipedia.org/wiki/Paloma_(cocktail)).  We did continue on after this but the twitter documentation is lacking so I will just leave it at that.  
+
+https://twitter.com/wcpublishers/status/1159639182848843776
+
+
+
+Friday:
+
+After the 2 gull days of sessions, the camp continues with a half day 'mentoring' experience.  We arrived back at the venue and got the same coffee and drinks reception.  Lunch was not originally part of the plan but the organizers made it happen last minute.  I had an avocado poke bowl from Poke bowl from [Viiza](http://places.singleplatform.com/viiza-1/menu?ref=google). Others had a variety of fish or chicken in theirs. Soon after lunch I had to split, ending my social times with the WordCamp folks this time around.    
+
+
+## Sessions
+
+Opening Remarks:
+
+https://twitter.com/bph/status/1159104643596554242
+
+	
+[Creating a Better Editorial Experience with Gutenberg](https://2019-columbus.publishers.wordcamp.org/session/creating-a-better-editorial-experience-with-gutenberg/)
+[Jon Heller](https://twitter.com/jonheller)
+
+
+Raw Notes:
+Stop fighting your CMS
+Same issues on all platforms
+been doing this for a minute
+on many platforms
+Drupal,
+coneLobster, NetBeans, Bluefish, HotDog, 
+had to know HTML to use
+tough to do it in the early days
+savage state
+art history lesson
+rough around the edges, but cobbled together what looks OK
+days before CMS
+table tags
+wysiwyg
+bad name, good idea
+evolves more, 
+arise of the CMS
+hard to manage and hard to update
+Elliot, Advanced Custom Fields
+layout challenges and specific reusable fields consistently
+freeform editors make it messy
+data is not easily extractable
+sort y price or filter is hard
+ACF allows fields to be reusable
+events
+history of short codes and manual repeating ACF
+fragmented
+content vs blocks
+2 solutions ACF vs WYSIWYG
+not idea editor experience
+around this time, other players emerge, like Squarespace
+Medium
+Gutenberg emerged from that
+as a large scale effort with a lot of weight to it by Ma.tt
+skepticism, lot of fear of messing up your website
+blowing up the site concern
+plugin experience classic til 2022
+legacy content just keeps existing
+
+
+https://twitter.com/alexiskulash/status/1159117927465066496
+
+https://twitter.com/benjmay/status/1159109798857777157
+
+
+	
+[Beyond the Metabox: How Gutenberg Can Bring the Editorial Experience to Life](https://2019-columbus.publishers.wordcamp.org/session/beyond-the-metabox-how-gutenberg-can-bring-the-editorial-experience-to-life/)
+[Kevin Fodness](https://twitter.com/kevinfodness)
+
+
+Raw Notes:
+Is a hotdog a sandwich?  Is an editor a sandwich?
+He is in charge of Alley's JS practice
+post types?
+Pagebulders - universally terrible
+shortcodes
+Why are pagebuilders a bad idea - pic of dumpster fire
+shortcodes are injectable 
+17 screens on metaboxes
+that is how they edit content on a site
+it works
+it is just parsing it visually is hard
+Gutenberg to solve this
+WYSIWYG but other benefits
+custom blocks, 1 half of the experience
+use built in whenever possible
+kitchen sink post to show how it works to clients
+modify based on feedback from that
+image block, can add on any other fields as needed
+only custom once built in or extended blocks no longer solve issue
+--distraction--
+a lot of the room uses customized Gutenberg blocks
+extend your own custom blocks like you extend the built in blocks
+feed-driven block with live preview
+block call backs, 
+two concerns
+what editor view look like? what happens to save methods?
+latest content from feed view, better editorial experience
+background color, you can limit the color pallet
+callout block example
+something that was a short code, much easier to manage as a block
+block editor in core, Gutenberg is the just the code name
+posts that do or don't support content
+utility post type, template licked block saved to postmeta, includes CSV data uploader
+no free form content area
+no content area, no Gutenberg
+make a custom block that uses the meta data marry with template locking
+can't move, reorder or change layout, 
+PluginSidebar
+register per plugin, config specific for your site
+metaboxes go into the PluginSidebar
+break into sections
+can see conditionally loaded by post type or other attribute
+because ReactJS, respond before saving
+supports all fields, including custom
+good candidates: SEO (Meta title, description)
+Open Graph Twitter Card text and images
+Display options that affect the entire page
+looking ahead
+where is dev going?
+next version, ability to extend Document sidebar
+PluginSidebar will be used for Plugins
+don't be afraid of the future of Gutes
+Not the Gutenpocalypse
+Gutenberg Ramp
+
+
+https://twitter.com/alleyco/status/1159123091970244608
+
+
+https://twitter.com/alexiskulash/status/1159126830034640897
+
+
+
+	
+[Top Cases in Internet Publishing](https://2019-columbus.publishers.wordcamp.org/session/top-cases-in-internet-publishing/)
+[Lucia Walinchus](https://twitter.com/SoSaysLucia)
+
+
+Raw Notes:
+Play a game, we are all fed judges
+who wins in case of suit of clicked agreement for state x sue for state y
+185 F.Supp.3d
+in RE facebook biometric information privacy litigation
+US District Court N.D. California. 9th circuit
+choice of lau clauses are usually client favoring
+internet publishing
+wild west days now
+two separate court systems
+Federal and State
+trial-> appellate->supreme
+NY and TX are weirdos with their naming 
+common misconceptions, on;y state laws can be decided in state court
+fed can rule on state laws
+persuasive vs precedent
+judge can listen to another district, but not necessarily
+Appeals are retrials
+Trial courts determine issues of material fact, but an appellate court can determine how the law applies
+Rosenbach vs Six Flags 2019
+Rivera v Google
+Nimesh Patel v Facebook 18-15982 on youtube
+liquidated damages provisions, $5K per violation
+Sandman vs Washington Post
+Court says reprinting Phillips' opinion is not defamatory
+Rorschach test
+international law
+Lord McAlpine trending? *Innocent face*
+UK publishers are liable for republishing the libel of others
+online journalism handbook - don't publish when in doubt
+Wright v Ver
+Fourth Estate Public Benefit Corporation v wall-street.com
+solved longstanding conflict in the circuit courts, sided with the 10th and 11th circuits Now you have to get your copyright registered to sue.
+takes months to do this, but you do have rights before you do
+getting occasional copyright on your works
+Rimini Street Inc. v. Oracle
+Post "Blurred Lines" cases
+Ed Sheeran, Katy Perry, 
+Led Zeppelin, 
+En Banc hearing
+Kraftwerk - metal on metal case
+Allen vs Cooper, can states be sued in federal court for copyright law violations
+Case involves alleged copyright violations of footage from the excavation of Blackbeard's Queen Anne's Revenge (shipwreck on a sandbar)
+UBSoffshorebank.com - cybersquatting
+Domino's vs Robles 18-1539 - visually impaired ADA violations
+ADA online is still hard for the courts, unlike physical space, which is settled for the most part
+sqoop, website for federal court case search
+can follow cases and it will keep emailing you
+prove you are a journalist and they give free subscription
+Recap by free law project
+rarely $15 a quarter minimum
+CourtListen fro the further reading
+The Content Trap (bharat anand)
+Information Doesn't Want to be Free (Cory Doctorow)
+EyeOnOhio.com - sign up!
+
+https://twitter.com/wcpublishers/status/1159137567775895552
+
+https://twitter.com/ThosPalmer/status/1159142088392564737
+
+https://twitter.com/ThosPalmer/status/1159142088392564737
+
+
+[Leveraging WordPress as a Digital Sports Publisher](https://2019-columbus.publishers.wordcamp.org/session/leveraging-wordpress-as-a-digital-sports-publisher/) 
+[Theresa Spencer](https://twitter.com/NESN)
+
+
+
+Raw Notes:
+Business Stakeholder - map to project success
+IMplementation : The product
+custom features
+primary category
+category menus
+video player embed button
+Shortcodes- tv schedule @ content/ad partners
+Widgets
+Plugins - 
+WP Content Options
+AMP
+Apple News
+MostRecent Feed - Popular Posts
+Featured Images
+Publicize
+Add SEO Meta Tag
+NESN.com 
+original written and video sports content
+Broadcast network initiatives
+partnerships
+Tools - 
+CMS
+SP Content Options
+Shortcodes. RSS
+Engagement- 
+Reach
+Direct
+Publicize (jetpack)
+Taxonomies
+Add SEO Meta Tags
+Keywords and Google News Keywords
+direct - apple news
+AMP framework
+Reengage
+Measurement: KPIs
+agreed upon internally
+Google Analytics as a way to measure
+Pagevies vs users vs sessions
+keyword analytics
+tp 5 views of sessions of AMP vs Apple News, etc
+Future
+WIPgo and Multisite
+Gutenberg
+
+
+
+https://twitter.com/wcpublishers/status/1159164372188635136
+
+
+	
+[Storytelling Essentials Every Content Creator, Developer, and Publisher Should Understand](https://2019-columbus.publishers.wordcamp.org/session/storytelling-as-journalists/)
+[Nathan B. Weller](https://twitter.com/NathanBWeller)
+
+
+Raw Notes:
+Learnig opprotunity, story editor
+essentioal lessons he has learned about storytelling
+preconceived ideas of what stroytelling is
+those relationships went poorly
+first pat
+crash coarse in storytelling theory
+2nd part 
+He asked us to not take notes and just pay attention,
+doing that.  
+
+
+
+“Newspack: Listen First, Develop Second,” a process of creating a custom news vertical for WordPress.com
+Jefferson Rabb (Automattic)
+
+
+Raw Notes:
+Team lead at Newspack
+small to medium news rooms
+WordPress for News Rooms
+Developed with Automattic, fnded by google and philanthropic
+Charter Cohort of twelve publications
+First sites launch in late september
+Normalize, standardize, modernize editorial tooling
+Why us? Tooling is what e know, this is where we can contribute
+The rich WP ecosystem is blessing and curse
+We can contribute by shrinking it down to manageable size
+The Fear
+NHR research" tech confience is a large pain point
+legacy solutons mean impossible to change
+custom themes and plugin creation releys on dwv resources
+Digid site structues make it difficult to experiment
+Opinionated approach
+not trying to play God
+curated set of tools
+opinions of design and even business
+constantly evolving
+Reducing comlplexity
+General use tools can be complex and confusing
+we can abstract complexity behind purpose driven UI
+Visual Design
+"One THeme"
+belief that te visual delta between news sites is small
+customize the visual features that express brand and personality
+this will be an interave approach
+a bridge to Gutenberg
+Unabashedly Gutenberg-forward
+Conversion utility
+Education as a feature
+Show our customers the value of Gutenberg
+Blocks-based homepage building
+it is open source
+it is for full time newsrooms
+serious projects
+Conlusion
+positivly change publishers relationship with their website
+devoete motre time to journalism
+clear a path for business experimentation
+evolve with the community
+
+
+https://twitter.com/wcpublishers/status/1159190026267373568
+
+
+
+“Beginner’s Guide to Podcasting on WordPress,” a journalism-focused walk-through with the founder of a hyperlocal Local Switchboard NYC podcast
+Jordan Gass-Porré (Mother Jones)
+
+Podcasting for KTSW website
+just uploading an episode on a post
+issues all around
+Choose a topic, name, theme music, and design
+hyperlocal
+localswitchboard.com
+don't cheap out on equipment
+
+
+“Managing Site Networks,” a spotlight in prioritizing and focusing for a collection of sites Beth Davidz (Hearst)(Beth Davidz)
+
+How many sites?
+will be cute cat
+one more thing, more and more
+can't keep track of them
+thn you are crazy cat lady
+prioritize and organize
+get intel
+get to know client
+project
+goals
+musts and expertiese
+audit, issues
+what does cleitn really want?
+Tools and solutions
+Strategy
+Organize
+what's ___
+priroty, happen now
+is a must, simple, hard, ghih impact
+Project tracking tools
+Trello
+jira
+Post-it Notes
+Calendar
+Google Docs
+to deliver anu project, there are three factors
+Budget?
+Are you getting paid enough to do it?
+Don't control at least 1
+Deadline, Scope Budget
+
+
+https://twitter.com/McDwayne/status/1159199443696193538
+
+
+
+“Another Click in the Paywall,” an engineering story about building, iterating, and growing a customizable paywall
+Mike Auteri (Penske Media Corporation)
+
+
+What is a paywall
+tease content, pay to get it
+
+We ned marketing links that bypass the paywall
+
+https://twitter.com/alexiskulash/status/1159203307581313024
+
+
+
+
+
+Conquering Lighthouse to Provide a Better User Experience 
+Seth Alling
+
+2008 DDG
+2009, Bing and Google real-time search results
+2010, Caffeine- faster search results
+2011 Panda - drop low quality search results
+12% of all search results affected
+2012 penguine
+Drop SEO Spam search results (penguin)
+Added knowledge Graph
+2013 More accurate search results (hummingbird)
+largest code change since 2001
+conversational search
+2014 pidgeon, better local search results
+2016 Possum 
+2017 popup penalty
+2018, Lighthouse comes out, mobile first
+IS light
+Trellis from Mediavine
+makes progressive webapps out of the box
+mobile first
+quality theme is mandatory
+3 second to get server load is terrible
+good hosting is needed
+
+
+https://twitter.com/bph/status/1159490317957181448
+
+	
+Defining Fast: The Hardest Problem in Performance Engineering 
+[Zack Tollman](https://twitter.com/tollmanz)
+
+Potbelly Snadwiches
+Menu Master, 
+their system
+Order
+Over 
+Make 
+Pay
+he hates lines
+went one day after lunch rush
+no ipad guy
+order 
+8 minutes to get the sandwich
+Load event misses animations and tracking pixrls
+visually ready
+we are in the 
+Golden age of performance metrics
+Too many metrics really
+Tools are fantastic
+Key h1 to load, visual readiness
+TTFB
+First Meaningful Paint
+First CPU Idle
+Time to Interactive
+Philip Walton
+User centric performance metrics
+Test frequency is important
+2.1 million test in last month alone
+RUM - Real User Monitoring
+Variance is provided by this process
+people bring their own variables
+You have to look at the data now!
+lots of ways to look at it, have to do the hard work
+mean, median, averagepercentiles
+standard deviations
+do they need the raw data?
+comparison data might be a better approach
+business metric correlations
+hard to pin a 1:1 speed = more $
+Defining faster defines your performance culture
+
+
+https://twitter.com/alexiskulash/status/1159488133177761792
+
+
+
+Panel: The Business of Migrations 
+Amee Mola, 
+Paul Barthmaier, 
+Nici Catton
+
+
+
+
+JOn Eckman
+ligting talk
+John Wanamaker journalist
+scribbled on the back of advertizements
+I know half the money I spend on ads are wasted, the trouble is I just know which half.
+Neilson family boxes, ID who is whatching
+
+
+### My Session
+
+[Making WP-CLI Your Own: Extending a command line tool for your own needs](https://2019-columbus.publishers.wordcamp.org/session/making-wp-cli-your-own-extending-a-command-line-tool-for-your-own-needs/)
+
+I taught a workshop, really a follow up to the workshop I originally co-ran with [Daniel Bachhuber](https://www.linkedin.com/in/danielbachhuber/) in 2017 a WordCamp For Publishers in Denver. The first parts went really well, people followed along with the theory and when we tried extending a plugin, mostly people were able to play along and realize concepts.  However, once we started to delve into the world of Packages, which require Composer to work as expected, then the whole thing kinda turned sideways.  Still, the feedback I got from a few folks was that this was a game changer of a session and they see a lot of possibilities. I am going to count this one as a win even though it was not the best attended thing I have done.  
+
+
+https://twitter.com/wcpublishers/status/1159535808220672006
+
+
+### Mentoring Day
+
+https://twitter.com/wcpublishers/status/1159846791136849920
+
+
+## Wrapping Up
+
+https://twitter.com/alexiskulash/status/1159889294229757952

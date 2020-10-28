@@ -1,0 +1,460 @@
+WCLV-2019-Notes
+
+General:
+
+https://twitter.com/LVWordCamp/status/1170074983625715712
+
+
+https://twitter.com/blondishnet/status/1170365180816936960
+
+
+## Food and Fun
+
+### Friday
+
+Speaker Dinner:
+
+[Famous Dave's]()
+
+https://twitter.com/OGProgrammer/status/1170148841816899584
+
+Golden Tiki
+
+https://twitter.com/YouTooCanBeGuru/status/1170181659510988801
+
+### Saturday
+
+Lunch
+
+https://twitter.com/YouTooCanBeGuru/status/1170414662837358594
+
+
+After Party:
+https://twitter.com/vegasgeek/status/1170716020711075840
+https://twitter.com/hashtag/WCLV?src=hashtag_click
+
+After Dinner after
+https://twitter.com/YouTooCanBeGuru/status/1170550518772465664
+
+### Sunday
+
+
+
+## Sessions
+
+### Opening Remarks
+
+https://twitter.com/blondishnet/status/1170364367604338688
+
+
+[Backward Compatibility is Good for WordPress, Not Mental Health](https://2019.vegas.wordcamp.org/session/backward-compatibility-is-good-for-wordpress-not-mental-health/)
+[Bridget Willard](https://twitter.com/YouTooCanBeGuru)
+
+Been in the space for a while
+supportive amazing women
+but people with issues
+1 and 0s do what you expect
+people don't
+What are worthiness issues
+Friend's therapist told her to work on worthiness issues
+what does that even mean?
+like backwards compatibility
+clicked for her friend then
+We talk about mental health a lot, but we need some breaking changes
+Believes negative things about herself
+we are way harder on ourselves than we are to our friends
+why does self-talk matter
+Self talk is insidious
+it changes the things we choose in our lives
+do we make friends easily or figure they'll hate is anyway?
+Do we make self-deprecating jokes?
+Do we try better jobs? Better clients?
+Do we self isolate?
+Are we brave in our relationships? willing to trust someone?
+are we vulnerable to someone? maybe a therapist, but trust someone
+Listen to Corey Miller, Don't see everything underneath
+How do we make breaking changes
+have to find the bugs, they are not features
+Find someone to talk about it wiht
+recognize the patterns in word choice
+practice self awareness
+journal
+write: "I am" statements
+what are you goot at?
+What do people say about you?
+Who do you want to be?
+Write it down
+
+
+
+https://twitter.com/blondishnet/status/1170369431970516993
+
+
+
+
+[Lucky 7: Don’t Do Anything Until You Hear This WordPress Presentation](https://2019.vegas.wordcamp.org/session/lucky-7-dont-do-anything-until-you-hear-this-wordpress-presentation/)
+[Joe A Simpson Jr](https://twitter.com/joesimpsonjr)
+
+Luck be a widget tonight!
+First visit to vegas like you getting into WP for the first time
+it can be overwhelming
+Today, he is our welcoming party for WP
+2 years ago he got tired of driving 2 hours for a meetup
+started his own
+they had own WordCamp already
+started about 10 years ago, inherited Headway theme blog
+WP has come a long way since then
+they had budget fortunately 
+moves to VIP, got to go to summits
+everyone helped him when he was new
+issue 1
+"I bought too much hosting up front.."
+there are so many hosting companies
+buy small and level up
+considerations
+what kind of traffic do you expect
+are you selling products
+is site speed important
+will mutliple 
+"Why doesn't my theme look like the demo?"
+"how do I add a thing to a theme?"
+page builder maybe?
+"A11y makes me angry"
+he got punched in his shoulder once at a meetup about a11y
+be advocate for a11y
+NFL colorrush example
+colorblind and SEO
+color should not be only way to ID content
+contrast!
+Awwwared wining site failes basic contrast checker
+free tools from webaim
+contrastratio
+chrome color contrast analyszer
+test tab useage and no mouse
+Start with an a11y theme
+"Can't I google a theme to do all this for me?"
+redising his brother's website
+Hymaze from somewhere on Google
+unmaintainable mess
+"I'm still waiting on my client to send me website content"
+so many tools to help you write more efficiently
+Grammerly - typo and rich text 
+yoast
+all-in-one-seo
+"This is too basic, I want more advanced.."
+make.wordpress.org
+get involved
+slack
+look for events in your community
+libraries lynda.com for free
+WordPress.tv
+livestreams
+quick hits
+security
+WordFence
+iThemes
+two-step uthentication
+Strong passwowrds
+Royalty free images
+avoid cowboy coding - don't work directly on your live site
+
+
+https://twitter.com/LVWordCamp/status/1170382200530800640
+
+
+
+
+[What you thought you knew about WordPress security! (With real hacked site stories)](https://2019.vegas.wordcamp.org/session/what-you-thought-you-knew-about-wordpress-security-with-real-hacked-site-stories/)
+[Rob Marlbrough](https://twitter.com/downtownrob)
+
+care about passwords
+they can read table prefix, so not a good path anymore
+Real total cost of a hacked webstite
+Cost of a hack repair does not include
+cost of reputation
+shareholder distrust
+GDPR lawsuites, CC protection services
+Cost of wasted digital as spend FB/Insta ads
+cost of wasted tv/radio/print ads
+cost of email or other sign ups
+cost of memberships sales
+Security befoe getting to your website
+Network security WAF, at the ISP level, at the data center level
+Server securty at the host level
+Often hear, I can't control these things" Yes you can!, you ca change webhosts
+prepaid $3/m for 3 years? so what!, still worth changing hosts, one hack site could comst more than 3+ years of cheap hosting
+Strong passwords
+don't rely on obvious solutions
+Block IP based on behaviour, nimber of failed logins, guessing usernames, looping through known URLs
+2factor authentication!
+lastpass
+Update daily!
+security patches are relased daily
+hackers are alerted daily to vulnerbility
+get free SSL cert for many a reason, SEO, http/2
+behind a network scanning/filtering sytem
+choose a web host that protects networks and servers
+don't shoose a host based on affiliates only
+WordFence is great, install on all sites you manage
+Securi: free plugin scans site
+reinstalls pugins from repo in bulk
+backups can be worthless
+no protection is site is deleted from their servers!
+Dialy and Off Server and Tested or Worthless!
+hourly or continous backup for ecommerce/membership sites
+UpdraftPlus: reliable and free plugin
+Jetpack and Vaultpress, Backup BUddy and many other quality plugins out there
+Free services for WP website maintenance
+Free can be expensive, time consuming, stress-filled
+Advanced Automatic Updates plugin email alerts failures
+managewp/mainwp/infiniteWP
+Music lessons website hacked
+redirected random visitors 1 out  of 10 or so, redirected to porn website
+vulnerable cross scripting plugin
+recovery: backups for 90 days - still infected
+search/replace DB tables to remove injected JS, patched the plugin
+
+https://twitter.com/McDwayne/status/1170407555291467776
+
+
+	
+[She Said, He Said: Hackers’ Guide To Coding](https://2019.vegas.wordcamp.org/session/she-said-he-said-hackers-guide-to-coding/)
+[Shelby Sapusek](https://twitter.com/ShelMKE)
+[Jim Raffel](https://twitter.com/raffel)
+
+Partners for a while
+why is coding or hacking necessary?
+Our compnay has grown and taking on more complex 
+Are we coders? If not, are we hackers?
+If you have written any HTML, you are a coder
+Hackers - negative connotation
+Black hat
+White hat
+Grey Hat - looking for a payout
+Programmer - compent cook
+caution with coding
+always back things up
+staging sites
+css, PHP, etc, file copies
+Consider how changes will impact other parts of the site
+Document all changes
+safety first
+work with minimal number of frameworks, (genesis)
+Logo and header change example
+inspector - old was firebug
+customizer additional CSS
+theme editor but DANGER!
+what to edit and where
+Tools within customizer
+CSS and PHP
+Custom HTML widget
+Additional CSS under Customize, often underlooked
+diff tool
+Elementor Plugin
+drag and drop editor
+design pallete pro
+Google Maps
+Responsive Slider
+
+https://twitter.com/McDwayne/status/1170456257347510272
+
+
+[Inclusive Content Strategy](https://2019.vegas.wordcamp.org/session/inclusive-content-strategy/)
+[AmyJune Hineline](https://twitter.com/volkswagenchick)
+
+Verna Myers
+diversity is being invited to the party, INclusion is being asked to dance
+inclusive mean accessable
+Visual needs
+motor needs
+auditory needs
+cognitive needs
+Meaningful Content
+inclusion of all race, religion, contrie of origen
+gnerder ID 
+and all thing
+Ableist language
+people with a disability vs the disabled
+use people centric language
+never lazy, crazy, retarded
+Gender Nutral
+Humankind not mankind
+Folks vs guys or dudes
+mansplaining is not gender neutral
+enter the WYSIWYG
+styling is for coders and designers not content authors
+WYSIWYG should be for entering content
+never for styling
+use style guides or stylesheets
+an a11y is goal
+events a11y for everyone
+families, neurodiversity
+people who live with disabilities
+avoid acronyms
+abbreviations
+numeronyms (a11y, i18n)
+problematic to screen readers
+emoticons
+screen reads can't even deal most of the time
+buffer and twiteriffic can make 
+use camel case
+
+
+https://twitter.com/McDwayne/status/1170469544965464070
+
+
+git submodule add -b master git@github.com:mcdwayne/mcdwayne.github.io.git public
+
+git submodule add git@github.com:mcdwayne/mcdwayne.github.io.git
+
+
+
+[Accidental Business Owner: Now What?](https://2019.vegas.wordcamp.org/session/accidental-business-owner-now-what/)
+[Mike Demo](https://twitter.com/mpmike)
+
+Mike was building CMS sites when his school told him no one was using
+now in OSS
+Epcot, spaceship earth
+history of communication
+like the web
+democratize publishing, making the web and world better
+free software as in freedom of speech
+If you can dream it, you can do it (not actually Walt Disney)
+used to sell timeshares
+Fell in love with the community
+loves the passion of the community
+everyone wants to get to that next level
+don't have a vision of grandure when you are getting started
+3 page websites
+Accidental business owners: started to learn jus for fun, then built a site for family
+plugin 15K active users, can't kill it
+day job as well that id getting in the way
+just build without a plan
+passion without a way to get there
+make a plan for your clients before you start the work
+goal of more sales, what does more mean?
+clients hate launching websites
+never selling single website contract again
+"never have to make a new website again"
+launching basic website with a large wishlist
+goals vs wishlist, pick what is impactful
+we are guessing as website designers
+people think they know their clients
+protect yourself and get the money you are owed
+Step 1 get users
+step 2 ?? 
+step 3 profit
+charge for every change
+reprice per the reality that the client presents
+
+
+
+https://twitter.com/McDwayne/status/1170731031508373505
+
+
+[How to Outshine Your Competition in Our Exploding WordPress Market](https://2019.vegas.wordcamp.org/session/how-to-outshine-your-competition-in-our-exploding-wordpress-market/)
+[Beth Livingston](https://twitter.com/BethLivingstoNC)
+
+millions of websites, hundreds of thousands of devs for WP
+lot of copetition
+Clients spent a lot onf costinvetment
+some of timeline
+almost none on solution
+compoeting on price is a losing bet
+unique value prop
+not a call to action
+not headline: subtitle
+not an explanation ot your service
+not an into to your business
+communicates the unique value provided to your target customers
+what you do well vs what our competition does for your clients
+SEO is not a unique prop
+What clients care about most
+cost/investment
+timeline - scope creep, delays
+on time and i budget
+What business problem will your solution solve
+clint management plan
+this defines who your ideal client is
+ideal client avatar
+who do you want to work with?
+stop penalizing the client for not understanding how websites are built
+help them understand consequences for not following process
+have a change budget
+define process and consequences for non compliance
+use incremental acceptance
+set acceptance criteria up front
+font on the website 
+8 essential questions
+--could not type fast enough here --
+once you have answers to all those questions
+give the clients the same list of questions to show the other guy
+
+https://twitter.com/McDwayne/status/1170743173125033984
+
+
+### My talk
+
+[Bash is magic # No it’s not](https://2019.vegas.wordcamp.org/session/bash-is-magic-no-its-not/)
+
+https://twitter.com/YouTooCanBeGuru/status/1170754444570398720
+
+
+
+[Building Successful Client Relationships in a Digital Age](https://2019.vegas.wordcamp.org/session/building-successful-client-relationships-in-a-digital-age/)
+[Jodie Riccelli](https://twitter.com/Jodie_Riccelli)
+
+loves to learn
+worked at a car wash
+learned to detail cards
+then upsell the customer
+music promotion
+myspace
+she learned WP and GIMP to make artist websites
+sales for a small agency in Philly
+magical coming together of skills at that point
+then moved to WebDev Studios
+She is not everything though, 
+not a great speller, not the one with all the answers
+paul barnwell
+My students don't know how to have a conversation
+in a world of digital life is there any more important skill?
+Don't multitask, be present
+record calls, take notes later
+video or in person
+close all the things
+feather triangle string
+segment the room
+just moving through segments, want to engage with each group
+breaking down the audience to connect with her
+imagine you are holding feathers and need to move the feather to back wall
+Triangles are the joints
+string is your head, string out the top of your head
+Choose your words wisely
+this is why we are the bst vs this is how we can help
+problem vs challenge
+pick up the phone
+zoom is my friend
+saying 'I don't know' is not just OK, it is essential
+what measurable goal can we set
+be authentic
+remove qualifying word and phrases
+thank you notes or cookies
+principle of reciprocity
+the psychology of persuasion
+thank you notes increase registration
+productivity rule
+if task takes less than just 2 minutes, just do it now
+say think you
+file paper away
+looking away for a minute "eye care chrome extension"
+The four agreements
+
+https://twitter.com/wproadmaps/status/1170809295224467456
+
+
+
+
+## Wrapping Up
+
+https://twitter.com/GreenGeeks/status/1170586592232259584

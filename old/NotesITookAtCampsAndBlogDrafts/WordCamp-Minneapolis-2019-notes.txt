@@ -1,0 +1,584 @@
+WordCamp Minneapolis 2019: Fun In The North And A Good Time At The State Fair
+
+The last time I visited [PLACEHOLDER-NAME FOR MINNEAPOLIS](PLACEHOLDER) was way back in 2018 for [Twin Cities Drupal](PLACEHOLDER). I am a fan of this town for their progressive politics, growing vegan foodie culture and efficient public transportation.  It is on my short list of places to possibly move one day. I landed at [MSP](PLACEHOLDER) early and got to see some old friends before I attended the reason I was really there, [WordCamp Minneapolis 2019](https://2019.minneapolis.wordcamp.org/).
+
+## Food and Fun
+
+### Thurssday
+
+#### Speaker Dinner
+
+Though there was a day of training this year, which I was not part of, the event officially stated for my on Thursday evening, at the traditional Speak/Sponsor/Organizer/Volunteer dinner.  It was great to see so many folks I know and to meet some new folks as well.  We gathered at the [The Trading Floor at Fueled Collective](PLACEHOLDER), which is in the old Grain Exchange. The Trading Floor is where, at one point, they actually bought and sold grain futures in Minneapolis, which is the seat of all things agricultural for the whole region.  A beautiful building turned into a giant and bright co-working and event space.  A few of us ended up at [Tracey's Saloon](PLACEHOLDER) for a nightcap before getting ready for a .  
+
+https://twitter.com/clickmom3/status/1083411322879074306
+
+Friday
+
+Lunch
+
+WPVegan attempt and hard times
+
+Otter's Tweet of some kind
+
+### Satruday 
+
+## Sessions
+
+Opening Remarks
+
+https://twitter.com/blondishnet/status/1164902147990966272
+
+
+[The Developer’s Spectrum – From Junior to Lead](https://2019.minneapolis.wordcamp.org/session/the-developers-spectrum/)
+[Jeff Holland]()
+
+
+The Junior
+right out of bootcamp
+very mallaeable
+you can teach them 'your way'
+they are quick learners who work extra hard
+spending hours outside of work hours to learn more
+pair well with senior devs
+experiences are somethign they look forward to
+very risk averse
+have to draw them out and comfortable with 'I don't know'
+Process change is difficult
+first time using Git, or Jira, or communication tools
+lot of questions about 'how you do things'
+They identify with their code
+they take it personally
+need to help them to feel seperate from their code
+stay blunt but explain things in code reviews, not much criticism
+"Here is how you can do it" 
+and tell them don't identify with your code
+The Junior is fresh out of school or changing careers
+Ambitious, ready to talk about new ideas
+Solved something - have some sense of accomplishments
+Apt to make mistakes
+On;y address one solution to a problem
+have to peer review with them 
+Unaware of edge cases, debug errors and not know what to test for
+over confident quickly once they start seeing patterns
+Errors lead to imposter syndrome
+How do they get better?
+- They need to code
+- Study and Read, but they need to read code to see how others are doing things
+- Pair program
+- meetups - meeting others makes you feel less isolated
+How to scale?
+Improve your skills
+Learn new languages
+Learn to context switch
+Mid Level - The workhorse of your team
+Very competent in their domain
+industry, languages, problem sets, etc
+Reliable output of work
+Predictable
+Shiney new ting syndrome
+Reliable 
+Consistant
+Overconfident
+Over reliance on their favorite tool
+Focus on a piece of the puzzle (tunnel vision)
+How Midlevel grows
+- Try new things
+- Mentor
+- Take on Challenges
+- Speak or Write!
+Mid level Scale?
+Personal to team level
+The Senior!
+Able to take on new things
+Architecture over implementation
+future thinking
+mentor
+They are patient
+helpful
+wise
+knowledge know things
+wisdom, know when to apply that knowledge
+focused
+intuitive
+always discussion, don't huddle them together
+shortcomings
+The old way works fine
+can over engineer for business needs
+Strategize
+Streamline
+The Lead and the Architect
+the roles at the top
+Lead manages dev work and communicatio with other teams
+Hels build team member's skills
+insulates and advocates for the team
+keep people out of meetings
+make wins visible outside of the team
+insulate team from problems
+Lead spends less time in code
+The architect manages the infrastructure
+Need to juggle the industry trends with org needs
+has to do it without working with all teams
+
+https://twitter.com/McDwayne/status/1164918119141449728
+
+
+[How to troubleshoot WordPress performance](https://2019.minneapolis.wordcamp.org/session/how-to-troubleshoot-wordpress-performance/)
+[Carl Alexander](https://twitter.com/twigpress)
+
+Sites and can be slow and that is terrible experience
+Plugins are often the reason when we mix them
+you want to use less and make sure you know how they interact
+Check your code
+PHP and JS code
+--was doing slide work--
+
+https://twitter.com/deliriousguy/status/1164924080274968577
+
+
+### My Talk
+
+[Bash is magic # No it’s not](https://2019.minneapolis.wordcamp.org/session/bash-is-magic-no-its-not/)
+
+I love this subject. There is no higher compliment to me than to have someone come up after a talk and say "You made Bash fun and a lot less scary." Though one of me other favorite bits of feedback was from someone who uses the command line everyday saying they learned something new as well. Learning together is the heart of open source and I am so happy I get to share that learning experience with the community. 
+
+PLACEHOLDER TWEET OF ME IF EXISTS.
+
+
+[Automating Site Creation](https://2019.minneapolis.wordcamp.org/session/automating-site-creation/)
+(Dan Flies](https://twitter.com/danflies)
+
+My notes for this are short because you should just go check out the code itself. I was introduced to Dan at the speaker dinner and I could tell immediately we had the same genreal passion for tech nerdery, which I mean as the highest compliment.  People of our ilk like to tinker and find new, elegant ways to solve issues in general. His support of my talk, which was delivered right before his, was also encouraging to hear, as some of what he spoke about assumed oyu had a general understanding of Bash and how WP-CLI commands work. He is managing a lot of scale and watching a devops master explain the tips he has learned about error checking and speeding up the build process was just pure gold. If you are managing more than a handful of sites, this talk and his code might just change your life! 
+
+
+Like Bash there are good reasons to use it
+scale
+need scripting
+code at [github.com/danflies/wptoolsdanflies/wptools](https://github.com/danflies/wptools)
+Using PHP to run WPClI
+Bash scripts got messy quickly
+but all WP-CLI run in exec()
+scandir
+wp theme install, doing it locally
+2> DEV NULL
+installing plugins like he does themes. 
+if theme is alreeady active check
+using exit codes from is-active 
+activate and check if activated , then active plugin list
+ARRAY_FILTER_USE_BOTH
+Default_settings
+array[name => value]
+key example in repo
+adding pages managing widgets managing menus
+
+https://twitter.com/McDwayne/status/1164970611157999619
+
+
+[Alternative datastores – When CPT, Taxonomies, Options and Object Meta aren’t enough](https://2019.minneapolis.wordcamp.org/session/alternative-datastores/)
+[Gary Kovar](https://2019.minneapolis.wordcamp.org/speakers/#wcorg-speaker-gary-kovar)
+
+Ever since I saw {Felix Arntz's talk at WordCamp Portland](PLACEHOLDER) last year about the WordPress database structure, I have been more interested in talks about the subject. Most of the them are of the nature about how to work around the limitations inherent in the Post and related fields structures.  I can foresee this being a future overhaul for WordPress, where we set out to fix the structure and make it much more tuned to getting individual Gutenberg blocks in and out of individual fields in the DB. For the time being, using alternative data stores when you can seems to be the prevailing path many are focusing on.  
+
+
+WP Storage
+WP Stores Datain MySQL
+WP has strongly Defined Models
+Posts
+Taxonomies/Terms
+Users
+Comments
+Options
+one table per data type
+SP does not do it that way
+gets ugly quick
+MySQL oversimplified
+custom tables/views
+list with the rest of tour WP Data
+no extra config from host
+allow you to store your data the way you intend to use it
+Elastisearch
+Great for search
+Super Fast Responsive ime
+External Service
+Eventually Consistent
+can miss things in shards
+Redic/Memcached
+Lightning fast
+May not be persistant
+key value pair
+Geolocation
+requirements
+Location CPT with lat/lng Field
+Ability
+query slow
+make a custom table
+change where it looks up certain things
+Geolocation - elastisearch
+GetPoint
+lat/long 
+Task Runner
+Requirements
+make the site run faster
+danger
+Tsk runner redis
+Add a key/value for each task
+taskname plus uuid
+multisite stuff
+Requirement
+I want to post something to 1 site in Mltisite and how it on Other Sites
+
+https://twitter.com/wordcampatl/status/1145847562617991170
+
+
+[Keynote: Collaboration and Communication: Success in Community and Business](https://2019.minneapolis.wordcamp.org/session/keynote-collaboration-and-communication-success-in-community-and-business/)
+[Cami Kaos](https://twitter.com/camikaos)
+
+Cami is someone I consider an inspiration. Her no nonsense attitude toward pretty much everything I have ever dealt with her on is downright refreshing. AS a speaker she is witty and always has fantastic slides. As someone who is now working from home, as that is my office these days, I really appreciate her advice on work/life balance and just all the general tips she gave in this keynote.  For sure a great one to check out if you are working from home as part of a distributed team.
+
+Edd of a long day keynote
+not 100% serious, going to tell jokes to entertain herself
+Distributed work
+found herself in a scary situation
+been out of the workforce for a while and was getting a divorce
+made a name as a mommy blogger and podcaster
+didn't want to disrupt being full time mom
+wasn't sure what skills to mark
+customer management and retention
+built on WP
+co-working space in an accelerator for startups, next dae at pub with good wifi
+other main contrib. in Denver
+boss was out most of the time
+she became a distributed employee
+part of a movement
+different kind of workforce
+being normalized
+WP is what she does and with tech makes sense to work form anywhere
+Distributed school as well
+distributed work has beed around for a while actually, with mail and telephone
+distributed 201
+strength and weaknesses of a DW
+a bunch of her co-works and friends from working from home slide
+working for a distributed team on a distributed project
+the good
+no brick and mortar
+more convenient for employees
+good for opening up to larger set of the best people
+underrepresented groups and diversity are enabled by 
+very few people like to commute
+removes the late for work part of the equation
+additional me time or time for family
+What about work life balance
+more relaxed schedule
+but have to be mindful, it is work to maintain work/life balance
+The bad
+most frequently
+how do you know they are working if they are not at their desks all day
+Communication is the way
+call center productivity 13% increase when could work from home
+increase was due to reduction of sick days. 
+Distributed or disturbed
+time zones are a real thing
+not a happy thing to work with
+no great answer, just kinda sucks
+The Ugly!
+Not bathing for days
+take care yourself
+happy hour zoom
+get a coworking desk
+dedicated work space
+alternate login on your computer
+if you know you need social activity, schedule it
+Going to gt coffee shop
+morning ritual
+if he has to relocate he does it once in the day
+limit context switching
+Culture!
+brick and mortar learn to work together
+Distributed teams need to be built with intent
+loss of sense of belonging is core of feeling isolated
+mission statement that means something to you and building community to reflect it
+Tools
+IRC
+78% of people she surveyed miss it
+know how to have a workaround
+Slack, WP, Google Docs and Zoom
+In her survey other peple brought up
+zendesk, helpscout
+githb, basecamp, trello, telegram, twitter, instagram, FB, Mastodon, Asana, Calednly
+email
+All communication tools
+social is important to follow along to other people's lives
+Distributed companies do well
+Stakeholders, clear vision of company
+Also compensation
+benefits, insurance, money, retirements
+hopefully find something you care about working on
+Resources are self explanatory
+working with a communication
+easier in company than a project
+when there is a meeting, P2 
+slack small conversation
+digital breadcrumbs to get where you need
+include everyone in the project, makes it more accessible in many ways
+welcoming place
+Passion Project
+Teamwork
+Better together, what can they learn from one another, projects and companies
+Great ideas come from anywhere
+next million $ idea
+passion 
+communication is key!
+
+https://twitter.com/StacyClements/status/1165006483500806145
+
+
+
+[Code Organization and Optimization for Blazingly Fast Rest Applications](https://2019.minneapolis.wordcamp.org/session/code-organization-and-optimization-for-blazingly-fast-rest-applications/)
+[Pete Klein](https://twitter.com/pete_klein)
+
+I ran into Pete the day before his talk and the very idea of accessing data for specific use cases intrigued me.  Ultimately, the CMS is just a fancy GUI to model and access a database, so changing how you access that data in a progressive, timesaving per cycle way makes a lot of sense.  I really appreciated how straightforward he was with the limitations of this approach and how it is not a one size fits all situation, which is a trap many less experienced devs fall into as they chase the new shiny thing. If you are optimizing front end search or any anonymous content, Short Init is definitely worth exploring as a code pattern.  
+
+
+fast queries vs the RestAPI
+Primer on the WP DB structure
+guide on easy benchmarking
+primer on $wpdb an MySQL `in` operator
+OOP
+what talk is not
+Universally applicable
+A step by step walkthrogh of Rest
+user authentication
+have anything to do with WP caching
+Not a lecture, as questions
+code examples setup
+VSCode
+PHP Intellephense
+Composer
+ACF
+An Example: 
+Travel Review App
+Destination custom post type
+feadured content
+editor content
+region taxonomy
+Our Rating - post metadata
+hotel link - post meta
+Reviews Post Type
+WP DB structure, been the same since 4.4.2
+terms have term meta
+our endpoint
+-- see slides, moved fast --
+2 ways to implement
+REST API
+Short Init
+measure speed
+Apache Bench built in to mac
+`ab` -n 100 
+science of waiting
+nngroup.com/articles/response-times-3-important-limits
+update: 6 seconds before you lose all attention these days
+navite = 343ms
+short init = 58ms
+quick comparison: default WP
+register_rest_route()
+Data access WP_Query
+get_post
+get_the_terms
+get_the_posts
+look at functional code
+-code-
+now the short init way
+endpoints are stand alone files, not theme or plugin code
+skips all the authentication and such
+files start with
+define DOING_AJAX
+define SHORTINIT
+Require_once ../wp-load.php
+All data access is done through $wpdb
+ID's as array indicies are used to return results
+no WP_Query
+no WP_Usr object
+can't be used for complex querys
+good for frequently hit, unauthenticated queries that need to be fast
+Search
+Featured Content
+User Profiles
+Anything on a homepage or first page of an app
+Code Examples again
+Collections
+INtro
+techopedia.com/definitoin/25317/collection
+it's a bucket
+that holds data
+has methods to fetch and access that data
+just making it clean and reusable
+
+https://twitter.com/McDwayne/status/1165287141632610305
+
+
+[Who Needs Themes When You have Blocksets](https://2019.minneapolis.wordcamp.org/session/who-needs-themes-when-you-have-blocksets/)
+[Wil Ranney](https://twitter.com/wilranney)
+
+Having sidestepped actually using the current WordPress code editor, thanks to [Markdown and WP-CLI](PLACEHOLDER TALK ABOUT SHIPPING CONTENT), I have realized recently I am not up to speed with some of the current thinking about the direction blocks are generally headed. This talk gave a pretty compelling argument that we should be thinking about block collections as a different path to the same outcome Themes gives us today. It feels we are in an in between time, where blocks are not quite understood enough by the masses and are being imagined differently by the advanced camps.  It will be interesting to watch the story of the editor unfold over the next few releases.  
+
+Used to use Divi
+Conversation at WCUS 2017
+Divi is a theme, not a plugin
+how would they use Gutes
+layout packs
+Limits of themes: static sections
+headers 
+each theme in WP treats this differently
+4 different design systems
+working on replacing widgets with blocks, but why stop there?
+another limit: proprietary code
+Another issue: Global Settings
+customizer a good step, but aspect ratio change is hard
+Most things we use themes for can be reduced to blocks and blocksets
+group of blocks arranged in a way and stored together
+reusable blocks
+not in the main WP menu yet
+export these blocksets as JSON
+"Pages are wrapped inside themes, where blocks operate inside pages"
+rarely do you see theme settings for single page
+Page level theming is what we want
+projects always get stuck on content
+we don't need a block repo, we need a blockset repo
+New, better blocks
+Gutes Blokcs - ultimate addons for Gutes
+Stackable - gutes blocks
+Page Builder Gute Blocks - coblocks
+Kadence Blocks - Gutes page builder toolkit
+Blocks Lab
+Premium Blocks for Gutenberg
+Gutes Bloks and Template Library by Otter
+ACF Global blocks
+Give some time to help make it better
+One more case for blocksets and not just blocks
+Wix, Weebly, Squarespace all have blocks
+Like Divi a few dozen blocks and layouts
+can't compete with the community to make it happen
+
+https://twitter.com/McDwayne/status/1165294406955675648
+
+
+[Gamify task management. Take your turn, strategize, and WIN!](https://2019.minneapolis.wordcamp.org/session/gamify-task-management-take-your-turn-strategize-and-win/)
+[Justin Foell](https://twitter.com/justinfoell)
+
+I kinda really love board games and I have been [pretty focused in my other writings](PLACEHOLDER LINKEDIN) about process management and better workflows. So, to see a talk that I would actually like to give at some point was both validating and just downright inspiring. The term 'gamification' threw me off a bit but thinking about how games have rules and patterns that are identical to project management principles feels exactly right. I need to get my hands on Kandan the board gameand that [Project Management board game](PLACEHOLDER) I discovered at NERDSummit this year.
+
+
+Linux on his personal machine!
+Gamify Taks Management for the win!
+tasks and tickets, he uses them interchangeably
+hates Candyland/Shoots And Ladders
+all chance
+let's talk about strategy games
+Jeremy Ward Board Game enthusiast and stickler for details
+complex games
+some could be considered punishable
+Before we start, what is the goal
+we have to cooperate and communicate
+Pandemic game example
+Can openly trade cards
+good analogy
+Victory points!
+feature launch or a theme redesign
+product launch
+full site launch
+make sure the goals are clear
+also we have to know the roles
+Project Manager (dealer)
+Production Team (Devs and Designers)
+The Client (the Driver)
+project manager does board setup
+this is not your out to say "that is the PM job"
+everyone needs to know setup and rules
+game example - complex
+know what the standard information is
+when managing tasks, flags, statusus, labels
+a meaningful view of what is going on
+Can we reduce complexity?
+Setup is a big part of gaming
+Epics/Milestones/Sprints/Features
+simple terms
+an example in Jira
+so customizable, can be cumbersome very quickly
+if set up simply, it is one of the best solutions out there
+Jura, Milestones are Epics
+Theme Redesign
+Customize Content
+Backlog - adding tasks
+potentially a long list of stuff
+clever way of hiding the stuff you are not working on at the moment
+try to hide the mountain of work below the fold
+agile development - we will go through terms
+Agaile sprints, just set amount of time, wek or 2 or a month
+resonable amount of tasks completed in that time
+typical gameplay on outside of the box, helps with planning
+setup time not counted in there
+take the tasks we want to and add to sprint
+you get to set the rules of this game
+might not hve sprints if just reactively doing tickets
+kanban - timeboard
+To Do
+In Progress
+Done
+invented by auto industry to make sure supply/demand was efficient and manage workforce
+Pro tip, game called Kanban
+once set up, default screen you see
+addint another status with the + button
+winemaking game with seasons
+planting, growing, harvesting, vinting
+phase moving from one place to another
+just got to be aware of what is going to make this cumbersome
+Take your turn
+Order or flow of ticket as it moves from person to person
+have to spell out which people and which roles will be doing wich actions
+software example
+1. Client requests a feature
+2. Project manager enters ticker into Backlog
+3. Dev provides an estimate
+4. Client approves budget
+5. PM assigns dev based on workload(prints/ToDo)
+6. Dev does work (in progress)
+7. Lead dev revies work
+8. Client reviews the work and it gets deployed
+9. PM completes it
+Castle Panic game example
+Draw Cards (pick a task)
+Play Cards (do the work)
+Move the monsters (Hand it off)
+moving the tokens are fun
+Trello does this too
+jira owns Trello now
+Remember post-move actions
+last step should be reassigning it to the next person
+Do necessary documentation, tell people what you did
+links, screenshots
+Add/Remove label or a flag, etc
+Reassign it to the next person in line
+Who's turn is it?
+Sometimes there is a lull cause people are masterminding a plan to win
+not asking who's turn it is is bad
+asking it is right thing to do when in doubt
+it is important to know when it is your turn and what todo on your turn
+My CLient Refuses to use our Task Management System
+Coach them on the rules
+Remind them that it's their project
+play the game for them (when they go to the bathroom), play fair and good
+Celebrate the wins
+Review tasks at the end of a milestone, let each dev or designer show off work
+Talk about what went well and what coule be improved (adjust the rules)
+Provide a peer-to-peer reward system
+peer to peer feedback better than top down
+Take our turn, Strategize and WIN!
+
+https://twitter.com/McDwayne/status/1165309266854666240
+
+
+
+## Wrapping Up
+
+I rarely have to say anything negative about a hotel experience but I need to get this pne off my chest.  The [Moxy Downtown Minneapolis](PLCEHOLDER) was a terrible experience for me. Thursday night going into Friday the fire alarm went off at 1:30am and due to an alarm malfunction they could not turn it off on the floor I was on. I had to change rooms at 3:00am. My new room had very thin walls and for the next 2 nights I had some noisy neighbors. This all added up to the least sleep I have gotten on a roadtrip in recent memory. It might be a hip, kitschy vibe but my stay there was the opposite of why I want to stay at a hotel.  
+
+Other than the lack of sleep this was a fun trip. It was great to see everyone and I walked away not just learning some new cool stuff, but I also walked away excited other folks are as into process management and project management optimization as I have been recently.  As my life changes and I am recognizing my frequenting of so many WordCamps might be winding down, it makes me appreciate every second I spend out on the road to support the community even more.  I have no idea when or if I will every return to Minneapolis, but I look forward to that day. Maybe it will even be for WordCamp Minneapolis 2020.  

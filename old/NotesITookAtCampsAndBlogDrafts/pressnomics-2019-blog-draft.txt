@@ -1,0 +1,104 @@
+PressNomics 2019: The value of conversation with the right people in the hot Arizona sun.
+
+I had never been to [The Old Pueblo](https://www.reddit.com/r/Tucson/comments/3ohlfi/mostleast_favorite_nicknames_for_tucson/) before this trip. If United Airlines had anything to say about it, I would still not have. Long story short, 2 cancelled flights, a missed connection and an overnight stay in Denver, which you can read further about over on [my new personal/tech-tinkering blog dwayne-mcdaniel.com](https://dwayne-mcdaniel.com/posts/old-friends-are-the-best/). Once I got to Tucson I realized I had only booked a room for one night, but thankfully my status and points get me into the overflow hotel for the event. Pretty quickly, the quality of the setting informed me that I was at no WordCamp, but rather at the gathering of the best and brightest business minds in the WordPress space. I was at [PressNomics 6, 2019](https://pressnomics.com/).
+
+
+https://twitter.com/taupecat/status/1172668191291478017
+
+
+## Food and Fun
+
+### Wednesday
+
+I arrived on Wednesday just in time for lunch. I joined a wonderful crowd of folks going to one of the 'official' restaurants that was expecting a lunch crowd from the event, [Wild Garlic](http://www.wildgarlicgrill.com). A bit pricey, they had a very friendly and competent staff. Only one real vegan item on the menu, but I left completely stuffed on deliciously prepared quinoa and veggies. 
+
+https://twitter.com/joeann/status/1172635301879189504
+
+
+After the day of intense sessions ended we gathered in the courtyard for a happy hour reception with drink tickets and a few appetizers.  Pretty soon a full meal was called for and I joined a few folks at the on property [The Terraza Garden Patio and Lounge](https://www.haciendadelsol.com/dining/terraza-garden-patio-lounge/).  Eventually a few nightcaps at my hotel with some of other conference folks staying there and I ended day one.  No tweets exist of these parts. 
+
+
+### Thursday
+
+Breakfast was at the all too fancy [The Westin La Paloma Resort & Spa](https://www.marriott.com/hotels/hotel-information/restaurant/tuswi-the-westin-la-paloma-resort-and-spa/) where my status got me free vouchers for the meal all week. I have never had more bland avocado toast to be honest, but the coffee was great!
+Over at the venue we had iced tea, coffee and teas to keep us hydraded and awake. There were also afternoon snacks. Really solid options but at the price point, I would have been sad it it had been any lesser quality.  
+
+For lunch, I found out from my old vegan brother [Josh](https://twitter.com/Josh412) who has family in the area that one of his favorite vegan joints in the world was a few miles away. We gathered a plat based foods enthusiastic crowd and headed to [Lovin' Spoonfuls](https://www.lovinspoonfuls.com/) which not only had an amazing selection and just astonishingly well prepared food, it was also very reasonably priced! If all vegan places delivered such value perhaps meat based chains would quickly go out of business around them.
+
+https://twitter.com/McDwayne/status/1172244670870540288
+
+
+After a day full of informative sessions a group of us explored one the culinary marvels of Tucson, [Culinary Dropout](https://www.culinarydropout.com/).  Imagine someone taking a car dealership worth of property and making a massive restaurant out of it with ping pong tables, cornhole and an entirely different lounge/restaurant inside of it. The kitchen has windows from chest level to the ceiling and we could see exactly how each bit of food was carefully and quickly prepared.  They only had one vegan dish on the menu, but it was so well spiced and balanced that it made up for the lack of choice quite well. Also they had great funny named drinks. Thanks to the generosity of [James Law](https://github.com/jameslaws) for the meal! It is not the only Culinary Dropout in the country and here is a tweet from another one from a previous PressNomics. 
+
+https://twitter.com/raqueLandefeld/status/850205368835751941
+
+
+After dinner we headed back to the [Hacienda del Sol](https://www.haciendadelsol.com/) for a little light live music and drink tickets with a full bar.  My favorite part of the whole party was the moment when out host, the awesome [Mr. Strebel ](https://twitter.com/strebel) granted me a near god like power when he commanded the bartender to 'give this man any drinks he wants' before walking away to find where he had left the extra drink tickets. I went home and to bed earlier than you might expect as the day was long and the next day was an adventure awaiting me.
+
+https://twitter.com/PressNomics/status/1172350756671782912
+
+
+### Friday
+
+After another breakfast at the hotel, I joined a group of folks to go explore [Kartchner Caverns](https://azstateparks.com/kartchner/). I have not been in a cave in many years and it is always humbling to think about geologic time, where a few hundred thousands years is a blink of an eye.  Helps put some things in perspective in all reality.  Unfortunately no cameras are allowed in the caves so I have no first hand source for you.  
+
+https://twitter.com/Truly_WP/status/1172544911884746754
+
+
+https://twitter.com/azstateparks/status/916075597817925635
+
+
+After a very full morning of bussing to and exploring the magnificent natural beauty of the caverns, we went to the place that reportedly invented [the Chimichanga, El Charro](https://en.wikipedia.org/wiki/Chimichanga). They had a full on vegan section of the menu and the margaritas were very good.  I ate way too many chips with salsa, but it was a wonderful time.  This capped off a really wonderful event. While the evening had a couple more drinks with folk at the hotel, our tale more or less ends here.  
+
+https://twitter.com/ImParthPandya/status/1172909307513491461
+
+
+One last giant thank you to [Jay](https://twitter.com/jay_hoppie) and [Keanan](https://twitter.com/KKoppenhaver) for the ride to the airport. As I am self funding these trips now, every little bit of help helps a lot. 
+
+## Sessions
+
+Due to the nature of the event, which does not record sessions to make everything a 'had to be there' type of experience, I am not going to release my full private notes here like I do on almost all the other posts. The schedule is indeed public, so no secrets there and I want to record some reactiond for myself in the future that might seem cryptic if you are reading along and not me. If you want to see what any of it looked like, I am not including the normal tweet proof of sessions as I typically do, but [the twitter stream is also not private](https://twitter.com/search?q=%23PressNomics&f=live).
+
+[The Ethics of Open Source.](https://pressnomics.com/#schedule)
+[Morten Rand-Hendriksen](https://twitter.com/mor10/)
+
+Every once in a while you get to witness something truly historic within a space. THe more I think on Mor10's words the more I questions a number of things I am doing with my life. After [meeting Richard Stallman](https://www.mcdwayne.com/2019/06/29/design4drupal-2019/) I have been questioning quite a number of things about my belief in OSS. Morten answered a few of them directly and I now feel less conflicted about some of the choices I have been pondering. I know that is vague, but hearing from someone who has helped train over 1,000,000 people on WordPress say some stuff out loud that needed said was enlightening enough to be worth the whole trip for me. 
+
+
+[WP Community.](https://pressnomics.com/#schedule)
+[Rian Kinney](https://twitter.com/TheKinneyFirm)
+
+I felt like I was watching a court case based episode of a documentary series on A&E. I mean that in a very surreal sort of way. The emotions ran very high and the sessions went a bit long and I don't want to reveal much more specific details of the talk here.  If this had been positioned anywhere other than right after Morten's talk I am not sure it would have been as much of a gut punch, but since it did follow Morten's talk I can say this was the most emotionally charged thing I have maybe every participated in semi-publicly. Keeping an eye on her twitter will be a good activity moving ahead is all I am going to say to close this out.  
+
+
+[Security Blunders.](https://pressnomics.com/#schedule) 
+[Robert Rowley](https://pagely.com/blog/my-role-robert-rowley/) 
+
+Security is hard and we must keep updated to stay safe. The single biggest takeaway from this 'real life lessons learned' talk was 'never trust user input and never, and I mean never, unserialize something unless you have used a hash check to make sure you were the one to serialize it. Other than that, read your dang PHP salmon colored warnings more closely, they exists to keep us all safe.  
+
+
+[Tax/Retirement Planning.](https://pressnomics.com/#schedule) 
+[Jon Bickerton](https://twitter.com/JonBickerton)
+
+I learned a lot about taxes for earnings brackets I aspire to. Also, leveraging property as a business owner is a good idea if you have a lot of money to defer. The truth is you can not get out of paying your share of taxes, so don't attempt that. You can and should defer your money as long as possible to avoid the tax penalty up front.  Good solid advice and several people said that they learned a new tax strategy to investigate with their tax consultants.  
+
+
+[Personal Journeys and Mental Health.](https://pressnomics.com/#schedule)
+[Brooke Siem](https://twitter.com/BrookeSiem)
+
+New name for me and it turns out it is because she is not really a WordPress user. Her story is one of identity and needing to quit the medications she had been assigned as a child as she grew up to get any sense of her own identity and to find a reason to keep living. Moving from a mindset of awaiting death to one of squeezing every moment from the life you have left, she inspired us all to think about the days and hours we have of our own. I have some thinking to do about some of what she said. I can say I am very grateful to all the support of everyone who has helped me get to this point in my life and I am looking forward to thanking each of you in person, hopefully soon.  
+
+
+[Stories from the inside.](https://pressnomics.com/#schedule)
+[Maura Teal](https://twitter.com/mlteal) 
+[Jeff Matson](https://twitter.com/TheJeffMatson)
+
+Did you know that Page.ly invented WordPress Managed Hosting? Did you know they help enterprise customers with infrastructure and DevOps in amazing ways? Did you know they have a new serverless offering called NorthStack that greatly simplifies deploying just about anything for almost no cost and then is metered like Netlify, but promises to be way simpler? If you did you could have skipped this session. But in all seriousness Maura and Jeff did a great job of giving us the inside scoop of why they love doing what they do. Beyond anything Page.ly related they really did an amazing job of sharing their passion for tech and the community they belong to. I kid a bit here, but they encouraged us all that tech might change but serving clients is always going to be central to any stack. 
+
+
+## Wrapping Up
+
+The biggest benefit of PressNomics is not the food or fun or even the sessions I don't think. It is the benefit of getting to talk about serious business issues and questions with very successful folks also there to learn from other successful folks.  Getting to pitch my ideas around [Process Digital Consulting](https://processdigitalconsulting.com/) and sharpen what those offerings even are helped me evolve certain things faster than pretty much any other methodology I can think of. Sure, the parties are legendary and the whole attitude is at once completely relaxed and overwhelmingly invigorating, but the space they creat for valuable conversations is second to none. As of the time of writing this, I am not certain what my future in the space looks like to be honest. But one thing I know for sure, I am going to be buying the tickets as soon as they go on sale for [PressNomics 7, 2020](https://pressnomics.com).  
+
+
+https://twitter.com/scottdeluzio/status/1172880736682237955

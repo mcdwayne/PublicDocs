@@ -1,0 +1,477 @@
+WordCamp Las Vegas 2019: Where 103 degrees does not feel as hot as that and having a WordCamp in a casino
+
+As I landed in [Sin City](https://www.lasvegasadvisor.com/faq-general-other-names/) I tried really hard to recall the last time I was there. It had to be more than a decade ago and in some ways the "Marriage Capital of the World" had certainly changed, as I flew in I was kind of astonished how large the dessert town had expanded and how much construction was happening. In other ways though, it was exactly as I remembered it and I had deja vu more than a few times. In one way, it was specifically identical, insofar as my luck not being good while there. Let's leave that last statement as the only comment about gambling I need to make in this post. After all, I was there not for a crazy weekend of debauchery, but was there for a weekend of community and learning at [WordCamp Las Vegas 2019](https://2019.vegas.wordcamp.org)
+
+https://twitter.com/LVWordCamp/status/1170074983625715712
+
+
+## Food and Fun
+
+### Friday
+
+Friday night kicked off as soon as I landed, as I went straight to the speaker/sponsor dinner held at [Famous Dave's](https://www.famousdaves.com/togo/Las-Vegas-Rainbow). While I am not a huge fan of their menu, which is 90%+ meat based at the moment, though they do have plans to add [Beyond Meat to the menu this year](https://www.prnewswire.com/news-releases/famous-daves-announces-partnership-with-beyond-meat-300877951.html), but not yet at this location.  I still got my fill of corn, fries and various assorted veggies. It was great to hang out with so many folks I had not seen in a while and meet some net folks there as well. 
+
+https://twitter.com/OGProgrammer/status/1170148841816899584
+
+Afterward, legendary good time planner [Mike Demo](https://twitter.com/mpmike) introduced us to the largest tiki bar in the world by taking us to the [Golden Tiki](https://www.thegoldentiki.com/). It was a fun night of flaming drinks and good conversations. It seems most drinks taste better when they come to the table on fire.  
+
+https://twitter.com/YouTooCanBeGuru/status/1170181659510988801
+
+
+### Saturday
+
+We were greeted with convention coffee and a tea assortment at the lovely yet aging [Plaza Hotel and Casino](https://www.plazahotelcasino.com) where the event was happening. It was OK coffee, right in the middle of the pack and nothing to note further on it. We also had branded bottled water, which I always find amusing for some reason. Like am I going to do more business with this hotel because their name is on the water bottle?   
+
+Lunch was boxed lunch sandwiched and wraps. I want to specially say a huge thank you to the organizers who made it easy on the folks with dietary needs to have a filling and quality lunch.  Part my lunch was a little salad in a cup which was just enough and the cup let me shake the dressing thoroughly throughout.  
+
+https://twitter.com/YouTooCanBeGuru/status/1170414662837358594
+
+The after party was in the same venue but outside by the pool. This is the hotel pool and a number of folks, including myself assumed we would have a private party there. Instead we got to share with the other hotel guests and that made for an interesting experience. Still a good time and I actually got to soak in the hot tub for a bit while the thermometer on a building across the way told us the temperature was 104F and dropping as the evening wre on.  
+
+https://twitter.com/vegasgeek/status/1170716020711075840
+
+While the drinks at the party were great, I ended up needing a meal at some point. Did you know that [White Castle has an Impossible Burger slider?](https://www.whitecastle.com/promotions/impossible-slider) I got to introduce some people to it.
+
+https://twitter.com/YouTooCanBeGuru/status/1170550518772465664
+
+#### WCKaraoke
+
+We tried to get some singing done, but the way [Cat's Meow](https://www.yelp.com/biz/cats-meow-las-vegas) ran things unless you paid a $30 line cut fee, you would be eternally bumped down the list. It really does not help that between every single singer the staff did a song and tried their best to manufacture a party atmosphere which you can see in the photos. I guess some people like that experience but after a coulpe hours of always being 5th or 6th in line and getting a little sick of the staff singing, some of us bailed without singing.  At least they had buy one get one free well drinks. 
+
+### Sunday
+
+More coffee and the exact same lunch were on tap for Sunday during the event. Afterward, one of my favorite firebrands in the world [Beth Livingston](https://twitter.com/BethLivingstoNC) and I took to the skys above Fremont Street to zipline all the way way down the 5 block stretch thanks to [the Slotzilla Zip Line experience](https://vegasexperience.com/slotzilla-zip-line/).  It was terrifying and amazing and gave me a glimpse into what Superman might feel like with people staring up at a person flying through the air.  It was the best bet I made the whole trip. Since I could not use my phone on the ride here is a tweet of someone who did
+
+https://twitter.com/BookBags/status/840619217967800320
+
+## Sessions
+
+### Opening Remarks
+
+https://twitter.com/blondishnet/status/1170364367604338688
+
+
+[Backward Compatibility is Good for WordPress, Not Mental Health](https://2019.vegas.wordcamp.org/session/backward-compatibility-is-good-for-wordpress-not-mental-health/)
+[Bridget Willard](https://twitter.com/YouTooCanBeGuru)
+
+Bridget is my friend and we were in the trenches together heading the WordPress Community Marketing Team for almost 2 years.  Almost that long ago she pitched me the idea of a talk on mental health and I have been encouraging her to give that talk ever since. I am very glad she did. I have a ton of self doubt and I do find myself being self deprecating a lot. It was startling to realize how much of that I have actually been believing lately.  I am grateful that I got to support Bridget here, but in all reality he supports me emotionally as a friend far more than I can write.  
+
+Raw Notes:
+Been in the space for a while
+supportive amazing women
+but people with issues
+1 and 0s do what you expect
+people don't
+What are worthiness issues
+Friend's therapist told her to work on worthiness issues
+what does that even mean?
+like backwards compatibility
+clicked for her friend then
+We talk about mental health a lot, but we need some breaking changes
+Believes negative things about herself
+we are way harder on ourselves than we are to our friends
+why does self-talk matter
+Self talk is insidious
+it changes the things we choose in our lives
+do we make friends easily or figure they'll hate is anyway?
+Do we make self-deprecating jokes?
+Do we try better jobs? Better clients?
+Do we self isolate?
+Are we brave in our relationships? willing to trust someone?
+are we vulnerable to someone? maybe a therapist, but trust someone
+Listen to Corey Miller, Don't see everything underneath
+How do we make breaking changes
+have to find the bugs, they are not features
+Find someone to talk about it wiht
+recognize the patterns in word choice
+practice self awareness
+journal
+write: "I am" statements
+what are you goot at?
+What do people say about you?
+Who do you want to be?
+Write it down
+
+
+https://twitter.com/blondishnet/status/1170369431970516993
+
+
+[Lucky 7: Don’t Do Anything Until You Hear This WordPress Presentation](https://2019.vegas.wordcamp.org/session/lucky-7-dont-do-anything-until-you-hear-this-wordpress-presentation/)
+[Joe A Simpson Jr](https://twitter.com/joesimpsonjr)
+
+Joe has one of my favorite origin stories for a WordCamp organizer. Basically, my super short version of his tale is "Joe got tired of driving to LA for meetups, started his own and it got so successful that he did a WordCamp within the first 2 years of starting it." Joe also has lived the life of a developer who had to learn on his own and lean on community to get unstuck at times. As a result, his wisdom is some of the richest of any speaker I can name.  Though this talk was basics for beginners kind of feel, it was chock full of great nuggets and reminders of best practices for folks at any stage of that WordPress life. 
+
+
+Raw Notes:
+Luck be a widget tonight!
+First visit to vegas like you getting into WP for the first time
+it can be overwhelming
+Today, he is our welcoming party for WP
+2 years ago he got tired of driving 2 hours for a meetup
+started his own
+they had own WordCamp already
+started about 10 years ago, inherited Headway theme blog
+WP has come a long way since then
+they had budget fortunately 
+moves to VIP, got to go to summits
+everyone helped him when he was new
+issue 1
+"I bought too much hosting up front.."
+there are so many hosting companies
+buy small and level up
+considerations
+what kind of traffic do you expect
+are you selling products
+is site speed important
+will mutliple 
+"Why doesn't my theme look like the demo?"
+"how do I add a thing to a theme?"
+page builder maybe?
+"A11y makes me angry"
+he got punched in his shoulder once at a meetup about a11y
+be advocate for a11y
+NFL colorrush example
+colorblind and SEO
+color should not be only way to ID content
+contrast!
+Awwwared wining site failes basic contrast checker
+free tools from webaim
+contrastratio
+chrome color contrast analyszer
+test tab useage and no mouse
+Start with an a11y theme
+"Can't I google a theme to do all this for me?"
+redising his brother's website
+Hymaze from somewhere on Google
+unmaintainable mess
+"I'm still waiting on my client to send me website content"
+so many tools to help you write more efficiently
+Grammerly - typo and rich text 
+yoast
+all-in-one-seo
+"This is too basic, I want more advanced.."
+make.wordpress.org
+get involved
+slack
+look for events in your community
+libraries lynda.com for free
+WordPress.tv
+livestreams
+quick hits
+security
+WordFence
+iThemes
+two-step uthentication
+Strong passwowrds
+Royalty free images
+avoid cowboy coding - don't work directly on your live site
+
+https://twitter.com/LVWordCamp/status/1170382200530800640
+
+
+[What you thought you knew about WordPress security! (With real hacked site stories)](https://2019.vegas.wordcamp.org/session/what-you-thought-you-knew-about-wordpress-security-with-real-hacked-site-stories/)
+[Rob Marlbrough](https://twitter.com/downtownrob)
+
+You can not learn enough about security. I don't care if you think you are an expert, attending security talks are always a good decision. Hearing some of the anecdotes from Rob's work over the years make you realize not every takes security seriously, which makes it super important that anyone working professionally as a web developer or site owner does.  
+
+Raw Notes:
+care about passwords
+they can read table prefix, so not a good path anymore
+Real total cost of a hacked webstite
+Cost of a hack repair does not include
+cost of reputation
+shareholder distrust
+GDPR lawsuites, CC protection services
+Cost of wasted digital as spend FB/Insta ads
+cost of wasted tv/radio/print ads
+cost of email or other sign ups
+cost of memberships sales
+Security befoe getting to your website
+Network security WAF, at the ISP level, at the data center level
+Server securty at the host level
+Often hear, I can't control these things" Yes you can!, you ca change webhosts
+prepaid $3/m for 3 years? so what!, still worth changing hosts, one hack site could comst more than 3+ years of cheap hosting
+Strong passwords
+don't rely on obvious solutions
+Block IP based on behaviour, nimber of failed logins, guessing usernames, looping through known URLs
+2factor authentication!
+lastpass
+Update daily!
+security patches are relased daily
+hackers are alerted daily to vulnerbility
+get free SSL cert for many a reason, SEO, http/2
+behind a network scanning/filtering sytem
+choose a web host that protects networks and servers
+don't shoose a host based on affiliates only
+WordFence is great, install on all sites you manage
+Securi: free plugin scans site
+reinstalls pugins from repo in bulk
+backups can be worthless
+no protection is site is deleted from their servers!
+Dialy and Off Server and Tested or Worthless!
+hourly or continous backup for ecommerce/membership sites
+UpdraftPlus: reliable and free plugin
+Jetpack and Vaultpress, Backup BUddy and many other quality plugins out there
+Free services for WP website maintenance
+Free can be expensive, time consuming, stress-filled
+Advanced Automatic Updates plugin email alerts failures
+managewp/mainwp/infiniteWP
+Music lessons website hacked
+redirected random visitors 1 out  of 10 or so, redirected to porn website
+vulnerable cross scripting plugin
+recovery: backups for 90 days - still infected
+search/replace DB tables to remove injected JS, patched the plugin
+
+https://twitter.com/McDwayne/status/1170407555291467776
+
+
+	
+[She Said, He Said: Hackers’ Guide To Coding](https://2019.vegas.wordcamp.org/session/she-said-he-said-hackers-guide-to-coding/)
+[Shelby Sapusek](https://twitter.com/ShelMKE)
+[Jim Raffel](https://twitter.com/raffel)
+
+I met Shelby and Jim at the speaker dinner and I knew immediately that I wanted to see their talk. They are the definition of seasoned WordPress site builders.  I think between the two of them the have encountered just about every weird situation WP can throw at a person and they were happy to share that battle hardened know how with everyone. There is a chasm between the typical WordPress user and the developer who lives in the terminal and code editor. This talk is a step toward the latter for folks who find they cant do all they need to with off the shelf GUI tools, but also which of those tools can solve some of the tricky problems.  
+
+Raw Notes:
+Partners for a while
+why is coding or hacking necessary?
+Our compnay has grown and taking on more complex 
+Are we coders? If not, are we hackers?
+If you have written any HTML, you are a coder
+Hackers - negative connotation
+Black hat
+White hat
+Grey Hat - looking for a payout
+Programmer - compent cook
+caution with coding
+always back things up
+staging sites
+css, PHP, etc, file copies
+Consider how changes will impact other parts of the site
+Document all changes
+safety first
+work with minimal number of frameworks, (genesis)
+Logo and header change example
+inspector - old was firebug
+customizer additional CSS
+theme editor but DANGER!
+what to edit and where
+Tools within customizer
+CSS and PHP
+Custom HTML widget
+Additional CSS under Customize, often underlooked
+diff tool
+Elementor Plugin
+drag and drop editor
+design pallete pro
+Google Maps
+Responsive Slider
+
+https://twitter.com/McDwayne/status/1170456257347510272
+
+
+[Inclusive Content Strategy](https://2019.vegas.wordcamp.org/session/inclusive-content-strategy/)
+[AmyJune Hineline](https://twitter.com/volkswagenchick)
+
+This is not the first time I have seen AmyJune speak but I can't recall seeing her speak at a WordCamp before.  I have known her for a while now from my work in the Drupal community and I always look forward to hanging out with her. She has a lot better technical chops than she lets on, but her focus is on the human side of things for the most part, which is the skillset she is shared in her talk. We can't overthink being kind and accessible to our fellow humans and just hearing the best practices out loud push us all in the right direction. Let's all use more people positive language!   
+
+Raw Notes:
+Verna Myers
+diversity is being invited to the party, INclusion is being asked to dance
+inclusive mean accessable
+Visual needs
+motor needs
+auditory needs
+cognitive needs
+Meaningful Content
+inclusion of all race, religion, contrie of origen
+gnerder ID 
+and all thing
+Ableist language
+people with a disability vs the disabled
+use people centric language
+never lazy, crazy, retarded
+Gender Nutral
+Humankind not mankind
+Folks vs guys or dudes
+mansplaining is not gender neutral
+enter the WYSIWYG
+styling is for coders and designers not content authors
+WYSIWYG should be for entering content
+never for styling
+use style guides or stylesheets
+an a11y is goal
+events a11y for everyone
+families, neurodiversity
+people who live with disabilities
+avoid acronyms
+abbreviations
+numeronyms (a11y, i18n)
+problematic to screen readers
+emoticons
+screen reads can't even deal most of the time
+buffer and twiteriffic can make 
+use camel case
+
+https://twitter.com/McDwayne/status/1170469544965464070
+
+
+[Accidental Business Owner: Now What?](https://2019.vegas.wordcamp.org/session/accidental-business-owner-now-what/)
+[Mike Demo](https://twitter.com/mpmike)
+
+I already mentioned Mike earlier and his amazing organizational skills. He has many other skills as well, which I have not heard him talk about too much, as the only other talk from him I can find my notes for is his ['Which Way Does Your Duck Face?' talk](https://wordpress.tv/2018/06/04/mike-demo-a-b-testing-which-way-does-your-duck-face/). His general advice to get over yourself and go fill the need you see at a price point that just works is much needed in a world where speakers routinely talk about firing clients and rejecting work below a certain threshold. Both those world views can hold true but not for everyone. Mike has a great head on his shoulders and I am downright inspired by him, as well as dang proud to call him friend.  
+
+
+Raw Notes:
+Mike was building CMS sites when his school told him no one was using
+now in OSS
+Epcot, spaceship earth
+history of communication
+like the web
+democratize publishing, making the web and world better
+free software as in freedom of speech
+If you can dream it, you can do it (not actually Walt Disney)
+used to sell timeshares
+Fell in love with the community
+loves the passion of the community
+everyone wants to get to that next level
+don't have a vision of grandure when you are getting started
+3 page websites
+Accidental business owners: started to learn jus for fun, then built a site for family
+plugin 15K active users, can't kill it
+day job as well that id getting in the way
+just build without a plan
+passion without a way to get there
+make a plan for your clients before you start the work
+goal of more sales, what does more mean?
+clients hate launching websites
+never selling single website contract again
+"never have to make a new website again"
+launching basic website with a large wishlist
+goals vs wishlist, pick what is impactful
+we are guessing as website designers
+people think they know their clients
+protect yourself and get the money you are owed
+Step 1 get users
+step 2 ?? 
+step 3 profit
+charge for every change
+reprice per the reality that the client presents
+
+https://twitter.com/McDwayne/status/1170731031508373505
+
+
+[How to Outshine Your Competition in Our Exploding WordPress Market](https://2019.vegas.wordcamp.org/session/how-to-outshine-your-competition-in-our-exploding-wordpress-market/)
+[Beth Livingston](https://twitter.com/BethLivingstoNC)
+
+This is not the first time I have see Beth talk about this subject, but this is the best version of the ideas so far, as she has been refining it throughout this year of camps. The ideas she is helping people get on board with are in line with the writing I have been doing on [my LinkedIn blog about impriving processed and project management theory](https://www.linkedin.com/in/dwaynemcdaniel/detail/recent-activity/posts/). She is coming from a very practical standpoint on this subject, taking what works in the corporate world making the concepts easily digestable for all who sell services. Keep your eyes open for her content and [check out her site for some awesome stuff right now](https://wproadmaps.com/about-me-your-wordpress-coach/).
+
+
+Raw Notes:
+millions of websites, hundreds of thousands of devs for WP
+lot of copetition
+Clients spent a lot onf costinvetment
+some of timeline
+almost none on solution
+compoeting on price is a losing bet
+unique value prop
+not a call to action
+not headline: subtitle
+not an explanation ot your service
+not an into to your business
+communicates the unique value provided to your target customers
+what you do well vs what our competition does for your clients
+SEO is not a unique prop
+What clients care about most
+cost/investment
+timeline - scope creep, delays
+on time and i budget
+What business problem will your solution solve
+clint management plan
+this defines who your ideal client is
+ideal client avatar
+who do you want to work with?
+stop penalizing the client for not understanding how websites are built
+help them understand consequences for not following process
+have a change budget
+define process and consequences for non compliance
+use incremental acceptance
+set acceptance criteria up front
+font on the website 
+8 essential questions
+--could not type fast enough here --
+once you have answers to all those questions
+give the clients the same list of questions to show the other guy
+
+https://twitter.com/McDwayne/status/1170743173125033984
+
+
+### My talk
+
+[Bash is magic # No it’s not](https://2019.vegas.wordcamp.org/session/bash-is-magic-no-its-not/)
+
+I keep running out of time when giving this talk. There is just more content than time about this subject that just delights me to explain to folks. It is ike revealing t hidden secret club to the world where everyone was actually already invited and all are welcome. Introducing experienced command line users to tools like [BackstopJS](https://github.com/garris/BackstopJS) and [behat](https://behat.org/en/latest/) is also a thrill and so far the comments I have recieved have ben overwhelmingly positive.  I think I might need to do something else with this content moving ahead to reach a wider audience.  
+
+https://twitter.com/YouTooCanBeGuru/status/1170754444570398720
+
+
+[Building Successful Client Relationships in a Digital Age](https://2019.vegas.wordcamp.org/session/building-successful-client-relationships-in-a-digital-age/)
+[Jodie Riccelli](https://twitter.com/Jodie_Riccelli)
+
+I thought I had seen this talk before, but in a city where I was getting deja vu all over the place I was not sure. Checked my notes and sure enough I saw a similar version once before. However this did not hinder my enjoyment or the quality of content for me at all. It was awesome to be reminded that learning all our skills don't need to have an immediate payoff, as sometimes it takes years and multiple opportunities before it all clicks. It was also a reminder that multitasking is not a good idea. I have been terrible at this, trying to do to many things all at once. I am actually inspired by this talk to find some more productive habits in the days and weeks ahead.  
+
+Raw Notes:
+loves to learn
+worked at a car wash
+learned to detail cards
+then upsell the customer
+music promotion
+myspace
+she learned WP and GIMP to make artist websites
+sales for a small agency in Philly
+magical coming together of skills at that point
+then moved to WebDev Studios
+She is not everything though, 
+not a great speller, not the one with all the answers
+paul barnwell
+My students don't know how to have a conversation
+in a world of digital life is there any more important skill?
+Don't multitask, be present
+record calls, take notes later
+video or in person
+close all the things
+feather triangle string
+segment the room
+just moving through segments, want to engage with each group
+breaking down the audience to connect with her
+imagine you are holding feathers and need to move the feather to back wall
+Triangles are the joints
+string is your head, string out the top of your head
+Choose your words wisely
+this is why we are the bst vs this is how we can help
+problem vs challenge
+pick up the phone
+zoom is my friend
+saying 'I don't know' is not just OK, it is essential
+what measurable goal can we set
+be authentic
+remove qualifying word and phrases
+thank you notes or cookies
+principle of reciprocity
+the psychology of persuasion
+thank you notes increase registration
+productivity rule
+if task takes less than just 2 minutes, just do it now
+say think you
+file paper away
+looking away for a minute "eye care chrome extension"
+The four agreements
+
+https://twitter.com/wproadmaps/status/1170809295224467456
+
+
+## Wrapping Up
+
+As I start wind down my life of constant travel to dozens of events per year, I am taking stock more and more of the opportunities that each and every one of those events has granted me. I suffer a but at seeing the trees but not the forrest. This trip put a few things in perspective for me and I could not be more grateful for the folks who have been there for me along the way. The biggest revelation to me is that I have spent so much time absorbing such a wide, wide range of subjects that the road ahead seems like it has way too many option for me. Picking one is going to take some more thorough thought than I have been giving it for the last few months.  I have know idea what the future looks like but I am planning to plant some roots and figure out what that feels like before too much longer. This trip to Las Vegas might be my last for the foreseeable future but I hope to retain the friendships and connections I made at WordCamp Las Vegas!  
+
+https://twitter.com/GreenGeeks/status/1170586592232259584

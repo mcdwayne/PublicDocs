@@ -1,0 +1,276 @@
+
+Lunch Tuesday
+
+[Wild Garlic](http://www.wildgarlicgrill.com)
+
+
+## Sessions
+
+[The Ethics of Open Source.](https://pressnomics.com/#schedule)
+[Morten Rand-Hendriksen](https://twitter.com/mor10/)
+
+Why are we here in OSS
+why don't you just walk away
+a think in his head that he can help
+make the world better
+Grew up with "Do what makes you happy as long as it doesn't hurt anyone else or yourself"
+this is a huge part of his social community
+OSS was a natural transition
+then he was in HS, Guidance counselor
+Philosophy 
+there was something that he could not put his finger on something in the world
+communication and somehow move that idea into another person's head without breaking the process
+what equity and the common good is
+Dugnad - Norway word
+term for community getting together to make the community better
+purely selfless act
+building playgrounds en dugnad
+this concept is built into how Norwegians define themselves
+Multi-faculty informatics 
+had a professor who called it
+stupid socialist BS called OSS
+briefly covered it
+JS was a waste of time
+the 4 freedoms
+OSS is the equity and the common good
+Back in 1985 this was super radical manifesto
+where is the money in this?
+software tax?
+what you can do with it and the time spent doing it
+2019, OSS runs the world
+but the ideology does not scale to the sizr it became
+society didn;t change with the revolution
+WP how doe we put money into the OSS and control it
+he feels personally onboarded 1M people to WordPress
+he has numbers to prove it
+the thing to control your prosense online 
+Trust it and trust the community
+now due to the scale
+distance between the user and the project growing
+learn react or some version of react
+no longer bult by the community of users
+Devs and designers build it and others use it
+we are 0.1% of community that makes the decisions
+Ethan Marcotte
+The Wordwide Work
+starts with advocacy 
+this is the thing that will save the workd
+next step is adoption
+they do the thing too
+then we get apple
+third step is institutionalization
+once popular enough, becomes institution unto itself
+separate from users
+applies to everything
+part of it is need to protect it
+value of contribution goes way up
+Equal animals
+principle of human interaction
+do what you can and give what you can
+Marx is not new, he just put his name on it
+OSS takes time and money and power and influence
+person who is the loudest gets heard
+not listened to, just heard, now shut up
+just go do the work and you get control
+that is privilege
+issue is all large scale players want piece of the pie
+early writings like cathedral and the bazaar 
+tinged with destroying capitalism
+flood the market with free and scarcity dies
+eventually the idea of getting paid will become ludicrous
+instead of that utopia
+large companies get OSS devs to work for them
+he worked for Lynda, part of MicroSoft
+first they supported OSS
+funding people to work on OSS
+I built this bazaar and it looks exactly like the cathedral
+rights to the name bazaar
+bazaar.com
+going over there, it will be fine
+I built the bazaar and invited you in, stop complaining
+I invested more int he bazaar, stop complaining
+that is not equity
+own time vs paid time
+unbalanced system where money means power
+no one noticed
+but AMP and React happened without us noticing
+concept of equity through comment is under attack
+coercive capitolism
+transformative social movent
+OSS used to be part socialism and libertarianism.
+used to be balanced
+libraterians won
+Stopped telling me what to do.
+not about power, privledge to get to contribute and deriving worth and power from that
+misyogony, white suprimisists
+we have responsibility to draw lines and define this thing
+we decide what is the modern ethos
+in the real world OSS does wierd things
+Big Tech like to blame OSS
+walled in big corporate gardens built on oss
+Cory Doctorow book "walkaway"
+If radical open source folks took the idea and live it to extreme
+OSS manifesto worked, but we went along with our lives
+OSS is eroding 
+why did he start governance project and get banned from WordCamps?
+when you runt he world you can't just randomly run the world
+need processes
+New projects are doing the work
+governance in Gatsby is a good example
+Walkaway, part 1
+every time you contribute you are answering that question
+inside the ethos, once something is free and open
+forking becomes a real thing
+tha tis what OSS brought the table
+when they get so pig forking becomes laughable means there is an issue
+power and money and control and loss of the commons
+forks have been introduced and people laugh
+I believe this fork can stand
+we don;t walk away because we believe thre is hope
+but that takes work
+he is walking away
+no 5 for the future anymore
+no more 20% working for WP
+that same time working towards more a11y and 
+
+https://twitter.com/BOEmedia/status/1171898668183502848
+
+
+
+[WP Community.](https://pressnomics.com/#schedule)
+
+[Rian Kinney](https://twitter.com/TheKinneyFirm)
+
+Disclaimer, views her hers and hers alone
+recently ABA Open SOurce initative person now too
+this is personal thoughts of last 2 years observations 
+WordPress.com/.org 
+problemattic?
+As an attorney some thoughts
+all publically available information
+may have already done some due dillagance
+may think it is a waste of time because we keep asking
+investigative journalist national and worldwide audience
+the issues in WP are things that can affect us as businesses and bottom line
+vested interests
+consumer confusion
+control
+conflict of intrests/exess benefit
+wo.tv, see 3 for profit and 1 nonprofit on screen
+WP has clear trademark policy
+WPFoundation.org trademark policy
+names used must be non-profit basis
+9/10/2010
+posted to Ma.tt the statement that WP donated to the organization
+he implemented as chairman of the foundation to transfer license to wordpress.com
+arguably a full trademark assignment
+Security interst transfered as well
+this is really rare and weird
+non-profit back to automattic on same day
+2 months before anouncement
+2014 250M series C funding 
+Apart from any apearance of impropriety, organizations will lose their tax exampt status unless they operate in a manner consistent with the charitable purposes - IRS
+USPTO Trademark Application - WordPress
+Jetpack had foundation go after them end ed up acquiring
+Jan 2014 Matt CEO of Automattic
+incorporated a tradepark name and into the __
+USPTO didn't let it go forward
+Foundation attorneys
+WP foundation v Yablon case 
+same lawyers for Automattic and the foundation
+makes it Indistinguishable from one another
+Control
+articles of incorporation of WordpRess Foundation 
+2006 filed
+5 years of backtaxes if found in violation
+WHo is on the board of directors?
+in the footer of .org we have .tv which is owned by Automattic
+IRS looks at founder or creator benefit
+voting member of the voting body
+Excess benefit transactions
+990 or 990-EZ needs to report benefit, not appear done at this time
+Potential excess benefits
+wp.tv, travel, Advertizing and promotion
+nonprofit docs between 2011 and 2017
+non profit video production costs of ~$300K
+scholarships ~$131K 
+other than Kim one no public accounting og how it works?
+she has as many questions as statements to make
+other possible issue is 
+advertising and promo, ~$1.366M 2011 to 2017
+Lack of contract lawyers are a serious issue
+volunteers only mostly
+Automattic lawyers
+her opinions
+
+https://twitter.com/taupecat/status/1171926981102850048
+
+
+
+
+
+
+[Security Blunders.]() 
+Robert Rowley
+
+Custom user roles
+Role based security vs rule based 
+NEVER TRUST USER IMPUT DATA
+
+
+Tax/Retirement Planning. Jon Bickerton
+
+Tax saving opportunites
+DOnt leave money on the table
+genral tax plannig
+retirements
+tax credits
+
+What can I do to save on my taxes?
+There is not a sivler bullet
+Name of the game is Deferral
+You'll need to spend money
+don't spend $1 to save 40 cents
+
+Intelligent strategies
+invest in growth
+consider timing strategies
+cost segregation studies
+cash or accrual method for tax filings?
+SEP/SIMPLE plan
+SEP is for sole proprietors
+Advantages
+mosre complex the more it costs,
+there are easy
+not a lot of guessing but not a lot of flexibility
+least tax deferral opps
+ideal for sole proprietor with no employees
+Max contribution is $56,000
+$13,000 employee contribution, Emplyer 3% of comp plus $3K catch up if over 50
+401K plans
+profit charing component
+Pension fund
+DefinedBenifit pans
+plan defines benefit to be paid at retinmenst
+max benefit $225K per year
+need an actuary
+market risk is real
+Qualified Business INcome Deduction
+llimied to 50% x wages or 25% x property
+
+
+[Personal Journeys and Mental Health.](https://pressnomics.com/#schedule)
+[Brooke Siem](https://twitter.com/BrookeSiem)
+
+
+She is squarepace user
+Feels stuck there, she made a small random choice over WP
+now she lives with that decision
+website hosts are not particular consequential, but this is pervasive in all our decisions
+She stopped taking meds at 15
+remote year experience talk at PN5
+Her year abroad was bad
+she swam into swarm of jellyfish
+Trajectory of choice
+one degree shift, tiny gap when you make it, very large in the future
+

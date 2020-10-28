@@ -1,0 +1,604 @@
+WCSAC
+
+GENERAL:
+https://twitter.com/topher1kenobe/status/1175436678422335488
+
+
+## Food and Fun
+
+Speaker Dinner:
+
+https://twitter.com/jenniferbourn/status/1175267317736865792
+
+Bowling
+
+https://twitter.com/McDwayne/status/1175296257918521344
+
+
+Saturday:
+
+Coffee and tea and iced tea
+
+Snacks
+
+https://twitter.com/topher1kenobe/status/1175463231076175872
+
+
+Lunch
+
+https://twitter.com/GreenGeeks/status/1175499204216729601
+
+After Party/Networking
+
+
+
+WPVegan
+
+https://twitter.com/McDwayne/status/1175589888512577536
+
+
+Sunday
+
+Snack Break:
+
+https://twitter.com/bonjourdarlene/status/1175894183141208064
+
+
+## Sessions
+
+[eCommerce: What Do You Start With? Audience, Products, Store?](https://2019.sacramento.wordcamp.org/session/ecommerce-what-do-you-start-with/)
+[Chris Lema](https://twitter.com/chrislema)
+
+No right approach
+most common is make product first
+Historicaly Cost Plus model is what people use to
+makes knowing price and costs easy to understand
+THe challenge with being product-centric is that its hard to know when you are actually done
+and mot people don't start their marketig until the product is done
+Mexico vs Brazil cell phone story from his dad
+simple tech issue, but they sccrambled to remarket to Brazil
+Other challenge with product-centric is the you can end up building what is possible to build
+but that may not be what people want or need
+If you have a team of folks who can build stuff, it may be a perfectly fine route to take
+in recent years, there has been antoher strategy
+Audience-first approach
+when you have an audience already established, it's easy to sell stuff to them
+challenge is nothing is immediate
+it takes to build an audience from scratch and there are not garauntees it wil work
+Anh you have to have content marketing chops
+you need to quickly evelop and it takes time
+expensive and long game
+if you already have a team who can create content this strategy may be the perfect way to move things forward with an audience-first approach
+story of rainmaker platform 
+handful of affilate sales, Chris was one of those
+the money was crazy good
+There is a third approach
+most people don't talk about it
+a Store
+validation up front
+Store-first
+take pre-orders
+collect cash up front and validate concept in one shot
+challenge is if marketing copywriting isn't perfect, can seem like a rip off
+nobody likes that
+story of buying a video series that got cancelled, felt ripped off
+best thing about a store first approach is that is can be a middle of the road approach
+strategy, Resources, Risk, Benefits, Watch-out for,
+product first
+Development, developer, build the wrong thing, pricing and marketing, featuritis
+Audience First
+strategy, creative and writers
+loe ROI/Cancellation, On-Launch-cash infusion, giving away everything
+Store Fitst
+pre-orders, Marketing, Audice Blowback, need is validated quicky,spending too much
+
+
+https://twitter.com/nathaningram/status/1175443916549541889
+
+
+### My Talk
+
+[Bash Is Magic # No It’s Not](https://2019.sacramento.wordcamp.org/session/bash/)
+
+
+## 
+
+
+
+[Speed Networking: Meet Other WordCampers And Grow Your Network](https://2019.sacramento.wordcamp.org/session/speed-networking/)
+
+
+1. Your Name
+2. Business Name
+3. Who You Serve
+4. What You Do
+5. What you need
+
+
+[Blocks—How To Find Them, Install Them, And Use Them](https://2019.sacramento.wordcamp.org/session/how-to-use-wordpress-blocks/)
+[Verious Smith](https://twitter.com/verioussmith)
+
+Blocks crossing platforms
+Gutenberg cloud
+JS and CSS blocks
+
+
+https://twitter.com/GenuineAmyHall/status/1175519948178747392
+
+
+
+[Getting Into Position Zero: How To Leverage Content To Rise Above The Competition](https://2019.sacramento.wordcamp.org/session/getting-into-position-zero/)
+[Lindsay Halsey](https://twitter.com/linds_halsey)
+
+She works in SEO
+heping people rank high in google
+but it is possible to get to position zero
+above the first free listing
+featured snippet
+content google extracts from site to google.com
+format of the list view
+parapgraph format
+table format
+it takes up a lot of space
+now marketers and business seeing value
+angling ot get into it
+0 is the new number 1
+why? increased engagement
+clickt hroug hrate is quite high
+establish brand expertise
+position zero results are often used in voice search
+11% os search results have a nippet and it is the first thing a lot of people clieck
+how do I acheive position zero results? 
+it deos not matter where you are now, foundational building blocks
+follow the process
+ID keyword opportunties
+create in depth content
+publish on site SEO
+amplify the content and SEO
+1 ID keyword opportunity
+Keywords that have a featured snippet
+keyword you already rank for
+if already on page 1, already on googles radar
+why
+why, what, when, who, was, how can is should which where are vs without will
+asks google the topic 
+answer the public
+qualitative keyword research
+matrix of questions based on those starts
+where to download WP themes for example
+very specific peice of content to create
+longform content
+and art and a science in depth vs high level
+2 In Depth Content for the win
+that raises higher in the search if ou are not focused on a single content
+share expertise
+other people echo that the content is expert content - authority
+business has trust, address on page
+Sharing your expertise
+longform cotent targets at least 2K words
+unpack the topic
+context is essential
+outline, title
+break the topic down into sections
+what why where questions
+if structure the framework, then google can extract value out about each component
+context is king
+put in 2 word phrase and image search
+filters by other topic suggestions
+words google already uses, take note for your writing
+snippet bait
+depends on your goal
+1 Paragraph (81% of featured snippets): 40-60 word blok of content
+2. list 11% of featured snippets
+3. table is lowest
+3 Publish with good on-site SEO
+content right below the question
+making life super easy on the user
+proximity
+don't be a politician, yes or no in first sentence
+give the content right away
+elements on the web page helps search get content meaning
+titels tag anam meta
+who will win the click?
+ad tests
+sentence of content in link on search results
+that is meta
+Unique for all pages
+include a focus keyword
+title tags between 15 and 4o characters
+Meta descriptions in sentence formats
+think like a marketer, think about competition
+Structure via Headers
+H1 main title
+h2 what are wp themes
+snippet bait
+deep dive into answer with internal and external links
+H2
+snippet bait
+deep dive into answer with internal and external links 
+recipe website
+SEO
+alt text - more context about images for search results
+be descriptive
+concise
+avoid keyword stuffing
+explude 'imageo of;
+buttons and icons use alt text
+Internal links
+spread ranking power throughout your site and show the search engine with pages are the most important
+Don't forget Off-site SEO
+we used to be isolationist SEO folks
+expertiese authority and trust
+2 biggest area 
+link building and social media
+rey on relationships
+build authority and trust bu getting your professional relationships to give you a high five online in the form of a social media share or even better a link
+deep link example
+tossing a link in the middle of content that links to articles
+collectively get all the network to rise
+How to I help my clients with Position 0?
+It starts with education
+Unpack an example within their industry
+work together on the first post
+get them excited about the results
+Can I really do this? YES!
+identify position 0 opps
+create in depth content
+
+link graph, internal links
+
+
+
+
+https://twitter.com/McDwayne/status/1175524735049854976
+
+
+
+[Drip, Drip, Drip to Convert Website Leads to Sales](https://2019.sacramento.wordcamp.org/session/drip-drip-drip-to-convert-website-leads-to-sales/)
+[Amy Hall](https://twitter.com/GenuineAmyHall)
+
+65% of business say generating traffic and leads is the biggest challenge
+Drip campaign
+series of emails automatically sent over time
+every subscriber starts the campaign at email #1 and progresses though the campaign
+object is to keep your name in front of your readers
+one of the touches needed to get some one to buy
+welcome campaigns
+educate customer about your product
+confirm appts or reservations
+onboard new clients
+courses
+she runs 4 to 10 email campaigns educate them
+you have a captive audience in an onboarding process
+96% of visitors who come to your website are not redy to buy yet
+drip vs nurture campaign
+sales campaign
+a series of emails based on reads behaviour and automatically sent over time
+each subscriber gers emails specifically created to walk them through the sales process
+The object is to sell your products and services
+triggers
+answer their fears and apprehension
+examples
+abandoned shopping carts
+membership renewals
+reminders to use a software or a service
+re-engage with customers what arn't opening or clicking on emails
+Tha ability to segment emails lists and individualize email campaign messaging are the most effective personalization tactics  - ascend2, 2016
+Give people what they want when they want it
+use segmentation to make it useful
+personalize the emails with first names or Products preferences for better conversions
+Transactional emails receive 8 times as many opens compared to regular marketing emails
+plan your campaign
+how any emails will you send?
+what will you sell?
+in what order?
+whats the time frame?
+what are your triggers?
+what will success look like?
+Easy drip campaign sequence example
+Mailchimp
+groups and tags
+group external organizationf ro your groups
+pepole can pick waht groups to be in
+only place subscriber can see what groups are is on subscription form
+Tags
+internal organizational method
+you select these, subscribers never see these
+activecampaign is #1 in deliverability
+mailerlight is next
+number 3 is constant contact
+mailchimp is next in line
+very small difference in deliverability
+automated email messages average 70.5% higher open rates and 152% higher...
+[slides](https://amyhall.biz/blog/2019/04/03/drip-campaigns-nurture-campaigns/)
+
+https://twitter.com/McDwayne/status/1175548908434444288
+
+https://twitter.com/BeingMom_Me/status/1175553749726588928
+
+
+
+
+
+[Checking Under The Hood: Auditing Your Website For A Smooth Ride](https://2019.sacramento.wordcamp.org/session/checking-under-the-hood-auditing-your-website-for-a-smooth-ride/)
+[AmyJune Hineline](https://twitter.com/volkswagenchick)
+[Sean Dietrich](https://twitter.com/seanedietrich)
+
+
+39% of people disengage if not attractive layout
+39% will stop engaging if images missing or take too long to load
+When they get a new site, they audit it
+preliminary checks
+versions of things, top logged wrrors
+healthcheck page
+review modified files using WP-CLI
+check for patch documentation
+Examine the theme
+file structure, organized
+functionality tied to theme
+a page builder in use?
+flatt CSS, SASS, etc?
+JS best practices?
+Check SEO
+Using stiemap?
+Yoast?
+Search Console
+what is Pagespeed rank
+Assess code quality
+run custom plugins though PHP codesniffer
+check for code comments
+Review code for possible improvements
+Read the docs
+is there any documentation?
+How does it get set up locally
+what tools/dependencies are needed
+Test your eccessibility
+Ensure all users, regardless of abilities, can interacti in a meanigful way
+Push the performance
+review hosting and are they are on the right plan?
+A11y
+why design for A11y?
+26% of people in the US live with a disability
+KEyboard only nav
+spik features in app?
+Does keyboard focus work
+images contain alt-text
+are tables used for more than tabular data?
+does the screen reader read all the content as presented on screen?
+Can test be resized without obscuring any content
+Landmark regions properly defined between Aria and HTML5
+FIrst rule of Aria is avoid using Aria and do it natively in semantic HTML
+Visual Needs
+Motor needs
+Auditory Needs
+Cognative needs
+Content is an important as code
+Global stage
+English is a privledge
+Aim for 9th grade reading level
+20 words per sentence and 5 sentences per paragraph
+break up content bullet points and lists
+captions, subtitles and alt-text
+HEadings
+Hierarchial
+H1-H6 in order
+Audits are important
+audit consists
+understand why users are using the site
+
+
+
+
+https://twitter.com/McDwayne/status/1175833897201856512
+
+
+
+[The Power Of Recurring Income](https://2019.sacramento.wordcamp.org/session/the-power-of-recurring-income/)
+[Nathan Ingram](https://twitter.com/linds_halsey/status/1175846598674284545)
+
+
+“Recurring revenue is the foundation of a successful freelance business” 
+Is every dollar worth the same?
+The more predictable the money is the more valuable it becomes
+recurring is value
+blockbuster vs Netflix
+repeat sales vs recurring revenue
+Car dealerships. How do they survive?
+service department
+GM autocredit is most profitable 
+carwashes even moved to this model
+ore consistent revenue stabilize your finances
+more profitable relationships positions you into a valued partner
+How to create service for recurring revenue
+Starting place is WP care plans
+no reason not do do this
+Hosting Services, why you should!
+You control the environment
+more productive and there are no surprises
+You are leaving money on the table
+every site needs it and you built the client relationships
+it is better for your client
+one contact, no blame game (they are going to call you anyway)
+Not seting up the server rack yourself in the basement
+no
+Partner with a trusted web host that provides phenominal support
+VPS/Dedicated or Managed WP
+Offering WP Update Services
+THis is a valuable service
+Regular proactive updates
+Compatibility issues
+Use a centralized management dashbaord to update multiple sites simultaniously
+Backups! 
+automatically on a schedule
+full site and easy restore 
+backups should be stored offiste in cloud storage
+Offer security services
+secure server
+lets encrypt
+WP Security plugins
+creating other services
+3 basic questions
+what do my customers need?
+What services cn I create to meet those needs
+what resources do I need to perform those services
+packet of worksheets
+6 page booklet
+
+
+https://twitter.com/linds_halsey/status/1175846598674284545
+
+
+[Death Star Security: A Live Look At How Sites Are Hacked](https://2019.sacramento.wordcamp.org/session/death-star-security/)
+[Chris Teitzel](https://twitter.com/technerdteitzel)
+
+How the rebels blow up your deathstar
+http://deathstarsecurity.com/
+3 things he built there
+Storm Trooper
+Customer Targeting
+taking email and injecting in without sanitization
+inherent trust in user input is DANGEROUS!
+update uption email commander
+you many forget where input comes from
+using terms like blog_name and Remember Alderan
+user add with admin priveldge
+if you are not watching and these options get set
+never assume users are limited to your inputs
+DDOS DIstributed Denial of Service Attack
+time intensive operations
+Can exfitrate data on the screen or sessio cookies
+CSRF
+trick user into action on a target site they are logged nto
+CORS, don't allow origins to come in unless I set them
+nonces CSRF blockers
+wp_nonce_url (acionurl, action, name)
+easy to check them back
+sanitize inputs
+handle options with care
+use PHP codesniffer to find errors
+Highlights syntax errors and helps you writte better code
+Viusalize insecure code
+
+
+
+https://twitter.com/McDwayne/status/1175859914893225984
+
+
+[What Trying To Farm Taught Me About Open Source](https://2019.sacramento.wordcamp.org/session/what-trying-to-farm-taught-me-about-open-source/)
+[Vasken Hauri](https://twitter.com/vaskenhauri)
+
+Things he cant farm
+tomatoes, eggplants, peppers, squash, fruit trees, kale
+things he can farm: Mushrooms!
+2 restaurants as customers + farmers market
+tech early days apple
+Farming is doing something and not knowing if it worked or you messed up for months
+Tech moves at a ridiculous speed
+a lot of the same lessons 
+older industries like agriculture can tach us a lot about how things change
+old school farming
+plant seds
+fence the plants, weed the weeds, chase off rabbits
+harvet
+save some of the seeds 
+graze the land
+plant something new 
+repeat, over and over
+lot of work
+repetitive work, manual
+no way to automate the whole process
+we must innovate
+scaling mechanically
+tractor combine
+more mecahnization
+reduced labor
+increased amount of land that can be farmed be one person
+encouraged monocropping
+chemical farming
+reduced labor
+enabled monocropping
+replaced soil health with chemical inputs
+old vs new way
+larger farms
+expensive inputs
+perfect veggies with no gross bugs
+kale 40 day growing cycle
+20 types of pestiside on average kale
+reality
+still a lot of work
+smaller margins due to higher inpot costs
+chemical pst and weed resistancce
+infertile soild require more inputs
+higher costs mean loans, debts, foreclosure
+A killing season Monsanto be herbicide 
+resistant weeds
+dicambra resistant soybeans
+a lot of farms lost crops
+escalated a fight to murder
+but I'm at a WordCamp
+back to history of computers
+earliest computers 
+large mechanical problems
+altair 8800 a few K of RAM to program
+MSBasic
+a few grand up front and royalty model 
+without basic you had no OS
+copyright law was very vague in early days
+"you are all theives' Bill Gates to computer users
+Apple vs Franklin Computer
+binary code is not copywritable until this case in 1983
+franklin orignally won
+appeals court overturned and now software was copywrightable
+7-8 years of locense gold rush
+a lot of people got shut out
+took a lot of people
+hobbyist
+Copyleft
+they can't just take your code and hide it
+this made Linux possible
+because people could build on and contribute to code
+without people yanking it away with license
+since 2005, 15,600 devs have contributed to Linux
+As of February 2015
+80% of Linux kernal devs are paid
+Microsoft 144K employees
+45% are engineers
+a lot fo them now do work on OSS
+closed source software
+built for mass market bu a company looking to invest and targeting the largest possible market
+by contrast
+copyleft
+additive contrib is guaranteed not to be exploited
+enables the hobbyist to become professional again
+hog farmers run it through anaerobic digester to compress methane,run trucks and tractor 
+post modern farming
+emphasis on high quality
+smaller farms with less investments
+more reliant on labor and expertiese
+direct connection with consumer
+more specialization
+[themarketgardener.com](http://www.themarketgardener.com/)
+WP if free like the original seeds
+OSS jobs exist becuase eople need specialized
+Jobs building core
+just like farming, OSS puts the calue back in you, the creative engineer, designer, strategist, and not n the software
+starting in farming or OSS
+try somethings and maybe fail
+succeed at something
+focus on that
+optionally add more things
+
+
+
+
+https://twitter.com/10up/status/1175873187638198272
+
+
+https://twitter.com/McDwayne/status/1175871026686619648
+
+
+
+## Wrapping Up
+
+
+

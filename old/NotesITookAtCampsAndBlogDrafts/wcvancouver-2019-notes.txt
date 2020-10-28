@@ -1,0 +1,397 @@
+WordCamp Vancouver 2019: My first time to the city of Nardwar 
+
+https://twitter.com/wordcampyvr/status/1177965889745903616
+
+
+## Food and Fun
+
+
+Speaker Dinner
+
+[The Blackbird Public House](http://donnellygroup.ca/the-blackbird/)
+
+https://twitter.com/McDwayne/status/1177757819858292742
+
+
+## Sessions
+
+Opening Remarks:
+
+https://twitter.com/wordcampyvr/status/1177978420254232577
+
+
+[Understanding Your Customer Using Personas and Empathy Maps](https://2019.vancouver.wordcamp.org/session/understanding-your-customer-using-personas-and-empathy-maps/)
+[Chris David Miles](https://twitter.com/chrisdavidmiles)
+
+
+Who is making a product to reach customers?
+Are you using data to do it?
+It's hard to be a good listener
+If your method of listening to customers does not scale with you, the harder it is to hear your customers
+Disastrous results from US Airforce
+new planes in the late 40s lot of wrecks
+blamed pilots, pilots blamed planes
+cockpit design for a regular plane vs jet seat
+anthropologist measured people's hands at Harvard
+no two people were alike and average represented no one
+Anthropometric data
+found that less than 3.5% of pilots were in the average
+asked for Boeing to build a seats for each size
+they were confident they could do it or were going to cancel all contracts
+they made adjustable seats
+turned out it was cheaper for boeing too
+It's hard to be a good listener
+Data is how we listen to our customers
+We can do this too
+Customer Avatars
+Have a picture of specific users and clients in mind
+put a name to the them and a face
+align your goals according to avatars rather than averages
+1) goals and values
+2) Challenges and Pain Points
+what is keeping them up at night?
+3) Objections and role in purchase process
+what are the perceptions, do they know who you are?
+timing is important
+Why AirBnB succeeded because of age of the internet
+Role in the purchase process
+is that person going to cut the check
+4) Sources of Information
+why do they trust?
+what do they need?
+who is going to get in an argument about this on Twitter?
+There are other models
+but how do you make sure you are seeing blind spots?
+Empathy mapping
+At center, customer avatar
+See, Say and do, Hear, Think
+Jif Peanut butter
+asked about what people wanted in a coffee
+what they said was opposite of what they actually wanted
+Breking Think into 2 category
+Pains vs Gains
+without a lot of cognitive load you can jump into other ways of thinking
+Understanding what customers are Really telling you
+"If I had asked people what they wanted, they would have asked for a faster horse"
+What would they were really thinking of?
+Faster  point a to point b
+if you plug it into the mapping, really is good information
+study behavior
+sell the coffee they are buying
+Real world examples
+Design case study
+Ancestry.com
+it is a search engine for dead people
+researching, found people were looking for same name often
+seemed weird
+people searching for themselves
+because they were not dead yet, so not there
+what people were after was building family trees
+tried to change copy to make people behave differently
+came up with way to search for yourself
+then add your parents and grandparents
+search was way way better after that
+listend to the customer
+the way people anticipated the product
+Case study Bluehost
+one giant page originally
+13 pages of skittles 
+biggest question was "what do I do now?" after logging in
+how do they want to manage sites?
+new layout and step by step helps new users much better
+retention went up
+
+https://twitter.com/McDwayne/status/1177981773042421760
+
+
+
+### My Session
+
+[Let’s Learn Git. No More Excuses.](https://2019.vancouver.wordcamp.org/session/lets-learn-git-no-more-excuses/)
+
+
+https://twitter.com/RyanBruins/status/1178002808076767232
+
+
+[Migrating, Converting, and Managing Blocks in PHP](https://2019.vancouver.wordcamp.org/session/migrating-converting-and-managing-blocks-in-php/)
+[Jeremy Felt](https://twitter.com/jeremyfelt)
+
+Everything is a block
+We have always had blocks, in a way, in WP
+Divs and shortcodes
+current WP Block
+Now a better syntax
+standard HTML
+Post content formatting: Before and Now
+managing blocks in PHP
+the catch
+you can but you don't need to register in PHP
+if you don't create blocks as JS is expecting it, will see errors
+$blocks = parse_blocks($post->post_content);)
+render_block()
+do_blocks() runs render_blocks on each hing
+serialize_block() Not out yet
+lot of slashes in this approach
+short session
+
+
+NO TWEET
+
+
+	
+[Having Fun (But Not Too Much Fun) with Viewport Units](https://2019.vancouver.wordcamp.org/session/having-fun-but-not-too-much-fun-with-viewport-units/)
+[Richard Gilbert](http://fezziwigmedia.com/)
+
+
+From Drupal
+junkdrawerphotography
+Uses Twig
+Viewports are all over
+no matter CMS
+units of measure, where you use px or % or em
+vh, vw, 5vmax
+view width
+1vw 1/100th (1% of the viewport
+vmav = 1/100th of viewport height or width, whichiver is larger
+why?
+change dynamically as change shape
+ocnjuntion with font size, etc
+px static
+% is relative to the container
+vw/vh 
+examples - see his slides
+pracacle use cases
+sticky footer v1
+css calc function
+.page-wrapper {
+min-height: 100vh //this makes sure uses full screen, invisible to us. set to 200 for scrool 2x size
+}
+.region--content {
+min-height: calc)100vh ....(missed it)
+Version2 
+flexbox
+,page-wrapper {
+display: flex;
+flex-direction: column;
+min-height: 100vh;
+}
+header {
+(missed it)
+full browser header experience
+breakpoints (mixin breakpointsass
+real world examples
+see his code, it is awesome
+... max width fixed.
+stopping when you get to max viewport
+html {
+font-size; 2vw;
+}
+body {
+font-size: 1em;
+}
+not a good way to do it, but is fun and there is a use case for it
+gentle text enlarment
+html { font-size: calc(12px +0.75vw); }
+gentle text reducer
+calc(24px - 0.6vw);
+built in easy reader mode
+not ideal either
+2 way enlarger
+calc(24px - 01.25vw);
+@include breakpoints($md)
+calc(7px + 1.25vs);
+wrote his sass function, wants too write a plugin
+
+
+https://twitter.com/McDwayne/status/1178038444938842112
+
+
+
+
+[Design Principles for Web Developers: How to Make Your Websites Look Good](https://2019.vancouver.wordcamp.org/session/design-principles-for-web-developers-how-to-make-your-websites-look-good/)
+[Anne Emberline](https://twitter.com/AnneEmberline)
+
+how rounded corners work was her intro to CSS
+design concept examples
+having the eye to see what is not good specifically is the skill of a designer
+bit.ly/wordcampdesign
+Concept 1
+Visual Communication
+red slide
+what does it communicate
+stop, error, passion, energy
+blue slide
+calm, learn more, peaceful
+Lorem Ipsum 
+feminim soft font
+shouty, bold
+monospace, technical, small print
+lot of screenshots of websites from local companies
+see slides, lot of examples
+issue sometimes is no piece of visual interest
+maybe add interesting typefaces
+6 visually interesting things on a page = ugly
+one consistent thing repeated over the site is good
+keep it overall simple
+hierarchy and Emphasis
+path eye takes through something
+we naturally see differences first
+need a strong nav 
+Spacing and alignment
+area wheere people know something is off but can't say why
+kinda zig zag
+looks messy means not lining up 
+remember to think view in motion, enough vertical space
+colour and typography
+it is something you might need help with
+pay designers to make a custom color pallet and stick with it
+or get one online
+same with fonts
+type and color consistently 
+headline and body font all you need
+
+
+
+
+https://twitter.com/TimothyCavey/status/1178052897268846592
+
+
+
+[WordPress, the Automated Way](https://2019.vancouver.wordcamp.org/session/wordpress-the-automated-way/)
+[Michaël Perrin](https://twitter.com/michael_perrin)
+
+PHP/Symfony, React and Elasticsearch background
+setting up site
+configure environment, etc, many, many steps
+benefits
+consistency multi environments
+avoids 'it works on my machine'
+easy versioning
+CI/CD
+how
+Docker first thing
+lightweight virtualization
+each service runs in own docker container
+many services already have official images
+rule of thumb, one service per container
+runs on any system
+Easy to deploy
+config example
+webserver setup
+.ENV file
+pproject structure
+very striaghtforward
+run it
+docker-compose up -d
+code code code code
+
+
+https://twitter.com/McDwayne/status/1178074605996560384
+
+[Tempted by the Dark Side](https://2019.vancouver.wordcamp.org/session/tempted-by-the-dark-side/)
+[Rose Cass](https://twitter.com/rcass)
+
+CSS
+prefers-color-scheme
+github page
+rcacc.github.io/darkside-talk
+light theme and dark theme
+like a media query
+apply preferred-color-scheme: value
+dark, light, no-preference
+example
+but why?
+where do you use it?
+another tool in the toolbox
+maybe clients have need
+Support
+support IE and EDGE not well supported
+obscure mobile browsers, no
+flashy thing on main websites
+can't affect favicons with css only per theme
+can't use it with old browsers
+
+
+https://twitter.com/GaelenN/status/1178099506748911617
+
+
+[Closing Keynote: Where We Go From Here](https://2019.vancouver.wordcamp.org/session/where-we-go-from-here/)
+[Morten Rand-Hendriksen](https://twitter.com/mor10)
+
+it has been less 10 years since Responsive Web Design become a thing
+The future keeps arriving
+it is faster and faster
+the end of WP themes is in sight
+concept of themes is over when the block editor controls everything
+themes are different in the future at least
+block areas
+live demo prototype
+year from now it looks like that video
+everything we know about themes are about to change
+all of us need to be part of the conversation
+build it and define a path
+Death of the monolithic CMS
+this is not how the web works and will not be 
+treating WP as a data source
+jekyll, 11ty, NuxtJS, Gatsby, HUgo
+the Gatsbyfication of the echosystem is just geting started
+The APIfication of the web and the internet
+process info differently
+assuming APIs exist
+GraphQL, became the replacement of REST
+WPgraphQL is how to do it, 
+REST is old hat
+what query language wins is GraphQL
+using the front end ot collect data from sources is how the web now works
+WP is not going to be the one thing to buld a site
+2012 end of the web as we know it article
+content smushed together 
+content stream from multiple sources is the new norm
+OSS Hippocratic License
+Stallman had to step down in last few weeks
+definition of who is in charge of OSS
+OSS is privledged position to have
+time and money, ethically not good
+MIT license with a moral clause
+people pushed back that they can't control OSS like that
+Open Source is evolving or devolving
+this is an active conversation
+Corporatization of open source
+Automattic and Aquia raising money
+OSS is a privledge, paid volunteers
+step up in the ranks and you control it
+easy to manilupate with money
+Coprs will consolidate their control over large OSS
+accept it or do something 
+the Tech Reckoning
+Pope felt it necessary to say something about it
+in lieu of meaningful tech ethics, we'll end up with onerous regulation
+not in the conversation about how the intenet and the web should be regulated
+VRARMRXR
+FB and Ready Player One
+FB is building Oasis the way the book says
+want to make HTML element a Geolocation in space
+AR glasses or app on phone
+html appears at door
+the age of web-content-consumed-through-rectangle-screens is already over, we are at the nd of it
+the CSS Revolution
+Variable Fonts
+emerging tech
+CSS houdini
+low level JS API for the browsser's render engine
+low level
+all of it is happen
+future is constatly ariving
+visBug for Chrome
+visual desing in the browser, right now
+CSS is about to become way more magical
+the Next generation
+this is likely his last WC talk
+you need to build the future, not the old geezers
+how will you build the future for yourself and the world?
+he believes in this community
+
+
+https://twitter.com/McDwayne/status/1178096667641253888
+
+## Wrapping up
